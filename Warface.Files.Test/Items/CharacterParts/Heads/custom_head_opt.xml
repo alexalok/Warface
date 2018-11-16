@@ -1,0 +1,21 @@
+<CharacterPart Name="custom_head_opt" Slot="Head" Template="Head">
+	<Model File="Objects\Characters\Heads\Head_01\Male\head_01_optim.chr" FGTFile="DUMMY" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#faceMale_fat"/>
+			<Morph Switch="thin" Target="#faceMale_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="head_01" File="objects/characters/heads/head_01/male/head_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/heads/custom_head_female.chr" FGTFile="DUMMY" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="Default" File="libs/face/defaultFemale.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

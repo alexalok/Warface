@@ -1,0 +1,15 @@
+<CharacterPart Name="AI_Helmet_Sniper" Slot="AI_Helmets" Template="AI_Helmets">
+	<Model File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_desert.mtl"/>
+			<Material Name="grey" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_grey.mtl"/>
+			<Material Name="snow" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_snow.tif"/>
+			<Material Name="digital" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_digital.tif"/>
+			<Material Name="jungle" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_jungle.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

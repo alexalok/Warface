@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+	<GameItem name="sniper_helmet_xmas_02" type="armor">
+		<mmo_stats>
+			<param name="item_category" value="Helmet"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="1430"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_sniper_helmet_xmas_02_name"/>
+			<param name="description" value="@ui_armor_sniper_helmet_xmas_02"/>
+			<param name="icon" value="sniper_helmet_xmas_02"/>
+		</UI_stats>
+		<slots>
+			<slot main="1" name="helmet">
+				<Materials>
+					<Material default="1" display_name="grey" icon="mat_grey" name="default" surface_type="mat_head"/>
+				</Materials>
+				<assets>
+					<asset display="all" mode="tp" name="sniper_helmet_xmas_02" teamId="1"/>
+					<asset display="all" mode="tp" name="sniper_helmet_xmas_02_b" teamId="2"/>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+			<param name="blind_amount_mul" value="0.3"/>
+			<param name="flashbang_time_mul" value="0.4"/>
+			<param name="res_head" value="0.5"/>
+			<param name="claymore_detector_radius" value="10.0"/>
+		</GameParams>
+	</GameItem>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="ui_rank_1">
+		<original value="Recruit"/>
+		<translation value="Новобранец"/>
+	</entry>
+	<entry key="ui_rank_2">
+		<original value="Cadet Junior"/>
+		<translation value="Младший рекрут"/>
+	</entry>
+	<entry key="ui_rank_3">
+		<original value="Cadet"/>
+		<translation value="Рекрут"/>
+	</entry>
+	<entry key="ui_rank_4">
+		<original value="Cadet Senior"/>
+		<translation value="Старший рекрут"/>
+	</entry>
+	<entry key="ui_rank_5">
+		<original value="Cadet 1st Class"/>
+		<translation value="Рекрут 1 класса"/>
+	</entry>
+	<entry key="ui_rank_6">
+		<original value="Soldier"/>
+		<translation value="Солдат"/>
+	</entry>
+	<entry key="ui_rank_7">
+		<original value="Privat Basic"/>
+		<translation value="Рядовой-рекрут"/>
+	</entry>
+	<entry key="ui_rank_8">
+		<original value="Privat 2nd class"/>
+		<translation value="Рядовой 2 класса"/>
+	</entry>
+	<entry key="ui_rank_9">
+		<original value="Privat"/>
+		<translation value="Рядовой"/>
+	</entry>
+	<entry key="ui_rank_10">
+		<original value="Privat 1st Class"/>
+		<translation value="Рядовой 1 класса"/>
+	</entry>
+	<entry key="ui_rank_11">
+		<original value="Specialist"/>
+		<translation value="Специалист"/>
+	</entry>
+	<entry key="ui_rank_12">
+		<original value="Gunnery Specialist"/>
+		<translation value="Старший специалист"/>
+	</entry>
+	<entry key="ui_rank_13">
+		<original value="Technical Specialist"/>
+		<translation value="Техник"/>
+	</entry>
+	<entry key="ui_rank_14">
+		<original value="Specialist 1st Class"/>
+		<translation value="Специалист 1 класса"/>
+	</entry>
+	<entry key="ui_rank_15">
+		<original value="Ranger"/>
+		<translation value="Разведчик"/>
+	</entry>
+	<entry key="ui_rank_16">
+		<original value="Lance Corporal"/>
+		<translation value="Младший капрал"/>
+	</entry>
+	<entry key="ui_rank_17">
+		<original value="Corporal"/>
+		<translation value="Капрал"/>
+	</entry>
+	<entry key="ui_rank_18">
+		<original value="Fireteam Leader"/>
+		<translation value="Командир звена"/>
+	</entry>
+	<entry key="ui_rank_19">
+		<original value="Sergant 3rd Class"/>
+		<translation value="Сержант 3 класса"/>
+	</entry>
+	<entry key="ui_rank_20">
+		<original value="Sergant 2nd Class"/>
+		<translation value="Сержант 2 класса"/>
+	</entry>
+	<entry key="ui_rank_21">
+		<original value="Sergant"/>
+		<translation value="Сержант"/>
+	</entry>
+	<entry key="ui_rank_22">
+		<original value="Sergant 1st class"/>
+		<translation value="Штаб-сержант"/>
+	</entry>
+	<entry key="ui_rank_23">
+		<original value="Stuff Sergant"/>
+		<translation value="Сержант 1 класса"/>
+	</entry>
+	<entry key="ui_rank_24">
+		<original value="Gunnery Sergant"/>
+		<translation value="Комендор-сержант"/>
+	</entry>
+	<entry key="ui_rank_25">
+		<original value="Master Sergant"/>
+		<translation value="Мастер-сержант"/>
+	</entry>
+	<entry key="ui_rank_26">
+		<original value="First Sergant"/>
+		<translation value="Первый сержант"/>
+	</entry>
+	<entry key="ui_rank_27">
+		<original value="Command Sergant"/>
+		<translation value="Команд-сержант"/>
+	</entry>
+	<entry key="ui_rank_28">
+		<original value="Master Gunnery Sergant"/>
+		<translation value="Мастер-комендор-сержант"/>
+	</entry>
+	<entry key="ui_rank_29">
+		<original value="Sergant Mayor"/>
+		<translation value="Сержант-майор"/>
+	</entry>
+	<entry key="ui_rank_30">
+		<original value="Company Sergant"/>
+		<translation value="Команд-сержант-майор"/>
+	</entry>
+	<entry key="ui_rank_31">
+		<original value="Warrant Officer Candidate"/>
+		<translation value="Младший уорент-офицер"/>
+	</entry>
+	<entry key="ui_rank_32">
+		<original value="Warrant Officer"/>
+		<translation value="Уорент-офицер"/>
+	</entry>
+	<entry key="ui_rank_33">
+		<original value="Chief Warrant Officer"/>
+		<translation value="Старший уорент-офицер"/>
+	</entry>
+	<entry key="ui_rank_34">
+		<original value="Chief Warrant Officer 1st Class"/>
+		<translation value="Старший уорент-офицер 1 класса"/>
+	</entry>
+	<entry key="ui_rank_35">
+		<original value="Master Warrant Officer"/>
+		<translation value="Мастер-уорент-офицер"/>
+	</entry>
+	<entry key="ui_rank_36">
+		<original value="Quartermaster"/>
+		<translation value="Квартирмейстер"/>
+	</entry>
+	<entry key="ui_rank_37">
+		<original value="Officer Cadet Junior"/>
+		<translation value="Младший офицер"/>
+	</entry>
+	<entry key="ui_rank_38">
+		<original value="Officer Cadet Senior"/>
+		<translation value="Старший офицер"/>
+	</entry>
+	<entry key="ui_rank_39">
+		<original value="Ensign"/>
+		<translation value="Младший лейтенант"/>
+	</entry>
+	<entry key="ui_rank_40">
+		<original value="Second Lieutenant"/>
+		<translation value="Второй лейтенант"/>
+	</entry>
+	<entry key="ui_rank_41">
+		<original value="First Lieutenant"/>
+		<translation value="Первый лейтенант"/>
+	</entry>
+	<entry key="ui_rank_42">
+		<original value="Captan Lieutenant"/>
+		<translation value="Лейтенант"/>
+	</entry>
+	<entry key="ui_rank_43">
+		<original value="Lieutenant"/>
+		<translation value="Ст. лейтенант"/>
+	</entry>
+	<entry key="ui_rank_44">
+		<original value="Lieutenant Colonel"/>
+		<translation value="Капитан-лейтенант"/>
+	</entry>
+	<entry key="ui_rank_45">
+		<original value="Captain Lieutenant"/>
+		<translation value="Капитан"/>
+	</entry>
+	<entry key="ui_rank_46">
+		<original value="Captain"/>
+		<translation value="Капитан разведки"/>
+	</entry>
+	<entry key="ui_rank_47">
+		<original value="Captain 1"/>
+		<translation value="Капитан спецназа"/>
+	</entry>
+	<entry key="ui_rank_48">
+		<original value="Captain 2"/>
+		<translation value="Майор"/>
+	</entry>
+	<entry key="ui_rank_49">
+		<original value="Captain 3"/>
+		<translation value="Подполковник"/>
+	</entry>
+	<entry key="ui_rank_50">
+		<original value="Colonel"/>
+		<translation value="Полковник"/>
+	</entry>
+	<entry key="ui_rank_51">
+		<original value="Brigadier"/>
+		<translation value="Бригадный генерал"/>
+	</entry>
+	<entry key="ui_rank_52">
+		<original value="Field Marshal"/>
+		<translation value="Генерал-майор"/>
+	</entry>
+	<entry key="ui_rank_53">
+		<original value="Commander"/>
+		<translation value="Генерал-лейтенант"/>
+	</entry>
+	<entry key="ui_rank_54">
+		<original value="High Commander"/>
+		<translation value="Генерал-полковник"/>
+	</entry>
+	<entry key="ui_rank_55">
+		<original value="Suprime Commander"/>
+		<translation value="Генерал"/>
+	</entry>
+	<entry key="ui_rank_56">
+		<original value="Major General"/>
+		<translation value="Генерал армии"/>
+	</entry>
+	<entry key="ui_rank_57">
+		<original value="Lieutenant General"/>
+		<translation value="Главнокомандующий"/>
+	</entry>
+	<entry key="ui_rank_58">
+		<original value="General-Field Marshal"/>
+		<translation value="Маршал"/>
+	</entry>
+	<entry key="ui_rank_59">
+		<original value="SF Second Lieutenant"/>
+		<translation value="Верховный главнокомандующий"/>
+	</entry>
+	<entry key="ui_rank_60">
+		<original value="SF First Lieutenant"/>
+		<translation value="Warface"/>
+	</entry>
+	<entry key="ui_rank_61">
+		<original value="SF Sub-lieutenant"/>
+		<translation value="Лейтенант 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_62">
+		<original value="SF Lieutenant"/>
+		<translation value="Ст. лейтенант 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_63">
+		<original value="SF Lieutenant Colonel"/>
+		<translation value="Капитан 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_64">
+		<original value="SF Captain Lieutenant"/>
+		<translation value="Майор 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_65">
+		<original value="SF Captain"/>
+		<translation value="Подполковник 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_66">
+		<original value="SF Captain 1"/>
+		<translation value="Полковник 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_67">
+		<original value="SF Captain 2"/>
+		<translation value="Генерал-майор 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_68">
+		<original value="SF Captain 3"/>
+		<translation value="Генерал-лейтенант 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_69">
+		<original value="SF Colonel"/>
+		<translation value="Генерал-полковник 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_70">
+		<original value="Warface"/>
+		<translation value="Маршал 'Бессмертных'"/>
+	</entry>
+	<entry key="ui_rank_71">
+		<original value="Morrigan"/>
+		<translation value="Лейтенант 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_72">
+		<original value="Odin"/>
+		<translation value="Ст. лейтенант 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_73">
+		<original value="Mars"/>
+		<translation value="Капитан 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_74">
+		<original value="Athena"/>
+		<translation value="Майор 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_75">
+		<original value="Ashur"/>
+		<translation value="Подполковник 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_76">
+		<original value="Indra"/>
+		<translation value="Полковник 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_77">
+		<original value="Guan Gun"/>
+		<translation value="Генерал-майор 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_78">
+		<original value="Mantus"/>
+		<translation value="Генерал-лейтенант 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_79">
+		<original value="Perun"/>
+		<translation value="Генерал-полковник 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_80">
+		<original value="Ares"/>
+		<translation value="Маршал отряда 'Богов Войны'"/>
+	</entry>
+	<entry key="ui_rank_81">
+		<original value="Apache"/>
+		<translation value="Лейтенант 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_82">
+		<original value="Spartan"/>
+		<translation value="Ст. лейтенант 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_83">
+		<original value="Maori"/>
+		<translation value="Капитан 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_84">
+		<original value="Vityaz"/>
+		<translation value="Майор 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_85">
+		<original value="Hussar"/>
+		<translation value="Подполковник 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_86">
+		<original value="Viking"/>
+		<translation value="Полковник 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_87">
+		<original value="Shinobi"/>
+		<translation value="Генерал-майор 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_88">
+		<original value="Mogul"/>
+		<translation value="Генерал-лейтенант 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_89">
+		<original value="Templar"/>
+		<translation value="Генерал-полковник 'Вестников Смерти'"/>
+	</entry>
+	<entry key="ui_rank_90">
+		<original value="Samurai"/>
+		<translation value="Маршал 'Вестников Смерти'"/>
+	</entry>
+</localization>

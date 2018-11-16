@@ -1,0 +1,210 @@
+<item category="heavy" class="K01_Item" name="mg09" priority="68" view_settings="objects/weapons/mg09/mg09.xml">
+	<icons>
+		<ui_icon name="mg09"/>
+		<combatlog icon="Mg09" melee="Melee"/>
+	</icons>
+	<drop_params>
+		<item name="mg09" type="weapon"/>
+	</drop_params>
+	<settings archetype="Items/Weapons/Archetypes/MG.xml">
+		<param name="ammo_amount" value="100"/>
+		<param name="rpm" value="800"/>
+		<param name="damage" value="68"/>
+		<param name="damage_min" value="45"/>
+		<param name="damage_mul" value="1"/>
+		<param name="melee_damage" value="65"/>
+		<param name="melee_range" value="1.3"/>
+		<param name="melee_radius" value="0.2"/>
+		<param name="damage_drop_per_meter" value="2.2"/>
+		<param name="damage_drop_min_distance" value="13"/>
+		<param name="recoil_max" value="560"/>
+		<param name="recoil_att" value="80"/>
+		<param name="recoil_att_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="0.88"/>
+			<stance name="prone" value="0.6"/>
+			<stance name="run" value="1.2"/>
+			<stance name="haste" value="1"/>
+			<stance name="jump" value="1"/>
+			<stance name="zoomed_stand" value="1"/>
+			<stance name="zoomed_crouch" value="0.88"/>
+			<stance name="zoomed_prone" value="0.6"/>
+			<stance name="zoomed_walk" value="1"/>
+			<stance name="zoomed_jump" value="1"/>
+		</param>
+		<param name="recoil_dec" value="330"/>
+		<param name="recoil_dec_delay" value="60"/>
+		<param name="recoil_dec_mul" value="1"/>
+		<param name="recoil_rnd" value="0.3"/>
+		<param name="recoil_smth" value="32"/>
+		<param name="recoil_smth_mul" value="1"/>
+		<param name="spread_min" value="4.5"/>
+		<param name="spread_min_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="0.88"/>
+			<stance name="prone" value="0.6"/>
+			<stance name="run" value="1.2"/>
+			<stance name="haste" value="2"/>
+			<stance name="jump" value="2"/>
+			<stance name="zoomed_stand" value="0.15"/>
+			<stance name="zoomed_crouch" value="0.15"/>
+			<stance name="zoomed_prone" value="0.15"/>
+			<stance name="zoomed_walk" value="0.15"/>
+			<stance name="zoomed_jump" value="0.75"/>
+		</param>
+		<param name="spread_max" value="14"/>
+		<param name="spread_max_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="0.88"/>
+			<stance name="prone" value="0.6"/>
+			<stance name="run" value="1.2"/>
+			<stance name="haste" value="1"/>
+			<stance name="jump" value="1.2"/>
+			<stance name="zoomed_stand" value="0.15"/>
+			<stance name="zoomed_crouch" value="0.15"/>
+			<stance name="zoomed_prone" value="0.15"/>
+			<stance name="zoomed_walk" value="0.15"/>
+			<stance name="zoomed_jump" value="0.75"/>
+		</param>
+		<param name="spread_att" value="0.3"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec" value="35"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="spread_dec_delay" value="100"/>
+		<param name="sway_dec" value="1">
+			<stance name="zoomed_stand" value="0.5"/>
+			<stance name="zoomed_crouch" value="0.5"/>
+			<stance name="zoomed_prone" value="0.5"/>
+			<stance name="zoomed_walk" value="0.5"/>
+			<stance name="zoomed_jump" value="0.5"/>
+		</param>
+		<param name="sway_dec_mul" value="1">
+			<stance name="zoomed_stand" value="0.25"/>
+			<stance name="zoomed_crouch" value="0.25"/>
+			<stance name="zoomed_prone" value="0.25"/>
+			<stance name="zoomed_walk" value="0.25"/>
+			<stance name="zoomed_jump" value="0.25"/>
+		</param>
+		<param name="sway_speed_mult" value="0.1">
+			<stance name="zoomed_stand" value="0.7"/>
+			<stance name="zoomed_crouch" value="0.6"/>
+			<stance name="zoomed_prone" value="0.6"/>
+			<stance name="zoomed_walk" value="1"/>
+			<stance name="zoomed_jump" value="2.5"/>
+		</param>
+		<param name="sway_mul" value="0">
+			<stance name="zoomed_stand" value="0.4"/>
+			<stance name="zoomed_crouch" value="0.3"/>
+			<stance name="zoomed_prone" value="0.3"/>
+			<stance name="zoomed_walk" value="0.6"/>
+			<stance name="zoomed_jump" value="8"/>
+		</param>
+		<param name="sway_min_x" value="0.025"/>
+		<param name="sway_min_y" value="0.045"/>
+		<param name="fov_mul" value="1">
+			<stance name="zoomed_stand" value="0.7"/>
+			<stance name="zoomed_crouch" value="0.7"/>
+			<stance name="zoomed_prone" value="0.7"/>
+			<stance name="zoomed_walk" value="0.7"/>
+			<stance name="zoomed_rest" value="0.7"/>
+			<stance name="zoomed_jump" value="0.7"/>
+		</param>
+		<param name="melee_knock_back_chance" value="0"/>
+		<param name="knock_back_chance" value="0"/>
+		<param name="zoom_factor" value="1.1"/>
+		<param name="select_duration" value="450"/>
+		<param name="deselect_duration" value="450"/>
+		<param name="reload_duration" value="7500"/>
+		<param name="melee_duration" value="300"/>
+		<param name="melee_out_duration" value="500"/>
+		<param name="toss_duration" value="350"/>
+		<param name="holster_in_duration" value="120"/>
+		<param name="ai_sound_radius" value="250"/>
+		<param name="ai_light_radius" value="2.3"/>
+		<param name="zoom_in_duration" value="200"/>
+		<param name="zoom_out_duration" value="200"/>
+	</settings>
+	<firemodes>
+		<firemode icon="FireModeRapid" type="Rapid"/>
+	</firemodes>
+	<melee_params>
+		<param name="impulse" value="20"/>
+		<param name="pierce" value="10"/>
+		<param name="no_ray_test" value="1"/>
+	</melee_params>
+	<sockets>
+		<socket can_be_empty="1" name="scope" ui_helper="ui_scope">
+			<support helper="top_small" name="as02"/>
+			<support helper="top_small" name="as01"/>
+			<support helper="top_small" name="as04"/>
+			<support helper="top_small" name="rds01"/>
+			<support helper="top_small" name="rds07"/>
+			<support helper="top_small" name="rds02"/>
+		</socket>
+		<socket can_be_empty="1" name="underbarrel" ui_helper="ui_underbarrel">
+			<support helper="underbarrel_small" name="bp02"/>
+		</socket>
+		<socket can_be_empty="1" name="muzzle" ui_helper="ui_muzzle">
+		</socket>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<fireparams>
+		<fire>
+			<param name="extra_ammo" value="300"/>
+			<param name="ammo_type" value="bullet_mg"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="helper_fp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+		</fire>
+		<recoil>
+			<param name="recoil_reset_delay" value="250"/>
+			<rnd_muls>			
+				<mul shot="0" value="0"/>
+				<mul shot="1" value="0"/>
+				<mul shot="2" value="2"/>
+				<mul shot="3" value="3"/>
+				<mul shot="4" value="8"/>
+				<mul shot="5" value="3"/>
+				<mul shot="6" value="4"/>
+				<mul shot="7" value="10"/>
+				<mul shot="8" value="5"/>
+				<mul shot="9" value="5"/>
+				<mul shot="10" value="4"/>
+				<mul shot="11" value="8"/>
+				<mul shot="12" value="6"/>
+				<mul shot="13" value="5"/>
+				<mul shot="14" value="15"/>
+				<mul shot="15" value="6"/>
+				<mul shot="16" value="7"/>
+				<mul shot="17" value="7"/>
+				<mul shot="18" value="15"/>
+				<mul shot="19" value="15"/>
+				<mul shot="20" value="30"/>
+				<mul shot="21" value="30"/>
+				<mul shot="22" value="25"/>
+				<mul shot="23" value="20"/>
+				<mul shot="24" value="18"/>
+				<mul shot="25" value="13"/>
+			</rnd_muls>
+			<param name="hint_loop_start" value="10"/>
+			<hints>
+				<hint x="0.1" y="0.15"/>
+				<hint x="-0.1" y="0.14"/>
+				<hint x="0.12" y="0.14"/>
+				<hint x="-0.12" y="0.15"/>
+				<hint x="0.16" y="0.16"/>
+				<hint x="-0.16" y="0.17"/>
+				<hint x="0.16" y="0.18"/>
+				<hint x="-0.16" y="0.19"/>
+				<hint x="0.16" y="0.18"/>
+				<hint x="-0.16" y="0.19"/>
+				<hint x="0.17" y="0.06"/>
+				<hint x="-0.17" y="0.05"/>
+			</hints>
+		</recoil>
+	</fireparams>
+</item>

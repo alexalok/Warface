@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<shop_item name="key_bundle_item_24" type="key">
+	<mmo_stats>
+		<param name="item_category" value="Misc"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RESM"/>
+		<param name="max_buy_amount" value="32000"/>
+		<param name="stackable" value="0"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@bundle_item_24"/>
+		<param name="description" value="@bundle_item_24_description"/>
+		<param name="icon" value="bundle_item_24"/>
+	</UI_stats>
+</shop_item>

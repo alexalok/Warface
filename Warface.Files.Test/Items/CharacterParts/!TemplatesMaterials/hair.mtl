@@ -1,0 +1,4 @@
+<Material MtlFlags="526336" Shader="Hair" GenMask="100000000" StringGenMask="%STAT_BRANCHING" SurfaceType="mat_flesh" MatTemplate="" Diffuse="0.36470589,0.36470589,0.36470589" Specular="0.45490199,0.45490199,0.45490199" Emissive="0,0,0" Shininess="4.5" Opacity="0.079000004" AlphaTest="0.089000002">
+ <Textures />
+ <PublicParams AnimFrequency="5.02" AnimAmplitudeWav0="6.1300001" AnimAmplitudeWav2="6.25" AnimPhase="6.1900001" DetailTilling="4.6999998" HairColor="0.24313727,0.1254902,0.1254902" PrimarySpecColor="0.69411767,0.69411767,0.69411767" PrimarySpecPow="339.20001" PrimarySpecShift="0.35299999" SecondarySpecColor="0.4784314,0.4784314,0.4784314" SecondarySpecPow="222.3" SecondarySpecShift="-0.36300001" BumpScale="0.329" RimMultiplier="2" DiffuseWrap="0.85000002" ViewOpacity="10" FillMultiplier="2"/>
+</Material>

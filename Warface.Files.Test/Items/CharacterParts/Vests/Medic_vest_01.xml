@@ -1,0 +1,10 @@
+<CharacterPart Name="medic_vest_01" Slot="Vest" Template="Vest_Type5">
+	<Model File="Objects\Characters\medic\vests\medic_vest_01\medic_vest_01.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="medic_vest_01" File="objects/characters/medic/vests/medic_vest_01/medic_vest_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

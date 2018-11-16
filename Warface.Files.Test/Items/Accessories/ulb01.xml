@@ -1,0 +1,31 @@
+<item class="K01_Item" name="ulb01" type="attachment" view_settings="objects/attachments/ulb01/ulb01.xml">
+	<description_ingame text="@ui_ulb01_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="R"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@ulb01_shop_name"/>
+		<param name="description" value="@ui_accessories_ulb01"/>
+		<param name="icon" value="replace_me"/>
+	</UI_stats>
+	<content>
+		<item name="ulb01"/>
+	</content>
+	<drop_params>
+		<item name="ulb01" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="recoil_att_mul" value="0.5"/>
+		<param name="spread_min_mul" value="0.9"/>
+	</settings>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="underbarrel_laser_beam" name="underbarrel_laser_beam"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="underbarrel_large" name="ulb01"/>
+	</types>
+</item>

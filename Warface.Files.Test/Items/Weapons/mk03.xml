@@ -1,0 +1,70 @@
+<item category="utility" class="K01_Item" name="mk03" priority="1" type="medkit" view_settings="objects/weapons/mk03/mk03.xml">
+	<mmo_stats>
+		<param name="item_category" value="medkit"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="M"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="3510"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@mk03_shop_name"/>
+		<param name="description" value="@ui_weapons_mk03"/>
+		<param name="icon" value="mk03"/>
+	</UI_stats>
+	<icons>
+		<combatlog melee="executor"/>
+		<weaponpanel icon="Mk03"/>
+	</icons>
+	<skins>
+		<material display_name="default" icon="default_icon" name="default"/>
+	</skins>
+	<settings>
+		<param name="rpm" value="200"/>
+		<param name="damage" value="0"/>
+		<param name="damage_mul" value="1"/>
+		<param name="recoil_max" value="0"/>
+		<param name="recoil_max_mul" value="1"/>
+		<param name="recoil_att" value="0"/>
+		<param name="recoil_att_mul" value="1"/>
+		<param name="recoil_dec" value="0"/>
+		<param name="recoil_dec_mul" value="1"/>
+		<param name="recoil_rnd" value="0"/>
+		<param name="spread_min" value="0"/>
+		<param name="spread_max" value="0"/>
+		<param name="spread_att" value="0"/>
+		<param name="spread_dec" value="0"/>
+		<param name="sway_dec" value="0"/>
+		<param name="sway_dec_mul" value="1"/>
+		<param name="sway_mul" value="1"/>
+		<param name="sway_min_x" value="0"/>
+		<param name="sway_min_y" value="0"/>
+		<param name="deselect_duration" value="200"/>
+		<param name="select_duration" value="100"/>
+		<param name="reload_duration" value="0"/>
+		<param name="melee_duration" value="300"/>
+		<param name="holster_in_duration" value="200"/>
+		<param name="ai_sound_radius" value="0"/>
+	</settings>
+	<firemodes>
+		<firemode icon="FireModeMedkit" type="Restore"/>
+	</firemodes>
+	<recharge_params>
+		<param name="recharge_duration" value="10"/>
+	</recharge_params>
+	<interaction_params>
+		<param name="crosshair_id" value="14"/>
+		<param name="crosshair_type" value="0"/>
+		<param name="message" value="@interaction_heal"/>
+	</interaction_params>
+	<restore_params>
+		<param name="start_restore_duration" value="0"/>
+		<param name="restore_duration" value="3000"/>
+		<param name="restore_amount" value="9"/>
+		<param name="initial_distance" value="5"/>
+		<param name="distance" value="8"/>
+		<param name="restore_coop_duration" value="3000"/>
+		<param name="type" value="heal"/>
+		<param name="charge_cost" value="5"/>
+		<param name="hit_type" value="healing"/>
+	</restore_params>
+</item>

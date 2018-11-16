@@ -1,0 +1,14 @@
+<CharacterPart Name="scout_pants_01" Slot="Pants" Template="Pants">
+	<Model File="objects\Characters\scout\pants\scout_pants_01\scout_pants_01.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="shoes_type2" Target="#pants_shoes2"/>
+			<Morph Switch="shoes_type3" Target="#pants_shoes3"/>
+			<Morph Switch="elbow_left" Target="#vestmorph"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="scout_pants_01" File="Game\Objects\Characters\scout\pants\scout_pants_01\scout_pants_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>w
+</CharacterPart>

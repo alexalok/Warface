@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="shg35_gold01_gp_d" type="attachment" view_settings="objects/weapons/shg35/shg35_gp_d.xml">
+		<skins>
+			<material name="gold01"/>
+		</skins>
+		<UI_stats>
+			<param name="name" value="@sp_default_name"/>
+			<param name="description" value="@ui_accessories_sp_default"/>
+			<param name="icon" value="ccs_nonitem"/>
+		</UI_stats>
+		<drop_params>
+			<item name="shg35_gold01_gp_d" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="spread_min_mul" value="1">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="spread_max_mul" value="1">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="recoil_att_mul" value="1">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="recoil_max_mul" value="1">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+		</settings>
+		<types>
+			<type helper="shg35_gp_d" name="shg35_gold01_gp_d"/>
+		</types>
+	</item>

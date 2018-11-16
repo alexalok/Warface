@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+	<shop_item name="pt03_bundle_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Pistol"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="SRME"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="2000"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="pt"/>
+			<param name="name" value="@pt03_shop_name"/>
+			<param name="description" value="@ui_weapons_pt03"/>
+			<param name="icon" value="pt03"/>
+		</UI_stats>
+		<content>
+			<item name="pt03"/>
+			<item name="rds01"/>
+			<item name="rds02"/>
+			<item name="sc02"/>
+			<item name="sc03"/>
+			<item name="sp05"/>
+			<item name="bn05"/>
+		</content>
+	</shop_item>

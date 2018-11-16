@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="ui_contract_descr_0e">
+		<original value="Kill 50 enemies from sniper rifles"/>
+		<translation value="Убейте 50 врагов из снайперской винтовки"/>
+	</entry>
+	<entry key="ui_contract_descr_0n">
+		<original value="Kill 20 enemies by melee weapons in FFA, LMS or Hunt"/>
+		<translation value="Убейте 20 врагов холодным оружием в режимах 'Мясорубка', 'Выживание', 'Королевская битва'"/>
+	</entry>
+	<entry key="ui_contract_descr_0h">
+		<original value="Kill 6 enemies with melee attack in slide in FFA, LMS or Hunt"/>
+		<translation value="Убейте 6 врагов в подкате холодным оружием в режимах 'Мясорубка', 'Выживание', 'Королевская битва'"/>
+	</entry>
+	<entry key="ui_contract_descr_1e">
+		<original value="Kill 20 medics by medic"/>
+		<translation value="Убейте 20 медиков, играя за медика"/>
+	</entry>
+	<entry key="ui_contract_descr_1n">
+		<original value="Kill 25 enemies from handguns in FFA, LMS or Hunt"/>
+		<translation value="Убейте 25 врагов из пистолета в режимах 'Мясорубка', 'Выживание', 'Королевская битва'"/>
+	</entry>
+	<entry key="ui_contract_descr_1h">
+		<original value="Perform 15 headshots from handguns in FFA, LMS or Hunt"/>
+		<translation value="Сделайте 15 попаданий в голову из пистолета в режимах 'Мясорубка', 'Выживание', 'Королевская битва'"/>
+	</entry>
+	<entry key="ui_contract_descr_2e">
+		<original value="Kill 30 enemies with assault rifles or machine-guns by headshot"/>
+		<translation value="Убейте 30 врагов попаданием в голову из винтовки или пулемета"/>
+	</entry>
+	<entry key="ui_contract_descr_2n">
+		<original value="Perform 10 claymore kills"/>
+		<translation value="Убейте 10 врагов с помощью мин"/>
+	</entry>
+	<entry key="ui_contract_descr_2h">
+		<original value="Kill 60 enemies from silenced weapons"/>
+		<translation value="Убейте 60 врагов из оружия с глушителем"/>
+	</entry>
+	<entry key="ui_contract_descr_3e">
+		<original value="Kill 60 enemies from shotguns"/>
+		<translation value="Убейте 60 врагов из дробовика"/>
+	</entry>
+	<entry key="ui_contract_descr_3n">
+		<original value="Kill 30 enemies with sub-machine guns by headshot"/>
+		<translation value="Убейте 30 врагов попаданием в голову из ПП"/>
+	</entry>
+	<entry key="ui_contract_descr_3h">
+		<original value="Kill 15 enemies by grenades"/>
+		<translation value="Убейте 15 врагов с помощью гранат"/>
+	</entry>
+	<entry key="ui_contract_descr_4e">
+		<original value="Kill 12 enemies by defibrillator in FFA or Hunt"/>
+		<translation value="Убейте 12 врагов дефибриллятором в режимах 'Мясорубка' и 'Выживание'"/>
+	</entry>
+	<entry key="ui_contract_descr_4n">
+		<original value="Kill 60 enemies from assult rifles or machine-guns"/>
+		<translation value="Убейте 60 врагов из винтовки или пулемета"/>
+	</entry>
+	<entry key="ui_contract_descr_4h">
+		<original value="Kill 20 enemies by headshots from sniper rifle"/>
+		<translation value="Убейте 20 врагов попаданием в голову из снайперской винтовки"/>
+	</entry>
+	<entry key="ui_contract_descr_5e">
+		<original value="Kill 30 enemies from shotguns in slide"/>
+		<translation value="Убейте 30 врагов в подкате из дробовика"/>
+	</entry>
+	<entry key="ui_contract_descr_5n">
+		<original value="Repair 1200 armor points for teammates"/>
+		<translation value="Восстановите 1200 очков брони союзникам"/>
+	</entry>
+	<entry key="ui_contract_descr_5h">
+		<original value="Kill 15 engineers by medic"/>
+		<translation value="Убейте 15 инженеров, играя за медика"/>
+	</entry>
+	<entry key="ui_contract_descr_6e">
+		<original value="Kill 20 sliding enemies"/>
+		<translation value="Убейте 20 врагов в тот момент, когда они делают подкат"/>
+	</entry>
+	<entry key="ui_contract_descr_6n">
+		<original value="Kill 12 engineers by engineer"/>
+		<translation value="Убейте 12 инженеров, играя за инженера"/>
+	</entry>
+	<entry key="ui_contract_descr_6h">
+		<original value="Perform 10 double kills"/>
+		<translation value="Сделайте 10 двойных убийств"/>
+	</entry>
+	<entry key="ui_contract_descr_7e">
+		<original value="Perform 6 double headshots"/>
+		<translation value="Сделайте 6 двойных попаданий в голову"/>
+	</entry>
+	<entry key="ui_contract_descr_7n">
+		<original value="Perform 12 ressurections"/>
+		<translation value="Реанимируйте 12 союзников"/>
+	</entry>
+	<entry key="ui_contract_descr_7h">
+		<original value="Kill 30 enemies from assault rifles or machine-guns in slide"/>
+		<translation value="Убейте 30 врагов в подкате из винтовки или пулемета"/>
+	</entry>
+	<entry key="ui_contract_descr_8e">
+		<original value="Kill 15 snipers by engineer"/>
+		<translation value="Убейте 15 снайперов, играя за инженера"/>
+	</entry>
+	<entry key="ui_contract_descr_8n">
+		<original value="Heal 750 health points for teammates"/>
+		<translation value="Восстановите 750 очков здоровья союзникам"/>
+	</entry>
+	<entry key="ui_contract_descr_8h">
+		<original value="Kill 30 riflemen by rifleman"/>
+		<translation value="Убейте 30 штурмовиков, играя за штурмовика"/>
+	</entry>
+	<entry key="ui_contract_descr_9e">
+		<original value="Kill 20 medics by rifleman"/>
+		<translation value="Убейте 20 медиков, играя за штурмовика"/>
+	</entry>
+	<entry key="ui_contract_descr_9n">
+		<original value="Kill 25 enemies from sub-machine guns in slide"/>
+		<translation value="Убейте 25 врагов в подкате из ПП"/>
+	</entry>
+	<entry key="ui_contract_descr_9h">
+		<original value="Win 3 matches"/>
+		<translation value="Выиграйте 3 матча"/>
+	</entry>
+	<entry key="ui_contract_descr_10e">
+		<original value="Kill 20 riflemans by recon"/>
+		<translation value="Убейте 20 штурмовиков, играя за снайпера"/>
+	</entry>
+	<entry key="ui_contract_descr_10n">
+		<original value="Kill 60 enemies from sub-machine guns"/>
+		<translation value="Убейте 60 врагов из ПП"/>
+	</entry>
+	<entry key="ui_contract_descr_10h">
+		<original value="Kill 20 recons by recon"/>
+		<translation value="Убейте 20 снайперов, играя за снайпера"/>
+	</entry>
+</localization>

@@ -1,0 +1,12 @@
+<SwitchRules>
+	<!--
+		<OutputSwitch name="shoes_type2+knee+legarmor_left" removeinputs="true">
+			<InputSwitch name="shoes_type2"/>
+			<InputSwitch name="knee+legarmor_left"/>
+		</OutputSwitch>
+		<OutputSwitch name="shoes_type2+knee+legarmor_right" removeinputs="true">
+			<InputSwitch name="shoes_type2"/>
+			<InputSwitch name="knee+legarmor_right"/>
+		</OutputSwitch>
+		-->
+	</SwitchRules>

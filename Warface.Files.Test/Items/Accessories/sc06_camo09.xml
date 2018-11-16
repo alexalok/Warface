@@ -1,0 +1,35 @@
+<item class="K01_Item" name="sc06_camo09" type="attachment" view_settings="objects/attachments/sc06/sc06.xml">
+	<skins>
+		<material name="camo09"/>
+	</skins>
+	<description_ingame text="@ui_sc06_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="S"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@sc06_shop_name"/>
+		<param name="description" value="@ui_accessories_sc06"/>
+		<param name="icon" value="sc06_camo09"/>
+	</UI_stats>
+	<drop_params>
+		<item name="sc06_camo09" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="silencer" value="1"/>
+		<param name="spread_min_mul" value="0.9"/>
+		<param name="damage_mul" value="0.9"/>
+		<param name="ai_sound_radius" value="5"/>
+		<param name="ai_light_radius" value="0"/>
+	</settings>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="silencer" name="sc06_camo09"/>
+	</types>
+</item>

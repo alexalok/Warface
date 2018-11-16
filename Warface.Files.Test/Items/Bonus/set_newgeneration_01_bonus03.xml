@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<GameItem name="set_newgeneration_01_bonus03" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_newgeneration_01_bonus03_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="splash_res" value="0.4"/>
+		<param name="res_head" value="0.3"/>
+		<param name="sprint_speed_mul" value="1.15"/>
+    </GameParams>
+</GameItem>

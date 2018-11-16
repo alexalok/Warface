@@ -1,0 +1,45 @@
+<item class="K01_Item" name="ar30_gp_d" type="attachment" view_settings="objects/weapons/ar30/ar30_gp_d.xml">
+		<skins>
+		<material name="default"/>
+	</skins>
+		<description_ingame text="@ui_ar30_gp_d_ingame"/>
+		<UI_stats>
+			<param name="name" value="@ar30_gp_d_name"/>
+			<param name="description" value="@ui_ar30_gp_d"/>
+			<param name="icon" value="ar30_gp_d"/>
+		</UI_stats>
+		<drop_params>
+			<item name="ar30_gp_d" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="recoil_max_mul" value="0.8"/>
+			<param name="recoil_att_mul" value="0.8"/>
+			<param name="spread_att_mul" value="0.2"/>
+			<param name="spread_min_mul" value="1">
+				<stance name="stand" value="0.55"/>
+				<stance name="crouch" value="0.55"/>
+				<stance name="prone" value="0.55"/>
+				<stance name="run" value="0.6"/>
+				<stance name="haste" value="0.6"/>
+				<stance name="jump" value="0.7"/>
+			</param>
+			
+			<param name="spread_max_mul" value="1">
+				<stance name="stand" value="0.75"/>
+				<stance name="crouch" value="0.75"/>
+				<stance name="prone" value="0.75"/>
+				<stance name="run" value="0.75"/>
+				<stance name="haste" value="0.6"/>
+				<stance name="jump" value="0.6"/>
+				<stance name="zoomed_jump" value="0.8"/>
+			</param>
+		</settings>
+		<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="underbarrel_laser_beam" name="underbarrel_laser_beam"/>
+		</socket>
+		</sockets>
+		<types>
+			<type helper="ar30_gp_d" name="ar30_gp_d"/>
+		</types>
+	</item>

@@ -1,0 +1,24 @@
+<CharacterPart Name="Helmet_02" Slot="Helmet" Template="Helmet">
+	<Model File="Game\Objects\Characters\Helmets\Helmet_02\male\helmet_02.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Helmets\Helmet_02\helmet_02_black.mtl"/>
+			<Material Name="snow" File="Game\Objects\Characters\Helmets\Helmet_02\helmet_02_white.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Helmets\Helmet_02\helmet_02_blue.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Helmets\Helmet_02\helmet_02_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Helmets\Helmet_02\Female\Helmet_02.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Helmets\Helmet_02\helmet_02_black.mtl"/>
+			<Material Name="snow" File="Game\Objects\Characters\Helmets\Helmet_02\helmet_02_white.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Helmets\Helmet_02\helmet_02_blue.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Helmets\Helmet_02\helmet_02_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

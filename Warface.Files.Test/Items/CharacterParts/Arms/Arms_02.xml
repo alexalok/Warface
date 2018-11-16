@@ -1,0 +1,46 @@
+<CharacterPart Name="Arms_02" Slot="Arms" Template="Arms">
+	<Model File="objects/characters/arms/arms_02/male/arms_02.chr" Gender="Male">
+		<Morphs>
+			<Morph Switch="shoulderpads_right" Target="#arms_shoulderpad_right"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Arms\arms_02\arms_02_grey.mtl"/>
+			<Material Name="black" File="Objects\Characters\Arms\arms_02\arms_02_black.mtl"/>
+			<Material Name="desert" File="Objects\Characters\Arms\arms_02\arms_02_desert.mtl"/>
+			<Material Name="digital" File="Objects\Characters\Arms\arms_02\arms_02_digital.mtl"/>
+			<Material Name="green" File="Objects\Characters\Arms\arms_02\arms_02_green.mtl"/>
+			<Material Name="jungle" File="Objects\Characters\Arms\arms_02\arms_02_jungle.mtl"/>
+			<Material Name="snow" File="Objects\Characters\Arms\arms_02\arms_02_snow.mtl"/>
+			<Material Name="urban" File="Objects\Characters\Arms\arms_02\arms_02_urban.mtl"/>
+			<Material Name="blue" File="Objects\Characters\Arms\arms_02\arms_02_blue.mtl"/>
+			<Material Name="civilian_grey" File="Objects\Characters\Arms\arms_02\arms_02_civilian_grey.mtl"/>
+			<Material Name="civilian_red" File="Objects\Characters\Arms\arms_02\arms_02_civilian_red.mtl"/>
+			<Material Name="civilian_green" File="Objects\Characters\Arms\arms_02\arms_02_civilian_green.mtl"/>
+			<Material Name="civilian_blue" File="Objects\Characters\Arms\arms_02\arms_02_civilian_blue.mtl"/>
+			<Material Name="civilian_yellow" File="Objects\Characters\Arms\arms_02\arms_02_civilian_yellow.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Arms\Arms_02\Female\Arms_02.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Jacket\jacket_02\Female\shirt_02.mtl"/>
+			<Material Name="blue" File="Objects\Characters\Jacket\jacket_02\Female\jacket_02_dark_blue.mtl"/>
+			<Material Name="desert" File="Objects\Characters\Jacket\jacket_02\Female\jacket_02_desert.mtl"/>
+			<Material Name="green" File="Objects\Characters\Jacket\jacket_02\Female\jacket_02_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\Jacket\jacket_02\Female\jacket_02_black.mtl"/>
+			<Material Name="snow" File="Objects\Characters\Jacket\jacket_02\Female\jacket_02_snow.mtl"/>
+			<Material Name="jungle" File="Objects\Characters\Jacket\jacket_02\Female\jacket_02_jungle.mtl"/>
+			<Material Name="urban" File="Objects\Characters\Jacket\jacket_02\Female\jacket_02_urban.mtl"/>
+			<Material Name="digital" File="Objects\Characters\Jacket\jacket_02\Female\jacket_02_digital.mtl"/>
+			<Material Name="civilian_grey" File="Objects\Characters\Arms\arms_02\arms_02_civilian_grey.mtl"/>
+			<Material Name="civilian_red" File="Objects\Characters\Arms\arms_02\arms_02_civilian_red.mtl"/>
+			<Material Name="civilian_green" File="Objects\Characters\Arms\arms_02\arms_02_civilian_green.mtl"/>
+			<Material Name="civilian_blue" File="Objects\Characters\Arms\arms_02\arms_02_civilian_blue.mtl"/>
+			<Material Name="civilian_yellow" File="Objects\Characters\Arms\arms_02\arms_02_civilian_yellow.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

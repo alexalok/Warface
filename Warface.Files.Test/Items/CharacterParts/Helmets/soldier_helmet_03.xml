@@ -1,0 +1,11 @@
+<CharacterPart Name="soldier_helmet_03" Slot="Helmets" Template="Helmet">
+	<Model File="objects/characters/soldier/helmets/soldier_helmet_03/soldier_helmet_03.chr" FGTFile="" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="soldier_helmet_03" File="objects/characters/soldier/helmets/soldier_helmet_03/soldier_helmet_03.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

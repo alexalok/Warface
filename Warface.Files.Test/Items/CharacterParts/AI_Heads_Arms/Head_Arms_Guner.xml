@@ -1,0 +1,19 @@
+<CharacterPart Name="Head_Arms_Guner" Slot="AI_Heads_Arms" Template="AI_Heads_Arms">
+	<Model File="objects/characters/ai_heads_arms/head_gunner/ai_head_arm.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#face_fat"/>
+			<Morph Switch="thin" Target="#face_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Heads_Arms\head_gunner\head_guner.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials/>
+		<Sockets/>
+	</Model>
+</CharacterPart>

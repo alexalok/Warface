@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+	<GameItem name="f_soldier_fbs_02" type="armor">
+		<mmo_stats>
+			<param name="item_category" value="skin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_f_soldier_fbs_02_name"/>
+			<param name="description" value="@ui_armor_f_soldier_fbs_02"/>
+			<param name="icon" value="f_soldier_fbs_02"/>
+		</UI_stats>
+		<optional_stats>
+			<param name="voice_alias" value="voice_8"/>
+			<param name="compound_base_override" value="objects/characters/human/compound_base_female.chr"/>
+		</optional_stats>
+		<visually_hidden_slots>
+			<slot name = "defaulthead"/>
+			<slot name = "vest"/>
+			<slot name = "shoes"/>
+			<slot name = "helmet"/>
+			<slot name = "chest"/>
+			<slot name = "arms"/>
+			<slot name = "gloves"/>
+			<slot name = "pants"/>
+			<slot name = "boots"/>
+			<slot name = "legarmor"/>
+		</visually_hidden_slots>
+		<slots>
+			<slot main="1" name="skin">
+				<materials>
+					<Material default="1" display_name="black" icon="mat_black" name="default" surface_type="mat_armor_body"/>
+				</materials>
+				<assets>
+					<asset display="all" mode="tp" name="f_soldier_fbs_body_02" teamId="1"/>
+					<asset display="all" mode="tp" name="f_soldier_fbs_body_02_b" teamId="2"/>
+					<asset display="all" mode="tp" name="f_soldier_fbs_legs_02" teamId="1"/>
+					<asset display="all" mode="tp" name="f_soldier_fbs_legs_02_b" teamId="2"/>
+					<asset display="all" mode="fp" name="f_soldier_fbs_arms_02_fp" teamId="1"/>
+					<asset display="all" mode="fp" name="f_soldier_fbs_arms_02_fp_b" teamId="2"/>
+					<asset display="all" mode="hp" name="f_soldier_fbs_arms_02_hp" teamId="1"/>
+					<asset display="all" mode="hp" name="f_soldier_fbs_arms_02_hp_b" teamId="2"/>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+		</GameParams>
+	</GameItem>

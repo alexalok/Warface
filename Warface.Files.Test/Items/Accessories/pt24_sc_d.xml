@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="pt24_sc_d" type="attachment" view_settings="objects/weapons/pt24/pt24_sc_d.xml">
+		<description_ingame text="@ui_pt24_sc_d_ingame"/>
+		<UI_stats>
+			<param name="name" value="@pt24_sc_d_name"/>
+			<param name="description" value="@ui_pt24_sc_d"/>
+			<param name="icon" value="pt24_sc_d"/>
+		</UI_stats>
+		<drop_params>
+			<item name="pt24_sc_d" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="silencer" value="1"/>
+		</settings>
+		<sockets>
+			<socket can_be_empty="1" name="effects">
+				<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+				<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+			</socket>
+		</sockets>
+		<types>
+			<type helper="silencer" name="pt24_sc_d"/>
+		</types>
+	</item>

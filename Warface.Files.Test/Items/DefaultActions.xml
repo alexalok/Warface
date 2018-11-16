@@ -1,0 +1,176 @@
+<actions>
+	<!--
+		<action name="fire_gl" children="1">
+			<animation target="firstperson" name="idle_01"/>
+			<animation target="owner" name="shoot"/>
+			<sound target="firstperson" name="sounds/weapons:scar:fire_grenademode_fp" radius="25" static="1"/>
+			<sound target="thirdperson" name="sounds/weapons:scar:fire_grenademode" radius="25" static="1"/>
+		</action>
+		<action name="change_firemode">
+			<animation target="firstperson" name="idle_right_placeholder"/>
+			<animation target="owner" name="firemode"/>
+			<sound target="firstperson" name="sounds/weapons:weapon_accessories:change_firemode" radius="2"/>
+			<sound target="thirdperson" name="sounds/weapons:weapon_accessories:change_firemode" radius="2"/>
+		</action>
+		<action name="change_firemode_zoomed">
+			<animation target="owner" name="firemode"/>
+			<sound target="firstperson" name="sounds/weapons:weapon_accessories:change_firemode" radius="3"/>
+			<sound target="thirdperson" name="sounds/weapons:weapon_accessories:change_firemode" radius="3"/>
+		</action>
+		<action name="reload_gl" children="1" duration="2000">
+			<animation target="firstperson" name="idle_right_placeholder"/>
+			<animation target="owner" name="reload_gl"/>
+			<sound target="thirdperson" name="sounds/weapons:scar:reload_grenademode" radius="5"/>
+		</action>
+		-->
+		<action name="select">
+			<animation target="firstperson" name="select_01"/>
+			<animation target="owner" name="select"/>
+			<sound target="thirdperson" name="sounds/weapons:fy71:select" radius="2"/>
+		</action>
+		<action name="deselect">
+			<animation target="firstperson" name="idle_right_placeholder"/>
+			<animation target="owner" name="deselect"/>
+			<sound target="firstperson" name="sounds/weapons:fy71:deselect" radius="2"/>
+			<sound target="thirdperson" name="sounds/weapons:fy71:deselect" radius="2"/>
+		</action>
+		<action name="idle" children="1">
+			<animation target="firstperson" name="idle_%hand%_%suffix%01" speed="0.7"/>
+			<animation target="owner" name="idle"/>
+		</action>
+		<action name="fire">
+			<animation target="firstperson" name="fire_bullets_%hand%_%suffix%01"/>
+			<animation target="owner" name="shoot"/>
+			<sound target="firstperson" name="sounds/weapons:fy71:fire_fp_single%env%" radius="250" static="1"/>
+			<sound target="thirdperson" name="sounds/weapons:fy71:fire_3rd_single%env%" radius="250" static="1"/>
+		</action>
+		<action name="reload">
+			<animation target="firstperson" name="reload_chamberempty_01"/>
+			<animation target="owner" name="reload_chamberempty_01"/>
+			<sound target="firstperson" name="sounds/weapons:fy71:reload_chamberempty" radius="5"/>
+			<sound target="thirdperson" name="sounds/weapons:fy71:reload_chamberempty" radius="5"/>
+		</action>
+		<!-- Tacticals -->
+			<action name="tactical_idle_01">
+				<animation target="firstperson" name="tactical_idle_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_idle_in_01">
+				<animation target="firstperson" name="tactical_idle_in_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_lean_left_01">
+				<animation target="firstperson" name="tactical_lean_left_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_lean_right_01">
+				<animation target="firstperson" name="tactical_lean_right_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_lean_top_01">
+				<animation target="firstperson" name="tactical_lean_top_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_lean_right_idle_01">
+				<animation target="firstperson" name="tactical_lean_right_idle_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_lean_left_idle_01">
+				<animation target="firstperson" name="tactical_lean_left_idle_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_lean_top_idle_01">
+				<animation target="firstperson" name="tactical_lean_top_idle_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_fire_bullets_top_01">
+				<animation target="firstperson" name="tactical_fire_bullets_top_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_fire_bullets_left_01">
+				<animation target="firstperson" name="tactical_fire_bullets_left_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<action name="tactical_fire_bullets_right_01">
+				<animation target="firstperson" name="tactical_fire_bullets_right_01" camera_helper="camera_helper"/>
+				<animation target="owner" name="select"/>
+			</action>
+			<!-- Blind fire -->
+				<action name="tactical_blind_fire_bullets_top_01">
+					<animation target="firstperson" name="tactical_blind_fire_bullets_top_01" camera_helper="camera_helper"/>
+					<animation target="owner" name="select"/>
+				</action>
+				<action name="tactical_blind_fire_bullets_left_01">
+					<animation target="firstperson" name="tactical_blind_fire_bullets_left_01" camera_helper="camera_helper"/>
+					<animation target="owner" name="select"/>
+				</action>
+				<action name="tactical_blind_fire_bullets_right_01">
+					<animation target="firstperson" name="tactical_blind_fire_bullets_right_01" camera_helper="camera_helper"/>
+					<animation target="owner" name="select"/>
+				</action>
+				<action name="tactical_blind_lean_left_01">
+					<animation target="firstperson" name="tactical_blind_lean_left_01" camera_helper="camera_helper"/>
+					<animation target="owner" name="select"/>
+				</action>
+				<action name="tactical_blind_lean_right_01">
+					<animation target="firstperson" name="tactical_blind_lean_right_01" camera_helper="camera_helper"/>
+					<animation target="owner" name="select"/>
+				</action>
+				<action name="tactical_blind_lean_top_01">
+					<animation target="firstperson" name="tactical_blind_lean_top_01" camera_helper="camera_helper"/>
+					<animation target="owner" name="select"/>
+				</action>
+				<!-- Fallnplay -->
+					<action name="fallnplay_fall">
+						<animation target="firstperson" name="specmove_fallnplay_fall" blendTime="0.00" camera_helper="camera_helper"/>
+						<animation target="owner" name="select"/>
+						<sound target="thirdperson" name="sounds/weapons:fy71:select" radius="2"/>
+					</action>
+					<action name="fallnplay_standup">
+						<animation target="firstperson" name="specmove_fallnplay_standup" blendTime="0.00" camera_helper="camera_helper"/>
+						<animation target="owner" name="select"/>
+						<sound target="thirdperson" name="sounds/weapons:fy71:select" radius="2"/>
+					</action>
+					<action name="specmove_fallnplay_to_prone_right">
+						<animation target="firstperson" name="specmove_fallnplay_to_prone_right" camera_helper="camera_helper"/>
+						<animation target="owner" name="specmove_fallnplay_to_prone_right"/>
+						<sound target="thirdperson" name="sounds/weapons:fy71:select" radius="2"/>
+					</action>
+					<action name="specmove_fallnplay_to_prone_left">
+						<animation target="firstperson" name="specmove_fallnplay_to_prone_left"	camera_helper="camera_helper"/>
+						<animation target="owner" name="specmove_fallnplay_to_prone_left"/>
+						<sound target="thirdperson" name="sounds/weapons:fy71:select" radius="2"/>
+					</action>
+					<!-- Zoom in & zoom out -->
+						<action name="zoom_in">
+							<animation target="firstperson" name="zoom_in_%suffix%01" speed="2"/>
+						</action>
+						<action name="zoom_out">
+							<animation target="firstperson" name="zoom_out_%suffix%01" speed="2"/>
+						</action>
+						<!-- melee & kick -->
+							<action name="melee">
+								<animation target="firstperson" name="melee_01"  camera_helper="camera_helper"/>
+								<animation target="owner" name="melee"/>
+								<sound target="thirdperson" name="sounds/weapons:melee:fire" radius="5"/>
+							</action>
+							<action name="kick">
+								<animation target="firstperson" name="specmove_kick_01" camera_helper="camera_helper" speed="2"/>
+								<animation target="owner" name="select"/>
+								<sound target="thirdperson" name="sounds/weapons:fy71:select" radius="2"/>
+							</action>
+							<action name="toss" duration="300">
+								<animation target="firstperson" name="toss_grenade" camera_helper="camera_helper"/>
+								<animation target="owner" name="select"/>
+							</action>
+							<!-- OLD ANIMATIONS !!!  		MUST BE DELETED  !!! -->
+								<action name="raise">
+									<animation target="firstperson" name="idle_right_placeholder"/>
+								</action>
+								<action name="idle_raised">
+									<animation target="firstperson" name="idle_right_placeholder"/>
+								</action>
+								<action name="lower">
+									<animation target="firstperson" name="idle_right_placeholder"/>
+								</action>
+							</actions>

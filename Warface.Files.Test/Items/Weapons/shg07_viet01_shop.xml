@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<shop_item name="shg07_viet01_shop" type="weapon_skin">
+		<mmo_stats>
+			<param name="item_category" value="primarySkin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@shg07_viet01_shop_name"/>
+			<param name="description" value="@shg07_viet01"/>
+			<param name="icon" value="shg07_viet01"/>
+		</UI_stats>
+		<skin>
+			<param name="thumbnail_icon" value="shg07_viet01_thumbnail"/>
+			<param name="material" value="viet01"/>
+		</skin>
+	</shop_item>

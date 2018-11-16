@@ -1,0 +1,11 @@
+<CharacterPart Name="Pants_militia_Assault" Slot="AI_Pants" Template="AI_Pants">
+	<Model File="objects/Characters/AI_Pants/pants_militia_assault/pants_militia_assault.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game/Objects/Characters/AI_Pants/pants_militia_assault/pants_militia_assault.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

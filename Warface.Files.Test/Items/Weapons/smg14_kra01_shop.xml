@@ -1,0 +1,20 @@
+<shop_item name="smg14_kra01_shop" type="weapon">
+	<mmo_stats>
+		<param name="item_category" value="SMG"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="E"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="5400"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="category" value="au"/>
+		<param name="name" value="@smg14_kra01_shop_name"/>
+		<param name="description" value="@ui_weapons_smg14_kra01"/>
+		<param name="icon" value="smg14_kra01"/>
+	</UI_stats>
+	<content>
+		<item name="smg14_kra01">
+			<item name="smg14_sc_d"/>
+		</item>
+	</content>
+</shop_item>

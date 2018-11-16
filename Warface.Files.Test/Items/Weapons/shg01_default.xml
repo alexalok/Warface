@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+	<shop_item name="shg01_default" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Shotgun"/>
+			<param name="price" value="0"/>
+			<param name="shopcontent" value="0"/>
+			<param name="classes" value="M"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="shg"/>
+			<param name="name" value="@shg01_shop_name"/>
+			<param name="description" value="@ui_weapons_shg01"/>
+			<param name="icon" value="shg01"/>
+		</UI_stats>
+		<content>
+			<item name="shg01">
+			</item>
+		</content>
+		<skin_content>
+			<item name="shg01_camo03_shop"/>
+			<item name="shg01_camo04_shop"/>
+			<item name="shg01_camo06_shop"/>
+			<item name="shg01_camo07skin_shop"/>
+			<item name="shg01_set01_shop"/>
+			<item name="shg01_clr01_shop"/>
+		</skin_content>
+	</shop_item>

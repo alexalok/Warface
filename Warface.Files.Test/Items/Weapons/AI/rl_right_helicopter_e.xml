@@ -1,0 +1,80 @@
+<item category="heavy" class="K01_Item" name="rl_right_helicopter_e" priority="40" view_settings="objects/weapons/ar01/rl_helicopter.xml">
+	<description text=""/>
+	<params>
+		<param name="giveable" value="1"/>
+		<param name="selectable" value="1"/>
+		<param name="ui_weapon" value="1"/>
+		<param name="giveable" value="1"/>
+	</params>
+	<ai_descriptor burstBulletCountMax="1" burstBulletCountMin="1" burstPauseTimeMax="0" burstPauseTimeMin="0" charge_time="0" coverFireTime="0" damage_radius="3" draw_time="0" handler="instant" signal_on_shoot="1" singleFireTriggerTime="0" speed="50" sweep_frequency="0" sweep_width="0"/>
+	<ammos>
+		<ammo name="bullet_helicopter_rlai"/>
+	</ammos>
+	<icons>
+		<combatlog icon="KA52" melee="Melee"/>
+	</icons>
+	<skins/>
+	<settings>
+		<param name="ammo_amount" value="1"/>
+		<param name="rpm" value="300"/>
+		<param name="damage" value="15"/>
+		<param name="damage_min" value="5"/>
+		<param name="damage_mul" value="1"/>
+		<param name="recoil_max" value="0.1"/>
+		<param name="recoil_max_mul" value="1"/>
+		<param name="recoil_att" value="0.1"/>
+		<param name="recoil_att_mul" value="1"/>
+		<param name="recoil_dec" value="250"/>
+		<param name="recoil_dec_mul" value="1"/>
+		<param name="recoil_rnd" value="0"/>
+		<param name="recoil_smth" value="30"/>
+		<param name="recoil_smth_mul" value="1"/>
+		<param name="spread_min" value="0.1"/>
+		<param name="spread_min_mul" value="0.000001"/>
+		<param name="spread_max" value="0.1"/>
+		<param name="spread_att" value="0.000001"/>
+		<param name="spread_att_mul" value="0.000001"/>
+		<param name="spread_dec" value="22.5"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="sway_dec" value="1"/>
+		<param name="sway_dec_mul" value="1"/>
+		<param name="sway_mul" value="0.1"/>
+		<param name="sway_min_x" value="0"/>
+		<param name="sway_min_y" value="0"/>
+		<param name="fov_mul" value="1"/>
+		<param name="reload_duration" value="0"/>
+		<param name="zoom_factor" value="1"/>
+		<param name="melee_duration" value="280"/>
+		<param name="melee_range" value="1"/>
+		<param name="melee_out_duration" value="500"/>
+		<param name="select_duration" value="500"/>
+		<param name="toss_duration" value="400"/>
+		<param name="deselect_duration" value="0"/>
+		<param name="holster_in_duration" value="0"/>
+		<param name="particle_scale" value="3"/>
+	</settings>
+	<firemodes>
+		<firemode name="Single" type="Single"/>
+	</firemodes>
+	<clipmode capacity="1" unlimited="1"/>
+	<melee_params>
+		<param name="damage" value="100"/>
+		<param name="impulse" value="20"/>
+		<param name="range" value="1"/>
+		<param name="pierce" value="10"/>
+	</melee_params>
+	<sockets/>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="bullet_helicopter_rlai"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="helper_fp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+			<param name="damage_drop_per_meter" value="0"/>
+			<param name="damage_drop_min_distance" value="25"/>
+			<param name="ai_muzzle_pos" value="3, -3.7, 0.4"/>
+			<param name="force_launch_dir" value="0.0, 1.0, 0.0"/>
+		</fire>
+	</fireparams>
+</item>

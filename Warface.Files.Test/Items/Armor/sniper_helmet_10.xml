@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<GameItem name="sniper_helmet_10" type="armor">
+	<mmo_stats>
+		<param name="item_category" value="Helmet"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="S"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="3000"/>	
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@ui_armor_sniper_helmet_10_name"/>
+		<param name="description" value="@ui_armor_sniper_helmet_10"/>
+		<param name="icon" value="sniper_helmet_10"/>
+	</UI_stats>
+	<slots>
+		<slot main="1" name="helmet">
+			<Materials>
+				<Material default="1" display_name="grey" icon="mat_grey" name="default" surface_type="mat_head"/>
+			</Materials>
+			<assets>
+				<asset display="all" mode="tp" name="sniper_helmet_09" teamId="1"/>
+				<asset display="all" mode="tp" name="sniper_helmet_09_b" teamId="2"/>
+			</assets>
+		</slot>
+	</slots>
+	<GameParams>
+			<param name="res_head" value="0.6"/>
+			<param name="hp_regeneration_hps" value="8"/>
+			<param name="hp_regeneration_timeout" value="4"/>
+	</GameParams>
+</GameItem>

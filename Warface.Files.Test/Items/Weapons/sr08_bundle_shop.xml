@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+	<shop_item name="sr08_bundle_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SniperRifle"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="6240"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="sr"/>
+			<param name="name" value="@sr08_shop_name"/>
+			<param name="description" value="@ui_weapons_sr08"/>
+			<param name="icon" value="sr08"/>
+		</UI_stats>
+		<content>
+			<item name="sr08">
+				<item name="ss06"/>
+				<item name="ss04"/>
+				<item name="ss02"/>
+				<item name="ss01"/>
+			</item>
+		</content>
+		<skin_content>
+			<item name="sr08_set02skin_shop"/>
+			<item name="sr08_set03skin_shop"/>
+			<item name="sr08_set04skin_shop"/>
+			<item name="sr08_camo03_shop"/>
+			<item name="sr08_camo04_shop"/>
+			<item name="sr08_camo06_shop"/>
+			<item name="sr08_camo07_shop"/>
+			<item name="sr08_set01_shop"/>
+			<item name="sr08_clr01_shop"/>
+		</skin_content>
+	</shop_item>

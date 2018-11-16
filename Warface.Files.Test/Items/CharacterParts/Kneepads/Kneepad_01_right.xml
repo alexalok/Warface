@@ -1,0 +1,22 @@
+<CharacterPart Name="Kneepad_01_right" Slot="Knee_right" Template="KneePads_Right">
+	<Model File="Game\Objects\Characters\Kneepads\Kneepads_01\Male\Kneepads_01_right.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\Elbowpads\Elbowpads_01\Elbowpads_01_desert.mtl"/>
+			<Material Name="black" File="Objects\Characters\Elbowpads\Elbowpads_01\Elbowpads_01_black.mtl"/>
+			<Material Name="green" File="Objects\Characters\Elbowpads\Elbowpads_01\Elbowpads_01_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Kneepads\Kneepads_01\Female\Kneepads_01_right.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\Elbowpads\Elbowpads_01\Elbowpads_01_desert.mtl"/>
+			<Material Name="black" File="Objects\Characters\Elbowpads\Elbowpads_01\Elbowpads_01_black.mtl"/>
+			<Material Name="green" File="Objects\Characters\Elbowpads\Elbowpads_01\Elbowpads_01_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

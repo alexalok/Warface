@@ -1,0 +1,41 @@
+<ammo name="ammo_pack" class="Bullet">
+	<icons>
+		<ui_icon name="ccs_ammo_pack"/>
+	</icons>
+	<settings>
+		<param name="amount" value="10"/>
+	</settings>
+	<geometry>
+	</geometry>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="0.035"/>
+		<param name="speed" value="800"/>
+		<param name="air_resistance" value="0"/>
+		<param name="water_resistance" value="0"/>
+		<param name="gravity" value="0, 0, -1"/>
+		<param name="water_gravity" value="0, 0, -1"/>
+		<param name="thrust" value="0"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="1"/>
+		<param name="material" value="mat_metal_weapons_impact"/>
+		<param name="spin_random" value="720, 720, 720"/>
+		<param name="single_contact" value="0"/>
+		<param name="traceable" value="1"/>
+		<param name="pierceability" value="3"/>
+	</physics>
+	<params>
+		<param name="bulletType" value="4"/>
+		<param name="lifetime" 		value="3"/>
+		<param name="showtime" 		value="0.15"/>
+		<param name="aitype"		value="grenade"/>
+		<param name="can_toss" 		value="0"/>
+		<param name="damage" 		value="0"/>
+		<param name="ammo_kind"	value="medkit"/>
+		<param name="hit_type" value="healing"/>
+		<param name="launch_type" value="1"/>
+	</params>
+</ammo>

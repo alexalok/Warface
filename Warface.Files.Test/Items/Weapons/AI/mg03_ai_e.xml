@@ -1,0 +1,69 @@
+<item category="heavy" class="K01_Item" name="mg03_ai_e" priority="41" view_settings="objects/weapons/mg03/mg03_ai.xml">
+	<description text=""/>
+	<params>
+		<param name="giveable" value="1"/>
+		<param name="selectable" value="1"/>
+		<param name="ui_weapon" value="1"/>
+		<param name="giveable" value="1"/>
+		<param name="ai_weapon_type" value="Assault"/>
+	</params>
+	<icons>
+		<combatlog icon="Mg03_ai" melee="Melee"/>
+	</icons>
+	<ai_descriptor burstBulletCountMax="100" burstBulletCountMin="1" burstPauseTimeMax="0.01" burstPauseTimeMin="0.01" coverFireTime="0" handler="instant" singleFireTriggerTime="-1"/>
+	<settings archetype="Items/Weapons/Archetypes/MG_ai.xml">
+		<param name="ammo_amount" value="70"/>
+		<param name="rpm" value="400"/>
+		<param name="damage" value="15"/>
+		<param name="damage_min" value="15"/>
+		<param name="damage_mul" value="1"/>
+		<param name="melee_damage" value="300"/>
+		<param name="melee_range" value="2"/>
+		<param name="damage_drop_per_meter" value="1"/>
+		<param name="damage_drop_min_distance" value="15"/>
+		<param name="melee_knock_back_chance" value="0.5"/>
+		<param name="knock_back_chance" value="0.0"/>
+		<param name="reload_duration" value="5000"/>
+		<param name="zoom_factor" value="1"/>
+		<param name="melee_duration" value="370"/>
+		<param name="melee_out_duration" value="200"/>
+		<param name="toss_duration" value="500"/>
+		<param name="holster_in_duration" value="200"/>
+		<param name="deselect_duration" value="300"/>
+		<param name="spread_min" value="12"/>
+		<param name="spread_min_mul" value="1"/>
+		<param name="spread_max" value="12"/>
+		<param name="spread_max_mul" value="1"/>
+		<param name="spread_att" value="0"/>
+		<param name="spread_dec" value="0"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="particle_scale" value="3"/>
+	</settings>
+	<firemodes>
+		<firemode name="Rapid" type="Rapid"/>
+	</firemodes>
+	<clipmode auto_reload="0" capacity="30" unlimited="0"/>
+	<melee_params>
+		<param name="damage" value="300"/>
+		<param name="impulse" value="20"/>
+		<param name="range" value="0.75"/>
+		<param name="pierce" value="100"/>
+	</melee_params>
+	<sockets/>
+	<ammos>
+		<ammo name="bullet_mg"/>
+	</ammos>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="bullet_mg"/>
+			<param name="pellets" value="1"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="helper_fp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+			<param name="ai_muzzle_pos" value="0, 0.8, 0"/>
+		</fire>
+		<recoil/>
+	</fireparams>
+</item>

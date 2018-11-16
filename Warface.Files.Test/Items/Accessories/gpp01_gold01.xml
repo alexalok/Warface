@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="gpp01_gold01" type="attachment" view_settings="objects/attachments/gpp01/gpp01.xml">
+		<skins>
+			<material name="gold01"/>
+		</skins>
+		<description_ingame text="@ui_gpp01_ingame"/>
+		<mmo_stats>
+			<param name="item_category" value="attachment"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@gpp01_shop_name"/>
+			<param name="description" value="@ui_accessories_gpp01"/>
+			<param name="icon" value="gpp01_gold01"/>
+		</UI_stats>
+		<content>
+			<item name="gpp01_gold01"/>
+		</content>
+		<drop_params>
+			<item name="gpp01_gold01" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="spread_min_mul" value="0.8"/>
+			<param name="spread_max_mul" value="0.8"/>
+			<param name="recoil_att_mul" value="0.8"/>
+			<param name="recoil_max_mul" value="0.8"/>
+			<param name="sway_mul" value="1">
+				<stance name="zoomed_prone" value="0.1"/>
+			</param>
+		</settings>
+		<types>
+			<type helper="underbarrel_middle" name="gpp01_gold01"/>
+		</types>
+	</item>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+	<shop_item name="sr12_clr01_zsd03_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SniperRifle"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="6240"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="sr"/>
+			<param name="name" value="@sr12_clr01_zsd03_shop_name"/>
+			<param name="description" value="@ui_weapons_sr12_clr01_zsd03"/>
+			<param name="icon" value="sr12_zsd03"/>
+		</UI_stats>
+		<content>
+			<item name="sr12_clr01_zsd03">
+				<item name="ss06"/>
+			</item>
+		</content>
+	</shop_item>

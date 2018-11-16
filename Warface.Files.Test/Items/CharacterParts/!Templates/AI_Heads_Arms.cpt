@@ -1,0 +1,26 @@
+<CharacterPartTemplate Name="AI_Heads_Arms">
+
+  <Morphs Gender="Male">
+      </Morphs>
+
+  <Morphs Gender="Female">
+      </Morphs>
+
+
+  <Switches Gender="Male">
+     </Switches>
+  <Switches Gender="Female">
+     </Switches>
+
+<VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+    <Mask Name="VISIBLE_HIGHQUALITY_THIRD_PERSON" />
+  </VisibilityMasks>
+<Masks>
+<Mask Name="DONT_CACHE_FOR_NONPLAYER" />
+</Masks>
+
+  <TexAtlasGen TextureSize="1024"/>
+
+</CharacterPartTemplate>

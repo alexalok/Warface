@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="radio_enemy_spotted">
+		<original value="%player% spotted an enemy!"/>
+		<translation value="%player% видит врага!"/>
+	</entry>
+	<entry key="radio_send_enemy_coord">
+		<original value="%player% now sending enemy coordinates!"/>
+		<translation value="%player% передает координаты врага!"/>
+	</entry>
+	<entry key="radio_claymore_spotted">
+		<original value="%player% spotted claymore!"/>
+		<translation value="%player% видит мину!"/>
+	</entry>
+	<entry key="radio_grenade_spotted">
+		<original value="Incoming!"/>
+		<translation value="Осторожно!"/>
+	</entry>
+	<entry key="radio_lift_me_on">
+		<original value="%player% say's: lift me on this shit!"/>
+		<translation value="%player% говорит: 'Помоги мне залезть сюда!'"/>
+	</entry>
+	<entry key="radio_help_to_push">
+		<original value="%player% said: help to push this shit!"/>
+		<translation value="%player% говорит: 'Помоги мне подвинуть эту штуку!'"/>
+	</entry>
+	<entry key="radio_follow_me">
+		<original value="%player% said: follow me or die!"/>
+		<translation value="%player% говорит: 'За мной, если не хочешь сдохнуть!'"/>
+	</entry>
+	<entry key="radio_follow_me_personal">
+		<original value="%target_teammate%, follow me or die!"/>
+		<translation value="%target_teammate%, за мной, если не хочешь сдохнуть!"/>
+	</entry>
+	<entry key="radio_fire_in_the_hole">
+		<original value="%player% throwing %grenade_type%!"/>
+		<translation value="%player% бросает гранату: %grenade_type%!"/>
+	</entry>
+	<entry key="radio_flag_pickup">
+		<original value="%player% picked up the warhead!"/>
+		<translation value="%player% берет коды запуска!"/>
+	</entry>
+	<entry key="radio_flag_drop">
+		<original value="%player% dropped the warhead!"/>
+		<translation value="%player% роняет коды запуска!"/>
+	</entry>
+	<entry key="radio_flag_capture">
+		<original value="%player% saved the warhead!"/>
+		<translation value="%player% возвращает коды запуска!"/>
+	</entry>
+	<entry key="radio_capture_start">
+		<original value="%player% doing mission objectives!"/>
+		<translation value="%player% в процессе выполнения задания!"/>
+	</entry>
+	<entry key="radio_capture_end">
+		<original value="%player% done mission objective!"/>
+		<translation value="%player% успешно выполняет задание!"/>
+	</entry>
+	<entry key="objective_completed_primary">
+		<original value="Primary objective %name% completed!"/>
+		<translation value="Выполнено основное задание: %name%!"/>
+	</entry>
+	<entry key="objective_completed_secondary">
+		<original value="Secondary objective %name% completed!"/>
+		<translation value="Выполнено дополнительное задание: %name%!"/>
+	</entry>
+	<entry key="objective_active_primary">
+		<original value="New objective: %name%: %message%"/>
+		<translation value="Новое задание: %name%: %message%"/>
+	</entry>
+	<entry key="objective_active_secondary">
+		<original value="New objective: %name%"/>
+		<translation value="Новое задание: %name%"/>
+	</entry>
+	<entry key="objective_failed_primary">
+		<original value="Primary objective %name% failed."/>
+		<translation value="Провалено основное задание: %name%."/>
+	</entry>
+	<entry key="objective_failed_secondary">
+		<original value="Secondary objective %name% failed."/>
+		<translation value="Провалено дополнительное задание: %name%."/>
+	</entry>
+	<entry key="iron_man_kill_message">
+		<original value="%player% killed Heavy Gunner"/>
+		<translation value="%player% убивает джаггернаута!"/>
+	</entry>
+	<entry key="you_were_protected_by_teammate">
+		<original value="You were protected by %source_name%"/>
+		<translation value="%source_name% спасает вас от гибели!"/>
+	</entry>
+	<entry key="you_protected_teammate">
+		<original value="You protected %target_name%"/>
+		<translation value="Вы спасаете игрока %target_name%!"/>
+	</entry>
+	<entry key="pve_one_minute_remaining">
+		<original value="One minute remaining!"/>
+		<translation value="Осталась одна минута!"/>
+	</entry>
+	<entry key="ui_hud_label_vault">
+		<original value="VAULT"/>
+		<translation value="УБЕЖИЩЕ"/>
+	</entry>
+	<entry key="ui_hud_label_assist_to_climb">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to assist"/>
+		<translation value="Чтобы помочь игроку залезть на препятствие, нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_hud_label_single_coop">
+		<original value="Assist and stay - press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to switch"/>
+		<translation value="Помочь напарнику и остаться на месте - нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; для переключения"/>
+	</entry>
+	<entry key="ui_hud_label_double_coop">
+		<original value="Assist and climb - press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to switch"/>
+		<translation value="Помочь напарнику и забраться вслед за ним - нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; для переключения"/>
+	</entry>
+	<entry key="ui_hud_label_climb_on_wall_with_player_assist">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to climb"/>
+		<translation value="Чтобы взобраться на препятствие, нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_hud_label_double_climb_with_player_assist">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to climb"/>
+		<translation value="Чтобы взобраться на препятствие, нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_hud_label_path_blocked">
+		<original value="Path blocked"/>
+		<translation value="Путь прегражден"/>
+	</entry>
+	<entry key="ui_hud_label_raise_assist">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to help teammate"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы помочь игроку"/>
+	</entry>
+	<entry key="ui_hud_label_take_ammo">
+		<original value="%1 resupplied you ammo"/>
+		<translation value="%1 пополнил ваш запас патронов"/>
+	</entry>
+	<entry key="messagebox_yes">
+		<original value="YES"/>
+		<translation value="ДА"/>
+	</entry>
+	<entry key="messagebox_no">
+		<original value="NO"/>
+		<translation value="НЕТ"/>
+	</entry>
+	<entry key="messagebox_ok">
+		<original value="OK"/>
+		<translation value="ПРИНЯТЬ"/>
+	</entry>
+	<entry key="messagebox_cancel">
+		<original value="CANCEL"/>
+		<translation value="ОТМЕНА"/>
+	</entry>
+	<entry key="messagebox_quit_question">
+		<original value="DO YOU REALLY WANT TO QUIT?"/>
+		<translation value="ВЫ ДЕЙСТВИТЕЛЬНО ХОТИТЕ ВЫЙТИ?"/>
+	</entry>
+	<entry key="messagebox_disconnect_question">
+		<original value="You will lose all gained scores, EXP and money!\nDo you still want to quit?"/>
+		<translation value="Все полученные очки, опыт и варбаксы будут потеряны!\nВы точно хотите выйти?"/>
+	</entry>
+	<entry key="messagebox_profile_save_fail_retry_message">
+		<original value="PROFILE SAVING FAILED. TRY AGAIN?"/>
+		<translation value="НЕ УДАЛОСЬ СОХРАНИТЬ ПРОФИЛЬ. ПОВТОРИТЬ ПОПЫТКУ?"/>
+	</entry>
+	<entry key="respawn_next_round">
+		<original value="You will be respawned in next round\n[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
+		<translation value="Вы возродитесь в следующем раунде\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+	</entry>
+	<entry key="waiting_in_cooldown_pause_msg">
+		<original value="Class changing…\nYou will respawn in &lt;font color='#ff0000'&gt;%1&lt;/font&gt; seconds"/>
+		<translation value="Изменение класса…\nДо перерождения: &lt;font color='#ff0000'&gt;%1&lt;/font&gt; сек."/>
+	</entry>
+	<entry key="waiting_for_resurrect_msg">
+		<original value="Waiting for resurrect... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n &lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
+		<translation value="Ожидание реанимации... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n &lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+	</entry>
+	<entry key="can_respawn_msg">
+		<original value="PRESS &quot;FIRE&quot; BUTTON TO RESPAWN.\nPRESS &quot;ZOOM&quot; BUTTON TO CHANGE SPECTATING PLAYER"/>
+		<translation value="ЧТОБЫ ВОСКРЕСНУТЬ, НАЖМИТЕ КНОПКУ 'ОГОНЬ'.\nЧТОБЫ НАБЛЮДАТЬ ЗА ДРУГИМ ИГРОКОМ, НАЖМИТЕ КНОПКУ 'ПРИЦЕЛИВАНИЕ'"/>
+	</entry>
+	<entry key="waiting_for_respawn_change_player_msg">
+		<original value="WAITING FOR RESPAWN…\nPRESS &quot;ZOOM&quot; BUTTON TO CHANGE SPECTATING PLAYER"/>
+		<translation value="ОЖИДАНИЕ ПЕРЕРОЖДЕНИЯ...\nЧТОБЫ НАБЛЮДАТЬ ЗА ДРУГИМ ИГРОКОМ, НАЖМИТЕ КНОПКУ 'ПРИЦЕЛИВАНИЕ'"/>
+	</entry>
+	<entry key="waiting_for_respawn_msg">
+		<original value="Waiting for respawn… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="ОЖИДАНИЕ ПЕРЕРОЖДЕНИЯ…"/>
+	</entry>
+	<entry key="use_coin_msg">
+		<original value="TO BE REVIVED, PRESS [%[player:use_coin]] TO USE YOUR COIN… %1\n PRESS &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; BUTTON TO CHANGE SPECTATING PLAYER."/>
+		<translation value="НАЖМИТЕ &lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt;, ЧТОБЫ ИСПОЛЬЗОВАТЬ ЗНАК И ВОЗРОДИТЬСЯ... %1\n НАЖМИТЕ &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, ЧТОБЫ НАБЛЮДАТЬ ЗА ДРУГИМ ИГРОКОМ."/>
+	</entry>
+	<entry key="hud_resurect_medic">
+		<original value="Waiting for medic for resurrect &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:quickchat_key1]]&lt;/font&gt; - call medic &lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - use resurrection coin\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
+		<translation value="Ожидание реанимации медиком... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:quickchat_key1]]&lt;/font&gt; - позвать медика &lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - использовать знак возвращения\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+	</entry>
+	<entry key="hud_resurect_no_medic">
+		<original value="No medics alive &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - use resurrection coin\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
+		<translation value="Медиков нет &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - использовать знак возвращения\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+	</entry>
+	<entry key="coin_limit">
+		<original value="%1/%2 allowed coins used"/>
+		<translation value="Использовано знаков: %1\nДоступно знаков: %2"/>
+	</entry>
+	<entry key="coin_limit_reached">
+		<original value="You've already used %1 coins on this stage… &lt;font color='#ff0000'&gt;%2&lt;/font&gt;"/>
+		<translation value="Использованы все доступные знаки: %1\n &lt;font color='#ff0000'&gt;%2&lt;/font&gt;"/>
+	</entry>
+	<entry key="coin_usage_restricted_msg">
+		<original value="Resurrection coin usage restricted now… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Сейчас нельзя использовать знаки возвращения... %1"/>
+	</entry>
+	<entry key="no_ingame_coin_offer_msg">
+		<original value="Waiting for resurrect… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Реанимация возможна еще… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="coin_purchase_inprogress">
+		<original value="Please wait. Coins are being purchased…"/>
+		<translation value="Пожалуйста, подождите. Идет покупка знаков…"/>
+	</entry>
+	<entry key="use_coin_question">
+		<original value="Are you sure to use COIN?"/>
+		<translation value="Использовать знак возвращения?"/>
+	</entry>
+	<entry key="coin_count_label">
+		<original value="Coins: %1"/>
+		<translation value="Знаки: %1"/>
+	</entry>
+	<entry key="spectator_mode">
+		<original value="Spectator mode\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
+		<translation value="Наблюдение\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+	</entry>
+	<entry key="spectator_mode_next_checkpoint">
+		<original value="You will be respawned on next checkpoint\nPlease wait...\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
+		<translation value="Вы возродитесь на следующей контрольной точке\nПожалуйста, подождите...\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+	</entry>
+	<entry key="can_respawn_or_resurrect_msg">
+		<original value="Waiting for resurrect... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate\nPRESS &lt;font color='#ffc800'&gt;%[default:respawn_themselves]&lt;/font&gt; button to respawn"/>
+		<translation value="Реанимация возможна еще… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок\nНажмите &lt;font color='#ffc800'&gt;%[default:respawn_themselves]&lt;/font&gt; для возрождения"/>
+	</entry>
+	<entry key="resupply_ammo">
+		<original value="RESUPPLY AMMO"/>
+		<translation value="ПОПОЛНЕНИЕ БОЕЗАПАСА"/>
+	</entry>
+	<entry key="resupply_medkit">
+		<original value="RESUPPLY MEDKIT"/>
+		<translation value="ПОПОЛНЕНИЕ АПТЕЧКИ"/>
+	</entry>
+	<entry key="resupply_weapons">
+		<original value="RESUPPLY WEAPON"/>
+		<translation value="ПОПОЛНЕНИЕ ЗАПАСОВ ОРУЖИЯ"/>
+	</entry>
+	<entry key="resupply_armor">
+		<original value="RESUPPLY ARMOR"/>
+		<translation value="ПОПОЛНЕНИЕ БРОНИ"/>
+	</entry>
+	<entry key="pickup_ammo">
+		<original value="PRESS &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; TO PICK UP AMMO"/>
+		<translation value="НАЖМИТЕ &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, ЧТОБЫ ПОДОБРАТЬ ПАТРОНЫ"/>
+	</entry>
+	<entry key="pickup_weapon">
+		<original value="PRESS &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; TO PICK UP &lt;font color='#3297e4'&gt;%1&lt;/font&gt;"/>
+		<translation value="НАЖМИТЕ &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, ЧТОБЫ ПОДОБРАТЬ &lt;font color='#3297e4'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="swap_weapon">
+		<original value="PRESS &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; TO SWAP YOUR &lt;font color='#3297e4'&gt;%1&lt;/font&gt; TO &lt;font color='#3297e4'&gt;%2&lt;/font&gt;"/>
+		<translation value="НАЖМИТЕ &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, ЧТОБЫ ПОМЕНЯТЬ &lt;font color='#3297e4'&gt;%1&lt;/font&gt; НА &lt;font color='#3297e4'&gt;%2&lt;/font&gt;"/>
+	</entry>
+	<entry key="need_no_ammo">
+		<original value="NO NEED TO PICK UP: AMMO IS FULL"/>
+		<translation value="БОЕЗАПАС ПОЛОН, ПАТРОНЫ НЕ ТРЕБУЮТСЯ"/>
+	</entry>
+	<entry key="cinematic_detonate_msg">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to set up C4 charge"/>
+		<translation value="Чтобы установить заряд C4, нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="cinematic_opendoor_msg">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to open the door"/>
+		<translation value="Чтобы открыть дверь, нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="cinematic_activate_vehicle_msg">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; activate a vehicle"/>
+		<translation value="Чтобы активировать технику, нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="cinematic_airstrike_msg">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to call an airstrike"/>
+		<translation value="Чтобы вызвать авиаудар, нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="coop_cinematic_trigger">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to start coop action"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы передвинуть объект"/>
+	</entry>
+	<entry key="coop_cinematic_message_1">
+		<original value="YOU NEED ONE MORE PLAYER"/>
+		<translation value="НЕ ХВАТАЕТ ОДНОГО ИГРОКА"/>
+	</entry>
+	<entry key="coop_cinematic_message_2">
+		<original value="YOU NEED TWO MORE PLAYERS"/>
+		<translation value="НЕ ХВАТАЕТ ДВУХ ИГРОКОВ"/>
+	</entry>
+	<entry key="coop_cinematic_message_3">
+		<original value="YOU NEED MORE PLAYERS"/>
+		<translation value="НЕ ХВАТАЕТ ИГРОКОВ"/>
+	</entry>
+	<entry key="ui_label_change_class">
+		<original value="WILL TAKE EFFECT AFTER NEXT RESPAWN"/>
+		<translation value="ЭФФЕКТ ВСТУПИТ В СИЛУ ПОСЛЕ ПЕРЕРОЖДЕНИЯ"/>
+	</entry>
+	<entry key="ui_label_class_select">
+		<original value="CHANGE YOUR CLASS:"/>
+		<translation value="СМЕНА КЛАССА:"/>
+	</entry>
+	<entry key="ui_label_to_lobby">
+		<original value="LEAVE CURRENT EVENT, AND RETURN TO LOBBY"/>
+		<translation value="ПОКИНУТЬ ИГРУ И ВЕРНУТЬСЯ В ЗАЛ"/>
+	</entry>
+	<entry key="ui_label_exit">
+		<original value="EXIT WARFACE"/>
+		<translation value="ВЫЙТИ ИЗ ИГРЫ"/>
+	</entry>
+	<entry key="ui_label_close_class_sel">
+		<original value="PRESS [ESC] TO CLOSE THIS WINDOW"/>
+		<translation value="НАЖМИТЕ [ESC], ЧТОБЫ ЗАКРЫТЬ ЭТО ОКНО"/>
+	</entry>
+	<entry key="ui_label_selected_class">
+		<original value="NEXT TIME YOU WILL BE SPAWNED AS A %1"/>
+		<translation value="В следующий раз вы возродитесь как %1"/>
+	</entry>
+	<entry key="ui_label_no_class_select">
+		<original value="CLASS CHANGING IS NOT ALLOWED"/>
+		<translation value="СМЕНА КЛАССА ЗАПРЕЩЕНА"/>
+	</entry>
+	<entry key="announce_class_selected">
+		<original value="NEXT TIME YOU WILL BE SPAWNED AS A %selected_class%"/>
+		<translation value="В следующий раз вы возродитесь как %selected_class%"/>
+	</entry>
+	<entry key="ui_btn_back">
+		<original value="BACK"/>
+		<translation value="НАЗАД"/>
+	</entry>
+	<entry key="interaction_heal">
+		<original value="HEAL"/>
+		<translation value="ЛЕЧЕНИЕ"/>
+	</entry>
+	<entry key="interaction_repair">
+		<original value="SUPPORT"/>
+		<translation value="РЕМОНТ"/>
+	</entry>
+	<entry key="interaction_resurrect">
+		<original value="RESURRECT"/>
+		<translation value="РЕАНИМАЦИЯ"/>
+	</entry>
+	<entry key="interaction_give_ammo">
+		<original value="SUPPORT"/>
+		<translation value="ПОПОЛНЕНИЕ БОЕЗАПАСА"/>
+	</entry>
+	<entry key="combatlog_weapon_refilled">
+		<original value="Ammo refilled"/>
+		<translation value="БОЕЗАПАС ПОПОЛНЕН"/>
+	</entry>
+	<entry key="kill_counter_first_blood">
+		<original value="FIRST BLOOD!!!"/>
+		<translation value="ПЕРВАЯ КРОВЬ!"/>
+	</entry>
+	<entry key="kill_counter_first_kill">
+		<original value="1 KILL"/>
+		<translation value="1 УБИЙСТВО"/>
+	</entry>
+	<entry key="kill_counter_kills_count">
+		<original value="%1 KILLS"/>
+		<translation value="УБИЙСТВ: %1"/>
+	</entry>
+	<entry key="vo_escape">
+		<original value="Escape - Exit"/>
+		<translation value="Escape - Выход"/>
+	</entry>
+	<entry key="vo_command">
+		<original value="%1 - %2"/>
+		<translation value="%1 - %2"/>
+	</entry>
+	<entry key="say_need_medic">
+		<original value="Need medic!"/>
+		<translation value="Нужен медик!"/>
+	</entry>
+	<entry key="say_need_ammo">
+		<original value="Need ammo!"/>
+		<translation value="Нужны патроны!"/>
+	</entry>
+	<entry key="say_need_armor">
+		<original value="Need armor!"/>
+		<translation value="Нужна броня!"/>
+	</entry>
+	<entry key="say_follow_me">
+		<original value="Follow me!"/>
+		<translation value="За мной!"/>
+	</entry>
+	<entry key="say_cover_me">
+		<original value="Cover me!"/>
+		<translation value="Прикрой меня!"/>
+	</entry>
+	<entry key="say_ready">
+		<original value="Ready!"/>
+		<translation value="Готов!"/>
+	</entry>
+	<entry key="say_enemy_spotted">
+		<original value="Enemy spotted!"/>
+		<translation value="Вижу врага!"/>
+	</entry>
+	<entry key="say_sector_clear">
+		<original value="Sector clear!"/>
+		<translation value="Сектор чист!"/>
+	</entry>
+	<entry key="say_regroup">
+		<original value="Regroup!"/>
+		<translation value="Перегруппироваться!"/>
+	</entry>
+	<entry key="say_keep_moving">
+		<original value="Keep moving!"/>
+		<translation value="Вперед, вперед!"/>
+	</entry>
+	<entry key="say_move_out">
+		<original value="Move out!"/>
+		<translation value="Выдвигаемся!"/>
+	</entry>
+	<entry key="say_fall_back">
+		<original value="Fall back!"/>
+		<translation value="Отступаем!"/>
+	</entry>
+	<entry key="say_affirmative">
+		<original value="Affirmative!"/>
+		<translation value="Принято!"/>
+	</entry>
+	<entry key="say_negative">
+		<original value="Negative!"/>
+		<translation value="Никак нет!"/>
+	</entry>
+	<entry key="say_enemy_down">
+		<original value="Enemy down!"/>
+		<translation value="Враг убит!"/>
+	</entry>
+	<entry key="say_taunt">
+		<original value="Taunt!"/>
+		<translation value="Нравится?"/>
+	</entry>
+	<entry key="assault_name">
+		<original value="Assault"/>
+		<translation value="Штурмовик"/>
+	</entry>
+	<entry key="cqb_name">
+		<original value="CQB"/>
+		<translation value="Тяжелый пехотинец"/>
+	</entry>
+	<entry key="sniper_name">
+		<original value="Sniper"/>
+		<translation value="Снайпер"/>
+	</entry>
+	<entry key="shieldbearer_name">
+		<original value="Heavy Soldier"/>
+		<translation value="Щитоносец"/>
+	</entry>
+	<entry key="demoman_name">
+		<original value="Demoman"/>
+		<translation value="Гранатометчик"/>
+	</entry>
+	<entry key="specops_name">
+		<original value="Specops"/>
+		<translation value="Боец спецназа"/>
+	</entry>
+	<entry key="mech2300_name">
+		<original value="Mech 2300"/>
+		<translation value="ПБМ 'Гром'"/>
+	</entry>
+	<entry key="ka52_name">
+		<original value="KA-50"/>
+		<translation value="KA-50"/>
+	</entry>
+	<entry key="heavygunner_name">
+		<original value="Heavy Gunner"/>
+		<translation value="Джаггернаут"/>
+	</entry>
+	<entry key="shieldbearer_smg_name">
+		<original value="Heavy Soldier SMG"/>
+		<translation value="Щитоносец-стрелок"/>
+	</entry>
+	<entry key="melee_name">
+		<original value="Security Guard"/>
+		<translation value="Сотрудник охраны"/>
+	</entry>
+	<entry key="melee_africa_name">
+		<original value="Militant"/>
+		<translation value="Боевик"/>
+	</entry>
+	<entry key="commando_name">
+		<original value="Commando"/>
+		<translation value="Коммандо"/>
+	</entry>
+	<entry key="sharpshooter_name">
+		<original value="Sharpshooter"/>
+		<translation value="Стрелок"/>
+	</entry>
+	<entry key="stormtrooper_name">
+		<original value="Stormtrooper"/>
+		<translation value="Солдат"/>
+	</entry>
+	<entry key="zsd_basic_01_name">
+		<original value="Alpha"/>
+		<translation value="Альфа"/>
+	</entry>
+	<entry key="zsd_basic_02_name">
+		<original value="Alpha 2.0"/>
+		<translation value="Альфа-2"/>
+	</entry>
+	<entry key="zsd_basic_03_name">
+		<original value="Prototype"/>
+		<translation value="Прототип"/>
+	</entry>
+	<entry key="zsd_fast_01_name">
+		<original value="Beta"/>
+		<translation value="Бета"/>
+	</entry>
+	<entry key="zsd_fast_02_name">
+		<original value="Beta 2.0"/>
+		<translation value="Бета-2"/>
+	</entry>
+	<entry key="zsd_fast_03_name">
+		<original value="Sigma"/>
+		<translation value="Сигма"/>
+	</entry>
+	<entry key="zsd_miniboss_01_name">
+		<original value="Heavy"/>
+		<translation value="Громила"/>
+	</entry>
+	<entry key="zsd_miniboss_02_name">
+		<original value="Heavy 2.0"/>
+		<translation value="Громила-2"/>
+	</entry>
+	<entry key="zsd_boss_name">
+		<original value="Host"/>
+		<translation value="Главарь"/>
+	</entry>
+	<entry key="zsd_emp_name">
+		<original value="EMP"/>
+		<translation value="ЭМИ"/>
+	</entry>
+	<entry key="player_dummy_name">
+		<original value="Private"/>
+		<translation value="Рядовой"/>
+	</entry>
+	<entry key="reward_best_score">
+		<original value="Best score"/>
+		<translation value="Лучший результат"/>
+	</entry>
+	<entry key="result_time">
+		<original value="Time"/>
+		<translation value="Время"/>
+	</entry>
+	<entry key="sem_name">
+		<original value="SEM"/>
+		<translation value="ЗСУ"/>
+	</entry>
+	<entry key="tank_name">
+		<original value="Tank"/>
+		<translation value="Танк"/>
+	</entry>
+	<entry key="limo_name">
+		<original value="Limousine"/>
+		<translation value="Лимузин"/>
+	</entry>
+	<entry key="ui_button_restart_tutorial">
+		<original value="RESTART TUTORIAL"/>
+		<translation value="НАЧАТЬ ЗАНОВО"/>
+	</entry>
+	<entry key="ingame_chat_to_team">
+		<original value="&lt;font color=&quot;#FFFFFF&quot;&gt;Team %1: %2&lt;/font&gt;"/>
+		<translation value="&lt;font color=&quot;#FFFFFF&quot;&gt;%1 (КОМАНДА): %2&lt;/font&gt;"/>
+	</entry>
+	<entry key="ingame_chat_to_all">
+		<original value="&lt;font color=&quot;#FFFFFF&quot;&gt;%1: %2&lt;/font&gt;"/>
+		<translation value="&lt;font color=&quot;#FFFFFF&quot;&gt;%1: %2&lt;/font&gt;"/>
+	</entry>
+	<entry key="ingame_chat_to_observers">
+		<original value="&lt;font color=&quot;#FFFFFF&quot;&gt;OBSERVERS %1: %2&lt;/font&gt;"/>
+		<translation value="&lt;font color=&quot;#FFFFFF&quot;&gt;%1 (НАБЛЮДАТЕЛИ): %2&lt;/font&gt;"/>
+	</entry>
+	<entry key="ingame_chat_system">
+		<original value="System:"/>
+		<translation value="Система:"/>
+	</entry>
+	<entry key="tutorial_place_claymore_marker">
+		<original value="SET UP CLAYMORE"/>
+		<translation value="ПОСТАВЬТЕ МИНУ"/>
+	</entry>
+	<entry key="tutorial_headshot">
+		<original value="Headshot!"/>
+		<translation value="В голову!"/>
+	</entry>
+	<entry key="ptb_tutorial_marker_text">
+		<original value="PLANT THE BOMB"/>
+		<translation value="УСТАНОВИТЕ БОМБУ"/>
+	</entry>
+	<entry key="shootingtarget_rl_marker_text">
+		<original value="SHOOT WITH ROCKET LAUNCHER"/>
+		<translation value="ВЫСТРЕЛИТЕ ИЗ ГРАНАТОМЕТА"/>
+	</entry>
+	<entry key="checkpoint_vault_marker_text">
+		<original value="VAULT OVER THIS OBSTACLE"/>
+		<translation value="ПЕРЕЛЕЗЬТЕ ЧЕРЕЗ СТЕНУ"/>
+	</entry>
+	<entry key="checkpoint_single_climb_marker_text">
+		<original value="SCALE THIS WALL"/>
+		<translation value="ЗАЛЕЗЬТЕ НА СТЕНУ"/>
+	</entry>
+	<entry key="ui_hud_kill_assist">
+		<original value="+ %1 Assist"/>
+		<translation value="Поддержка +%1"/>
+	</entry>
+	<entry key="hud_zero_consumables">
+		<original value="--"/>
+		<translation value="--"/>
+	</entry>
+	<entry key="hud_arena_progress">
+		<original value="%1 / %2"/>
+		<translation value="%1 / %2"/>
+	</entry>
+	<entry key="gate_name">
+		<original value="Gate"/>
+		<translation value="Ворота"/>
+	</entry>
+	<entry key="activate_beacon">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; for activate beacon"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы активировать маячок"/>
+	</entry>
+	<entry key="blackbird_name">
+		<original value="Blackbird"/>
+		<translation value="Черная акула"/>
+	</entry>
+	<entry key="breach_use_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to &lt;font color='#3195e1'&gt; Breach &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt; пробить брешь &lt;/font&gt;"/>
+	</entry>
+	<entry key="shutter_use_close_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to &lt;font color='#3195e1'&gt; Fortify &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt; укрепить &lt;/font&gt;"/>
+	</entry>
+	<entry key="shutter_use_open_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to open &lt;font color='#3195e1'&gt;Barricade &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt; разобрать баррикаду &lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_reload_cannon_text">
+		<original value="RELOAD"/>
+		<translation value="ПЕРЕЗАРЯДИТЬ"/>
+	</entry>
+	<entry key="resource_use_text">
+		<original value="BUILD"/>
+		<translation value="ПОСТРОИТЬ"/>
+	</entry>
+	<entry key="resource_pickup_text">
+		<original value="COLLECT"/>
+		<translation value="СОБРАТЬ"/>
+	</entry>
+	<entry key="resource_surprise_text">
+		<original value="SURPRISE"/>
+		<translation value="СЮРПРИЗ"/>
+	</entry>
+	<entry key="resource_repair_text">
+		<original value="REPAIR"/>
+		<translation value="ПОЧИНИТЬ"/>
+	</entry>
+	<entry key="resource_cant_use_text">
+		<original value="NOT ENOUGH RESOURCES"/>
+		<translation value="НЕДОСТАТОЧНО РЕСУРСОВ"/>
+	</entry>
+	<entry key="deactivate_marker_text">
+		<original value="DEACTIVATE"/>
+		<translation value="ДЕАКТИВИРОВАТЬ"/>
+	</entry>
+	<entry key="artillery_impact_text">
+		<original value="ARTILLERY!"/>
+		<translation value="АРТИЛЛЕРИЯ!"/>
+	</entry>
+	<entry key="russian_winter_artillery_icon_text">
+		<original value="ARTILLERY USAGE!"/>
+		<translation value="ОГОНЬ АРТИЛЛЕРИИ!"/>
+	</entry>
+	<entry key="destroy_marker_text">
+		<original value="DESTROY"/>
+		<translation value="УНИЧТОЖИТЬ"/>
+	</entry>
+	<entry key="rotate_marker_text">
+		<original value="Rotate"/>
+		<translation value="Поворот"/>
+	</entry>
+	<entry key="resource_stair_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate &lt;font color='#3195e1'&gt; Stair &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use]&lt;/font&gt;, чтобы использовать &lt;font color='#3195e1'&gt; лестницу &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_stair_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to build &lt;font color='#3195e1'&gt; Stair &lt;/font&gt;"/>
+		<translation value="Для строительства &lt;font color='#3195e1'&gt;лестницы&lt;/font&gt; нужно&lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_claymore_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to arm &lt;font color='#3195e1'&gt; Claymore &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1 &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы установить &lt;font color='#3195e1'&gt; мину M18 &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_claymore_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to build &lt;font color='#3195e1'&gt; Claymore &lt;/font&gt;"/>
+		<translation value="Требуется для создания &lt;font color='#3195e1'&gt; мины M18 &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_barricade_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate &lt;font color='#3195e1'&gt; Barricade &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы установить &lt;font color='#3195e1'&gt; баррикаду &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_barricade_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to build &lt;font color='#3195e1'&gt; Barricade &lt;/font&gt;"/>
+		<translation value="Требуется для создания &lt;font color='#3195e1'&gt; баррикады &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_barricade_toggle_text">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to toggle &lt;font color='#3195e1'&gt; Barricade &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; для строительства &lt;font color='#3195e1'&gt; Барикады &lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_sentrygun_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate &lt;font color='#3195e1'&gt; Sentrygun &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы включить &lt;font color='#3195e1'&gt; турель &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_sentrygun_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to build &lt;font color='#3195e1'&gt; Sentrygun &lt;/font&gt;"/>
+		<translation value="Требуется для создания &lt;font color='#3195e1'&gt; турели &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_C4_tut_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate &lt;font color='#3195e1'&gt; C4 &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы установить &lt;font color='#3195e1'&gt; C4 &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_C4_tut_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to activate &lt;font color='#3195e1'&gt; C4 &lt;/font&gt;"/>
+		<translation value="Требуется для создания &lt;font color='#3195e1'&gt; C4 &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_barrel_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to reactivate &lt;font color='#3195e1'&gt; Barrel bomb &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы установить &lt;font color='#3195e1'&gt; самодельную бомбу &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_barrel_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to build &lt;font color='#3195e1'&gt; Barrel bomb &lt;/font&gt;"/>
+		<translation value="Требуется для создания &lt;font color='#3195e1'&gt; самодельной бомбы &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_cratepickup_text">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to open &lt;font color='#3195e1'&gt; cache &lt;/font&gt;"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы открыть &lt;font color='#3195e1'&gt; ящик &lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_repair_obj_act1_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to repair &lt;font color='#3195e1'&gt; Terminal &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; чтобы починить &lt;font color='#3195e1'&gt; Терминал &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_repair_obj_act1_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt; %1 &lt;/font&gt; needed to repair &lt;font color='#3195e1'&gt; Terminal &lt;/font&gt;"/>
+		<translation value="Требуется для починки &lt;font color='#3195e1'&gt; терминала &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_C4_tank_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate &lt;font color='#3195e1'&gt; C4 &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Установить C4"/>
+	</entry>
+	<entry key="resource_C4_tank_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to activate &lt;font color='#3195e1'&gt; C4 &lt;/font&gt;"/>
+		<translation value="Требуется для создания &lt;font color='#3195e1'&gt; C4 &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="campaignsection1">
+		<original value="SPEARHEAD"/>
+		<translation value="ОСТРИЕ"/>
+	</entry>
+	<entry key="campaignsection2">
+		<original value="AMBUSH"/>
+		<translation value="ЗАСАДА"/>
+	</entry>
+	<entry key="campaignsection3">
+		<original value="ZENITH"/>
+		<translation value="ЗЕНИТ"/>
+	</entry>
+	<entry key="campaignsections">
+		<original value="MARATHON"/>
+		<translation value="МАРАФОН"/>
+	</entry>
+	<entry key="survival_messagebox_play_campaign">
+		<original value="You will play consecutively through all 3 Cold Peak missions (Spearhead, Ambush and Zenith). As a consequence the play time will be longer.\nRewards as well as the difficulty will be higher.\nAre you sure, you want to play the Marathon mode?"/>
+		<translation value="В этом режиме необходимо пройти все три миссии 'Снежного бастиона' подряд ('Острие', 'Засада', 'Зенит'). Это может занять много времени.\nНаграды и сложность будут повышены.\nНачать игру в режиме 'Марафон'?"/>
+	</entry>
+	<entry key="mission_type_campaignsection2_unlocked">
+		<original value="You have unlocked the &quot;Ambush&quot; Cold Peak mission"/>
+		<translation value="Вы открыли миссию 'Засада' в операции 'Снежный бастион'"/>
+	</entry>
+	<entry key="mission_type_campaignsection3_unlocked">
+		<original value="You have unlocked the &quot;Zenith&quot; Cold Peak mission"/>
+		<translation value="Вы открыли миссию 'Зенит' в операции 'Снежный бастион'"/>
+	</entry>
+	<entry key="mission_type_campaignsections_unlocked">
+		<original value="You have unlocked the &quot;Marathon&quot; Cold Peak mission"/>
+		<translation value="Вы открыли режим 'Марафон' в операции 'Снежный бастион'"/>
+	</entry>
+	<entry key="resource_boss_mine_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to arm &lt;font color='#3195e1'&gt; Mine &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; , чтобы установить &lt;font color='#3195e1'&gt; противопехотную мину &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_boss_mine_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to build &lt;font color='#3195e1'&gt; Mine &lt;/font&gt;"/>
+		<translation value="Требуется для изготовления &lt;font color='#3195e1'&gt; противопехотной мины &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_cannon_reload_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to instant reload &lt;font color='#3195e1'&gt; Cannon &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; , чтобы мгновенно перезарядить &lt;font color='#3195e1'&gt; пушку &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_cannon_reload_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to instant reload &lt;font color='#3195e1'&gt; Cannon &lt;/font&gt;"/>
+		<translation value="Требуется для мгновенной перезарядки &lt;font color='#3195e1'&gt; пушки &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="cannon_use_text">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to fire &lt;font color='#3195e1'&gt; Cannon &lt;/font&gt;"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы открыть огонь из &lt;font color='#3195e1'&gt; пушки &lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_repair_obj_act3_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to repair &lt;font color='#3195e1'&gt; Generator &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы починить &lt;font color='#3195e1'&gt; генератор &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_repair_obj_act3_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to repair &lt;font color='#3195e1'&gt; Generator &lt;/font&gt;"/>
+		<translation value="Требуется для починки &lt;font color='#3195e1'&gt; генератора &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="activate_generator_obj_act3_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate &lt;font color='#3195e1'&gt; Generator &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы включить &lt;font color='#3195e1'&gt; генератор &lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_repair_obj_act2_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to repair &lt;font color='#3195e1'&gt; Generator &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы починить &lt;font color='#3195e1'&gt; генератор &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_repair_obj_act2_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to repair &lt;font color='#3195e1'&gt; Generator &lt;/font&gt;"/>
+		<translation value="Требуется для починки &lt;font color='#3195e1'&gt; генератора &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="rw_tank_name">
+		<original value="General MEGATANK"/>
+		<translation value="ТЯЖЕЛЫЙ ТАНК"/>
+	</entry>
+	<entry key="rw_sentrygun_name">
+		<original value="Sentry gun"/>
+		<translation value="Турель"/>
+	</entry>
+	<entry key="rw_tankturret_name">
+		<original value="Tank turret"/>
+		<translation value="Танковая турель"/>
+	</entry>
+	<entry key="ui_open_lobby_survival">
+		<original value="Open Survival Lobby"/>
+		<translation value="Спецоперации"/>
+	</entry>
+	<entry key="resource_C4_gate_build_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to plant &lt;font color='#3195e1'&gt; C4 &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; , чтобы установить &lt;font color='#3195e1'&gt; C4 &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_C4_gate_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1&lt;/font&gt; needed to plant &lt;font color='#3195e1'&gt; C4 &lt;/font&gt;"/>
+		<translation value="Требуется для установки &lt;font color='#3195e1'&gt; C4 &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_act2_hack_gate_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to hack the &lt;font color='#3195e1'&gt; outpost gates &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы взломать &lt;font color='#3195e1'&gt; ворота аванпоста &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_act2_start_generator_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate the &lt;font color='#3195e1'&gt; base defense system &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы включить &lt;font color='#3195e1'&gt; систему защиты базы &lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_C4_ironman_plant_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate &lt;font color='#3195e1'&gt; C4 &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1 &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы активировать &lt;font color='#3195e1'&gt; C4 &lt;/font&gt; / &lt;font color='#ff0000'&gt;%1 &lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_C4_ironman_forbidden_text">
+		<original value="&lt;font color='#ff0000'&gt;%1 &lt;/font&gt; needed to activate &lt;font color='#3195e1'&gt; C4 &lt;/font&gt;"/>
+		<translation value="Требуется для активации &lt;font color='#3195e1'&gt; C4 &lt;/font&gt;: &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_act3_hack_bunker_text">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to upload"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы начать загрузку"/>
+	</entry>
+	<entry key="ui_act3_call_elevator_text">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to call elevator"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы вызвать лифт"/>
+	</entry>
+	<entry key="ui_act3_fix_relay_text">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to fix relay"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы починить реле"/>
+	</entry>
+	<entry key="ui_act3_open_fence_text">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to hack the &lt;font color='#3195e1'&gt; Door &lt;/font&gt;"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы взломать &lt;font color='#3195e1'&gt; дверь &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_act3_deactivate_aaa_text">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to deactivate AAA"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы отключить ПВО"/>
+	</entry>
+	<entry key="ui_act3_deactivate_radar_text">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to intercept"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; для перехвата"/>
+	</entry>
+	<entry key="rw_act3_ab1_mainobj_10_msg_active_text">
+		<original value="PRIMARY: Secure Blackwood's base."/>
+		<translation value="ЗАДАНИЕ: захватите базу Blackwood"/>
+	</entry>
+	<entry key="rw_act3_ab1_mainobj_gastank_msg_text">
+		<original value="PRIMARY: Activate the generators."/>
+		<translation value="ЗАДАНИЕ: включите генераторы"/>
+	</entry>
+	<entry key="rw_act3_ab1_mainobj_all_msg_text">
+		<original value="PRIMARY: Protect the generators."/>
+		<translation value="ЗАДАНИЕ: защитите генераторы"/>
+	</entry>
+	<entry key="rw_act3_ab1_mainobj_20_msg_active_text">
+		<original value="PRIMARY: Call the conveyor."/>
+		<translation value="ЗАДАНИЕ: вызовите конвеер"/>
+	</entry>
+	<entry key="rw_act3_ab1_mainobj_40_msg_active_text">
+		<original value="PRIMARY: Re-enable the relay."/>
+		<translation value="ЗАДАНИЕ: восстановите реле"/>
+	</entry>
+	<entry key="rw_act3_ab1_mainobj_60_msg_active_text">
+		<original value="PRIMARY: Kill the Heavy Gunner."/>
+		<translation value="ЗАДАНИЕ: победите джаггернаута"/>
+	</entry>
+	<entry key="rw_act3_ab1_mainobj_70_msg_active_text">
+		<original value="PRIMARY: Board the conveyor."/>
+		<translation value="ЗАДАНИЕ: заберитесь на конвеер"/>
+	</entry>
+	<entry key="rw_act3_ab1_mainobj_failed_msg_text">
+		<original value="MISSION FAILED: Generator destroyed."/>
+		<translation value="МИССИЯ ПРОВАЛЕНА: генератор уничтожен"/>
+	</entry>
+	<entry key="rw_act3_boss_cannon_reminder_text">
+		<original value="PRIMARY: Fire the cannon at the gate."/>
+		<translation value="ЗАДАНИЕ: выстрелите из пушки по воротам"/>
+	</entry>
+	<entry key="rw_act3_boss_finalobj_push_text">
+		<original value="PRIMARY: Get to the gate."/>
+		<translation value="ЗАДАНИЕ: доберитесь до ворот"/>
+	</entry>
+	<entry key="rw_generic_reinf30_msg_text">
+		<original value="Enemy reinforcements are inbound!"/>
+		<translation value="Приближаются подкрепления врага!"/>
+	</entry>
+	<entry key="rw_generic_kill_all_msg_text">
+		<original value="Wave almost done: Kill everyone you find!"/>
+		<translation value="Атака почти отбита! Убейте оставшихся врагов."/>
+	</entry>
+	<entry key="rw_generic_msg_wave01_text">
+		<original value="Wave01!"/>
+		<translation value="Этап 1"/>
+	</entry>
+	<entry key="rw_generic_msg_wave02_text">
+		<original value="Wave02!"/>
+		<translation value="Этап 2"/>
+	</entry>
+	<entry key="rw_generic_msg_wave03_text">
+		<original value="Wave03!"/>
+		<translation value="Этап 3"/>
+	</entry>
+	<entry key="rw_generic_msg_wave04_text">
+		<original value="Wave04!"/>
+		<translation value="Этап 4"/>
+	</entry>
+	<entry key="rw_generic_msg_wave05_text">
+		<original value="Wave05!"/>
+		<translation value="Этап 5"/>
+	</entry>
+	<entry key="rw_generic_msg_wave06_text">
+		<original value="Wave06!"/>
+		<translation value="Этап 6"/>
+	</entry>
+	<entry key="rw_generic_msg_wave07_text">
+		<original value="Wave07!"/>
+		<translation value="Этап 7"/>
+	</entry>
+	<entry key="rw_generic_msg_wave08_text">
+		<original value="Wave08!"/>
+		<translation value="Этап 8"/>
+	</entry>
+	<entry key="rw_generic_msg_wave09_text">
+		<original value="Wave09!"/>
+		<translation value="Этап 9"/>
+	</entry>
+	<entry key="rw_secobj_msg_done_text">
+		<original value="SECONDARY: Well done - reward unlocked."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: награда получена!"/>
+	</entry>
+	<entry key="rw_secobj_pickupcase_msg_active_text">
+		<original value="SECONDARY: Collect Blackwood intel."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: отыщите данные Blackwood"/>
+	</entry>
+	<entry key="rw_secobj_download_msg_active_text">
+		<original value="SECONDARY: Download Blackwood intel."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: скачайте данные Blackwood"/>
+	</entry>
+	<entry key="rw_secobj_destroytransmitter_msg_active_text">
+		<original value="SECONDARY: Destroy both transmitters."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: уничтожьте оба передатчика"/>
+	</entry>
+	<entry key="rw_secobj_heavybox_msg_active_text">
+		<original value="SECONDARY: Destroy the Heavy Box."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: уничтожьте преграду"/>
+	</entry>
+	<entry key="rw_secobj_heli_msg_active_text">
+		<original value="SECONDARY: Destroy the Troop Helicopter."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: сбейте десантный вертолет"/>
+	</entry>
+	<entry key="rw_act3_ab1_secobj_aaa_msg_active_text">
+		<original value="SECONDARY: Take out the AAA guns."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: выведите из строя системы ПВО"/>
+	</entry>
+	<entry key="rw_act3_ab1_secobj_satdish_msg_active_text">
+		<original value="SECONDARY: Destroy the array."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: взорвите батареи"/>
+	</entry>
+	<entry key="rw_reward_resources500_msg_text">
+		<original value="Objective reward: +500 Resources"/>
+		<translation value="Награда за задание: 500 ресурсов"/>
+	</entry>
+	<entry key="rw_reward_resources1000_msg_text">
+		<original value="Objective reward: +1000 Resources"/>
+		<translation value="Награда за задание: 1000 ресурсов"/>
+	</entry>
+	<entry key="rw_reward_resources2000_msg_text">
+		<original value="Objective reward: +2000 Resources"/>
+		<translation value="Награда за задание: 2000 ресурсов"/>
+	</entry>
+	<entry key="rw_reward_resources3000_msg_text">
+		<original value="Objective reward: +3000 Resources"/>
+		<translation value="Награда за задание: 3000 ресурсов"/>
+	</entry>
+	<entry key="rw_reward_resources4000_msg_text">
+		<original value="Objective reward: +4000 Resources"/>
+		<translation value="Награда за задание: 4000 ресурсов"/>
+	</entry>
+	<entry key="rw_tactical_options_available_msg_text">
+		<original value="Gadget: Tactical options available!"/>
+		<translation value="Доступны тактические возможности!"/>
+	</entry>
+	<entry key="rw_act3_boss_progress10_text">
+		<original value="Cannon 10% rotated"/>
+		<translation value="Пушка повернута на 10%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress20_text">
+		<original value="Cannon 20% rotated"/>
+		<translation value="Пушка повернута на 20%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress30_text">
+		<original value="Cannon 30% rotated"/>
+		<translation value="Пушка повернута на 30%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress40_text">
+		<original value="Cannon 40% rotated"/>
+		<translation value="Пушка повернута на 40%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress50_text">
+		<original value="Cannon 50% rotated"/>
+		<translation value="Пушка повернута на 50%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress60_text">
+		<original value="Cannon 60% rotated"/>
+		<translation value="Пушка повернута на 60%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress70_text">
+		<original value="Cannon 70% rotated"/>
+		<translation value="Пушка повернута на 70%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress80_text">
+		<original value="Cannon 80% rotated"/>
+		<translation value="Пушка повернута на 80%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress90_text">
+		<original value="Cannon 90% rotated"/>
+		<translation value="Пушка повернута на 90%"/>
+	</entry>
+	<entry key="rw_act3_boss_progress100_text">
+		<original value="Cannon 100% rotated"/>
+		<translation value="Пушка повернута на 100%"/>
+	</entry>
+	<entry key="rw_act1_ab1_mainobj_10_msg_active_text">
+		<original value="PRIMARY: Investigate."/>
+		<translation value="ЗАДАНИЕ: обследуйте местность"/>
+	</entry>
+	<entry key="rw_act1_ab1_mainobj_11_msg_active_text">
+		<original value="PRIMARY: Get inside."/>
+		<translation value="ЗАДАНИЕ: проберитесь внутрь"/>
+	</entry>
+	<entry key="rw_act1_ab2_mainobj_20_msg_active_text">
+		<original value="PRIMARY: Install the worm."/>
+		<translation value="ЗАДАНИЕ: установите червя"/>
+	</entry>
+	<entry key="rw_act1_ab2_mainobj_20_msg_done_text">
+		<original value="PRIMARY: Upload in progress."/>
+		<translation value="ЗАДАНИЕ: загрузите данные"/>
+	</entry>
+	<entry key="rw_act1_ab2_mainobj_30_msg_active_text">
+		<original value="PRIMARY: Protect the terminal."/>
+		<translation value="ЗАДАНИЕ: защитите терминал"/>
+	</entry>
+	<entry key="rw_act1_ab2_mainobj_30_msg_failed_text">
+		<original value="MISSION FAILED: Terminal destroyed."/>
+		<translation value="МИССИЯ ПРОВАЛЕНА: терминал уничтожен"/>
+	</entry>
+	<entry key="rw_act1_ab2_mainobj_30_msg_done_text">
+		<original value="PRIMARY: Well defended!"/>
+		<translation value="ЗАДАНИЕ: вы защитили позиции!"/>
+	</entry>
+	<entry key="rw_act1_ab2_mainobj_50_msg_active_text">
+		<original value="PRIMARY: Destroy the tank."/>
+		<translation value="ЗАДАНИЕ: уничтожьте танк"/>
+	</entry>
+	<entry key="rw_act1_ab2_mainobj_99_msg_done_text">
+		<original value="PRIMARY: Well done - next stage unlocked!"/>
+		<translation value="ЗАДАНИЕ: следующий этап открыт!"/>
+	</entry>
+	<entry key="rw_act1_ab2_fencedoor_msg_open_text">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to open"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы открыть"/>
+	</entry>
+	<entry key="rw_reward_call_airstrike_msg_text">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to call &lt;font color='#3195e1'&gt; Airstrike &lt;/font&gt;"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы вызвать &lt;font color='#3195e1'&gt; авиаудар &lt;/font&gt;"/>
+	</entry>
+	<entry key="resource_pickup_message">
+		<original value="Resources earned"/>
+		<translation value="Получены ресурсы"/>
+	</entry>
+	<entry key="rw_act2_outpost_progress_1_text">
+		<original value="PRIMARY: Infiltrate the castle."/>
+		<translation value="ЗАДАНИЕ: проникните в замок"/>
+	</entry>
+	<entry key="rw_act2_outpost_progress_2_text">
+		<original value="PRIMARY: Get inside the outpost."/>
+		<translation value="ЗАДАНИЕ: проберитесь внутрь аванпоста"/>
+	</entry>
+	<entry key="rw_act2_outpost_progress_3_text">
+		<original value="PRIMARY: Open the main gate."/>
+		<translation value="ЗАДАНИЕ: откройте главные ворота"/>
+	</entry>
+	<entry key="rw_act2_outpost_progress_4_text">
+		<original value="PRIMARY: Get to the castle entrance."/>
+		<translation value="ЗАДАНИЕ: доберитесь до входа в замок"/>
+	</entry>
+	<entry key="rw_act2_avalanche_warning_text">
+		<original value="PRIMARY: Regroup in the safe zone."/>
+		<translation value="ЗАДАНИЕ: найдите безопасную зону"/>
+	</entry>
+	<entry key="rw_act2_castle_objective_1_text">
+		<original value="PRIMARY: Destroy the jammer."/>
+		<translation value="ЗАДАНИЕ: уничтожьте передатчик помех"/>
+	</entry>
+	<entry key="rw_act2_castle_objective_2_text">
+		<original value="PRIMARY: Take the Blackwood base."/>
+		<translation value="ЗАДАНИЕ: захватите базу Blackwood"/>
+	</entry>
+	<entry key="rw_act2_castle_objective_3_text">
+		<original value="PRIMARY: Jammer destroyed."/>
+		<translation value="ЗАДАНИЕ: передатчик помех уничтожен"/>
+	</entry>
+	<entry key="rw_act2_secondary_fusebox_1_text">
+		<original value="SECONDARY: Destroy the fusebox."/>
+		<translation value="ДОПОЛНИТЕЛЬНО: выведите из строя предохранители"/>
+	</entry>
+	<entry key="rw_act2_secondary_fusebox_use_1_text">
+		<original value="Hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to destroy the &lt;font color='#3195e1'&gt; fusebox &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы вывести из строя &lt;font color='#3195e1'&gt; предохранители &lt;/font&gt;"/>
+	</entry>
+	<entry key="rw_secobj_download_use_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to download &lt;font color='#3195e1'&gt; the files &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы скачать &lt;font color='#3195e1'&gt; файлы &lt;/font&gt;"/>
+	</entry>
+	<entry key="rw_secobj_pickupcase_use_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to pickup &lt;font color='#3195e1'&gt; the document case &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы подобрать &lt;font color='#3195e1'&gt; папку &lt;/font&gt;"/>
+	</entry>
+	<entry key="rw_secobj_heli_name_text">
+		<original value="Reinforcement Helicopter"/>
+		<translation value="Десантный вертолет"/>
+	</entry>
+	<entry key="rw_obj_generator_name_text">
+		<original value="Generator integrity"/>
+		<translation value="Состояние генератора"/>
+	</entry>
+	<entry key="rw_hack_jammer_text">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to hack &lt;font color='#3195e1'&gt;the Jammer antenna&lt;/font&gt;"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы взломать &lt;font color='#3195e1'&gt; постановщик помех &lt;/font&gt;"/>
+	</entry>
+	<entry key="rw_mission_exit">
+		<original value="Exit"/>
+		<translation value="Выход"/>
+	</entry>
+	<entry key="ironman_container">
+		<original value="Ironman Container"/>
+		<translation value="Контейнер с джаггернаутом"/>
+	</entry>
+	<entry key="rw_secobj_pickupweapon_use_text">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to pickup &lt;font color='#3195e1'&gt; weapon case &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы подобрать &lt;font color='#3195e1'&gt; коробку с оружием &lt;/font&gt;"/>
+	</entry>
+	<entry key="mission_use_airbase_jetengine">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to activate &lt;font color='#3195e1'&gt;airbase jetengine &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы включить &lt;font color='#3195e1'&gt;реактивный двигатель&lt;/font&gt;"/>
+	</entry>
+	<entry key="mission_use_streetwars_open">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to open"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы открыть"/>
+	</entry>
+	<entry key="mission_use_streetwars_close">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to close"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы закрыть"/>
+	</entry>
+	<entry key="mission_use_doorbell">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to ring"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы позвонить"/>
+	</entry>
+	<entry key="mission_use_mine_elevator">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to call the elevator"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы вызвать лифт"/>
+	</entry>
+	<entry key="picked_reward">
+		<original value="You have found %1"/>
+		<translation value="Найдено: %1"/>
+	</entry>
+	<entry key="picked_score">
+		<original value="You have found %1 score."/>
+		<translation value="Найдено ресурсов: %1"/>
+	</entry>
+	<entry key="picked_zombucks">
+		<original value="You have found %1 zombucks."/>
+		<translation value="Найдено зомбаксов: %1"/>
+	</entry>
+	<entry key="ui_roomsettings_allow_follow">
+		<original value="Following is allowed"/>
+		<translation value="Разрешено"/>
+	</entry>
+	<entry key="ui_roomsettings_denied_follow">
+		<original value="Following is denied"/>
+		<translation value="Запрещено"/>
+	</entry>
+	<entry key="ui_label_allow_follow">
+		<original value="ALLOW FOLLOW"/>
+		<translation value="Разрешить присоединение"/>
+	</entry>
+	<entry key="ui_death_cam_killer">
+		<original value="KILLER"/>
+		<translation value="УБИЙЦА"/>
+	</entry>
+	<entry key="zsd_screamer_01_name">
+		<original value="Screamer"/>
+		<translation value="Крикун"/>
+	</entry>
+	<entry key="zsd_destroyer_name">
+		<original value="Destroyer"/>
+		<translation value="Химера"/>
+	</entry>
+	<entry key="zsd_crusher_name">
+		<original value="Crusher"/>
+		<translation value="Разрушитель"/>
+	</entry>
+	<entry key="zsd_barrelman_name">
+		<original value="Kamikaze"/>
+		<translation value="Камикадзе"/>
+	</entry>
+	<entry key="zsd_omega_name">
+		<original value="Omega"/>
+		<translation value="Омега"/>
+	</entry>
+	<entry key="zsd_vehicle_name">
+		<original value="Vehicle"/>
+		<translation value="Машина"/>
+	</entry>
+	<entry key="cinematic_stayclosetovehicle_msg">
+		<original value="Stay close to the vehicle!"/>
+		<translation value="Оставайтесь рядом с машиной!"/>
+	</entry>
+	<entry key="blaster_name">
+		<original value="Blaster Squad"/>
+		<translation value="Спецназ"/>
+	</entry>
+	<entry key="floor_asr_turret_name">
+		<original value="Сentipede"/>
+		<translation value="Сколопендра"/>
+	</entry>
+	<entry key="wall_mg_turret_name">
+		<original value="Porcupine"/>
+		<translation value="Дикобраз"/>
+	</entry>
+	<entry key="floor_mg_turret_name">
+		<original value="Cobra"/>
+		<translation value="Кобра"/>
+	</entry>
+	<entry key="floor_cqb_turret_name">
+		<original value="Moray"/>
+		<translation value="Мурена"/>
+	</entry>
+	<entry key="ceil_sr_turret_name">
+		<original value="Hornet"/>
+		<translation value="Шершень"/>
+	</entry>
+	<entry key="floor_heavy_mg_turret_name">
+		<original value="Mammoth"/>
+		<translation value="Мамонт"/>
+	</entry>
+	<entry key="volcano_boss_name">
+		<original value="Boss"/>
+		<translation value="Урсула"/>
+	</entry>
+	<entry key="stm_bm_crane_go">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to &lt;font color='#3195e1'&gt; GO &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt;двигаться &lt;/font&gt;"/>
+	</entry>
+	<entry key="stm_bm_crane_stop">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to &lt;font color='#3195e1'&gt; STOP&lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt;остановиться&lt;/font&gt;"/>
+	</entry>
+	<entry key="stm_bm_engine">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to &lt;font color='#3195e1'&gt; Test engine &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt;проверить двигатель&lt;/font&gt;"/>
+	</entry>
+	<entry key="ffa_bunker_ph2">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to &lt;font color='#3195e1'&gt; Launch phase 2 &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt;начать фазу 1&lt;/font&gt;"/>
+	</entry>
+	<entry key="ffa_bunker_ph1">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to &lt;font color='#3195e1'&gt; Launch phase 1 &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt;начать фазу 2&lt;/font&gt;"/>
+	</entry>
+	<entry key="ffa_bunker_ph0">
+		<original value="Hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to &lt;font color='#3195e1'&gt; Rocket launch &lt;/font&gt;"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы &lt;font color='#3195e1'&gt;запустить ракету&lt;/font&gt;"/>
+	</entry>
+	<entry key="messagebox_disconnect_from_rating_game_question">
+		<original value="You will lose all gained scores, EXP and money!\nYou'll receive ban and it will be forbidden for you to take part in ranked games!\nAlso you'll lose rating!\nDo you still want to quit?"/>
+		<translation value="Покинуть игру?\nВсе полученные очки, опыт и варбаксы будут потеряны.\nРейтинг снизится.\nБудет наложен запрет на участие в рейтинговых боях."/>
+	</entry>
+	<entry key="pve_africa_radar">
+		<original value="Radar"/>
+		<translation value="Радар"/>
+	</entry>
+	<entry key="pve_cave_elevator">
+		<original value="Elevator"/>
+		<translation value="Лифт"/>
+	</entry>
+	<entry key="kickvote_invalid_target">
+		<original value="You can't start vote against this player."/>
+		<translation value="Вы не можете запустить голосование против этого игрока"/>
+	</entry>
+	<entry key="activate_radar">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to activate"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы использовать"/>
+	</entry>
+	<entry key="ib_flagship_artillery_name">
+		<original value="Ship Artillery"/>
+		<translation value="Корабельная артиллерия"/>
+	</entry>
+	<entry key="helicopter_mg_name">
+		<original value="Sharckopter-MG 3000"/>
+		<translation value="Винтокрыл Mk. II"/>
+	</entry>
+	<entry key="helicopter_hmg_name">
+		<original value="Sharckopter-HMG 3000"/>
+		<translation value="Вертолет HMG 3000"/>
+	</entry>
+	<entry key="helicopter_ac_name">
+		<original value="Sharckopter-AC 3000"/>
+		<translation value="Вертолет AC 3000"/>
+	</entry>
+	<entry key="ib_smg_smg09_name">
+		<original value="Enforcer"/>
+		<translation value="Диверсант"/>
+	</entry>
+	<entry key="Icebreaker Act 1">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="act1_ship">
+		<original value="Missile ship"/>
+		<translation value="Ракетный корабль"/>
+	</entry>
+	<entry key="Icebreaker Act 3">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="act3_ship">
+		<original value="Missile ship"/>
+		<translation value="Ракетный корабль"/>
+	</entry>
+	<entry key="Icebreaker Act 4 Boss">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="act4_ship_engine">
+		<original value="Ship Engine"/>
+		<translation value="Двигатель корабля"/>
+	</entry>
+	<entry key="ib_flagship_artillery_hit_zone_warning">
+		<original value="DANGER! ARTILLERY LETHAL ZONE!"/>
+		<translation value="ЭТОТ СЕКТОР ПОД ОБСТРЕЛОМ АРТИЛЛЕРИИ!"/>
+	</entry>
+	<entry key="ib_heavy_sniper_name">
+		<original value="Heavy Sniper"/>
+		<translation value="Элитный снайпер"/>
+	</entry>
+	<entry key="ea_enigma_name">
+		<original value="Enigma"/>
+		<translation value="Энигма"/>
+	</entry>
+	<entry key="ingame_chat_to_all_enemy">
+		<original value="&lt;font color=&quot;#FF0000&quot;&gt;%1:&lt;/font&gt;&lt;font color=&quot;#FFFFFF&quot;&gt; %2&lt;/font&gt;"/>
+		<translation value="&lt;font color=&quot;#FF0000&quot;&gt;%1:&lt;/font&gt;&lt;font color=&quot;#FFFFFF&quot;&gt; %2&lt;/font&gt;"/>
+	</entry>
+	<entry key="messagebox_disconnect_lms_question">
+		<original value="Your progress will be stored. And all gained scores, EXP and money will be calculated after the session ends!\nDo you want to quit?"/>
+		<translation value="Ваш прогресс будет сохранен. Набранные очки, опыт и варбаксы будут подсчитаны после окончания сессии.\nВыйти из игры?"/>
+	</entry>
+	<entry key="spectator_mode_lms">
+		<original value="&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev player &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next player\nYou can leave any time &lt;font color='#ffc800'&gt;without loosing rewards&lt;/font&gt; (rewards will be given after session end)"/>
+		<translation value="&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - пред. игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - след. игрок\n Вы можете выйти в любой момент &lt;font color='#ffc800'&gt;без потери наград&lt;/font&gt; (награды выдаются после окончания сессии)."/>
+	</entry>
+	<entry key="cb_boss_name">
+		<original value="Mantis"/>
+		<translation value="Богомол"/>
+	</entry>
+	<entry key="cb_heavy01_sniper_name">
+		<original value="Special Sniper"/>
+		<translation value="Снайпер спецназа"/>
+	</entry>
+	<entry key="cb_heavy_sniper_name">
+		<original value="Deadshot"/>
+		<translation value="Жнец"/>
+	</entry>
+	<entry key="cb_smg_smg09_name">
+		<original value="Punisher"/>
+		<translation value="Каратель"/>
+	</entry>
+	<entry key="ced_name">
+		<original value="SED"/>
+		<translation value="СЭД"/>
+	</entry>
+	<entry key="cqb_heavy_name">
+		<original value="Crusher"/>
+		<translation value="Чистильщик"/>
+	</entry>
+	<entry key="drone_name">
+		<original value="Medusa"/>
+		<translation value="Медуза"/>
+	</entry>
+	<entry key="floor_apc_turret_name">
+		<original value="Exterminator"/>
+		<translation value="Ликвидатор"/>
+	</entry>
+	<entry key="stormtrooper_heavy_name">
+		<original value="Exterminator"/>
+		<translation value="Ликвидатор"/>
+	</entry>
+	<entry key="wall_cb_mg_turret_name">
+		<original value="Bumblebee"/>
+		<translation value="Шмель"/>
+	</entry>
+	<entry key="zsd_cherno_01_name">
+		<original value="Infected"/>
+		<translation value="Зараженный"/>
+	</entry>
+	<entry key="zsd_cherno_02_name">
+		<original value="Infected"/>
+		<translation value="Зараженный"/>
+	</entry>
+	<entry key="zsd_cherno_03_name">
+		<original value="Infected"/>
+		<translation value="Зараженный"/>
+	</entry>
+	<entry key="cant_pickup_item">
+		<original value="You can't pick up this item"/>
+		<translation value="Вы не можете подобрать этот предмет."/>
+	</entry>
+	<entry key="finisher_message">
+		<original value="Finish him"/>
+		<translation value="Прикончи его"/>
+	</entry>
+</localization>

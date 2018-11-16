@@ -1,0 +1,22 @@
+<CharacterPart Name="HP_Elbowpad_02_right" Slot="HP_Elbowpads_Right" Template="HP_ElbowPads_Right">
+	<Model File="objects/characters/hp_elbowpads/hp_elbowpads_02/male/hp_elbow_right_02.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Game\Objects\Characters\FP_Elbowpads\FP_Elbowpads_02\fp_elbowpads_02_green.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\FP_Elbowpads\FP_Elbowpads_02\fp_elbowpads_02_black.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\FP_Elbowpads\FP_Elbowpads_02\fp_elbowpads_02_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\HP_Elbowpads\HP_Elbowpads_02\Female\HP_Elbowpads_02_right.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Game\Objects\Characters\FP_Elbowpads\FP_Elbowpads_02\fp_elbowpads_02_green.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\FP_Elbowpads\FP_Elbowpads_02\fp_elbowpads_02_black.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\FP_Elbowpads\FP_Elbowpads_02\fp_elbowpads_02_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

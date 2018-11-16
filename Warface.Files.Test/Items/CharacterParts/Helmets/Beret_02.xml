@@ -1,0 +1,18 @@
+<CharacterPart Name="Beret_02" Slot="Helmet" Template="Helmet">
+	<Model File="objects/characters/helmets/beret_02/male/beret_02.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="blue" File="objects/characters/helmets/beret_02/beret_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/helmets/beret_02/female/beret_02.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="blue" File="objects/characters/helmets/beret_02/beret_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

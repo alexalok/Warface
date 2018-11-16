@@ -1,0 +1,62 @@
+<item class="K01_Item" name="ar31_ugl_d" type="attachment" view_settings="objects/weapons/ar31/ar31_ugl_d.xml">
+	<description_ingame text="@ui_ar31_ugl_d_ingame"/>
+	<weaponpanel icon="ar31_ugl_d"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="R"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@ar31_ugl_d_shop_name"/>
+		<param name="description" value="@ui_accessories_ar31_ugl_d"/>
+		<param name="icon" value="ar31_ugl_d"/>
+	</UI_stats>
+	<content>
+		<item name="ar31_ugl_d"/>
+	</content>
+	<drop_params>
+		<item name="ar31_ugl_d" type="attachment"/>
+	</drop_params>
+	<icons>
+		<combatlog icon="GrenadeLauncher"/>
+	</icons>
+	<settings>
+		<param name="recoil_max_mul" value="1.2"/>
+		<param name="recoil_att_mul" value="1.2"/>
+		<param name="spread_min_mul" value="1.2">
+			<stance name="zoomed_stand" value="3"/>
+			<stance name="zoomed_crouch" value="3"/>
+			<stance name="zoomed_prone" value="3"/>
+			<stance name="zoomed_walk" value="3"/>
+			<stance name="zoomed_jump" value="1.5"/>
+		</param>
+		<param name="spread_max_mul" value="1.2">
+			<stance name="zoomed_stand" value="3"/>
+			<stance name="zoomed_crouch" value="3"/>
+			<stance name="zoomed_prone" value="3"/>
+			<stance name="zoomed_walk" value="3"/>
+			<stance name="zoomed_jump" value="1.5"/>
+		</param>
+		<param name="damage_underbarrel" value="250"/>
+		<param name="fire_underbarrel_duration" value="566"/>
+		<param name="reload_underbarrel_duration" value="3000"/>
+	</settings>
+	<firemodes>
+		<firemode icon="FireModeGrenadeLauncher" type="UnderBarrel"/>
+	</firemodes>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="ar31scargrenade"/>
+			<param name="extra_ammo" value="1"/>
+		</fire>
+	</fireparams>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="underbarrel_muzzle_flash_effect" name="underbarrel_muzzle_flash_effect"/>
+			<support helper="underbarrel_muzzle_flash_light" name="underbarrel_muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="ar31_ugl_d" name="ar31_ugl_d"/>
+	</types>
+</item>

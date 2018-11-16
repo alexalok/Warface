@@ -1,0 +1,32 @@
+<item class="K01_Item" name="sp05_camo02" type="attachment" view_settings="objects/Attachments/sp05/sp05.xml">
+	<skins>
+		<material name="camo02"/>
+	</skins>
+	<description_ingame text="@ui_sp05_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RMES"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@sp05_shop_name"/>
+		<param name="description" value="@ui_accessories_sp05"/>
+		<param name="icon" value="sp05_camo02"/>
+	</UI_stats>
+	<drop_params>
+		<item name="sp05_camo02" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="damage_drop_per_meter_mul" value="0.8"/>
+		<param name="bullet_pierceability" value="5"/>
+	</settings>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="suppressor" name="sp05_camo02"/>
+	</types>
+</item>

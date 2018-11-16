@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+	<shop_item name="pt07_eua01_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Pistol"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="SRME"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="2000"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="pt"/>
+			<param name="name" value="@pt07_eua01_shop_name"/>
+			<param name="description" value="@ui_weapons_pt07_eua01"/>
+			<param name="icon" value="pt07_eua01"/>
+		</UI_stats>
+		<content>
+			<item name="pt07_eua01"/>
+			<support name="sc02" helper="silencer"/>
+			<support name="sc03" helper="silencer"/>
+			<support name="sp05" helper="silencer"/>
+			<support name="bn05" helper="silencer"/>
+		</content>
+	</shop_item>

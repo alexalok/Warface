@@ -1,0 +1,29 @@
+<CharacterPart Name="Pants_03" Slot="Pants" Template="Pants">
+	<Model File="objects/characters/pants/pants_03/male/pants_03.chr" Gender="Male">
+		<Morphs>
+			<Morph Switch="Kneepads" Target="#kneepadsmorph"/>
+			<Morph Switch="Vest" Target="#vestmorph"/>
+			<Morph Switch="HipArmor" Target="#beltsmorph"/>
+			<Morph Switch="LegArmor" Target="#legarmormorph"/>
+			<Morph Switch="Fat" Target="#Pants01_fat"/>
+			<Morph Switch="Thin" Target="#Pants01_thin"/>
+		</Morphs>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\Pants\Pants_03\male\pants_03.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>s
+	<Model File="objects/characters/Pants/Pants_03/Female/Pants_03.chr" Gender="Female">
+		<Materials>
+			<Material Name="grey" File="objects/characters/Pants/Pants_03/Female/pants_03.mtl"/>
+			<Material Name="blue" File="objects/characters/Pants/Pants_03/Female/pants_dark_blue.mtl"/>
+			<Material Name="desert" File="objects/characters/Pants/Pants_03/Female/pants_desert.mtl"/>
+			<Material Name="green" File="objects/characters/Pants/Pants_03/Female/pants_green.mtl"/>
+			<Material Name="black" File="objects/characters/Pants/Pants_03/Female/pants_black.mtl"/>
+			<Material Name="snow" File="objects/characters/Pants/Pants_03/Female/pants_snow.mtl"/>
+			<Material Name="urban" File="objects/characters/Pants/Pants_03/Female/pants_urban.mtl"/>
+			<Material Name="jungle" File="objects/characters/Pants/Pants_03/Female/pants_jungle.mtl"/>
+			<Material Name="digital" File="objects/characters/Pants/Pants_03/Female/pants_digital.mtl"/>
+		</Materials>
+	</Model>
+</CharacterPart>

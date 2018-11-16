@@ -1,0 +1,4 @@
+<Material MtlFlags="524290" Shader="Illum" GenMask="100000000" StringGenMask="%STAT_BRANCHING" SurfaceType="" MatTemplate="" Diffuse="0.65490198,0.65490198,0.65490198" Specular="0.54901963,0.54901963,0.54901963" Emissive="0,0,0" Shininess="10" Opacity="1" AlphaTest="0.168">
+ <Textures />
+ <PublicParams AmbientMultiplier="1"/>
+</Material>

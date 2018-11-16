@@ -1,0 +1,11 @@
+<CharacterPart Name="AI_beret_02" Slot="AI_Helmets" Template="AI_Helmets">
+	<Model File="Objects\Characters\AI_Helmets\beret_02\beret_02.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="blue" File="objects/characters/helmets/beret_02/beret_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<GameItem name="set_newgeneration_01_bonus02" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_newgeneration_01_bonus02_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="spread_min_mul" value="0.9"/>
+		<param name="spread_max_mul" value="0.9"/> 
+    </GameParams>
+</GameItem>

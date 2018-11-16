@@ -1,0 +1,22 @@
+<CharacterPart Name="AI_Baseball_cap_02" Slot="AI_Helmets" Template="AI_Helmets">
+	<Model File="Objects\Characters\AI_Helmets\Baseball_cap_02\Baseball_cap_02.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_grey.mtl"/>
+			<Material Name="green" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_black.mtl"/>
+			<Material Name="blue" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_blue.mtl"/>
+			<Material Name="desert" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_desert.mtl"/>
+			<Material Name="digitall" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_digitall.mtl"/>
+			<Material Name="jungle" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_jungle.mtl"/>
+			<Material Name="lether" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_lether.mtl"/>
+			<Material Name="orange" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_orange.mtl"/>
+			<Material Name="snow" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_snow.mtl"/>
+			<Material Name="urban" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_urban.mtl"/>
+			<Material Name="white" File="Objects\Characters\Helmets\Baseball_cap\baseball_cap_white.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

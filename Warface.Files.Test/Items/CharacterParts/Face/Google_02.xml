@@ -1,0 +1,17 @@
+<CharacterPart Name="Google_02" Slot="Face" Template="FaceMasks">
+	<Model File="objects\characters\googles\google_02\Male\google_02.chr" FGTFile="Objects\Characters\googles\google_02\Male\google_02.fgt" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="Game\Objects\Characters\Googles\google_02\google_02.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects\characters\googles\google_02\googles_02female.chr" FGTFile="" Gender="Female">
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="Game\Objects\Characters\Googles\google_02\google_02female.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

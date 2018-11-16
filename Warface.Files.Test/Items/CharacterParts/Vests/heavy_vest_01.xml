@@ -1,0 +1,9 @@
+<CharacterPart Name="heavy_vest_01" Slot="Vest" Template="Vest_Type6">
+	<Model File="objects\Characters\heavy\vests\heavy_vest_01\heavy_vest_01.chr" FGTFile="" Gender="Male">
+		<Switches/>
+		<Materials>
+			<Material Name="heavy_vest_01" File="Game\Objects\Characters\heavy\vests\heavy_vest_01\heavy_vest_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

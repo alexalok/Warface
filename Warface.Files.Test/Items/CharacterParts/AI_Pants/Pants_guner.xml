@@ -1,0 +1,19 @@
+<CharacterPart Name="Pants_Guner" Slot="AI_Pants" Template="AI_Pants">
+	<Model File="Objects\Characters\AI_Pants\pants_gunner\Ai_pants_guner.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#pants_fat"/>
+			<Morph Switch="thin" Target="#pants_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Pants\pants_gunner\Ai_pants_ganer.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials/>
+		<Sockets/>
+	</Model>
+</CharacterPart>

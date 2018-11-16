@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+	<shop_item name="mg07_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Machinegun"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="5400"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@mg07_shop_name"/>
+			<param name="description" value="@ui_weapons_mg07"/>
+			<param name="icon" value="mg07"/>
+		</UI_stats>
+		<content>
+			<item name="mg07">
+				<item name="mg07_sp_d"/>
+			</item>
+		</content>
+		<skin_content>
+			<item name="mg07_set09skin_shop"/>
+		</skin_content>
+	</shop_item>

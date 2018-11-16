@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+	<shop_item name="shg06_hlw01_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Shotgun"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="2184"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="shg"/>
+			<param name="name" value="@shg06_hlw01_shop_name"/>
+			<param name="description" value="@ui_weapons_shg06_hlw01"/>
+			<param name="icon" value="shg06_hlw01"/>
+		</UI_stats>
+		<content>
+			<item name="shg06_hlw01">
+				<item name="shg06_is_d"/>
+			</item>
+		</content>
+	</shop_item>

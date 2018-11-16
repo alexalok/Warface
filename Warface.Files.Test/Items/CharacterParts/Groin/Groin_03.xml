@@ -1,0 +1,20 @@
+<CharacterPart Name="Groin_03" Slot="Groin" Template="Groin">
+	<Model File="Game\Objects\Characters\Vests\Tactical_Vest_03\Male\groin_03.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/vests/tactical_vest_03/vest_03_beige.mtl"/>
+			<Material Name="green" File="objects/characters/vests/tactical_vest_03/vest_03_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Vests\Tactical_Vest_03\Female\groin_03.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/vests/tactical_vest_03/vest_03_beige.mtl"/>
+			<Material Name="green" File="objects/characters/vests/tactical_vest_03/vest_03_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,11 @@
+<CharacterPart Name="Vest_Boss" Slot="AI_Vests" Template="AI_Vests">
+	<Model File="Objects\Characters\AI_Vests\Vest_Boss\Vest_Boss.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\AI_Vests\Vest_Boss\vest_boss.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

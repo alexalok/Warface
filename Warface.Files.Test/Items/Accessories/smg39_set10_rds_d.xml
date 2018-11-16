@@ -1,0 +1,30 @@
+<item name="smg39_set10_rds_d" class="K01_Item" type="attachment" view_settings="objects/weapons/smg39/smg39_rds_d.xml">
+	<skins>
+		<material name="set10"/>
+	</skins>
+	<description_ingame text="@ui_smg39_rds_d_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RMES"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@smg39_rds_d_shop_name"/>
+		<param name="description" value="@ui_accessories_smg39_rds_d"/>
+		<param name="icon" value="smg39_set10_rds_d"/>
+	</UI_stats>
+	<content>
+		<item name="smg39_set10_rds_d"/>
+	</content>
+	<drop_params>
+		<item name="smg39_set10__rds_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="zoom_factor" value="1.8"/>
+		<param name="zoom_in_duration_mul" value="0.8"/>
+		<param name="zoom_out_duration_mul" value="0.8"/>
+	</settings>
+	<types>
+		<type helper="smg39_rds_d" name="smg39_set10_rds_d"/>
+	</types>
+</item>

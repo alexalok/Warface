@@ -1,0 +1,81 @@
+<item name="cn01_artillery_ai_h" class="K01_Item" category="heavy" net_policy="weapon_ai" priority="41" view_settings="objects/weapons/cn01/cn01.xml">
+	<description text=""/>
+	<params>
+		<param name="giveable" value="1"/>
+		<param name="selectable"  value="1"/>
+		<param name="ui_weapon"  value="1"/>
+		<param name="giveable" value="1"/>
+	</params>
+	<ai_descriptor burstBulletCountMax="2" burstBulletCountMin="2" burstPauseTimeMax="4" burstPauseTimeMin="4" draw_time="1.0" singleFireTriggerTime="2" sweep_frequency="2.5" sweep_width="1.5" handler="instant" speed="30"/>
+	<ammos>
+		<ammo name="bullet_cn01_ib_ai"/>
+	</ammos>
+	<icons>
+		<combatlog icon="Flagship_MainArtillery" melee="Flagship_MainArtillery"/>
+	</icons>
+	<settings>
+		<param name="ammo_amount" value="2"/>
+		<param name="rpm" value="160"/>
+		<param name="damage" value="320"/>
+		<param name="damage_min" value="250"/>
+		<param name="damage_mul" value="1"/>
+		<param name="melee_damage" value="30"/>
+		<param name="recoil_max" value="0.1"/>
+		<param name="recoil_max_mul" value="1"/>
+		<param name="recoil_att" value="0.1"/>
+		<param name="recoil_att_mul" value="1"/>
+		<param name="recoil_dec" value="250"/>
+		<param name="recoil_dec_mul" value="1"/>
+		<param name="recoil_rnd" value="0"/>
+		<param name="recoil_smth" value="30"/>
+		<param name="recoil_smth_mul" value="1"/>
+		<param name="spread_min" value="0.1"/>
+		<param name="spread_max" value="0.1"/>
+		<param name="spread_min_mul" value="1"/>
+		<param name="spread_att" value="0.1"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec" value="0.1"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="sway_dec" value="1"/>
+		<param name="sway_dec_mul" value="1"/>
+		<param name="sway_mul" value="0.1">
+			<stance name="zoomed_stand" value="2"/>
+			<stance name="zoomed_crouch" value="1.2"/>
+			<stance name="zoomed_prone" value="1"/>
+			<stance name="zoomed_walk" value="1.75"/>
+			<stance name="zoomed_rest" value="0"/>
+			<stance name="zoomed_jump" value="2"/>
+		</param>
+		<param name="sway_min_x" value="0"/>
+		<param name="sway_min_y" value="0"/>
+		<param name="reload_duration" value="12000"/>
+		<param name="zoom_factor" value="1"/>
+		<param name="melee_duration" value="280"/>
+		<param name="melee_range" value="1"/>
+		<param name="melee_out_duration" value="500"/>
+		<param name="toss_duration" value="400"/>
+		<param name="deselect_duration" value="300"/>
+		<param name="holster_in_duration" value="120"/>
+	</settings>
+	<firemodes>
+		<firemode type="Single" name="Single"/>
+	</firemodes>
+	<clipmode unlimited_inventory="1"/>
+	<melee_params>
+		<param name="impulse" value="20"/>
+		<param name="pierce" value="10"/>
+	</melee_params>
+	<sockets/>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="bullet_cn01_ib_ai"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="helper_fp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+			<param name="damage_drop_per_meter" value="0"/>
+			<param name="damage_drop_min_distance" value="25"/>
+		</fire>
+	</fireparams>
+</item>
+

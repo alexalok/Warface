@@ -1,0 +1,10 @@
+<CharacterPartTemplate Name="AI_Pants">
+
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+  </VisibilityMasks>
+  <TexAtlasGen TextureSize="512"/>
+
+</CharacterPartTemplate>

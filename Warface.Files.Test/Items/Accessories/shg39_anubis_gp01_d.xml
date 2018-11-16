@@ -1,0 +1,19 @@
+<item class="K01_Item" name="shg39_anubis_gp01_d" type="attachment" view_settings="objects/weapons/shg39/shg39_gp01_d.xml">
+		<skins>
+			<material name="afro01"/>
+		</skins>
+		<description_ingame text="@ui_shg39_gp01_d_ingame"/>
+		<UI_stats>
+			<param name="name" value="@shg39_gp01_d_name"/>
+			<param name="description" value="@ui_shg39_gp01_d"/>
+			<param name="icon" value="shg39_gp01_d"/>
+		</UI_stats>
+		<drop_params>
+			<item name="shg39_anubis_gp01_d" type="attachment"/>
+		</drop_params>
+		<settings>
+		</settings>
+		<types>
+			<type helper="shg39_gp_d" name="shg39_anubis_gp01_d"/>
+		</types>
+	</item>

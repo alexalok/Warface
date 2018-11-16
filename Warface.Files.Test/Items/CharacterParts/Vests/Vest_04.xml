@@ -1,0 +1,36 @@
+<CharacterPart Name="vest_04" Slot="Vest" Template="Vest_Type1">
+	<Model File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_black.mtl"/>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_green.mtl"/>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_desert.mtl"/>
+			<Material Name="civilian_grey" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_grey.mtl"/>
+			<Material Name="civilian_red" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_red.mtl"/>
+			<Material Name="civilian_green" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_green.mtl"/>
+			<Material Name="civilian_blue" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_blue.mtl"/>
+			<Material Name="civilian_yellow" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_yellow.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches>
+			<Switch Value="Vest_04"/>
+		</Switches>
+		<Materials>
+			<Material Name="black" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_black.mtl"/>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_green.mtl"/>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_desert.mtl"/>
+			<Material Name="civilian_grey" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_grey.mtl"/>
+			<Material Name="civilian_red" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_red.mtl"/>
+			<Material Name="civilian_green" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_green.mtl"/>
+			<Material Name="civilian_blue" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_blue.mtl"/>
+			<Material Name="civilian_yellow" File="Objects\Characters\shared\vests\shared_vest_04\shared_vest_04_civilian_yellow.mtl"/>
+		</Materials>
+		<Sockets>
+			<Socket name="01" edge="0" angle="0" damping="0"/>
+		</Sockets>
+	</Model>
+</CharacterPart>

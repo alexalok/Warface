@@ -1,0 +1,226 @@
+<stance_transition_times>
+	<from stance="run">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="stand">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="crouch">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="prone">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="zoomed_stand">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="zoomed_crouch">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="zoomed_prone">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="haste">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="walk">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="jump">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="zoomed_jump">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="zoomed_walk">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="rest">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+	<from stance="zoomed_rest">
+		<to stance="stand"					time="0"/>
+		<to stance="crouch"					time="0"/>
+		<to stance="prone"					time="0"/>
+		<to stance="zoomed_stand"		time="0"/>
+		<to stance="zoomed_crouch"	time="0"/>
+		<to stance="zoomed_prone"		time="0"/>
+		<to stance="haste"					time="0"/>
+		<to stance="run"						time="0"/>
+		<to stance="walk"						time="0"/>
+		<to stance="jump"						time="0"/>
+		<to stance="zoomed_jump"		time="0"/>
+		<to stance="zoomed_walk"		time="0"/>
+		<to stance="rest"						time="0"/>
+		<to stance="zoomed_rest"		time="0"/>
+	</from>
+</stance_transition_times>

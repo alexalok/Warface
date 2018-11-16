@@ -1,0 +1,8 @@
+<Material MtlFlags="524288" Shader="Illum" GenMask="100050008" StringGenMask="%ANISO_SPECULAR%ENVIRONMENT_MAP%GLOSS_DIFFUSEALPHA%STAT_BRANCHING" SurfaceType="mat_metal_weapons_impact" MatTemplate="" Diffuse="0.47058824,0.47058824,0.47058824" Specular="0.70588237,0.70588237,0.70588237" Emissive="1,1,1" Shininess="3" Opacity="1">
+ <Textures>
+  <Texture Map="Environment" File="textures/env_maps/env_metal.tif">
+   <TexMod />
+  </Texture>
+ </Textures>
+ <PublicParams AnisotropicShape="0.30000001" EnvMapAmount="0.25" FresnelScale="1" FresnelBias="0.2" AmbientMultiplier="0"/>
+</Material>

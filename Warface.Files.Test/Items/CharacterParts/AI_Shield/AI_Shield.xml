@@ -1,0 +1,16 @@
+<CharacterPart Name="Shield_01" Slot="AI_Shield" Template="AI_Shield">
+	<Model File="objects/characters/ai_shield/shield_01.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="Black" File="Game\Objects\Characters\AI_Shield\Shield_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials/>
+		<Sockets/>
+	</Model>
+</CharacterPart>

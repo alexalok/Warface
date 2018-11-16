@@ -1,0 +1,30 @@
+<CharacterPart Name="vest_07" Slot="Vest" Template="Vest_Type1">
+	<Model File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_black.mtl"/>
+			<Material Name="blue" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_blue.mtl"/>
+			<Material Name="snow" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_snow.mtl"/>
+			<Material Name="urban" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_urban.mtl"/>
+			<Material Name="grey" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_grey.mtl"/>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_black.mtl"/>
+			<Material Name="blue" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_blue.mtl"/>
+			<Material Name="snow" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_snow.mtl"/>
+			<Material Name="urban" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_urban.mtl"/>
+			<Material Name="grey" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_grey.mtl"/>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_07\shared_vest_07_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

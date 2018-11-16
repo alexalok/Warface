@@ -1,0 +1,11 @@
+<CharacterPart Name="shared_hands_01_hp" Slot="HP_Hands" Template="HP_Hands">
+	<Model File="objects/characters/shared/hands/shared_hands_01/shared_hands_01_hp.chr" FGTFile="" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="shared_hands_01" File="objects/characters/shared/hands/shared_hands_01/shared_hands_01_fp.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

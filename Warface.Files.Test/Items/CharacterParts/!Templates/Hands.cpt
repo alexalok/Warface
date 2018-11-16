@@ -1,0 +1,27 @@
+<CharacterPartTemplate Name="Hands">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#hands_fat" />
+    <Morph Switch="thin" Target="#hands_thin" />
+
+  </Morphs>
+
+  <Morphs Gender="Female">
+    <Morph Switch="fat" Target="#hands_fat" />
+    <Morph Switch="thin" Target="#hands_thin" />
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="Hands" />
+  </Switches>
+  <Switches Gender="Female">
+    <Switch Value="Hands" />
+  </Switches>
+  
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+  </VisibilityMasks>
+<TexAtlasGen TextureSize="256"/>
+
+</CharacterPartTemplate>

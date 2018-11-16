@@ -1,0 +1,63 @@
+<item class="K01_Item" name="ugl01_tutor" type="attachment" view_settings="objects/attachments/ugl02/ugl02.xml">
+	<description_ingame text="@ui_ugl01_ingame"/>
+	<weaponpanel icon="Ugl01"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="0"/>
+		<param name="classes" value="R"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="category" value="au"/>
+		<param name="name" value="@ugl01_shop_name"/>
+		<param name="description" value="@ui_accessories_ugl01"/>
+		<param name="icon" value="ugl01"/>
+	</UI_stats>
+	<content>
+		<item name="ugl01_tutor"/>
+	</content>
+	<drop_params>
+		<item name="ugl01_tutor" type="attachment"/>
+	</drop_params>
+	<icons>
+		<combatlog icon="GrenadeLauncher"/>
+	</icons>
+	<settings>
+		<param name="recoil_max_mul" value="1.2"/>
+		<param name="recoil_att_mul" value="1.2"/>
+		<param name="spread_min_mul" value="1.2">
+			<stance name="zoomed_stand" value="3"/>
+			<stance name="zoomed_crouch" value="3"/>
+			<stance name="zoomed_prone" value="3"/>
+			<stance name="zoomed_walk" value="3"/>
+			<stance name="zoomed_jump" value="1.5"/>
+		</param>
+		<param name="spread_max_mul" value="1.2">
+			<stance name="zoomed_stand" value="3"/>
+			<stance name="zoomed_crouch" value="3"/>
+			<stance name="zoomed_prone" value="3"/>
+			<stance name="zoomed_walk" value="3"/>
+			<stance name="zoomed_jump" value="1.5"/>
+		</param>
+		<param name="damage_underbarrel" value="220"/>
+		<param name="fire_underbarrel_duration" value="566"/>
+		<param name="reload_underbarrel_duration" value="3000"/>
+	</settings>
+	<firemodes>
+		<firemode icon="FireModeGrenadeLauncher" type="UnderBarrel"/>
+	</firemodes>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="scargrenade_tutor"/>
+			<param name="extra_ammo" value="2"/>
+		</fire>
+	</fireparams>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="underbarrel_muzzle_flash_effect" name="underbarrel_muzzle_flash_effect"/>
+			<support helper="underbarrel_muzzle_flash_light" name="underbarrel_muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="underbarrel_large" name="ugl01"/>
+	</types>
+</item>

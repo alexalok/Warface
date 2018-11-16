@@ -1,0 +1,12 @@
+<CharacterPart Name="scout_arms_01_hp" Slot="HP_Arms" Template="HP_Arms">
+	<Model File="Objects\Characters\scout\arms\scout_arms_01\scout_arms_01_hp.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="HP_Hands_01" Target="#hands_type1"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="scout_arms_01" File="Objects\Characters\scout\arms\scout_arms_01\scout_arms_01_fp.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

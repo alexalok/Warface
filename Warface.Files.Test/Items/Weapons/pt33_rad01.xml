@@ -1,0 +1,213 @@
+<item category="medium" class="K01_Item" name="pt33_rad01" net_policy="weapon" priority="22" view_settings="objects/weapons/pt33/pt33.xml">
+	<skins>
+		<material name="rad01"/>
+	</skins>
+	<icons>
+		<ui_icon name="pt33"/>
+		<combatlog icon="Pt33" melee="Melee"/>
+	</icons>
+	<drop_params>
+		<item name="pt33_rad01" type="weapon"/>
+	</drop_params>
+	<settings archetype="Items/Weapons/Archetypes/PT_33.xml">
+		<param name="ammo_amount" value="8"/>
+		<param name="rpm" value="280"/>
+		<param name="damage" value="120"/>
+		<param name="damage_mul" value="1"/>
+		<param name="damage_min" value="50"/>
+		<param name="damage_drop_per_meter" value="1.7"/>
+		<param name="damage_drop_min_distance" value="15"/>
+		<param name="melee_damage" value="70"/>
+		<param name="melee_range" value="1.3"/>
+		<param name="melee_radius" value="0.2"/>
+		<param name="recoil_max" value="360"/>
+		<param name="recoil_max_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="0.95"/>
+			<stance name="prone" value="0.9"/>
+			<stance name="run" value="1.05"/>
+			<stance name="walk" value="0.97"/>
+			<stance name="jump" value="1.3"/>
+			<stance name="rest" value="0.55"/>
+			<stance name="zoomed_jump" value="1.5"/>
+			<stance name="zoomed_walk" value="0.9"/>
+			<stance name="zoomed_rest" value="0.5"/>
+			<stance name="zoomed_stand" value="0.75"/>
+			<stance name="zoomed_crouch" value="0.9"/>
+			<stance name="zoomed_prone" value="0.8"/>
+			<stance name="transition" value="1"/>
+		</param>
+		<param name="recoil_att" value="165"/>
+		<param name="recoil_att_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="1"/>
+			<stance name="prone" value="1"/>
+			<stance name="run" value="1.05"/>
+			<stance name="walk" value="0.97"/>
+			<stance name="jump" value="1.3"/>
+			<stance name="rest" value="0.65"/>
+			<stance name="zoomed_jump" value="1.5"/>
+			<stance name="zoomed_walk" value="0.8"/>
+			<stance name="zoomed_rest" value="0.6"/>
+			<stance name="zoomed_stand" value="0.9"/>
+			<stance name="zoomed_crouch" value="0.65"/>
+			<stance name="zoomed_prone" value="0.5"/>
+			<stance name="transition" value="0.5"/>
+		</param>
+		<param name="recoil_dec" value="220"/>
+		<param name="recoil_dec_delay" value="55"/>
+		<param name="recoil_dec_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="1"/>
+			<stance name="prone" value="1"/>
+			<stance name="run" value="1.02"/>
+			<stance name="walk" value="0.97"/>
+			<stance name="jump" value="1.3"/>
+			<stance name="rest" value="0.65"/>
+			<stance name="zoomed_jump" value="1.5"/>
+			<stance name="zoomed_walk" value="0.45"/>
+			<stance name="zoomed_rest" value="0.32"/>
+			<stance name="zoomed_stand" value="0.45"/>
+			<stance name="zoomed_crouch" value="0.32"/>
+			<stance name="zoomed_prone" value="0.3"/>
+			<stance name="transition" value="1"/>
+		</param>
+		<param name="recoil_rnd" value="0.05"/>
+		<param name="recoil_smth" value="70"/>
+		<param name="recoil_smth_mul" value="1"/>
+		<param name="spread_min" value="1.3"/>
+		<param name="spread_min_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="haste" value="2"/>
+			<stance name="crouch" value="0.7"/>
+			<stance name="prone" value="0.4"/>
+			<stance name="walk" value="1.2"/>
+			<stance name="run" value="1.2"/>
+			<stance name="jump" value="3"/>
+			<stance name="rest" value="0.4"/>
+			<stance name="knockdown" value="0.75"/>
+			<stance name="zoomed_stand" value="0.2"/>
+			<stance name="zoomed_crouch" value="0.15"/>
+			<stance name="zoomed_prone" value="0.1"/>
+			<stance name="zoomed_walk" value="0.2"/>
+			<stance name="zoomed_rest" value="0.1"/>
+			<stance name="zoomed_jump" value="0.75"/>
+			<stance name="transition" value="2"/>
+			<stance name="zoomed_knockdown" value="0.75"/>
+		</param>
+		<param name="spread_max" value="5.8"/>
+		<param name="spread_max_mul" value="1">
+			<stance name="stand" value="0.8"/>
+			<stance name="crouch" value="0.6"/>
+			<stance name="prone" value="0.4"/>
+			<stance name="walk" value="0.9"/>
+			<stance name="run" value="0.8"/>
+			<stance name="jump" value="1.2"/>
+			<stance name="rest" value="0.4"/>
+			<stance name="knockdown" value="0.75"/>
+			<stance name="zoomed_stand" value="0.1"/>
+			<stance name="zoomed_crouch" value="0.1"/>
+			<stance name="zoomed_prone" value="0.1"/>
+			<stance name="zoomed_walk" value="0.1"/>
+			<stance name="zoomed_rest" value="0.1"/>
+			<stance name="zoomed_jump" value="0.1"/>
+			<stance name="transition" value="2"/>
+			<stance name="zoomed_knockdown" value="0.75"/>
+		</param>
+		<param name="spread_att" value="5"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec" value="31"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="sway_dec" value="1"/>
+		<param name="sway_dec_mul" value="1"/>
+		<param name="sway_min_x" value="0.005"/>
+		<param name="sway_min_y" value="0.015"/>
+		<param name="sway_speed_mult" value="0.8"/>
+		<param name="sway_mul" value="0">
+			<stance name="zoomed_stand" value="1"/>
+			<stance name="zoomed_crouch" value="0.7"/>
+			<stance name="zoomed_prone" value="0.5"/>
+			<stance name="zoomed_walk" value="1.25"/>
+			<stance name="zoomed_rest" value="0.5"/>
+			<stance name="zoomed_jump" value="9"/>
+			<stance name="zoomed_knockdown" value="0.75"/>
+		</param>
+		<param name="fov_mul" value="1">
+			<stance name="zoomed_stand" value="0.7"/>
+			<stance name="zoomed_crouch" value="0.7"/>
+			<stance name="zoomed_prone" value="0.7"/>
+			<stance name="zoomed_stand" value="0.7"/>
+			<stance name="zoomed_crouch" value="0.7"/>
+			<stance name="zoomed_prone" value="0.7"/>
+		</param>
+		<param name="melee_knock_back_chance" value="1"/>
+		<param name="knock_back_chance" value="0"/>
+		<param name="zoom_factor" value="1.1"/>
+		<param name="reload_duration" value="2030"/>
+		<param name="melee_duration" value="260"/>
+		<param name="melee_out_duration" value="240"/>
+		<param name="toss_duration" value="525"/>
+		<param name="select_duration" value="110"/>
+		<param name="deselect_duration" value="200"/>
+		<param name="holster_in_duration" value="200"/>
+		<param name="zoom_in_duration" value="80"/>
+		<param name="bayonet_melee_duration" value="66"/>
+		<param name="bayonet_melee_out_duration" value="700"/>
+		<param name="ai_sound_radius" value="250"/>
+		<param name="ai_light_radius" value="2.3"/>
+	</settings>
+	<firemodes>
+		<firemode icon="FireModeSingle" type="SingleSmoothed"/>
+	</firemodes>
+	<melee_params>
+		<param name="impulse" value="20"/>
+		<param name="pierce" value="10"/>
+		<param name="no_ray_test" value="1"/>
+	</melee_params>
+	<sockets>
+		<socket can_be_empty="1" name="scope" ui_helper="ui_scope">
+			<support helper="top_small" name="ps01"/>
+			<support helper="top_small" name="pt33_rds_d"/>
+			<support helper="top_small" name="rds01"/>
+			<support helper="top_small" name="rds07"/>
+			<support helper="top_small" name="rds02"/>
+		</socket>
+		<socket can_be_empty="1" name="muzzle" ui_helper="ui_muzzle">
+		</socket>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<fireparams>
+		<fire>
+			<param name="extra_ammo" value="48"/>
+			<param name="ammo_type" value="bullet_pt_p"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="helper_fp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+		</fire>
+		<recoil>
+		<param name="recoil_reset_delay" value="100"/>
+			<rnd_muls>
+				<mul shot="0" value="0"/>
+				<mul shot="3" value="1"/>
+				<mul shot="4" value="0"/>
+				<mul shot="5" value="1"/>
+				<mul shot="6" value="2"/>
+				<mul shot="7" value="3"/>
+			</rnd_muls>
+			<param name="hint_loop_start" value="1"/>
+			<hints>
+				<hint x="-0.02" y="0.22"/>
+				<hint x="0.02" y="0.15"/>
+				<hint x="-0.02" y="0.2"/>
+				<hint x="0.03" y="0.22"/>
+				<hint x="-0.02" y="0.16"/>
+				<hint x="0.03" y="0.21"/>
+				<hint x="-0.06" y="0.35"/>
+			</hints>
+		</recoil>
+	</fireparams>
+</item>

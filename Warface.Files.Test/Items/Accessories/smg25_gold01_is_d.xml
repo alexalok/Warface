@@ -1,0 +1,20 @@
+<item class="K01_Item" name="smg25_gold01_is_d" type="attachment" view_settings="objects/weapons/smg25/smg25_is_d.xml">
+	<skins>
+		<material name="gold01"/>
+	</skins>
+	<description text="@ui_accessories_smg01_is_d"/>
+	<UI_stats>
+		<param name="name" value="@is_default_name"/>
+		<param name="description" value="@ui_accessories_is_default"/>
+		<param name="icon" value="ccs_nonitem"/>
+	</UI_stats>
+	<drop_params>
+		<item name="smg25_gold01_is_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="zoom_factor" value="1.1"/>
+	</settings>
+	<types>
+		<type helper="top_small" name="smg25_gold01_is_d"/>
+	</types>
+</item>

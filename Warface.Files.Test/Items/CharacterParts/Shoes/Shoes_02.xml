@@ -1,0 +1,22 @@
+<CharacterPart Name="Shoes_02" Slot="Shoes" Template="Shoes_Type2">
+	<Model File="objects/characters/shoes/shoes_02/male/shoes_02.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/shoes/shoes_02/shoes_02_desert.mtl"/>
+			<Material Name="green" File="objects/characters/shoes/shoes_02/shoes_02_green.mtl"/>
+			<Material Name="black" File="objects/characters/shoes/shoes_02/shoes_02_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/shoes/shoes_02/female/shoes_02.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/shoes/shoes_02/shoes_02_desert.mtl"/>
+			<Material Name="green" File="objects/characters/shoes/shoes_02/shoes_02_green.mtl"/>
+			<Material Name="black" File="objects/characters/shoes/shoes_02/shoes_02_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

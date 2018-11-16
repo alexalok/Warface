@@ -1,0 +1,20 @@
+<CharacterPart Name="Shoulderpad_08_right" Slot="Shoulder_right" Template="ShoulderPads_Right">
+	<Model File="Game\Objects\Characters\Shoulderpads\Shoulderpads_08\male\Shoulderpads_08_right.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/vests/tactical_vest_08/vest_08_black.mtl"/>
+			<Material Name="blue" File="objects/characters/vests/tactical_vest_08/vest_08_dark_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Shoulderpads\Shoulderpads_08\Female\shoulderpad_08_right.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/vests/tactical_vest_08/vest_08_black.mtl"/>
+			<Material Name="blue" File="objects/characters/vests/tactical_vest_08/vest_08_dark_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,16 @@
+<CharacterPart Name="Head_Arms_Spec_ops" Slot="AI_Heads_Arms" Template="AI_Heads_Arms">
+	<Model File="Objects\Characters\AI_Heads_Arms\Head_spec_ops\head_arms_spec_ops.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Objects\Characters\AI_Heads_Arms\Head_spec_ops\head_arms_spec_ops.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials/>
+		<Sockets/>
+	</Model>
+</CharacterPart>

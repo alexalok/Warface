@@ -1,0 +1,22 @@
+<CharacterPart Name="Scarf" Slot="Helmet" Template="Helmet">
+	<Model File="objects/characters/helmets/scarf/male/scarf.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/helmets/scarf/scarf_desert.mtl"/>
+			<Material Name="red" File="objects/characters/helmets/scarf/scarf_red.mtl"/>
+			<Material Name="black" File="objects/characters/helmets/scarf/scarf_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/helmets/scarf/female/scarf.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/helmets/scarf/scarf_desert.mtl"/>
+			<Material Name="red" File="objects/characters/helmets/scarf/scarf_red.mtl"/>
+			<Material Name="black" File="objects/characters/helmets/scarf/scarf_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

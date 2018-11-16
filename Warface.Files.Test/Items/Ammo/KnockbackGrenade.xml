@@ -1,0 +1,67 @@
+<ammo name="knockbackgrenade" type="grenade" class="Projectile" require="kng01">
+	<mmo_stats>
+		<param name="category" value="explosive"/>
+		<param name="price" value="0"/>
+		<param name="shopcontent" value="0"/>
+		<param name="classes" value="R"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@kng01_default_name"/>
+		<param name="description" value="@ui_weapons_kng01"/>
+		<param name="icon" value="kng01"/><!-- OK -->
+	</UI_stats>
+	<geometry>
+		<firstperson name="objects/Weapons/Grenades/kng01/kng01_tp.cgf"/>
+		<thirdperson name="objects/weapons/Grenades/kng01/kng01_tp.cgf"/>
+	</geometry>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="0.5"/>
+		<param name="speed" value="22"/>
+		<param name="radius" value="0.03"/>
+		<param name="air_resistance" value="0"/>
+		<param name="water_resistance" value="0.5"/>
+		<param name="gravity" value="0, 0, -30"/>
+		<param name="water_gravity" value="0, 0, -9.8"/>
+		<param name="thrust" value="0"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="1"/>
+		<param name="material" value="mat_grenade"/>
+		<param name="spin_random" value="360, 360, 360"/>
+		<param name="single_contact" value="0"/>
+		<param name="traceable" value="1"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<explosion>
+		<param name="pressure" value="300"/>
+		<param name="min_radius" value="3"/>
+		<param name="max_radius" value="8"/>
+		<param name="min_phys_radius" value="2"/>
+		<param name="max_phys_radius" value="4"/>
+		<param name="hole_size" value="2"/>
+		<param name="terrain_hole_size" value="3"/>
+		<param name="decal" value="textures/decal/explo_decal.dds"/>
+		<param name="effect_scale" value="1"/>
+		<param name="radialblurdist" value="25"/>
+		<param name="shake_min_r" value="3"/>
+		<param name="shake_max_r" value="5"/>
+		<param name="shake_scale" value="2"/>
+		<param name="shake_rnd" value="1.5"/>
+		<param name="effect_class" value="explosivegrenade"/>
+	</explosion>
+	<trail>
+		<param name="effect" value="weapon_fx.tracer.grenade_trail"/>
+		<param name="prime" value="false"/>
+	</trail>
+	<params>
+		<param name="lifetime" value="1.7"/>
+		<param name="showtime" value="0.05"/>
+		<param name="aitype"	value="grenade"/>
+		<param name="ammo_kind"	value="knockbackgrenade"/><!--here-->
+		<param name="hit_type" value="frag"/>
+		<param name="launch_type" value="0"/>
+	</params>
+</ammo>

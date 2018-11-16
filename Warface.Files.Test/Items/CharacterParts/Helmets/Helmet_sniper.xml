@@ -1,0 +1,28 @@
+<CharacterPart Name="Helmet_sniper" Slot="Helmet" Template="Helmet">
+	<Model File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_desert.mtl"/>
+			<Material Name="grey" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_grey.mtl"/>
+			<Material Name="snow" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_snow.tif"/>
+			<Material Name="digital" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_digital.tif"/>
+			<Material Name="jungle" File="Objects\Characters\AI_Helmets\helmet_sniper\helmet_sniper_jungle.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Helmets\Helmet_sniper\Female\Helmet_sniper.chr" Gender="Female">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\Helmets\Helmet_sniper\Female\helmet_sniper_desert.mtl"/>
+			<Material Name="grey" File="Objects\Characters\Helmets\Helmet_sniper\Female\helmet_sniper_grey.mtl"/>
+			<Material Name="snow" File="Objects\Characters\Helmets\Helmet_sniper\Female\helmet_sniper_snow.mtl"/>
+			<Material Name="digital" File="Objects\Characters\Helmets\Helmet_sniper\Female\helmet_sniper_digital.mtl"/>
+			<Material Name="jungle" File="Objects\Characters\Helmets\Helmet_sniper\Female\helmet_sniper_jungle.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

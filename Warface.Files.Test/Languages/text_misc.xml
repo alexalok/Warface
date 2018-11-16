@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <entry key="ui_invite_not_in_clan">
+    <original value="%1 doesn't belong to clan"/>
+    <translation value="Игрок %1 не состоит в клане."/>
+  </entry>
+  <entry key="ui_invite_not_cw_participate">
+    <original value="%1 clan is not participates this war"/>
+    <translation value="Клан игрока %1 не участвует в этой битве."/>
+  </entry>
+  <entry key="ui_lobby_pvp_channel_qplay_only_mode_description">
+    <original value="Welcome to Versus channel! Here you can fight against other players in different game modes"/>
+    <translation value="Здесь вы можете сражаться против других игроков в различных режимах."/>
+  </entry>
+  <entry key="character_create_reserved_nickname">
+    <original value="This nickname had been reserved by another player."/>
+    <translation value="Это имя зарезервировано другим игроком"/>
+  </entry>
+  <entry key="room_name_reserved">
+    <original value="This room name had been reserved."/>
+    <translation value="Это название комнаты зарезервировано"/>
+  </entry>
+  <entry key="ui_invite_build_version_mismatch">
+    <original value="%1 has outdated client version"/>
+    <translation value="Игрок %1 не обновил клиент игры"/>
+  </entry>
+  <entry key="messagebox_you_are_kicked_version_mismatch">
+    <original value="Game client is outdated. Please update it."/>
+    <translation value="Версия игры устарела. Пожалуйста, запустите обновление."/>
+  </entry>
+  <entry key="box_token_cry_money_01_name">
+    <original value="Token for random box"/>
+    <translation value="Жетон для коробки удачи"/>
+  </entry>
+  <entry key="box_token_cry_money_01_description">
+    <original value="Token for random box"/>
+    <translation value="Жетон для коробки удачи"/>
+  </entry>
+  <entry key="box_token_cry_money_02_name">
+    <original value="Token for random box"/>
+    <translation value="Жетон для коробки удачи"/>
+  </entry>
+  <entry key="box_token_cry_money_02_description">
+    <original value="Token for random box"/>
+    <translation value="Жетон для коробки удачи"/>
+  </entry>
+  <entry key="picked_reward">
+    <original value="You have found %1"/>
+    <translation value="Найдено: %1"/>
+  </entry>
+  <entry key="picked_score">
+    <original value="You have found %1 score."/>
+    <translation value="Найдено ресурсов: %1"/>
+  </entry>
+  <entry key="picked_zombucks">
+    <original value="You have found %1 zombucks."/>
+    <translation value="Найдено зомбаксов: %1"/>
+  </entry>
+  <entry key="ui_invite_clanwar_message">
+    <original value="&lt;font color=&quot;#99ccff&quot;&gt;User &lt;font color=&quot;#ffffff&quot;&gt;%1&lt;font color=&quot;#99ccff&quot;&gt; inviting you to join the Clan War game &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#eeeeee&quot;&gt;Do you accept?"/>
+    <translation value="&lt;font color=&quot;#99ccff&quot;&gt;Игрок приглашает вас принять участие в битве кланов. &lt;br&gt;&lt;br&gt;&lt;font color=&quot;#eeeeee&quot;&gt;Принять приглашение?"/>
+  </entry>
+  <entry key="mission_unlocked_0">
+    <original value="Mission 1 unlocked"/>
+    <translation value="Миссия 1 открыта"/>
+  </entry>
+  <entry key="mission_unlocked_1">
+    <original value="Mission 2 unlocked"/>
+    <translation value="Миссия 2 открыта"/>
+  </entry>
+  <entry key="mission_unlocked_2">
+    <original value="Mission 3 unlocked"/>
+    <translation value="Миссия 3 открыта"/>
+  </entry>
+  <entry key="mission_unlocked_3">
+    <original value="Mission 4 unlocked"/>
+    <translation value="Миссия 4 открыта"/>
+  </entry>
+  <entry key="mission_unlocked_4">
+    <original value="Mission 5 unlocked"/>
+    <translation value="Миссия 5 открыта"/>
+  </entry>
+  <entry key="TUTORIAL_1_unlocked">
+    <original value="Training 1 unlocked"/>
+    <translation value="Тренировка 1 открыта"/>
+  </entry>
+  <entry key="TUTORIAL_2_unlocked">
+    <original value="Training 2 unlocked"/>
+    <translation value="Тренировка медика открыта"/>
+  </entry>
+  <entry key="TUTORIAL_3_unlocked">
+    <original value="Training 3 unlocked"/>
+    <translation value="Тренировка инженера открыта"/>
+  </entry>
+  <entry key="TUTORIAL_1_passed">
+    <original value="Training 1 passed"/>
+    <translation value="Тренировка 1 пройдена"/>
+  </entry>
+  <entry key="TUTORIAL_2_passed">
+    <original value="Training 2 passed"/>
+    <translation value="Тренировка 2 пройдена"/>
+  </entry>
+  <entry key="TUTORIAL_3_passed">
+    <original value="Training 3 passed"/>
+    <translation value="Тренировка 3 пройдена"/>
+  </entry>
+  <entry key="RIFLEMAN_unlocked">
+    <original value="Class Rifleman unlocked"/>
+    <translation value="Класс 'Штурмовик' открыт"/>
+  </entry>
+  <entry key="SNIPER_unlocked">
+    <original value="Class Sniper unlocked"/>
+    <translation value="Класс 'Снайпер' открыт"/>
+  </entry>
+  <entry key="MEDIC_unlocked">
+    <original value="Class Medic unlocked"/>
+    <translation value="Класс 'Медик' открыт"/>
+  </entry>
+  <entry key="ENGINEER_unlocked">
+    <original value="Class Engineer unlocked"/>
+    <translation value="Класс 'Инженер' открыт"/>
+  </entry>
+  <entry key="mission_access_token_easy_shop_name">
+    <original value="Access Token (Regular)"/>
+    <translation value="Жетон доступа (легкий уровень)"/>
+  </entry>
+  <entry key="ui_mission_access_token_easy_item">
+    <original value="You need this token to get access to &lt;font size='16' color='#eaf742'&gt;regular &lt;/font&gt; missions.\n"/>
+    <translation value="Жетон, который необходим для участия в &lt;font size='16' color='#eaf742'&gt;легких&lt;/font&gt; миссиях.\n"/>
+  </entry>
+  <entry key="mission_access_token_normal_shop_name">
+    <original value="Access Token (Skilled)"/>
+    <translation value="Жетон доступа (сложный уровень)"/>
+  </entry>
+  <entry key="ui_mission_access_token_normal_item">
+    <original value="You need this token to get access to &lt;font size='16' color='#eaf742'&gt;skilled&lt;/font&gt; missions.\n"/>
+    <translation value="Жетон, который необходим для участия в &lt;font size='16' color='#eaf742'&gt;сложных&lt;/font&gt; миссиях.\n"/>
+  </entry>
+  <entry key="mission_access_token_hard_shop_name">
+    <original value="Access Token (Hardcore)"/>
+    <translation value="Жетон доступа ('Профи')"/>
+  </entry>
+  <entry key="ui_mission_access_token_hard_item">
+    <original value="You need this token to get access to &lt;font size='16' color='#eaf742'&gt;hardcore&lt;/font&gt; missions.\n"/>
+    <translation value="Жетон, который необходим для участия в миссиях на уровне сложности &lt;font size='16' color='#eaf742'&gt;'Профи'&lt;/font&gt;.\n"/>
+  </entry>
+  <entry key="aas_multiplier_2">
+    <original value="You play more than 5 hours (-100%)"/>
+    <translation value="Вы играете дольше 5 часов (-100%)"/>
+  </entry>
+  <entry key="aas_multiplier_1">
+    <original value="You play more than 3 hours (-50%)"/>
+    <translation value="Вы играете дольше 3 часов (-50%)"/>
+  </entry>
+  <entry key="ui_messagebox_open_link">
+    <original value="Now your browser will open. Continue?"/>
+    <translation value="Будет открыта страница в браузере. Продолжить?"/>
+  </entry>
+  <entry key="mission_unlocked_0">
+    <original value="Mission 1 unlocked"/>
+    <translation value="Миссия 1 открыта"/>
+  </entry>
+  <entry key="mission_unlocked_1">
+    <original value="Mission 2 unlocked"/>
+    <translation value="Миссия 2 открыта"/>
+  </entry>
+  <entry key="mission_unlocked_2">
+    <original value="Mission 3 unlocked"/>
+    <translation value="Миссия 3 открыта"/>
+  </entry>
+  <entry key="mission_unlocked_3">
+    <original value="Mission 4 unlocked"/>
+    <translation value="Миссия 4 открыта"/>
+  </entry>
+  <entry key="mission_unlocked_4">
+    <original value="Mission 5 unlocked"/>
+    <translation value="Миссия 5 открыта"/>
+  </entry>
+  <entry key="TUTORIAL_1_unlocked">
+    <original value="Training  1 unlocked"/>
+    <translation value="Тренировка 1 открыта"/>
+  </entry>
+  <entry key="TUTORIAL_2_unlocked">
+    <original value="Training  2 unlocked"/>
+    <translation value="Тренировка медика открыта"/>
+  </entry>
+  <entry key="TUTORIAL_3_unlocked">
+    <original value="Training  3 unlocked"/>
+    <translation value="Тренировка инженера открыта"/>
+  </entry>
+  <entry key="TUTORIAL_1_passed">
+    <original value="Training  1 passed"/>
+    <translation value="Тренировка 1 пройдена"/>
+  </entry>
+  <entry key="TUTORIAL_2_passed">
+    <original value="Training  2 passed"/>
+    <translation value="Тренировка 2 пройдена"/>
+  </entry>
+  <entry key="TUTORIAL_3_passed">
+    <original value="Training 3 passed"/>
+    <translation value="Тренировка 3 пройдена"/>
+  </entry>
+  <entry key="RIFLEMAN_unlocked">
+    <original value="Class Rifleman unlocked"/>
+    <translation value="Класс 'Штурмовик' открыт"/>
+  </entry>
+  <entry key="SNIPER_unlocked">
+    <original value="Class Sniper unlocked"/>
+    <translation value="Класс 'Снайпер' открыт"/>
+  </entry>
+  <entry key="MEDIC_unlocked">
+    <original value="Class Medic unlocked"/>
+    <translation value="Класс 'Медик' открыт"/>
+  </entry>
+  <entry key="ENGINEER_unlocked">
+    <original value="Class Engineer unlocked"/>
+    <translation value="Класс 'Инженер' открыт"/>
+  </entry>
+  <entry key="mission_access_token_easy_shop_name">
+    <original value="Access Token (Regular)"/>
+    <translation value="Жетон доступа (легкий уровень)"/>
+  </entry>
+  <entry key="ui_mission_access_token_easy_item">
+    <original value="You need this token to get access to  &lt;font size='16' color='#eaf742'&gt;regular &lt;/font&gt; missions.\n"/>
+    <translation value="Жетон, который необходим для участия в &lt;font size='16' color='#eaf742'&gt;легких&lt;/font&gt; миссиях.\n"/>
+  </entry>
+  <entry key="mission_access_token_normal_shop_name">
+    <original value="Access Token (Skilled)"/>
+    <translation value="Жетон доступа (сложный уровень)"/>
+  </entry>
+  <entry key="ui_mission_access_token_normal_item">
+    <original value="You need this token to get access to  &lt;font size='16' color='#eaf742'&gt;skilled&lt;/font&gt; missions.\n"/>
+    <translation value="Жетон, который необходим для участия в &lt;font size='16' color='#eaf742'&gt;сложных&lt;/font&gt; миссиях.\n"/>
+  </entry>
+  <entry key="mission_access_token_hard_shop_name">
+    <original value="Access Token (Hardcore)"/>
+    <translation value="Жетон доступа ('Профи')"/>
+  </entry>
+  <entry key="ui_mission_access_token_hard_item">
+    <original value="You need this token to get access to  &lt;font size='16' color='#eaf742'&gt;hardcore&lt;/font&gt; missions.\n"/>
+    <translation value="Жетон, который необходим для участия в миссиях на уровне сложности &lt;font size='16' color='#eaf742'&gt;'Профи'&lt;/font&gt;.\n"/>
+  </entry>
+  <entry key="aas_multiplier_2">
+    <original value="You play more than 5 hours (-100%)"/>
+    <translation value="Вы играете дольше 5 часов (-100%)"/>
+  </entry>
+  <entry key="aas_multiplier_1">
+    <original value="You play more than 3 hours (-50%)"/>
+    <translation value="Вы играете дольше 3 часов (-50%)"/>
+  </entry>
+  <entry key="ui_messagebox_open_link">
+    <original value="Now your browser will open. Continue?"/>
+    <translation value="Будет открыта страница в браузере. Продолжить?"/>
+  </entry>
+</localization>

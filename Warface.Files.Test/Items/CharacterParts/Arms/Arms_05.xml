@@ -1,0 +1,38 @@
+<CharacterPart Name="Arms_05" Slot="Arms" Template="Arms">
+	<Model File="objects/characters/arms/arms_05/male/arms_05.chr" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#arms_fat"/>
+			<Morph Switch="thin" Target="#arms_thin"/>
+			<Morph Switch="elbow_left" Target="#arms_elbow_left"/>
+			<Morph Switch="elbow_right" Target="#arms_elbow_right"/>
+			<Morph Switch="wrist_left" Target="#arms_wrist+elbowarmor_left"/>
+			<Morph Switch="wrist_right" Target="#arms_wrist+elbowarmor_right"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Game\Objects\Characters\Arms\Arms_05\male\arms_05_desert.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Arms\Arms_05\male\arms_05_blue.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\Arms\Arms_05\Arms_05_black.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Arms\Arms_05\Arms_05_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Arms\Arms_05\Female\Arms_05.chr" Gender="Female">
+		<Morphs>
+			<Morph Switch="fat" Target="#arms_fat"/>
+			<Morph Switch="thin" Target="#arms_thin"/>
+			<Morph Switch="elbow_left" Target="#arms_elbow_left"/>
+			<Morph Switch="elbow_right" Target="#arms_elbow_right"/>
+			<Morph Switch="wrist_left" Target="#arms_wrist+elbowarmor_left"/>
+			<Morph Switch="wrist_right" Target="#arms_wrist+elbowarmor_right"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Game\Objects\Characters\Arms\Arms_05\female\arms_05_desert.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Arms\Arms_05\female\arms_05_blue.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\Arms\Arms_05\Arms_05_black.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Arms\Arms_05\Arms_05_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,22 @@
+<CharacterPart Name="Wristarmor_01_left_optim" Slot="Wrist_left" Template="WristArmor_Left">
+	<Model File="Game\Objects\Characters\Wristarmor\Wristarmor_01\Male\Wristarmor_01_left_optim.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_black.mtl"/>
+			<Material Name="green" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_green.mtl"/>
+			<Material Name="desert" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Wristarmor\Wristarmor_01\Female\Wristarmor_01_left.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_black.mtl"/>
+			<Material Name="green" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_green.mtl"/>
+			<Material Name="desert" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

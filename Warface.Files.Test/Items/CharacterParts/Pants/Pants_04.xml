@@ -1,0 +1,21 @@
+<CharacterPart Name="Pants_04" Slot="Pants" Template="Pants">
+	<Model File="objects/characters/pants/pants_04/male/pants_04.chr" Gender="Male">
+		<Morphs>
+			<Morph Switch="Kneepads" Target="#kneepadsmorph"/>
+			<Morph Switch="Vest" Target="#vestmorph"/>
+			<Morph Switch="HipArmor" Target="#beltsmorph"/>
+			<Morph Switch="LegArmor" Target="#legarmormorph"/>
+			<Morph Switch="Fat" Target="#Pants01_fat"/>
+			<Morph Switch="Thin" Target="#Pants01_thin"/>
+		</Morphs>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Pants\Pants_04\male\pants_04.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/Pants/Pants_04/Female/Pants_04.chr" Gender="Female">
+		<Materials>
+			<Material Name="green" File="objects/characters/Pants/Pants_04/Female/pants_04_green.mtl"/>
+		</Materials>
+	</Model>
+</CharacterPart>

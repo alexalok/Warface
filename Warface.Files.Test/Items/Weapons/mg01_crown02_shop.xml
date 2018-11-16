@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+	<shop_item name="mg01_crown02_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Machinegun"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="6240"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@mg01_crown02_shop_name"/>
+			<param name="description" value="@ui_weapons_mg01_crown02"/>
+			<param name="icon" value="mg01_crown02"/>
+		</UI_stats>
+		<content>
+			<item name="mg01_crown02">
+				<item name="mg01_sp_d"/>
+			</item>
+		</content>
+	</shop_item>

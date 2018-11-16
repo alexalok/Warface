@@ -1,0 +1,22 @@
+<CharacterPart Name="Jacket_01_optim" Slot="Jacket" Template="Jacket">
+	<Model File="Game\Objects\Characters\Jacket\Jacket_01\Male\Jacket_01_optim.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="objects/characters/jacket/jacket_01/male/jacket_1.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Jacket\Jacket_01\Female\t_shirt_01.chr" FGTFile="" Gender="Female">
+		<Morphs>
+			<Morph Switch="vest_type2" Target="#jacket_vest01"/>
+			<Morph Switch="vest_type3" Target="#jacket_vest01"/>
+			<Morph Switch="vest_type4" Target="#jacket_vest01"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Objects\Characters\Jacket\Jacket_01\Female\t_shirt_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,54 @@
+<item category="medium" class="K01_Item" name="rl06_ib_ai_n" net_policy="weapon_ai" priority="40" view_settings="objects/weapons/sentry_mg_turret/sentry_mg_turret.xml">
+	<params>
+		<param name="giveable" value="1"/>
+		<param name="selectable" value="1"/>
+		<param name="ui_weapon" value="1"/>
+	</params>
+	<ai_descriptor burstBulletCountMax="15" burstBulletCountMin="10" burstPauseTimeMax="1.3" burstPauseTimeMin="1.7" handler="instant" singleFireTriggerTime="-1">
+	</ai_descriptor>
+	<ammos>
+		<ammo name="bullet_rl05_ib_ai"/>
+	</ammos>
+	<icons>
+		<combatlog icon="Turret_Machinegun" melee="Melee"/>
+	</icons>
+	<settings archetype="Items/Weapons/Archetypes/MG_ai.xml">
+		<param name="ammo_amount" value="3000"/>
+		<param name="rpm" value="350"/>
+		<param name="damage" value="15"/>
+		<param name="damage_min" value="10"/>
+		<param name="damage_mul" value="1"/>
+		<param name="damage_drop_per_meter" value="1.2"/>
+		<param name="damage_drop_min_distance" value="20"/>
+		<param name="spread_min" value="6"/>
+		<param name="spread_min_mul" value="1"/>
+		<param name="spread_max" value="11"/>
+		<param name="spread_max_mul" value="1"/>
+		<param name="spread_att" value="10"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec" value="40"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="reload_duration" value="1500"/>
+		<param name="melee_duration" value="280"/>
+		<param name="melee_range" value="0"/>
+		<param name="melee_damage" value="0"/>
+		<param name="melee_radius" value="0"/>
+		<param name="melee_radius_mul" value="0"/>
+		<param name="melee_out_duration" value="500"/>
+		<param name="toss_duration" value="400"/>
+		<param name="deselect_duration" value="300"/>
+		<param name="holster_in_duration" value="120"/>
+	</settings>
+	<firemodes>
+		<firemode name="Rapid" type="Rapid"/>
+	</firemodes>
+	<clipmode unlimited_inventory="1"/>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="bullet_rl05_ib_ai"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+		</fire>
+	</fireparams>
+</item>

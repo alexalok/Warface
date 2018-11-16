@@ -1,0 +1,24 @@
+<shop_item name="pt33_shop" type="weapon">
+	<mmo_stats>
+		<param name="item_category" value="Pistol"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="SRME"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="2625"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="category" value="pt"/>
+		<param name="name" value="@pt33_shop_name"/>
+		<param name="description" value="@ui_weapons_pt33"/>
+		<param name="icon" value="pt33"/>
+	</UI_stats>
+		<content>
+			<item name="pt33"/>
+			<item name="pt33_rds_d"/>
+		</content>
+	<skin_content>
+			<item name="pt33_oc03skin_shop"/>
+			<item name="pt33_rad01skin_shop"/>
+			<item name="pt33_set12skin_shop"/>
+	</skin_content>
+</shop_item>

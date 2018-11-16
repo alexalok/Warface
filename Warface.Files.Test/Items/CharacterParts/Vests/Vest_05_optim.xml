@@ -1,0 +1,24 @@
+<CharacterPart Name="Vest_05_optim" Slot="Vest" Template="Vest_Type1">
+	<Model File="Game\Objects\Characters\Vests\Tactical_Vest_05\male\Vest_05_optim.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Objects\Characters\Vests\Tactical_Vest_05\vest_05_black.mtl"/>
+			<Material Name="green" File="Objects\Characters\Vests\Tactical_Vest_05\vest_05_green.mtl"/>
+			<Material Name="desert" File="Objects\Characters\Vests\Tactical_Vest_05\vest_05_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/Vests/Tactical_Vest_05/Female/vest_05.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Objects\Characters\Vests\Tactical_Vest_05\vest_05_black.mtl"/>
+			<Material Name="green" File="Objects\Characters\Vests\Tactical_Vest_05\vest_05_green.mtl"/>
+			<Material Name="desert" File="Objects\Characters\Vests\Tactical_Vest_05\vest_05_desert.mtl"/>
+		</Materials>
+		<Sockets>
+			<Socket name="01" edge="0" angle="0" damping="0"/>
+		</Sockets>
+	</Model>
+</CharacterPart>

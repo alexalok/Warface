@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="ar02_camo02_gp_d" type="attachment" view_settings="objects/weapons/ar02/ar02_gp_d.xml">
+		<skins>
+			<material name="camo02"/>
+		</skins>
+		<UI_stats>
+			<param name="name" value="@ar02_gp_d_name"/>
+			<param name="description" value="@ui_ar02_gp_d"/>
+			<param name="icon" value="ccs_nonitem"/>
+		</UI_stats>
+		<drop_params>
+			<item name="ar02_camo02_gp_d" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="spread_min_mul" value="1">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="spread_max_mul" value="1">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="recoil_att_mul" value="1">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="recoil_max_mul" value="1">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+		</settings>
+		<types>
+			<type helper="ar02_gp_d" name="ar02_camo02_gp_d"/>
+		</types>
+	</item>

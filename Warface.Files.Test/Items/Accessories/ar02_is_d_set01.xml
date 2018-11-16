@@ -1,0 +1,19 @@
+<item name="ar02_is_d_set01" class="K01_Item" type="attachment" view_settings="objects/weapons/ar02/ar02_is_d.xml">
+	<skins>
+		<material name="set01"/>
+	</skins>
+	<UI_stats>
+		<param name="name" value="@is_default_name"/>
+		<param name="description" value="@ui_accessories_is_default"/>
+		<param name="icon" value="ccs_nonitem"/>
+	</UI_stats>
+	<drop_params>
+		<item name="ar02_is_d_set01" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="zoom_factor" value="1"/>
+	</settings>
+	<types>
+		<type name="ar02_set01_ironsight" helper="ar02_ironsight"/>
+	</types>
+</item>

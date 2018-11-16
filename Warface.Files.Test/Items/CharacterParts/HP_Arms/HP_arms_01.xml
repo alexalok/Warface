@@ -1,0 +1,21 @@
+<CharacterPart Name="HP_Arms_01" Slot="HP_Arms" Template="HP_Arms">
+	<Model File="objects/characters/hp_arms/hp_arms_01/male/hp_arms_01.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="Game\Objects\Characters\FP_Arms\FP_Arms_01\male\fp_arms_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\HP_Arms\HP_Arms_01\Female\HP_Arms_01.chr" Gender="Female">
+		<Morphs>
+			<Morph Switch="fat" Target="#fat"/>
+			<Morph Switch="thin" Target="#thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="Game\Objects\Characters\HP_Arms\HP_Arms_01\Female\hp_arms_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

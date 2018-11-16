@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<GameItem name="set_test_01_bonus04" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_test_01_bonus04_description"/>
+    </UI_stats>
+    <GameParams>
+			<param name="resistance" value="0.1" />
+    </GameParams>
+</GameItem>

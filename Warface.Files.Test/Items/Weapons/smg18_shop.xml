@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+	<shop_item name="smg18_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SMG"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="E"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="6240"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@smg18_shop_name"/>
+			<param name="description" value="@ui_weapons_smg18"/>
+			<param name="icon" value="smg18"/>
+		</UI_stats>
+		<content>
+			<item name="smg18">
+				<item name="smg18_sp_d"/>
+			</item>
+		</content>
+		<skin_content>
+			<item name="smg18_afro01_shop"/>
+			<item name="smg18_camo03skin_shop"/>
+			<item name="smg18_camo06skin_shop"/>
+		    <item name="smg18_camo08skin_shop"/>
+            <item name="smg18_camo09skin_shop"/>			
+		</skin_content>
+	</shop_item>

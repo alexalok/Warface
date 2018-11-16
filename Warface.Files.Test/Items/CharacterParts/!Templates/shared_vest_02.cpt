@@ -1,0 +1,20 @@
+<CharacterPartTemplate Name="shared_vest_02">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#vest_fat" />
+    <Morph Switch="thin" Target="#vest_thin" />
+    <Morph Switch="neck_fat" Target="#vest_neck_fat" />
+    <Morph Switch="neck_thin" Target="#vest_neck_thin" />
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="shared_vest_02" />
+  </Switches>
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+  </VisibilityMasks>
+  <TexAtlasGen TextureSize="1024"/>
+
+</CharacterPartTemplate>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="sr34_bp_d" type="attachment" view_settings="objects/weapons/sr34/sr34_bp_d.xml">
+		<description_ingame text="@ui_sr34_bp_d_ingame"/>
+		<mmo_stats>
+			<param name="item_category" value="attachment"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@sr34_bp_d_shop_name"/>
+			<param name="description" value="@ui_accessories_sr34_bp_d"/>
+			<param name="icon" value="sr34_bp_d"/>
+		</UI_stats>
+		<content>
+			<item name="sr34_bp_d"/>
+		</content>
+		<drop_params>
+			<item name="sr34_bp_d" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="recoil_att_mul" value="1">
+				<stance name="zoomed_prone" value="0.3"/>
+			</param>
+			<param name="recoil_max_mul" value="1">
+				<stance name="zoomed_prone" value="0.2"/>
+			</param>
+			<param name="sway_mul" value="1">
+				<stance name="zoomed_prone" value="0.01"/>
+			</param>
+		</settings>
+		<types>
+			<type helper="sr34_bp_d" name="sr34_bp_d"/>
+		</types>
+	</item>

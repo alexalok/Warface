@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="lp_label1">
+		<original value="TDM Streetwars Halloween"/>
+		<translation value="Квартал (Хеллоуин)"/>
+	</entry>
+	<entry key="lp_description1">
+		<original value="The map, which takes place in generic American suburban setting in Halloween style"/>
+		<translation value="Специальная версия карты 'Квартал' для режима 'Командный бой', посвященная Хеллоуину."/>
+	</entry>
+	<entry key="lp_label2">
+		<original value="TDM Streetwars Halloween"/>
+		<translation value="Квартал (Хеллоуин)"/>
+	</entry>
+	<entry key="lp_description2">
+		<original value="Most families decorate their front lawns with various 'scary' pieces, which create unique atmosphere of Halloween"/>
+		<translation value="Многие семьи украшают свои лужайки устрашающими поделками, создавая уникальную атмосферу Хеллоуина."/>
+	</entry>
+	<entry key="lp_label3">
+		<original value="Uzkon UNG-12 and gold version"/>
+		<translation value="Uzkon UNG-12"/>
+	</entry>
+	<entry key="lp_description3">
+		<original value="Automatic shotgun of Turkish origin manufactured by Uzkon. "/>
+		<translation value="Турецкий дробовик в компоновке булл-пап и его золотая версия."/>
+	</entry>
+	<entry key="lp_label4">
+		<original value="Platinum Uzkon UNG-12"/>
+		<translation value="Платиновый камуфляж"/>
+	</entry>
+	<entry key="lp_description4">
+		<original value="Gold Uzkon UNG-12 in unique platinum skin"/>
+		<translation value="Камуфляж для золотой версии турецкого дробовика Uzkon UNG-12."/>
+	</entry>
+</localization>

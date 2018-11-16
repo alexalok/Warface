@@ -1,0 +1,25 @@
+<CharacterPartTemplate Name="HP_Hands_01">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#hands_fat" />
+    <Morph Switch="thin" Target="#hands_thin" />
+    <Morph Switch="Hands" Target="#hands_type1"/>
+  </Morphs>
+
+  <Morphs Gender="Female">
+    <Morph Switch="fat" Target="#hands_fat" />
+    <Morph Switch="thin" Target="#hands_thin" />
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="HP_Hands_01" />
+  </Switches>
+  <Switches Gender="Female">
+    <Switch Value="HP_Hands_01" />
+  </Switches>
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_HIGHQUALITY_THIRD_PERSON" />
+  </VisibilityMasks>
+  
+</CharacterPartTemplate>

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+	<shop_item name="smg17_eua01_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SMG"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="E"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="5400"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@smg17_eua01_shop_name"/>
+			<param name="description" value="@ui_weapons_smg17_eua01"/>
+			<param name="icon" value="smg17_eua01"/>
+		</UI_stats>
+		<content>
+			<item name="smg17_eua01"/>
+			<support name="as06" helper="top_small"/>
+			<support name="as05" helper="top_small"/>
+			<support name="as03" helper="top_small"/>
+			<support name="rds01" helper="top_small"/>
+			<support name="rds02" helper="top_small"/>
+			<support name="gp03" helper="underbarrel_middle"/>
+			<support name="gp01" helper="underbarrel_middle"/>
+			<support name="gpp02" helper="underbarrel_middle"/>
+			<support name="sp02" helper="suppressor"/>
+			<support name="sc02" helper="silencer"/>
+			<support name="sc01" helper="silencer"/>
+			<support name="bn03" helper="silencer"/>
+		</content>
+	</shop_item>

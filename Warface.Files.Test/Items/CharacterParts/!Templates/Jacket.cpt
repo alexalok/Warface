@@ -1,0 +1,46 @@
+<CharacterPartTemplate Name="Jacket">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#jacket_fat" />
+    <Morph Switch="thin" Target="#jacket_thin" />
+
+    <Morph Switch="vest_type1" Target="#jacket_vest01" />
+    <Morph Switch="vest_type2" Target="#jacket_vest02" />
+    <Morph Switch="vest_type3" Target="#jacket_vest03" />
+    <Morph Switch="vest_type4" Target="#jacket_vest04" />
+    <Morph Switch="vest_type5" Target="#jacket_vest05" />  
+    <Morph Switch="vest_type6" Target="#jacket_vest06" /> 
+    <Morph Switch="vest_type10" Target="#jacket_vest10" />  
+    <Morph Switch="vest_type11" Target="#jacket_vest11" />  
+
+    <Morph Switch="hiparmor_left" Target="#jacket_hiparmor_left" />
+    <Morph Switch="hiparmor_right" Target="#jacket_hiparmor_right" />
+
+  </Morphs>
+
+  <Morphs Gender="Female">
+    <Morph Switch="fat" Target="#jacket_fat" />
+    <Morph Switch="thin" Target="#jacket_thin" />
+
+    <Morph Switch="vest_type1" Target="#jacket_vest01" />
+    <Morph Switch="vest_type2" Target="#jacket_vest02" />
+    <Morph Switch="vest_type3" Target="#jacket_vest03" />
+    <Morph Switch="vest_type4" Target="#jacket_vest04" />
+    <Morph Switch="vest_type5" Target="#jacket_vest05" />
+    <Morph Switch="vest_type6" Target="#jacket_vest06" /> 
+    <Morph Switch="vest_type10" Target="#jacket_vest10" />  
+    <Morph Switch="vest_type11" Target="#jacket_vest11" />  
+
+    <Morph Switch="hiparmor_left" Target="#jacket_hiparmor_left" />
+    <Morph Switch="hiparmor_right" Target="#jacket_hiparmor_right" />
+
+  </Morphs>
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+  </VisibilityMasks>
+<TexAtlasGen TextureSize="1024"/>
+
+  
+</CharacterPartTemplate>

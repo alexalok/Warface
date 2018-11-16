@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+	<shop_item name="shg47_gold01_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Shotgun"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="5400"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="shg"/>
+			<param name="name" value="@shg47_gold01_shop_name"/>
+			<param name="description" value="@ui_weapons_shg47_gold01"/>
+			<param name="icon" value="shg47_gold01"/>
+		</UI_stats>
+		<content>
+		<item name="shg47_gold01">
+		    <item name="shg47_gold01_is_d"/>
+			<item name="sp08_gold01"/>
+			<item name="sc04_gold01"/>
+			<item name="sp06_gold01"/>
+			<item name="rds01_gold01"/>
+			<item name="rds03_gold01"/>
+			<item name="rds04_gold01"/>
+			<item name="rds02_gold01"/>
+			</item>		
+     </content>
+	 <skin_content>
+			<item name="shg47_gold02skin_shop"/>
+		</skin_content>
+	</shop_item>

@@ -1,0 +1,24 @@
+<CharacterPart Name="Balaclava_02" Slot="HeadCloth" Template="HeadCloth">
+	<Model File="Game\Objects\Characters\HeadCloth\cap\Balaclava\male\balaclava02.chr" FGTFile="Objects\Characters\HeadCloth\Bandana_01\Male\bandana_01.fgt" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/headcloth/cap/balaclava/balaclava_02.mtl"/>
+			<Material Name="blue" File="objects/characters/headcloth/cap/balaclava/balaclava_02_blue.mtl"/>
+			<Material Name="green" File="objects/characters/headcloth/cap/balaclava/balaclava_02_green.mtl"/>
+			<Material Name="snow" File="objects/characters/headcloth/cap/balaclava/balaclava_02_white.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\HeadCloth\cap\Balaclava\female\balaclava02.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/headcloth/cap/balaclava/balaclava_02.mtl"/>
+			<Material Name="blue" File="objects/characters/headcloth/cap/balaclava/balaclava_02_blue.mtl"/>
+			<Material Name="green" File="objects/characters/headcloth/cap/balaclava/balaclava_02_green.mtl"/>
+			<Material Name="snow" File="objects/characters/headcloth/cap/balaclava/balaclava_02_white.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

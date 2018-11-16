@@ -1,0 +1,40 @@
+<item class="K01_Item" name="gl_is_01" type="attachment" view_settings="objects/attachments/gl_is_01/gl_is_01.xml">
+	<description_ingame text="@ui_gl_is_01_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="price" value="9000"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="R"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@gl_is_01_shop_name"/>
+		<param name="description" value="@ui_accessories_gl_is_01"/>
+		<param name="icon" value="tbd_icon"/>
+	</UI_stats>
+	<content>
+		<item name="gl_is_01"/>
+	</content>
+	<drop_params>
+		<item name="gl_is_01" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="zoom_factor" value="1.1"/>
+		<param name="spread_min_mul" value="1">
+			<stance name="run" value="1.3"/>
+			<stance name="jump" value="1.3"/>
+			<stance name="haste" value="1.3"/>
+			<stance name="crouch" value="1.3"/>
+			<stance name="prone" value="1.3"/>
+			<stance name="rest" value="1.3"/>
+			<stance name="stand" value="1.3"/>
+		</param>
+		<param name="fov_mul" value="0"/>
+		<param name="fire_underbarrel_on_release" value="1"/>
+		<param name="ballistic_ironsight" value="1"/>
+	</settings>
+	<types>
+		<type helper="top_small" name="top_small_gl_is"/>
+		<type helper="zoom_helper" name="zoom_helper"/>
+		<type helper="aux_helper" name="aux_helper"/>
+	</types>
+</item>

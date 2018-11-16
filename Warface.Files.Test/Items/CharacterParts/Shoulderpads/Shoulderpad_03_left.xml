@@ -1,0 +1,22 @@
+<CharacterPart Name="Shoulderpad_03_left" Slot="Shoulder_left" Template="ShoulderPads_Left">
+	<Model File="Game\Objects\Characters\Shoulderpads\Shoulderpads_03\Male\shoulderpad_03_left.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/vests/tactical_vest_03/vest_03_beige.mtl"/>
+			<Material Name="digital" File="objects/characters/vests/tactical_vest_03/vest_03_digital.mtl"/>
+			<Material Name="green" File="objects/characters/vests/tactical_vest_03/vest_03_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Shoulderpads\Shoulderpads_03\Female\shoulderpad_03_left.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/vests/tactical_vest_03/vest_03_beige.mtl"/>
+			<Material Name="digital" File="objects/characters/vests/tactical_vest_03/vest_03_digital.mtl"/>
+			<Material Name="green" File="objects/characters/vests/tactical_vest_03/vest_03_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

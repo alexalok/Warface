@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<GameItem name="sniper_kneepads_02" type="armor">
+	<mmo_stats>
+		<param name="item_category" value=""/>
+		<param name="price" value=""/>
+		<param name="shopcontent" value="0"/>
+		<param name="classes" value="S"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="icon" value="tbd_icon"/>
+	</UI_stats>
+	<slots>
+		<slot main="1" name="legarmor">
+			<materials>
+				<Material default="1" display_name="black" icon="mat_black" name="default" surface_type="mat_armor_legs"/>
+			</materials>
+			<assets>
+				<asset display="all" mode="tp" name="sniper_kneepads_02" teamId="1"/>
+				<asset display="all" mode="tp" name="sniper_kneepads_02_b" teamId="2"/>
+			</assets>
+		</slot>
+	</slots>
+	<GameParams>
+	</GameParams>
+</GameItem>

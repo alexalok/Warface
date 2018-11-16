@@ -1,0 +1,18 @@
+<CharacterPart Name="HP_Hands_02" Slot="HP_Hands" Template="HP_Hands">
+	<Model File="Game\Objects\Characters\HP_Gloves\HP_Gloves_02\Male\HP_Hands_02.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="objects/characters/fp_hands/male/hand_gloves_global.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\HP_Gloves\HP_Gloves_02\Female\HP_Gloves_02.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="Game\Objects\Characters\FP_Gloves\FP_Gloves_02\Female\FP_gloves_02.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

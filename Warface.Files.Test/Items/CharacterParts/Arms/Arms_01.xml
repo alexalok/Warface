@@ -1,0 +1,21 @@
+<CharacterPart Name="Arms_01" Slot="Arms" Template="Arms">
+	<Model File="objects/characters/Arms/arms_01/male/arms_01.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="objects/characters/arms/arms_01/male/arms_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects/Characters/Jacket/Jacket_20/female/Jacket_20.chr" FGTFile="" Gender="Female">
+		<Morphs>
+			<Morph Switch="fat" Target="#jacket_fat"/>
+			<Morph Switch="thin" Target="#jacket_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="objects/characters/arms/arms_01/female/arms_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

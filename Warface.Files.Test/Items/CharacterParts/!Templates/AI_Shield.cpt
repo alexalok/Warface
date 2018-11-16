@@ -1,0 +1,25 @@
+<CharacterPartTemplate Name="AI_Shield">
+
+  <Morphs Gender="Male">
+      </Morphs>
+
+  <Morphs Gender="Female">
+      </Morphs>
+
+
+  <Switches Gender="Male">
+     </Switches>
+  <Switches Gender="Female">
+     </Switches>
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+    <Mask Name="VISIBLE_HIGHQUALITY_THIRD_PERSON" />
+  </VisibilityMasks>
+  <Masks>
+    <Mask Name="IGNORE_IMPULSE" />
+  </Masks>
+  <TexAtlasGen TextureSize="512"/>
+
+</CharacterPartTemplate>

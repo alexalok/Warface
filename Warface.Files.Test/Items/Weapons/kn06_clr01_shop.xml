@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<shop_item name="kn06_clr01_shop" type="weapon_skin">
+		<mmo_stats>
+			<param name="item_category" value="meleeSkin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="SRME"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@kn06_clr01_shop_name"/>
+			<param name="description" value="@kn06_clr01"/>
+			<param name="icon" value="kn06_clr01"/>
+		</UI_stats>
+		<skin>
+			<param name="thumbnail_icon" value="kn06_clr01_thumbnail"/>
+			<param name="material" value="clr01"/>
+		</skin>
+	</shop_item>

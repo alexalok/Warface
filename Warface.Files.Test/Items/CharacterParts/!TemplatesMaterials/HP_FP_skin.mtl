@@ -1,0 +1,8 @@
+<Material MtlFlags="0" Shader="Humanskin" GenMask="268435456" SurfaceType="" MatTemplate="" Diffuse="0.49019611,0.49019611,0.49019611" Specular="0.098039225,0.098039225,0.098039225" Emissive="0,0,0" Shininess="10" Opacity="1">
+ <Textures />
+ <PublicParams SubsurfaceStrenght="1" RimStrenght="5" SpecularStrenght="2.3139999" DiffusionAmount="1" RimPow="1" Melanin="0.40000001"/>
+ <MaterialLayers>
+    <Layer />
+  <Layer />
+ </MaterialLayers>
+</Material>

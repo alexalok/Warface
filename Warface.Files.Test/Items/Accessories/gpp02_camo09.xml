@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="gpp02_camo09" type="attachment" view_settings="objects/attachments/gpp02/gpp02.xml">
+	    <skins>
+		   <material name="camo08"/>
+	    </skins>				
+		<description_ingame text="@ui_gpp02_ingame"/>
+		<mmo_stats>
+			<param name="item_category" value="attachment"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="E"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@gpp02_shop_name"/>
+			<param name="description" value="@ui_accessories_gpp02"/>
+			<param name="icon" value="gpp02_camo09"/>
+		</UI_stats>
+		<content>
+			<item name="gpp02_camo09"/>
+		</content>
+		<drop_params>
+			<item name="gpp02_camo09" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="spread_min_mul" value="0.8"/>
+			<param name="spread_max_mul" value="0.8"/>
+			<param name="recoil_att_mul" value="0.8"/>
+			<param name="recoil_max_mul" value="0.8"/>
+			<param name="sway_mul" value="1">
+				<stance name="zoomed_prone" value="0.1"/>
+			</param>
+		</settings>
+		<types>
+			<type helper="underbarrel_middle" name="gpp02_camo09"/>
+		</types>
+	</item>

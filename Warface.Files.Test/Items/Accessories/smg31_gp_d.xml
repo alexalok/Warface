@@ -1,0 +1,31 @@
+<item class="K01_Item" name="smg31_gp_d" type="attachment" view_settings="objects/weapons/smg31/smg31_gp_d.xml">
+		<skins>
+		<material name="default"/>
+		<material name="oc01"/>
+		<material name="ec02"/>
+	</skins>
+		<description_ingame text="@ui_smg31_gp_d_ingame"/>
+		<UI_stats>
+			<param name="name" value="@smg31_gp_d_name"/>
+			<param name="description" value="@ui_smg31_gp_d"/>
+			<param name="icon" value="smg31_gp_d"/>
+		</UI_stats>
+		<drop_params>
+			<item name="smg31_gp_d" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="spread_min_mul" value="0.85">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="spread_max_mul" value="0.85">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="sway_mul" value="0.2"/>
+			<param name="reload_duration_mul" value="0.85"/>
+		</settings>
+		<types>
+			<type helper="smg31_gp_d" name="smg31_gp_d"/>
+		</types>
+	</item>

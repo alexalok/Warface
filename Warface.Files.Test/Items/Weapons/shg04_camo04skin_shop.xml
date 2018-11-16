@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<shop_item name="shg04_camo04skin_shop" type="weapon_skin">
+		<mmo_stats>
+			<param name="item_category" value="primarySkin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@shg04_camo04skin_shop_name"/>
+			<param name="description" value="@shg04_camo04"/>
+			<param name="icon" value="shg04_camo04"/>
+		</UI_stats>
+		<skin>
+			<param name="thumbnail_icon" value="shg04_camo04_thumbnail"/>
+			<param name="material" value="camo04"/>
+		</skin>
+	</shop_item>

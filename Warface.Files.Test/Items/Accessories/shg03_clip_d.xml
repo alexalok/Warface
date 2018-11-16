@@ -1,0 +1,10 @@
+<item class="K01_Item" name="shg03_clip_d" type="attachment">
+	<drop_params>
+		<item name="shg03_clip_d" type="attachment"/>
+	</drop_params>
+	<settings>
+	</settings>
+	<types>
+		<type helper="shg03_clip" name="shg03_clip"/>
+	</types>
+</item>

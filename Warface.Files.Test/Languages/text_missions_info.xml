@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="token">
+		<original value="Trunk"/>
+		<translation value="RU"/>
+	</entry>
+	<entry key="demo1_description">
+		<original value="Benchmark mission compiled with 2 sublevels: \n - Afghanistan pass \n - Mech boss fight"/>
+		<translation value="Тестовая миссия состоит из двух частей: \n - Афганистан \n - Сражение с ПБМ 'Гром'"/>
+	</entry>
+	<entry key="demo2_description">
+		<original value="Prototype of Stun Boss junction"/>
+		<translation value="Прототип Парализатора"/>
+	</entry>
+	<entry key="demo3_description">
+		<original value="Favela sublevel in white box state"/>
+		<translation value="Подуровень 'Фавелы' находится на завершающей стадии"/>
+	</entry>
+	<entry key="demo4_description">
+		<original value="Favela mission compiled with 3 sublevels: \n - Favela 4 pass \n - Favela 5 pass\n - Stun Boss fight"/>
+		<translation value="Миссия 'Фавела' состоит из трех подуровней: \n - Фавела 4 \n - Фавела 5 \n - сражение с боссом-Парализатором"/>
+	</entry>
+	<entry key="info_kill_mechboss">
+		<original value="Locate and destroy Mech2300"/>
+		<translation value="Найдите и уничтожьте пилотируемую боевую машину 'Гром'"/>
+	</entry>
+	<entry key="info_kill_stunboss">
+		<original value="Find and destroy Stun Robot"/>
+		<translation value="Найдите и уничтожьте Парализатора"/>
+	</entry>
+	<entry key="info_pass">
+		<original value="Proceed to the extraction point"/>
+		<translation value="Направляйтесь к точке эвакуации"/>
+	</entry>
+	<entry key="pve_normal_end_boss">
+		<original value="Find the secret weapon named &quot;Mech2300&quot; within the small village."/>
+		<translation value="Разыщите в небольшой деревушке прототип пилотируемой боевой машины 'Гром' и уничтожьте его."/>
+	</entry>
+	<entry key="pve_normal_end_arena">
+		<original value="Lots of hostile activity in this area. Stay alert."/>
+		<translation value="В секторе обнаружено большое скопление сил противника. Продержитесь до прибытия помощи."/>
+	</entry>
+	<entry key="pve_normal_end_passage">
+		<original value="Findout a way through the village and reach the evac point."/>
+		<translation value="Проберитесь через деревню к точке эвакуации."/>
+	</entry>
+	<entry key="pve_easy_pass_boss_arena">
+		<original value="Locate and destroy the new hostile prototype called &quot;Mech2300&quot;. Stay alert."/>
+		<translation value="Найдите и уничтожьте вражеский прототип пилотируемой боевой машины 'Гром'. Будьте готовы к любым неожиданностям."/>
+	</entry>
+	<entry key="pve_me_end_mech">
+		<original value="Find the secret weapon named &quot;Mech2300&quot; within the small village."/>
+		<translation value="Найдите прототип пилотируемой боевой машины 'Гром' в небольшой деревушке."/>
+	</entry>
+	<entry key="pve_me_end_arena">
+		<original value="Lots of hostile activity in this area. Stay alert."/>
+		<translation value="В секторе обнаружено большое скопление сил противника. Продержитесь до прибытия помощи."/>
+	</entry>
+	<entry key="pve_me_end_convoy">
+		<original value="Intelligence has reported that the enemy is building fortifications in this region. You should support our vehicles in locating and destroying them."/>
+		<translation value="Разведка докладывает, что противник спешно возводит укрепления в этом регионе. Найдите и уничтожьте их при поддержке нашей техники."/>
+	</entry>
+	<entry key="pve_me_end_helicopter">
+		<original value="We lost radio contact with our caravan passing through this area. Your task is to try to find some trace of the caravan."/>
+		<translation value="Мы потеряли связь с нашей колонной, проходившей через эту область. Выясните, что произошло."/>
+	</entry>
+	<entry key="pve_me_end_safari">
+		<original value="An armored vehicle bringing supplies to our remote base has got stuck near the city outline. Find and escort the vehicle out of the city."/>
+		<translation value="Где-то на окраине города вышла из строя бронемашина с медикаментами. Найдите ее и сопроводите до точки назначения."/>
+	</entry>
+	<entry key="pve_me_end_path">
+		<original value="Make your way through the village to the extraction. But watch out, it's full of enemy forces!"/>
+		<translation value="Противник готовит массированную атаку на наши позиции и стягивает в этот регион большие силы. Нанесите удар в тыл врага и ослабьте его."/>
+	</entry>
+	<entry key="pve_bp_end_mech">
+		<original value="Locate and destroy the secret weapon named &quot;Mech2300&quot;."/>
+		<translation value="Найдите и уничтожьте ПБМ 'Гром'."/>
+	</entry>
+	<entry key="pve_bp_end_arena">
+		<original value="Your squad was assigned to secure the strategically important factory from hostile troops."/>
+		<translation value="Вашему отряду приказано обеспечить безопасность завода, имеющего важное стратегическое значение."/>
+	</entry>
+	<entry key="pve_bp_end_convoy">
+		<original value="Our anti-air vehicle is pinned down in this area. Find it and escort to the front line."/>
+		<translation value="В этом районе застряла наша зенитная установка. Найдите ее и сопроводите до места назначения."/>
+	</entry>
+	<entry key="pve_bp_end_helicopter">
+		<original value="This area is blocked by helicopter's gunfire. We must destroy it and clear the air space."/>
+		<translation value="Эту область патрулирует вертолет противника. Его необходимо уничтожить, чтобы обезопасить перемещение наших отрядов."/>
+	</entry>
+	<entry key="pve_bp_end_safari">
+		<original value="The enemy thinks they are well fortified along the river. Lets prove them wrong."/>
+		<translation value="Враги считают, что их укрепления возле реки неприступны. Докажите им, что они ошибаются."/>
+	</entry>
+	<entry key="pve_bp_end_path">
+		<original value="The enemy is getting ready for a massive attack on our positions and is concentrating their fire power in this location. Your mission is to flank and weaken the enemy."/>
+		<translation value="Противник готовит массированную атаку на наши позиции и стягивает в этот регион большие силы. Нанесите удар в тыл врага и ослабьте его."/>
+	</entry>
+	<entry key="normal_mission_desc">
+		<original value="Findout a way through the village full of Blackwood forces and get to the evac point."/>
+		<translation value="Проберитесь через деревню к точке эвакуации."/>
+	</entry>
+	<entry key="easy_mission_desc">
+		<original value="Findout a way through the village full of Blackwood forces and get to the evac point."/>
+		<translation value="Проберитесь через деревню к точке эвакуации."/>
+	</entry>
+	<entry key="hard_mission_desc">
+		<original value="Findout a way through the village full of Blackwood forces and get to the evac point."/>
+		<translation value="Проберитесь через деревню к точке эвакуации."/>
+	</entry>
+	<entry key="survival_mission_desc">
+		<original value="Gear up for your longest and hardest mission yet: Locate and neutralize Oberon White, the brains and money behind the Blackwood organization."/>
+		<translation value="Приготовьтесь к тяжелейшему заданию, бойцы! Ваша цель - найти и нейтрализовать Оберона Уайта, одного из лидеров корпорации Blackwood."/>
+	</entry>
+	<entry key="zombie_mission_desc">
+		<original value="Lethal danger is lurking in the darkness. Fight your way to the Blackwood base, and take out it’s source."/>
+		<translation value="В сумраке скрывается смертельная опасность. Доберитесь до базы Blackwood и выведите ее из строя."/>
+	</entry>
+	<entry key="mission_desc_favela_j01">
+		<original value="The 'Mech 2300' is guarding a facility deep within the Favelas. Find the behemoth and kill it!"/>
+		<translation value="Найдите и уничтожьте боевую машину 'Гром', охраняющую вход в лабораторию Blackwood."/>
+	</entry>
+	<entry key="mission_desc_favela_j02">
+		<original value="Protect the hot zone from enemy attacks."/>
+		<translation value="Защитите стратегическую позицию от превосходящих сил противника."/>
+	</entry>
+	<entry key="mission_desc_favela_j03">
+		<original value="Support our vehicle while destroying hostile communication installations in the area."/>
+		<translation value="Обеспечьте поддержку нашей технике и уничтожьте коммуникации противника в этом секторе."/>
+	</entry>
+	<entry key="mission_desc_favela_j04">
+		<original value="Take down the enemy chopper to restore friendly air traffic in the region."/>
+		<translation value="Сбейте вертолет противника, чтобы восстановить воздушное сообщение."/>
+	</entry>
+	<entry key="mission_desc_favela_j05">
+		<original value="Blackwood's presence near the river has grown considerably. Put an end to their activities!"/>
+		<translation value="Blackwood постоянно наращивает свои силы в этом секторе. Постарайтесь ослабить противника."/>
+	</entry>
+	<entry key="mission_desc_favela_path">
+		<original value="Eliminate Blackwood's personnel in favelas."/>
+		<translation value="Уничтожьте солдат Blackwood, захвативших фавелы."/>
+	</entry>
+	<entry key="mission_desc_ct_path">
+		<original value="Blackwood began its expansion in the Far East. Stop it."/>
+		<translation value="Blackwood начинают экспансию на Дальний Восток. Остановите их."/>
+	</entry>
+	<entry key="mission_desc_china_j01">
+		<original value="After your helicopter crashes, the Warface team needs to survive behind enemy lines and take the fight to their Mech."/>
+		<translation value="После крушения вертолета отряд Warface оказался на территории врага. Ваша задача — найти и уничтожить ПБМ 'Гром'."/>
+	</entry>
+	<entry key="mission_desc_china_j02">
+		<original value="You find yourself trapped after the helicopter drops you into enemy territory. Survive!"/>
+		<translation value="Вы попали в самое пекло после того, как ваш вертолет был сбит. Найдите путь к спасению!"/>
+	</entry>
+	<entry key="mission_desc_china_j03">
+		<original value="Your mission is to protect the limo with the politicians en route to the extraction point."/>
+		<translation value="Любой ценой защищайте лимузин, пока он не доберется до точки назначения."/>
+	</entry>
+	<entry key="mission_desc_china_j04">
+		<original value="The Warface team is inserted into hostile territory and is immediately pursued by a hostile helicopter."/>
+		<translation value="Бойцы Warface высаживаются в горячей точке и становятся целью вертолета противника."/>
+	</entry>
+	<entry key="mission_desc_china_j05">
+		<original value="We have ascertained the presence of heavy enemy forces in a group of construction sites in the city. Go teach them a lesson!"/>
+		<translation value="В городе находится большое скопление сил врага. Преподайте им урок!"/>
+	</entry>
+	<entry key="mission_desc_afghan_j01">
+		<original value="Destroy the mech, but watch out for the highly volatile car wrecks!"/>
+		<translation value="Уничтожьте 'Гром' и держитесь подальше от обломков машин."/>
+	</entry>
+	<entry key="mission_desc_afghan_j02">
+		<original value="Survive the fight against countless waves of Blackwood forces!"/>
+		<translation value="Отразите все атаки превосходящих сил Blackwood!"/>
+	</entry>
+	<entry key="mission_desc_afghan_j03">
+		<original value="Find the allied vehicle and escort it to the extraction point."/>
+		<translation value="Найдите машину союзников и сопроводите ее к точке назначения."/>
+	</entry>
+	<entry key="mission_desc_afghan_j04">
+		<original value="The helicopter ruining everybody's day. Destroy it while dealing with Blackwood's support troups."/>
+		<translation value="Вертолет врага не дает нам ступить и шагу. Уничтожьте его и вспомогательные отряды Blackwood."/>
+	</entry>
+	<entry key="mission_desc_afghan_j05">
+		<original value="Make your way through the village to the extraction. But watch out, it's full of enemy forces!"/>
+		<translation value="Проберитесь через деревню к точке назначения. Внимание: в секторе замечены отряды врага."/>
+	</entry>
+	<entry key="mission_desc_kosovo_j01">
+		<original value="Infiltrate the railway station and take care of the Mech guarding it."/>
+		<translation value="Проникните на железнодорожную станцию и уничтожьте ПБМ 'Гром'."/>
+	</entry>
+	<entry key="mission_desc_kosovo_j02">
+		<original value="Embattled on a construction site, team Warface has to survive the Blackwood assault."/>
+		<translation value="Отряд Warface вступает в неравный бой с наемниками Blackwood на строительной площадке."/>
+	</entry>
+	<entry key="mission_desc_kosovo_j03">
+		<original value="Your objective is to find, protect and escort the anti-air vehicle to safety."/>
+		<translation value="Ваша задача — обеспечить прикрытие для нашей зенитной установки и доставить ее в назначенное место."/>
+	</entry>
+	<entry key="mission_desc_kosovo_j04">
+		<original value="Eliminate the enemy assault chopper to ensure aerial pick-up."/>
+		<translation value="Уничтожьте вертолет врага, чтобы обезопасить сектор."/>
+	</entry>
+	<entry key="mission_desc_kosovo_j05">
+		<original value="Ride the hovercraft through enemy territory and take out as many Blackwood soldiers as you can!"/>
+		<translation value="Проберитесь в глубь территории врага на катере и уничтожьте как можно больше солдат Blackwood!"/>
+	</entry>
+	<entry key="mission_desc_africa_path">
+		<original value="Eliminate Blackwood's personnel in the hot sun."/>
+		<translation value="Уничтожьте солдат Blackwood под палящим солнцем."/>
+	</entry>
+	<entry key="mission_desc_africa_j">
+		<original value="This ordeal will make all the stronger."/>
+		<translation value="Это испытание сделает всех сильнее."/>
+	</entry>
+	<entry key="mission_desc_africa_j01">
+		<original value="You'll fight against Mech in the middle of the ruined coliseum."/>
+		<translation value="Сразитесь с 'Громом' посреди разрушенной арены."/>
+	</entry>
+	<entry key="mission_desc_africa_j02">
+		<original value="PLACE HOLDER ARENA"/>
+		<translation value="АРЕНА"/>
+	</entry>
+	<entry key="mission_desc_africa_j03">
+		<original value="PLACE HOLDER CONVOY"/>
+		<translation value="КОНВОЙ"/>
+	</entry>
+	<entry key="mission_desc_africa_j04">
+		<original value="Helicopter and convoy want to seize the dam. Repel the attack!"/>
+		<translation value="Враг пытается захватить дамбу. Отразите атаку!"/>
+	</entry>
+	<entry key="mission_desc_africa_j05">
+		<original value="Wanted the real safari? This is your chance. Africa, desert, hostiles and big guns. Enjoy!"/>
+		<translation value="Хотите попробовать настоящее сафари? Это ваш шанс! Африканская пустыня, орды врагов и большие пушки ждут!"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Tutorial">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="tutorial_mission_desc">
+		<original value="Tutorial mission"/>
+		<translation value="Обучающая миссия"/>
+	</entry>
+	<entry key="tutorial_mode_desc">
+		<original value="Tutorial"/>
+		<translation value="Обучение"/>
+	</entry>
+	<entry key="tutorial_basic_mission_desc">
+		<original value="Training camp for new recruits. Training includes:"/>
+		<translation value="Тренировочный лагерь для новобранцев. В программе обучения:"/>
+	</entry>
+	<entry key="tutorial_adv_mission_desc">
+		<original value="Training camp mission contain tutorial information about basic movement, shooting, explosives, weapon customization, classes and their abilities, weapons types, cooperative movement."/>
+		<translation value="В тренировочном лагере вы научитесь основам движения, стрельбы, обращения со взрывчаткой, модифицированию оружия, узнаете о классах и их способностях, а также получите базовые навыки командной игры."/>
+	</entry>
+	<entry key="name_training_camp">
+		<original value="Training camp"/>
+		<translation value="Тренировочный лагерь"/>
+	</entry>
+	<entry key="Mission Generator">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="mission_name_loading">
+		<original value="LOADING…"/>
+		<translation value="ЗАГРУЗКА..."/>
+	</entry>
+	<entry key="messagebox_mission_expired">
+		<original value="MISSION EXPIRED"/>
+		<translation value="МИССИЯ НЕДОСТУПНА"/>
+	</entry>
+	<entry key="mission_pve_prefix">
+		<original value="Mission:"/>
+		<translation value="Миссия:"/>
+	</entry>
+	<entry key="mission_newbie_1">
+		<original value="MISSION 1"/>
+		<translation value="МИССИЯ 1"/>
+	</entry>
+	<entry key="mission_newbie_2">
+		<original value="MISSION 2"/>
+		<translation value="МИССИЯ 2"/>
+	</entry>
+	<entry key="mission_newbie_3">
+		<original value="MISSION 3"/>
+		<translation value="МИССИЯ 3"/>
+	</entry>
+	<entry key="mission_newbie_4">
+		<original value="MISSION 4"/>
+		<translation value="МИССИЯ 4"/>
+	</entry>
+	<entry key="mission_newbie_5">
+		<original value="MISSION 5"/>
+		<translation value="МИССИЯ 5"/>
+	</entry>
+	<entry key="mission_newbie_6">
+		<original value="MISSION 6"/>
+		<translation value="МИССИЯ 6"/>
+	</entry>
+	<entry key="mission_skilled_1">
+		<original value="MISSION 1"/>
+		<translation value="МИССИЯ 1"/>
+	</entry>
+	<entry key="mission_skilled_2">
+		<original value="MISSION 2"/>
+		<translation value="МИССИЯ 2"/>
+	</entry>
+	<entry key="mission_skilled_3">
+		<original value="MISSION 3"/>
+		<translation value="МИССИЯ 3"/>
+	</entry>
+	<entry key="mission_skilled_4">
+		<original value="MISSION 4"/>
+		<translation value="МИССИЯ 4"/>
+	</entry>
+	<entry key="mission_skilled_5">
+		<original value="MISSION 5"/>
+		<translation value="МИССИЯ 5"/>
+	</entry>
+	<entry key="mission_skilled_6">
+		<original value="MISSION 6"/>
+		<translation value="МИССИЯ 6"/>
+	</entry>
+	<entry key="mission_pro_1">
+		<original value="MISSION 1"/>
+		<translation value="МИССИЯ 1"/>
+	</entry>
+	<entry key="mission_pro_2">
+		<original value="MISSION 2"/>
+		<translation value="МИССИЯ 2"/>
+	</entry>
+	<entry key="mission_pro_3">
+		<original value="MISSION 3"/>
+		<translation value="МИССИЯ 3"/>
+	</entry>
+	<entry key="mission_pro_4">
+		<original value="MISSION 4"/>
+		<translation value="МИССИЯ 4"/>
+	</entry>
+	<entry key="mission_pro_5">
+		<original value="MISSION 5"/>
+		<translation value="МИССИЯ 5"/>
+	</entry>
+	<entry key="mission_pro_6">
+		<original value="MISSION 6"/>
+		<translation value="МИССИЯ 6"/>
+	</entry>
+	<entry key="PvE Mission Names">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="bp_mission_easy01_1">
+		<original value="Stone well"/>
+		<translation value="Каменный колодец"/>
+	</entry>
+	<entry key="bp_mission_easy01_2">
+		<original value="The Well"/>
+		<translation value="Скважина"/>
+	</entry>
+	<entry key="bp_mission_easy01_3">
+		<original value="Rooftops"/>
+		<translation value="На крышах"/>
+	</entry>
+	<entry key="bp_mission_easy02_1">
+		<original value="Labyrinth"/>
+		<translation value="Лабиринт"/>
+	</entry>
+	<entry key="bp_mission_easy02_2">
+		<original value="Brick Wall"/>
+		<translation value="Кирпичная стена"/>
+	</entry>
+	<entry key="bp_mission_easy02_3">
+		<original value="Empty Shell"/>
+		<translation value="Пустая оболочка"/>
+	</entry>
+	<entry key="bp_mission_easy03_1">
+		<original value="Forest track"/>
+		<translation value="Дредноут"/>
+	</entry>
+	<entry key="bp_mission_easy03_2">
+		<original value="Pusher"/>
+		<translation value="Столкновение"/>
+	</entry>
+	<entry key="bp_mission_easy03_3">
+		<original value="Guideline"/>
+		<translation value="Истребление"/>
+	</entry>
+	<entry key="bp_mission_easy04_1">
+		<original value="Dreadnought"/>
+		<translation value="Лесная тропа"/>
+	</entry>
+	<entry key="bp_mission_easy04_2">
+		<original value="Spitfire"/>
+		<translation value="Четкие указания"/>
+	</entry>
+	<entry key="bp_mission_easy04_3">
+		<original value="Inspired"/>
+		<translation value="Вдохновение"/>
+	</entry>
+	<entry key="bp_mission_easy05_1">
+		<original value="Hunting"/>
+		<translation value="Сафари"/>
+	</entry>
+	<entry key="bp_mission_easy05_2">
+		<original value="Bloody Hunting"/>
+		<translation value="Кровавая охота"/>
+	</entry>
+	<entry key="bp_mission_easy06_1">
+		<original value="On the wheels"/>
+		<translation value="На колесах"/>
+	</entry>
+	<entry key="bp_mission_easy07_1">
+		<original value="Bloody Arena"/>
+		<translation value="Арена"/>
+	</entry>
+	<entry key="bp_mission_normal01_1">
+		<original value="Concrete jungle"/>
+		<translation value="Бетонные джунгли"/>
+	</entry>
+	<entry key="bp_mission_normal01_2">
+		<original value="Concrete Skyline"/>
+		<translation value="Линия горизонта"/>
+	</entry>
+	<entry key="bp_mission_normal01_3">
+		<original value="City Life"/>
+		<translation value="Городская жизнь"/>
+	</entry>
+	<entry key="bp_mission_normal02_1">
+		<original value="Wall Breakers"/>
+		<translation value="Ломая стены"/>
+	</entry>
+	<entry key="bp_mission_normal02_2">
+		<original value="Through the Wall"/>
+		<translation value="Сквозь стену"/>
+	</entry>
+	<entry key="bp_mission_normal02_3">
+		<original value="Day of Fire"/>
+		<translation value="День битвы"/>
+	</entry>
+	<entry key="bp_mission_normal03_1">
+		<original value="Overlord"/>
+		<translation value="Повелитель"/>
+	</entry>
+	<entry key="bp_mission_normal03_2">
+		<original value="The Tower"/>
+		<translation value="Башня"/>
+	</entry>
+	<entry key="bp_mission_normal03_3">
+		<original value="The Golem"/>
+		<translation value="Голем"/>
+	</entry>
+	<entry key="bp_mission_normal04_1">
+		<original value="Battle Lines"/>
+		<translation value="Боевой порядок"/>
+	</entry>
+	<entry key="bp_mission_normal04_2">
+		<original value="Frontline"/>
+		<translation value="Линия фронта"/>
+	</entry>
+	<entry key="bp_mission_normal04_3">
+		<original value="Battleground"/>
+		<translation value="Поле сражения"/>
+	</entry>
+	<entry key="bp_mission_normal05_1">
+		<original value="Hunting"/>
+		<translation value="Сафари"/>
+	</entry>
+	<entry key="bp_mission_normal05_2">
+		<original value="Bloody Hunting"/>
+		<translation value="Кровавая охота"/>
+	</entry>
+	<entry key="bp_mission_normal06_1">
+		<original value="On the wheels"/>
+		<translation value="На колесах"/>
+	</entry>
+	<entry key="bp_mission_normal07_1">
+		<original value="Arena"/>
+		<translation value="Арена"/>
+	</entry>
+	<entry key="bp_mission_hard01_1">
+		<original value="Wall of fire"/>
+		<translation value="Стена огня"/>
+	</entry>
+	<entry key="bp_mission_hard01_2">
+		<original value="Ghost Town"/>
+		<translation value="Город-призрак"/>
+	</entry>
+	<entry key="bp_mission_hard01_3">
+		<original value="Anthill"/>
+		<translation value="Муравьиный холм"/>
+	</entry>
+	<entry key="bp_mission_hard02_1">
+		<original value="Across the street"/>
+		<translation value="На другой стороне"/>
+	</entry>
+	<entry key="bp_mission_hard02_2">
+		<original value="Death Row"/>
+		<translation value="Приговор"/>
+	</entry>
+	<entry key="bp_mission_hard02_3">
+		<original value="Urban Decay"/>
+		<translation value="Заброшенный город"/>
+	</entry>
+	<entry key="bp_mission_hard03_1">
+		<original value="Tiger claw"/>
+		<translation value="Коготь тигра"/>
+	</entry>
+	<entry key="bp_mission_hard03_2">
+		<original value="Divinity"/>
+		<translation value="В руках бога"/>
+	</entry>
+	<entry key="bp_mission_hard03_3">
+		<original value="Quintessence"/>
+		<translation value="Квинтэссенция зла"/>
+	</entry>
+	<entry key="bp_mission_hard04_1">
+		<original value="Deadwood"/>
+		<translation value="Мертвый лес"/>
+	</entry>
+	<entry key="bp_mission_hard04_2">
+		<original value="Along the Line"/>
+		<translation value="На краю бездны"/>
+	</entry>
+	<entry key="bp_mission_hard04_3">
+		<original value="Battle Star"/>
+		<translation value="Бронзовая звезда"/>
+	</entry>
+	<entry key="bp_mission_hard05_1">
+		<original value="Hunting"/>
+		<translation value="Сафари"/>
+	</entry>
+	<entry key="bp_mission_hard05_2">
+		<original value="Bloody Hunting"/>
+		<translation value="Кровавая охота"/>
+	</entry>
+	<entry key="bp_mission_hard06_1">
+		<original value="On the wheels"/>
+		<translation value="На колесах"/>
+	</entry>
+	<entry key="bp_mission_hard07_1">
+		<original value="Dangerous construction"/>
+		<translation value="Арена"/>
+	</entry>
+	<entry key="me_mission_easy01_1">
+		<original value="Ironman"/>
+		<translation value="Джаггернаут"/>
+	</entry>
+	<entry key="me_mission_easy01_2">
+		<original value="Liquidator"/>
+		<translation value="Ликвидатор"/>
+	</entry>
+	<entry key="me_mission_easy01_3">
+		<original value="Disruptor"/>
+		<translation value="Чистильщик"/>
+	</entry>
+	<entry key="me_mission_easy02_1">
+		<original value="Stomper"/>
+		<translation value="Тяжелые шаги"/>
+	</entry>
+	<entry key="me_mission_easy02_2">
+		<original value="Finisher"/>
+		<translation value="Последний штрих"/>
+	</entry>
+	<entry key="me_mission_easy02_3">
+		<original value="Selector"/>
+		<translation value="Искатель"/>
+	</entry>
+	<entry key="me_mission_easy03_1">
+		<original value="The silence"/>
+		<translation value="Безмолвие"/>
+	</entry>
+	<entry key="me_mission_easy03_2">
+		<original value="No Go"/>
+		<translation value="Путь закрыт"/>
+	</entry>
+	<entry key="me_mission_easy03_3">
+		<original value="Breakdown"/>
+		<translation value="Поломка"/>
+	</entry>
+	<entry key="me_mission_easy04_1">
+		<original value="Deadfall"/>
+		<translation value="Западня"/>
+	</entry>
+	<entry key="me_mission_easy04_2">
+		<original value="All Bets are Off"/>
+		<translation value="Ставок больше нет"/>
+	</entry>
+	<entry key="me_mission_easy04_3">
+		<original value="Escape Route"/>
+		<translation value="Пути отхода"/>
+	</entry>
+	<entry key="me_mission_easy05_1">
+		<original value="Bulletproof"/>
+		<translation value="Пуленепробиваемый"/>
+	</entry>
+	<entry key="me_mission_easy05_2">
+		<original value="Pandora"/>
+		<translation value="Ящик Пандоры"/>
+	</entry>
+	<entry key="me_mission_easy05_3">
+		<original value="In the Shell"/>
+		<translation value="В скорлупе"/>
+	</entry>
+	<entry key="me_mission_easy06_1">
+		<original value="Along the road"/>
+		<translation value="Вдоль дороги"/>
+	</entry>
+	<entry key="me_mission_easy06_2">
+		<original value="Pathfinder"/>
+		<translation value="Следопыт"/>
+	</entry>
+	<entry key="me_mission_easy06_3">
+		<original value="Route Master"/>
+		<translation value="Ведущий"/>
+	</entry>
+	<entry key="me_mission_easy07_1">
+		<original value="In sight"/>
+		<translation value="В поле зрения"/>
+	</entry>
+	<entry key="me_mission_easy07_2">
+		<original value="The Rumble"/>
+		<translation value="Раскат грома"/>
+	</entry>
+	<entry key="me_mission_easy07_3">
+		<original value="Fear Factor"/>
+		<translation value="Фактор страха"/>
+	</entry>
+	<entry key="me_mission_easy08_1">
+		<original value="Sanctum"/>
+		<translation value="Убежище"/>
+	</entry>
+	<entry key="me_mission_easy08_2">
+		<original value="The Same Story"/>
+		<translation value="Старая песня"/>
+	</entry>
+	<entry key="me_mission_easy08_3">
+		<original value="The Ghost"/>
+		<translation value="Призрак"/>
+	</entry>
+	<entry key="me_mission_easy09_1">
+		<original value="Short notice"/>
+		<translation value="Новая информация"/>
+	</entry>
+	<entry key="me_mission_easy09_2">
+		<original value="Cautionary Note"/>
+		<translation value="Предупреждение"/>
+	</entry>
+	<entry key="me_mission_easy09_3">
+		<original value="Wild Journey"/>
+		<translation value="Дикие места"/>
+	</entry>
+	<entry key="me_mission_easy10_1">
+		<original value="Clearance"/>
+		<translation value="Зачистка"/>
+	</entry>
+	<entry key="me_mission_easy10_2">
+		<original value="Infiltration"/>
+		<translation value="Внедрение"/>
+	</entry>
+	<entry key="me_mission_easy10_3">
+		<original value="New Disorder"/>
+		<translation value="Новые беспорядки"/>
+	</entry>
+	<entry key="me_mission_easy11_1">
+		<original value="Blood sands"/>
+		<translation value="Кровавые пески"/>
+	</entry>
+	<entry key="me_mission_easy11_2">
+		<original value="Favourite Place"/>
+		<translation value="Излюбленное место"/>
+	</entry>
+	<entry key="me_mission_easy11_3">
+		<original value="Security Check"/>
+		<translation value="Дамоклов меч"/>
+	</entry>
+	<entry key="me_mission_easy12_1">
+		<original value="The way"/>
+		<translation value="Путь в никуда"/>
+	</entry>
+	<entry key="me_mission_easy12_2">
+		<original value="Sandmen"/>
+		<translation value="Во власти песков"/>
+	</entry>
+	<entry key="me_mission_easy12_3">
+		<original value="Contribution"/>
+		<translation value="Личный вклад"/>
+	</entry>
+	<entry key="me_mission_normal01_1">
+		<original value="Firestarter"/>
+		<translation value="Поджигатель"/>
+	</entry>
+	<entry key="me_mission_normal01_2">
+		<original value="Face to Face"/>
+		<translation value="Лицом к лицу"/>
+	</entry>
+	<entry key="me_mission_normal01_3">
+		<original value="Earthquake"/>
+		<translation value="Землетрясение"/>
+	</entry>
+	<entry key="me_mission_normal02_1">
+		<original value="Horror Show"/>
+		<translation value="Кошмар наяву"/>
+	</entry>
+	<entry key="me_mission_normal02_2">
+		<original value="Devastator"/>
+		<translation value="Разрушитель"/>
+	</entry>
+	<entry key="me_mission_normal02_3">
+		<original value="Face the Fury"/>
+		<translation value="Встреча с яростью"/>
+	</entry>
+	<entry key="me_mission_normal03_1">
+		<original value="Falling apart"/>
+		<translation value="В клочья"/>
+	</entry>
+	<entry key="me_mission_normal03_2">
+		<original value="Insomnia"/>
+		<translation value="Бессонница"/>
+	</entry>
+	<entry key="me_mission_normal03_3">
+		<original value="Stay no Longer"/>
+		<translation value="Ни секунды больше"/>
+	</entry>
+	<entry key="me_mission_normal04_1">
+		<original value="The Rubicon"/>
+		<translation value="Рубикон"/>
+	</entry>
+	<entry key="me_mission_normal04_2">
+		<original value="Borderline"/>
+		<translation value="На границе"/>
+	</entry>
+	<entry key="me_mission_normal04_3">
+		<original value="No Space"/>
+		<translation value="Мест нет"/>
+	</entry>
+	<entry key="me_mission_normal05_1">
+		<original value="Mosquito bite"/>
+		<translation value="Комариный укус"/>
+	</entry>
+	<entry key="me_mission_normal05_2">
+		<original value="Cutting Edge"/>
+		<translation value="Острая грань"/>
+	</entry>
+	<entry key="me_mission_normal05_3">
+		<original value="Seizure"/>
+		<translation value="Припадок"/>
+	</entry>
+	<entry key="me_mission_normal06_1">
+		<original value="Armored Mount"/>
+		<translation value="Броня на колесах"/>
+	</entry>
+	<entry key="me_mission_normal06_2">
+		<original value="Armor Plated"/>
+		<translation value="Под слоем брони"/>
+	</entry>
+	<entry key="me_mission_normal06_3">
+		<original value="Riveted"/>
+		<translation value="Забронировано"/>
+	</entry>
+	<entry key="me_mission_normal07_1">
+		<original value="Final order"/>
+		<translation value="Последний приказ"/>
+	</entry>
+	<entry key="me_mission_normal07_2">
+		<original value="Gatekeeper"/>
+		<translation value="Страж ворот"/>
+	</entry>
+	<entry key="me_mission_normal07_3">
+		<original value="Marauder"/>
+		<translation value="Мародер"/>
+	</entry>
+	<entry key="me_mission_normal08_1">
+		<original value="Dragonfly"/>
+		<translation value="Стрекоза"/>
+	</entry>
+	<entry key="me_mission_normal08_2">
+		<original value="Whirlwind"/>
+		<translation value="Огненный вихрь"/>
+	</entry>
+	<entry key="me_mission_normal08_3">
+		<original value="Provocateur"/>
+		<translation value="Провокатор"/>
+	</entry>
+	<entry key="me_mission_normal09_1">
+		<original value="Shout"/>
+		<translation value="Отчаянный крик"/>
+	</entry>
+	<entry key="me_mission_normal09_2">
+		<original value="Never Forget"/>
+		<translation value="Вечная память"/>
+	</entry>
+	<entry key="me_mission_normal09_3">
+		<original value="Redemption"/>
+		<translation value="Искупление вины"/>
+	</entry>
+	<entry key="me_mission_normal10_1">
+		<original value="Illumination"/>
+		<translation value="Озарение"/>
+	</entry>
+	<entry key="me_mission_normal10_2">
+		<original value="Nonstop"/>
+		<translation value="Без остановки"/>
+	</entry>
+	<entry key="me_mission_normal10_3">
+		<original value="Short Road"/>
+		<translation value="Короткий путь"/>
+	</entry>
+	<entry key="me_mission_normal11_1">
+		<original value="Sandstorm"/>
+		<translation value="Песчаная буря"/>
+	</entry>
+	<entry key="me_mission_normal11_2">
+		<original value="Desert Rat"/>
+		<translation value="Пустынная крыса"/>
+	</entry>
+	<entry key="me_mission_normal11_3">
+		<original value="Sandblasted"/>
+		<translation value="Очищение песком"/>
+	</entry>
+	<entry key="me_mission_normal12_1">
+		<original value="Heat feat"/>
+		<translation value="Надоедливая жара"/>
+	</entry>
+	<entry key="me_mission_normal12_2">
+		<original value="En Route"/>
+		<translation value="Транзит"/>
+	</entry>
+	<entry key="me_mission_normal12_3">
+		<original value="Routine"/>
+		<translation value="Рутинная работа"/>
+	</entry>
+	<entry key="me_mission_hard01_1">
+		<original value="Error code"/>
+		<translation value="Код ошибки"/>
+	</entry>
+	<entry key="me_mission_hard01_2">
+		<original value="Seek and Destroy"/>
+		<translation value="Найти и устранить"/>
+	</entry>
+	<entry key="me_mission_hard01_3">
+		<original value="Wolf Ticket"/>
+		<translation value="Волчий билет"/>
+	</entry>
+	<entry key="me_mission_hard02_1">
+		<original value="Iron judgement"/>
+		<translation value="Суровая правда"/>
+	</entry>
+	<entry key="me_mission_hard02_2">
+		<original value="Iron Word"/>
+		<translation value="Крепче стали"/>
+	</entry>
+	<entry key="me_mission_hard02_3">
+		<original value="Quake Lord"/>
+		<translation value="Трясущаяся земля"/>
+	</entry>
+	<entry key="me_mission_hard03_1">
+		<original value="Long way home"/>
+		<translation value="Долгий путь домой"/>
+	</entry>
+	<entry key="me_mission_hard03_2">
+		<original value="Distress Call"/>
+		<translation value="Просьба о помощи"/>
+	</entry>
+	<entry key="me_mission_hard03_3">
+		<original value="Mayday"/>
+		<translation value="Бедствие"/>
+	</entry>
+	<entry key="me_mission_hard04_1">
+		<original value="No way out"/>
+		<translation value="Выхода нет"/>
+	</entry>
+	<entry key="me_mission_hard04_2">
+		<original value="Trapped"/>
+		<translation value="В ловушке"/>
+	</entry>
+	<entry key="me_mission_hard04_3">
+		<original value="Fragile Edge"/>
+		<translation value="Хрупкий баланс"/>
+	</entry>
+	<entry key="me_mission_hard05_1">
+		<original value="Panzer's guide"/>
+		<translation value="Танковый прорыв"/>
+	</entry>
+	<entry key="me_mission_hard05_2">
+		<original value="Armored Aegis"/>
+		<translation value="Под защитой брони"/>
+	</entry>
+	<entry key="me_mission_hard05_3">
+		<original value="The Hammer"/>
+		<translation value="Удар молота"/>
+	</entry>
+	<entry key="me_mission_hard06_1">
+		<original value="Here and now"/>
+		<translation value="Здесь и сейчас"/>
+	</entry>
+	<entry key="me_mission_hard06_2">
+		<original value="Bone Grinder"/>
+		<translation value="Костолом"/>
+	</entry>
+	<entry key="me_mission_hard06_3">
+		<original value="Crossroads"/>
+		<translation value="Перекресток"/>
+	</entry>
+	<entry key="me_mission_hard07_1">
+		<original value="Death valley"/>
+		<translation value="Долина смерти"/>
+	</entry>
+	<entry key="me_mission_hard07_2">
+		<original value="Deadline"/>
+		<translation value="На пределе"/>
+	</entry>
+	<entry key="me_mission_hard07_3">
+		<original value="Razor’s Edge"/>
+		<translation value="Лезвие бритвы"/>
+	</entry>
+	<entry key="me_mission_hard08_1">
+		<original value="Death from above"/>
+		<translation value="Смерть с небес"/>
+	</entry>
+	<entry key="me_mission_hard08_2">
+		<original value="Swift Fury"/>
+		<translation value="Необузданный гнев"/>
+	</entry>
+	<entry key="me_mission_hard08_3">
+		<original value="Guardian"/>
+		<translation value="Бдительный страж"/>
+	</entry>
+	<entry key="me_mission_hard09_1">
+		<original value="Forsaken Values"/>
+		<translation value="Запретный плод"/>
+	</entry>
+	<entry key="me_mission_hard09_2">
+		<original value="Disturbance"/>
+		<translation value="Источник проблем"/>
+	</entry>
+	<entry key="me_mission_hard09_3">
+		<original value="Take a Trip"/>
+		<translation value="Обычная прогулка"/>
+	</entry>
+	<entry key="me_mission_hard10_1">
+		<original value="Final warning"/>
+		<translation value="Финальный аккорд"/>
+	</entry>
+	<entry key="me_mission_hard10_2">
+		<original value="Warning Sign"/>
+		<translation value="Сигнал опасности"/>
+	</entry>
+	<entry key="me_mission_hard10_3">
+		<original value="Rapid Approach"/>
+		<translation value="Последний рывок"/>
+	</entry>
+	<entry key="me_mission_hard11_1">
+		<original value="Bullet rain"/>
+		<translation value="Свинцовый дождь"/>
+	</entry>
+	<entry key="me_mission_hard11_2">
+		<original value="Hot Spot"/>
+		<translation value="Горячая точка"/>
+	</entry>
+	<entry key="me_mission_hard11_3">
+		<original value="Cleansed"/>
+		<translation value="Очищение"/>
+	</entry>
+	<entry key="me_mission_hard12_1">
+		<original value="Bloodbath"/>
+		<translation value="Кровавая баня"/>
+	</entry>
+	<entry key="me_mission_hard12_2">
+		<original value="Iron Forge"/>
+		<translation value="Раскаленная сталь"/>
+	</entry>
+	<entry key="me_mission_hard12_3">
+		<original value="Keynotes"/>
+		<translation value="Ультиматум"/>
+	</entry>
+	<entry key="PvE Straight mission names">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="straight_mission_name0">
+		<original value="PATH"/>
+		<translation value="ПРОРЫВ"/>
+	</entry>
+	<entry key="straight_mission_name1">
+		<original value="MECH"/>
+		<translation value="ГРОМ"/>
+	</entry>
+	<entry key="straight_mission_name2">
+		<original value="ARENA"/>
+		<translation value="АРЕНА"/>
+	</entry>
+	<entry key="straight_mission_name3">
+		<original value="CONVOY"/>
+		<translation value="КОНВОЙ"/>
+	</entry>
+	<entry key="straight_mission_name4">
+		<original value="APACHE"/>
+		<translation value="АКУЛА"/>
+	</entry>
+	<entry key="straight_mission_name5">
+		<original value="SAFARI"/>
+		<translation value="САФАРИ"/>
+	</entry>
+	<entry key="Favela mission names">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="fd_mission_easy01_1">
+		<original value="War machine"/>
+		<translation value="Военная машина"/>
+	</entry>
+	<entry key="fd_mission_easy01_2">
+		<original value="Iron bully"/>
+		<translation value="Стальная ярость"/>
+	</entry>
+	<entry key="fd_mission_easy02_1">
+		<original value="Hard way"/>
+		<translation value="Запасной план"/>
+	</entry>
+	<entry key="fd_mission_easy02_2">
+		<original value="Tough fight"/>
+		<translation value="Тяжелый бой"/>
+	</entry>
+	<entry key="fd_mission_easy03_1">
+		<original value="In safe hands"/>
+		<translation value="В надежных руках"/>
+	</entry>
+	<entry key="fd_mission_easy03_2">
+		<original value="Bad connection"/>
+		<translation value="Перебои со связью"/>
+	</entry>
+	<entry key="fd_mission_easy04_1">
+		<original value="Hot Air"/>
+		<translation value="Раскаленный воздух"/>
+	</entry>
+	<entry key="fd_mission_easy04_2">
+		<original value="Shooting chopper"/>
+		<translation value="Под прицелом"/>
+	</entry>
+	<entry key="fd_mission_easy05_1">
+		<original value="Walk with the breeze"/>
+		<translation value="Вместе с ветром"/>
+	</entry>
+	<entry key="fd_mission_easy05_2">
+		<original value="Promenade"/>
+		<translation value="Свист пуль"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="fd_mission_normal01_1">
+		<original value="Deadly war machine"/>
+		<translation value="Машина смерти"/>
+	</entry>
+	<entry key="fd_mission_normal01_2">
+		<original value="Mr. Big"/>
+		<translation value="Главный калибр"/>
+	</entry>
+	<entry key="fd_mission_normal02_1">
+		<original value="Way in the crossfire"/>
+		<translation value="Перекрестный огонь"/>
+	</entry>
+	<entry key="fd_mission_normal02_2">
+		<original value="Unfair battle"/>
+		<translation value="Неравные шансы"/>
+	</entry>
+	<entry key="fd_mission_normal03_1">
+		<original value="Under protection"/>
+		<translation value="Под защитой"/>
+	</entry>
+	<entry key="fd_mission_normal03_2">
+		<original value="Beyond signal"/>
+		<translation value="Пропавший сигнал"/>
+	</entry>
+	<entry key="fd_mission_normal04_1">
+		<original value="Dangerous flights"/>
+		<translation value="Рискованный полет"/>
+	</entry>
+	<entry key="fd_mission_normal04_2">
+		<original value="Too high…"/>
+		<translation value="Вне досягаемости"/>
+	</entry>
+	<entry key="fd_mission_normal05_1">
+		<original value="Get to the goal"/>
+		<translation value="Стремление к цели"/>
+	</entry>
+	<entry key="fd_mission_normal05_2">
+		<original value="Heavy stroll"/>
+		<translation value="Опасная прогулка"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="fd_mission_hard01_1">
+		<original value="Deadliest war machine"/>
+		<translation value="Бог войны"/>
+	</entry>
+	<entry key="fd_mission_hard01_2">
+		<original value="Iron lord"/>
+		<translation value="Железная хватка"/>
+	</entry>
+	<entry key="fd_mission_hard02_1">
+		<original value="Path to Nowhere"/>
+		<translation value="В капкане"/>
+	</entry>
+	<entry key="fd_mission_hard02_2">
+		<original value="Decisive Battle"/>
+		<translation value="Решающий бой"/>
+	</entry>
+	<entry key="fd_mission_hard03_1">
+		<original value="Tough protection"/>
+		<translation value="Мощная защита"/>
+	</entry>
+	<entry key="fd_mission_hard03_2">
+		<original value="Radio silence"/>
+		<translation value="Радиомолчание"/>
+	</entry>
+	<entry key="fd_mission_hard04_1">
+		<original value="Death From Above"/>
+		<translation value="Огненный дождь"/>
+	</entry>
+	<entry key="fd_mission_hard04_2">
+		<original value="Owner of the sky"/>
+		<translation value="Король воздуха"/>
+	</entry>
+	<entry key="fd_mission_hard05_1">
+		<original value="Bloody safari"/>
+		<translation value="Кровавая охота"/>
+	</entry>
+	<entry key="fd_mission_hard05_2">
+		<original value="Ride the rainbow"/>
+		<translation value="За горизонт"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="CHINA MISSION NAMES">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ct_mission_easy01_1">
+		<original value="Steel toy"/>
+		<translation value="Гром и молния"/>
+	</entry>
+	<entry key="ct_mission_easy01_2">
+		<original value="Chinese deadfall"/>
+		<translation value="Азиатский гамбит"/>
+	</entry>
+	<entry key="ct_mission_easy02_1">
+		<original value="Shooting range"/>
+		<translation value="Стрельбище"/>
+	</entry>
+	<entry key="ct_mission_easy02_2">
+		<original value="Shoot to kill"/>
+		<translation value="Огонь на поражение"/>
+	</entry>
+	<entry key="ct_mission_easy03_1">
+		<original value="Gridlock"/>
+		<translation value="Паритет"/>
+	</entry>
+	<entry key="ct_mission_easy03_2">
+		<original value="Traffic congestion"/>
+		<translation value="Час пик"/>
+	</entry>
+	<entry key="ct_mission_easy04_1">
+		<original value="Flying nuisance"/>
+		<translation value="Неудачный полет"/>
+	</entry>
+	<entry key="ct_mission_easy04_2">
+		<original value="Sky risk"/>
+		<translation value="Предельный риск"/>
+	</entry>
+	<entry key="ct_mission_easy05_1">
+		<original value="Excursion"/>
+		<translation value="Экскурсия"/>
+	</entry>
+	<entry key="ct_mission_easy05_2">
+		<original value="Ramble"/>
+		<translation value="Столкновение"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ct_mission_normal01_1">
+		<original value="Evil robot"/>
+		<translation value="Преграда на пути"/>
+	</entry>
+	<entry key="ct_mission_normal01_2">
+		<original value="Mantrap"/>
+		<translation value="Ловушка для охотника"/>
+	</entry>
+	<entry key="ct_mission_normal02_1">
+		<original value="Too many enemies"/>
+		<translation value="Численный перевес"/>
+	</entry>
+	<entry key="ct_mission_normal02_2">
+		<original value="Hunting"/>
+		<translation value="По следам врага"/>
+	</entry>
+	<entry key="ct_mission_normal03_1">
+		<original value="Guard from fans"/>
+		<translation value="Живой щит"/>
+	</entry>
+	<entry key="ct_mission_normal03_2">
+		<original value="Stickjaw"/>
+		<translation value="Противостояние"/>
+	</entry>
+	<entry key="ct_mission_normal04_1">
+		<original value="Flying fire"/>
+		<translation value="Ураганный огонь"/>
+	</entry>
+	<entry key="ct_mission_normal04_2">
+		<original value="Flying danger"/>
+		<translation value="Угроза с воздуха"/>
+	</entry>
+	<entry key="ct_mission_normal05_1">
+		<original value="Interesting tour"/>
+		<translation value="Тур по городу"/>
+	</entry>
+	<entry key="ct_mission_normal05_2">
+		<original value="Adventure begins"/>
+		<translation value="Новое приключение"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ct_mission_hard01_1">
+		<original value="Mech warrior"/>
+		<translation value="Давид и Голиаф"/>
+	</entry>
+	<entry key="ct_mission_hard01_2">
+		<original value="It's a trap!"/>
+		<translation value="Западня"/>
+	</entry>
+	<entry key="ct_mission_hard02_1">
+		<original value="Legion attack"/>
+		<translation value="Преимущество в силе"/>
+	</entry>
+	<entry key="ct_mission_hard02_2">
+		<original value="Stay alive"/>
+		<translation value="Смерти вопреки"/>
+	</entry>
+	<entry key="ct_mission_hard03_1">
+		<original value="Rushing to the party"/>
+		<translation value="Прорыв"/>
+	</entry>
+	<entry key="ct_mission_hard03_2">
+		<original value="Bodyguards"/>
+		<translation value="Живой щит"/>
+	</entry>
+	<entry key="ct_mission_hard04_1">
+		<original value="Dragon fire"/>
+		<translation value="Огонь дракона"/>
+	</entry>
+	<entry key="ct_mission_hard04_2">
+		<original value="Dragon overlord"/>
+		<translation value="Повелитель драконов"/>
+	</entry>
+	<entry key="ct_mission_hard05_1">
+		<original value="Extermination"/>
+		<translation value="Чистый лист"/>
+	</entry>
+	<entry key="ct_mission_hard05_2">
+		<original value="Extirpation"/>
+		<translation value="Полное истребление"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ct_mission_survival">
+		<original value="The Great White"/>
+		<translation value="Белая акула"/>
+	</entry>
+	<entry key="ct_mission_zombie">
+		<original value="Darkness"/>
+		<translation value="Опасный эксперимент"/>
+	</entry>
+	<entry key="snow_mission_survival_01">
+		<original value="Cold Peak"/>
+		<translation value="Снежный бастион"/>
+	</entry>
+	<entry key="snow_survival_mission_desc_01">
+		<original value="What’s Blackwood hiding in the mountains? Infiltrate the outpost and discover their secret."/>
+		<translation value="Что делает Blackwood высоко в горах? Проберитесь на базу врага и раскройте тайну."/>
+	</entry>
+	<entry key="snow_mission_survival_02">
+		<original value="Cold Peak"/>
+		<translation value="Снежный бастион"/>
+	</entry>
+	<entry key="snow_survival_mission_desc_02">
+		<original value="Battle amid the ruins of an ancient castle as we get closer to the heart of Blackwood’s covert operations."/>
+		<translation value="Победите бойцов Blackwood в разрушенном форте, чтобы приблизиться к разгадке."/>
+	</entry>
+	<entry key="snow_mission_survival_03">
+		<original value="Cold Peak"/>
+		<translation value="Снежный бастион"/>
+	</entry>
+	<entry key="snow_survival_mission_desc_03">
+		<original value="This is it: Blackwood’s last line of defense. Fight your way up to the fortress and open the gates."/>
+		<translation value="Это последняя линия обороны Blackwood. Уничтожьте остатки сил врага и откройте ворота."/>
+	</entry>
+	<entry key="snow_mission_survival_04">
+		<original value="Cold Peak"/>
+		<translation value="Снежный бастион"/>
+	</entry>
+	<entry key="snow_survival_mission_desc_04">
+		<original value="Can you overcome all Blackwood opposition without a single failure? Let’s find out."/>
+		<translation value="Сможете ли вы одержать победу без единой неудачи? Самое время узнать!"/>
+	</entry>
+	<entry key="snow_mission_survival">
+		<original value="Cold Peak"/>
+		<translation value="Снежный бастион"/>
+	</entry>
+	<entry key="snow_survival_mission_desc">
+		<original value="Infiltrate and defend Blackwoods headquarter in the deep siberian snow desert!"/>
+		<translation value="Проберитесь в штаб-квартиру Blackwood в ледяной пустыне."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="AFRICA MISSION NAMES">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="na_mission_easy01_1">
+		<original value="Steel toy"/>
+		<translation value="Стальная игрушка"/>
+	</entry>
+	<entry key="na_mission_easy01_2">
+		<original value="African deadfall"/>
+		<translation value="Африканский капкан"/>
+	</entry>
+	<entry key="na_mission_easy02_1">
+		<original value="Shooting range"/>
+		<translation value="Стрельбище"/>
+	</entry>
+	<entry key="na_mission_easy02_2">
+		<original value="Shoot to kill"/>
+		<translation value="Огонь на поражение"/>
+	</entry>
+	<entry key="na_mission_easy03_1">
+		<original value="Gridlock"/>
+		<translation value="Дорожный затор"/>
+	</entry>
+	<entry key="na_mission_easy03_2">
+		<original value="Traffic congestion"/>
+		<translation value="Транспортный коллапс"/>
+	</entry>
+	<entry key="na_mission_easy04_1">
+		<original value="Flying nuisance"/>
+		<translation value="Воздушная помеха"/>
+	</entry>
+	<entry key="na_mission_easy04_2">
+		<original value="Sky risk"/>
+		<translation value="Угроза с неба"/>
+	</entry>
+	<entry key="na_mission_easy05_1">
+		<original value="Excursion"/>
+		<translation value="Вылазка"/>
+	</entry>
+	<entry key="na_mission_easy05_2">
+		<original value="Ramble"/>
+		<translation value="Долгая прогулка"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="na_mission_normal01_1">
+		<original value="Evil robot"/>
+		<translation value="Опасная машина"/>
+	</entry>
+	<entry key="na_mission_normal01_2">
+		<original value="Heavy foot"/>
+		<translation value="Тяжелая поступь"/>
+	</entry>
+	<entry key="na_mission_normal02_1">
+		<original value="Too many enemies"/>
+		<translation value="Неравные силы"/>
+	</entry>
+	<entry key="na_mission_normal02_2">
+		<original value="Without a choice: you or they"/>
+		<translation value="Отсутствие альтернатив"/>
+	</entry>
+	<entry key="na_mission_normal03_1">
+		<original value="Guard from fans"/>
+		<translation value="Надежная охрана"/>
+	</entry>
+	<entry key="na_mission_normal03_2">
+		<original value="Winter never comes"/>
+		<translation value="Зимы не будет"/>
+	</entry>
+	<entry key="na_mission_normal04_1">
+		<original value="Flying fire"/>
+		<translation value="Огонь с небес"/>
+	</entry>
+	<entry key="na_mission_normal04_2">
+		<original value="Flying death"/>
+		<translation value="Летящая смерть"/>
+	</entry>
+	<entry key="na_mission_normal05_1">
+		<original value="White heat"/>
+		<translation value="Белая жара"/>
+	</entry>
+	<entry key="na_mission_normal05_2">
+		<original value="Homecoming"/>
+		<translation value="Возвращение домой"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="na_mission_hard01_1">
+		<original value="Mech warrior"/>
+		<translation value="Раскат грома"/>
+	</entry>
+	<entry key="na_mission_hard01_2">
+		<original value="It's a trap!"/>
+		<translation value="В западне"/>
+	</entry>
+	<entry key="na_mission_hard02_1">
+		<original value="Legion attack"/>
+		<translation value="Атака легиона"/>
+	</entry>
+	<entry key="na_mission_hard02_2">
+		<original value="Stay alive"/>
+		<translation value="Остаться в живых"/>
+	</entry>
+	<entry key="na_mission_hard03_1">
+		<original value="Rushing to the party"/>
+		<translation value="Поход на вечеринку"/>
+	</entry>
+	<entry key="na_mission_hard03_2">
+		<original value="Bodyguards"/>
+		<translation value="Телохранитель"/>
+	</entry>
+	<entry key="na_mission_hard04_1">
+		<original value="Burning river"/>
+		<translation value="Огненная река"/>
+	</entry>
+	<entry key="na_mission_hard04_2">
+		<original value="Mom is waiting for you at home"/>
+		<translation value="Мама ждет дома"/>
+	</entry>
+	<entry key="na_mission_hard05_1">
+		<original value="Extermination"/>
+		<translation value="Полное уничтожение"/>
+	</entry>
+	<entry key="na_mission_hard05_2">
+		<original value="Extirpation"/>
+		<translation value="Выведение под корень"/>
+	</entry>
+	<entry key="na_mission_path01_1">
+		<original value="Hot walk"/>
+		<translation value="Горячая точка"/>
+	</entry>
+	<entry key="na_mission_path01_2">
+		<original value="Hot death"/>
+		<translation value="Раскаленная смерть"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="na_mission_volcano_01">
+		<original value="Volcano"/>
+		<translation value="Вулкан"/>
+	</entry>
+	<entry key="na_mission_volcano_desc_01">
+		<original value="Africa? Geothermal Power Station builded inside giant throat of active volcano? We should understand what's going on!"/>
+		<translation value="Таинственный лабораторный комплекс прямо в жерле действующего вулкана? Нужно узнать, что там происходит!"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="na_mission_anubis_01">
+		<original value="Anubis"/>
+		<translation value="Анубис"/>
+	</entry>
+	<entry key="na_mission_anubis_desc_01">
+		<original value="A North Africa missile base is your first target. Beware of a man with a jackal head: your hearts will be weighed, and someone never coming back."/>
+		<translation value="Вашей первой целью станет ракетная база в Северной Африке. Берегитесь человека с головой шакала, который взвешивает сердца на весах истины."/>
+	</entry>
+	<entry key="na_long_easy_1">
+		<original value="Death Dog Head"/>
+		<translation value="Мертвая голова"/>
+	</entry>
+	<entry key="na_long_easy_2">
+		<original value="Anubis wait for your life"/>
+		<translation value="Анубис ждет вас"/>
+	</entry>
+	<entry key="na_long_normal_1">
+		<original value="Death Dog Head"/>
+		<translation value="Мертвая голова"/>
+	</entry>
+	<entry key="na_long_normal_2">
+		<original value="Anubis wait for your life"/>
+		<translation value="Анубис ждет вас"/>
+	</entry>
+	<entry key="na_long_hard_1">
+		<original value="Death Dog Head"/>
+		<translation value="Мертвая голова"/>
+	</entry>
+	<entry key="na_long_hard_2">
+		<original value="Anubis wait for your life"/>
+		<translation value="Анубис ждет вас"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="na_mission_zombietower_01">
+		<original value="Black Shark"/>
+		<translation value="Черная акула"/>
+	</entry>
+	<entry key="na_mission_zombietower_desc_01">
+		<original value="Large sums of cash are being wired from the accounts of Oberon to finance unknown project. Infiltrate &amp; destroy it, no matter what is it."/>
+		<translation value="Оберон инвестирует огромные суммы в загадочный объект на Балканах. Отправляйтесь туда и узнайте, что к чему."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="mission_desc_africa_path02">
+		<original value="Fast operations behind enemy lines would undermine Blackwood infrastructure and will not allow them to gain a foothold in the area."/>
+		<translation value="Быстрые рейды в тылу врага должны нанести ему серьезный урон и не дать закрепиться в секторе."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="mission_desc_africa_path03">
+		<original value="Cut through enemy lines in this territory."/>
+		<translation value="Пробейтесь через ряды врагов и доберитесь до цели."/>
+	</entry>
+	<entry key="mission_desc_africa_path04">
+		<original value="Survive in humid air of Africa."/>
+		<translation value="Выживите в непростых африканских условиях."/>
+	</entry>
+	<entry key="mission_desc_kosovo_path01">
+		<original value="Infiltrate Blackwood compound in Eastern Europe."/>
+		<translation value="Проберитесь на базу Blackwood в Восточной Европе."/>
+	</entry>
+	<entry key="mission_desc_kosovo_path02">
+		<original value="Clean the streets from Blackwood militia."/>
+		<translation value="Очистите улицы от солдат Blackwood."/>
+	</entry>
+	<entry key="mission_desc_kosovo_path03">
+		<original value="Push back Blackwood forces and free a city from their grip."/>
+		<translation value="Отбросьте войска Blackwood и освободите город."/>
+	</entry>
+	<entry key="mission_desc_china_path01">
+		<original value="Fight your way through enemy lines to extraction point."/>
+		<translation value="Уничтожьте врагов на своем пути и достигните точки эвакуации."/>
+	</entry>
+	<entry key="mission_desc_china_path02">
+		<original value="Find a way through labyrinth of chinese streets and destroy Blackwood forces."/>
+		<translation value="Найдите путь через лабиринт китайских улочек и уничтожьте врагов."/>
+	</entry>
+	<entry key="mission_desc_china_path03">
+		<original value="Liberate streets of chinese city from Blackwood oppression."/>
+		<translation value="Освободите улицы города от влияния Blackwood."/>
+	</entry>
+	<entry key="mission_desc_afghan_path01">
+		<original value="Afghan mountain range was newer a safe place but with Blackwood incursion it became a hellhole. Your mission is to push them back."/>
+		<translation value="Эти горы никогда не были безопасным местом, но с приходом Blackwood они превратились в настоящий ад. Уничтожьте врага."/>
+	</entry>
+	<entry key="mission_desc_afghan_path02">
+		<original value="Clear afghan village from Blackwood forces."/>
+		<translation value="Уничтожьте все силы Blackwood в поселении."/>
+	</entry>
+	<entry key="mission_desc_afghan_path03">
+		<original value="Your goal is to find a way to extraction point."/>
+		<translation value="Любой ценой доберитесь до точки эвакуации."/>
+	</entry>
+	<entry key="mission_desc_favela_path01">
+		<original value="Stop Blackwood from exploiting human resources of Brazil!"/>
+		<translation value="Остановите эксперименты Blackwood в Бразилии."/>
+	</entry>
+	<entry key="mission_desc_favela_path02">
+		<original value="Break Blackwood human trafficking supply chains in this region."/>
+		<translation value="Разбейте отряды Blackwood и положите конец торговле людьми в этом регионе."/>
+	</entry>
+	<entry key="mission_desc_favela_path03">
+		<original value="Hit'n'run operation to distract main Blackwood forces."/>
+		<translation value="Нанесите отвлекающий удар, чтобы сбить с толку основные силы Blackwood."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="na_mission_icebreaker_01">
+		<original value="Icebreaker"/>
+		<translation value="Ледокол"/>
+	</entry>
+	<entry key="na_mission_icebreaker_desc_01">
+		<original value="Our main base is under attack. Blackwood gathered strong attack forces. Defend our base and stop Oberon from starting global conflict."/>
+		<translation value="Нашу главную базу атакуют крупные силы Blackwood. Дайте врагу отпор и не позвольте Оберону устроить новую мировую войну."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="na_mission_anubis_escape_name_01">
+		<original value="Escape from Anubis"/>
+		<translation value="Затмение"/>
+	</entry>
+	<entry key="na_mission_anubis_escape_desc_02">
+		<original value="Escape the desert storm clear the area of all remaining cyborgs! You will be aided by an unexpected ally, but watch out: he may have his own stake!"/>
+		<translation value="Переживите песчаную бурю и победите зомби. Вам поможет неожиданный союзник, но будьте осторожны: у него могут быть свои интересы."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="mission_chernobyl_name">
+		<original value="Death Museum"/>
+		<translation value="Припять"/>
+	</entry>
+	<entry key="mission_chernobyl_desc_01">
+		<original value="Blackwood's actions in Chernobyl may trigger a new ecological disaster. You must stop the enemy at all costs."/>
+		<translation value="Операция Blackwood в Чернобыле может привести к новой экологической катастрофе. Остановите врага любой ценой."/>
+	</entry>
+</localization>

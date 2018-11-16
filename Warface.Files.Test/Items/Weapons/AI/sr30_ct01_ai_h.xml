@@ -1,0 +1,87 @@
+<item category="heavy" class="K01_Item" name="sr30_ct01_ai_h" net_policy="weapon_ai" priority="63" view_settings="objects/weapons/sr30/sr30_ai.xml">
+	<ai_descriptor burstBulletCountMax="1" burstBulletCountMin="1" burstPauseTimeMax="2" burstPauseTimeMin="1" draw_time="1.0" handler="instant" signal_on_shoot="1" singleFireTriggerTime="-1" sweep_frequency="2.5" sweep_width="1.5"/>
+	<params>
+		<param name="giveable" value="1"/>
+		<param name="selectable" value="1"/>
+		<param name="ui_weapon" value="1"/>
+		<param name="giveable" value="1"/>
+		<param name="ai_weapon_type" value="Sniper"/>
+	</params>
+	<ammos>
+		<ammo name="bullet_sr"/>
+	</ammos>
+	<icons>
+		<combatlog icon="Sr30" melee="Melee"/>
+	</icons>
+	<skins>
+		<material display_name="default" icon="default_icon" name="default"/>
+		<material display_name="desert" icon="desert_icon" name="desert"/>
+		<material display_name="desert digital" icon="desert_d_icon" name="desert_d"/>
+		<material display_name="winter" icon="winter_icon" name="winter"/>
+		<material display_name="winter digital" icon="winter_d_icon" name="winter_d"/>
+		<material display_name="jungle" icon="jungle_icon" name="jungle"/>
+		<material display_name="jungle digital" icon="jungle_d_icon" name="jungle_d"/>
+		<material display_name="urban" icon="urban_icon" name="urban"/>
+		<material display_name="urban digital" icon="urban_d_icon" name="urban_d"/>
+		<material display_name="gold" icon="gold_icon" name="gold"/>
+	</skins>
+	<settings archetype="Items/Weapons/Archetypes/SR_ai.xml">
+		<param name="ammo_amount" value="10"/>
+		<param name="rpm" value="50"/>
+		<param name="damage" value="90"/>
+		<param name="damage_mul" value="1"/>
+		<param name="damage_min" value="35"/>
+		<param name="melee_damage" value="40"/>
+		<param name="melee_range" value="1"/>
+		<param name="damage_drop_per_meter" value="1"/>
+		<param name="damage_drop_min_distance" value="80"/>
+		<param name="spread_min" value="1"/>
+		<param name="spread_max" value="1.5"/>
+		<param name="spread_att" value="0"/>
+		<param name="spread_dec" value="0"/>
+		<param name="spread_min_mul" value="1"/>
+		<param name="spread_max_mul" value="1"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="deselect_duration" value="300"/>
+		<param name="reload_duration" value="4000"/>
+		<param name="toss_duration" value="700"/>
+		<param name="melee_duration" value="350"/>
+		<param name="melee_out_duration" value="500"/>
+		<param name="holster_in_duration" value="200"/>
+		<param name="bayonet_melee_duration" value="233"/>
+		<param name="bayonet_melee_out_duration" value="1000"/>
+	</settings>
+	<firemodes>
+		<firemode name="Single" type="Single"/>
+	</firemodes>
+	<clipmode auto_reload="0" capacity="10"/>
+	<melee_params>
+		<param name="impulse" value="20"/>
+		<param name="pierce" value="100"/>
+	</melee_params>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="bullet_sr"/>
+			<param name="bullet_chamber" value="0"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="helper_fp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+			<param name="ai_muzzle_pos" value="0.0, 0.3, 0.15"/>
+		</fire>
+		<recoil>
+			<hints>
+				<hint x="-0.12" y="0.5"/>
+				<hint x="-0.24" y="1.5"/>
+				<hint x="-0.36" y="2"/>
+				<hint x="-0.48" y="2.5"/>
+				<hint x="-0.6" y="3"/>
+				<hint x="-0.72" y="3.5"/>
+				<hint x="-0.84" y="4"/>
+				<hint x="-0.96" y="4.5"/>
+				<hint x="-1.08" y="5"/>
+				<hint x="-1.2" y="5.5"/>
+			</hints>
+		</recoil>
+	</fireparams>
+</item>

@@ -1,0 +1,3363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_booster_ic">
+		<original value="Temporary curency Boost"/>
+		<translation value="Ускоритель ресурсов спецопераций"/>
+	</entry>
+	<entry key="ui_no_money_boosters">
+		<original value="No &lt;font color='#dddddd'&gt;Money Reward Boosters&lt;/font&gt; in use"/>
+		<translation value="Нет &lt;font color='#dddddd'&gt;ускорителей варбаксов&lt;/font&gt; в наличии\n"/>
+	</entry>
+	<entry key="ui_no_xp_boosters">
+		<original value="No &lt;font color='#dddddd'&gt;XP Boosters&lt;/font&gt; in use\nBoosters are available in the\n&lt;font color='#feb200'&gt;"/>
+		<translation value="Нет &lt;font color='#dddddd'&gt;ускорителей опыта&lt;/font&gt; в наличии\n"/>
+	</entry>
+	<entry key="ui_no_vp_boosters">
+		<original value="No &lt;font color='#dddddd'&gt;Vendor Unlock Boosters&lt;/font&gt; in use."/>
+		<translation value="Нет &lt;font color='#dddddd'&gt;ускорителей поставок&lt;/font&gt; в наличии\n"/>
+	</entry>
+	<entry key="ui_booster_max">
+		<original value="(MAX)"/>
+		<translation value="(МАКС)"/>
+	</entry>
+	<entry key="ui_booster_description">
+		<original value="%1: %2%\n"/>
+		<translation value="%1: %2%\n"/>
+	</entry>
+	<entry key="ui_booster_sum">
+		<original value="Boost effect will be combined with similar boosters"/>
+		<translation value="Эффект от ускорителя складывается с эффектами таких же ускорителей."/>
+	</entry>
+	<entry key="ui_booster_greater">
+		<original value="Boost effect can't be combined with similar boosters. The best boost effect will be applied"/>
+		<translation value="Эффект от ускорителя не складывается с эффектами таких же ускорителей. Будет использоваться только один лучший ускоритель."/>
+	</entry>
+	<entry key="ui_booster_xp">
+		<original value="XP Reward Boost"/>
+		<translation value="Ускоритель опыта"/>
+	</entry>
+	<entry key="ui_booster_vp">
+		<original value="Vendor Unlock Boost"/>
+		<translation value="Ускоритель поставок"/>
+	</entry>
+	<entry key="ui_booster_gm">
+		<original value="Money Reward Boost"/>
+		<translation value="Ускоритель варбаксов"/>
+	</entry>
+	<entry key="ui_booster_name_1">
+		<original value="Game Money Booster"/>
+		<translation value="Ускоритель варбаксов"/>
+	</entry>
+	<entry key="ui_booster_name_2">
+		<original value="Mega Booster 1"/>
+		<translation value="VIP-ускоритель"/>
+	</entry>
+	<entry key="ui_booster_name_3">
+		<original value="XP Booster"/>
+		<translation value="Ускоритель опыта"/>
+	</entry>
+	<entry key="ui_booster_name_4">
+		<original value="VP Booster"/>
+		<translation value="Ускоритель поставок"/>
+	</entry>
+	<entry key="ui_booster_name_5">
+		<original value="Mega Booster 2"/>
+		<translation value="Супер ускоритель 2"/>
+	</entry>
+	<entry key="ui_booster_name_6">
+		<original value="Super Mega Booster"/>
+		<translation value="Мега ускоритель"/>
+	</entry>
+	<entry key="ui_booster_name_7">
+		<original value="VP Booster"/>
+		<translation value="Ускоритель поставок"/>
+	</entry>
+	<entry key="ui_booster_name_8">
+		<original value="XP Booster"/>
+		<translation value="Ускоритель опыта"/>
+	</entry>
+	<entry key="ui_booster_bonus_name_4">
+		<original value="Permanent Bonus Booster"/>
+		<translation value="Постоянный ускоритель"/>
+	</entry>
+	<entry key="ui_booster_name_11">
+		<original value="Mega VIP Booster"/>
+		<translation value="Супер VIP-ускоритель"/>
+	</entry>
+	<entry key="ui_booster_test_premium_01">
+		<original value="Premium Booster (Gold)"/>
+		<translation value="Золотой ускоритель"/>
+	</entry>
+	<entry key="ui_booster_test_premium_02">
+		<original value="Premium Booster (Silver)"/>
+		<translation value="Серебряный ускоритель"/>
+	</entry>
+	<entry key="ui_booster_test_premium_03">
+		<original value="Premium Booster (Bronze)"/>
+		<translation value="Бронзовый ускоритель"/>
+	</entry>
+	<entry key="ui_booster_tooltip">
+		<original value="%1: +%2%\n"/>
+		<translation value="%1: +%2%\n"/>
+	</entry>
+	<entry key="ui_booster_limit">
+		<original value="&lt;font color='#777777'&gt;Max booster effect: &lt;font color='#999999'&gt;+%1%"/>
+		<translation value="&lt;font color='#777777'&gt;Макс. эффект ускорителя: &lt;font color='#999999'&gt;+%1%"/>
+	</entry>
+	<entry key="ui_booster_warning1">
+		<original value="After purchase total booster effect will be: \nXP +%1%%2\nVP +%3%"/>
+		<translation value="Суммарный эффект от ускорителей после покупки: \nОпыт +%1%%2\nПоставки +%3%"/>
+	</entry>
+	<entry key="ui_booster_warning2">
+		<original value="%1\nGame Money +%2%%3\n"/>
+		<translation value="%1\nВарбаксы +%2%%3"/>
+	</entry>
+	<entry key="ui_booster_warning3">
+		<original value="Temporary Currency +%1%%2\nDo you want buy it?"/>
+		<translation value="\n Выбрать продолжительность ускорителя?"/>
+	</entry>
+	<entry key="soldier_random_box_01_shop_name">
+		<original value="Rifleman BOX"/>
+		<translation value="Коробка c Saiga Bullpup"/>
+	</entry>
+	<entry key="ui_soldier_random_box_01_description">
+		<original value="This box contains everything a Rifleman needs. You can receive up to 3 items from the box"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="engineer_random_box_01_shop_name">
+		<original value="Engineer BOX"/>
+		<translation value="Набор инженера"/>
+	</entry>
+	<entry key="ui_engineer_random_box_01_description">
+		<original value="This box contains everything an Engineer needs. You can receive up to 3 items from the box"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="medic_random_box_01_shop_name">
+		<original value="Medic BOX"/>
+		<translation value="Набор медика"/>
+	</entry>
+	<entry key="ui_medic_random_box_01_description">
+		<original value="This box contains everything a Medic needs. You can receive up to 3 items from the box"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="sniper_random_box_01_shop_name">
+		<original value="Sniper BOX"/>
+		<translation value="Набор снайпера"/>
+	</entry>
+	<entry key="ui_sniper_random_box_01_description">
+		<original value="This box contains everything a Sniper needs. You can receive up to 3 items from the box"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="ui_randomboxes_description">
+		<original value="Here You can try your luck and win some unique items."/>
+		<translation value="Здесь вы можете испытать свою удачу и выиграть уникальные предметы."/>
+	</entry>
+	<entry key="random_box_01_shop_name">
+		<original value="Saiga Bullpup random box"/>
+		<translation value="Коробка c Сайга-12С"/>
+	</entry>
+	<entry key="ui_random_box_01_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_02_shop_name">
+		<original value="FN SCAR random box"/>
+		<translation value="Коробка c FN SCAR-H"/>
+	</entry>
+	<entry key="ui_random_box_02_description">
+		<original value="This box allows to win 3 random items for rifleman"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_03_shop_name">
+		<original value="Tavor SMG random box"/>
+		<translation value="Коробка с CTAR-21"/>
+	</entry>
+	<entry key="ui_random_box_03_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_04_shop_name">
+		<original value="AS50 Random Box"/>
+		<translation value="Коробка с AS50"/>
+	</entry>
+	<entry key="ui_random_box_04_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_05_shop_name">
+		<original value="Desert Eagle Random Box"/>
+		<translation value="Коробка с Desert Eagle"/>
+	</entry>
+	<entry key="ui_random_box_05_description">
+		<original value="This box allows to win 2 random items for different classes"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_01_ms_shop_name">
+		<original value="Special reward Random Box"/>
+		<translation value="Особая награда"/>
+	</entry>
+	<entry key="ui_random_box_01_sm_description">
+		<original value="Reward for completing the assassination mission."/>
+		<translation value="Награда за миссию 'Ликвидация'"/>
+	</entry>
+	<entry key="random_box_test_01_shop_name">
+		<original value="Test Random Box (PERMANENT ITEM)"/>
+		<translation value="Test Random Box (PERMANENT ITEM)"/>
+	</entry>
+	<entry key="ui_random_box_test_01_description">
+		<original value="Special test randombox with high (90%) chance to drop Item (PERMANENT ITEM)"/>
+		<translation value="Special test randombox with high (90%) chance to drop Item (PERMANENT ITEM)"/>
+	</entry>
+	<entry key="random_box_test_02_shop_name">
+		<original value="Test Random Box (EXPIRATION ITEM)"/>
+		<translation value="Test Random Box (EXPIRATION ITEM)"/>
+	</entry>
+	<entry key="ui_random_box_test_02_description">
+		<original value="Special test randombox with high (90%) chance to drop Item (EXPIRATION ITEM)"/>
+		<translation value="Special test randombox with high (90%) chance to drop Item (EXPIRATION ITEM)"/>
+	</entry>
+	<entry key="random_box_test_03_shop_name">
+		<original value="Test Random Box (CONSUMABLE ITEM)"/>
+		<translation value="Test Random Box (CONSUMABLE ITEM)"/>
+	</entry>
+	<entry key="ui_random_box_test_03_description">
+		<original value="Special test randombox with high (90%) chance to drop Item (CONSUMABLE ITEM)"/>
+		<translation value="Special test randombox with high (90%) chance to drop Item (CONSUMABLE ITEM)"/>
+	</entry>
+	<entry key="random_box_test_04_shop_name">
+		<original value="Test Random Box (DURABLE ITEM)"/>
+		<translation value="Test Random Box (DURABLE ITEM)"/>
+	</entry>
+	<entry key="ui_random_box_test_04_description">
+		<original value="Special test randombox with high (90%) chance to drop Item (DURABLE ITEM)"/>
+		<translation value="Special test randombox with high (90%) chance to drop Item (DURABLE ITEM)"/>
+	</entry>
+	<entry key="random_box_test_05_shop_name">
+		<original value="Test Random Box (GUARANTEED REWARD)"/>
+		<translation value="Тестовая Коробка (гарантированная награда)"/>
+	</entry>
+	<entry key="ui_random_box_test_05_description">
+		<original value="Special test randombox with guaranteed reward &quot;win_limit=8&quot;"/>
+		<translation value="Специальная тестовая Коробка с гарантированной наградой &quot;win_limit=8&quot;"/>
+	</entry>
+	<entry key="random_box_test_06_shop_name">
+		<original value="Test Random Box (GUARANTEED REWARD)"/>
+		<translation value="Тестовая Коробка (гарантированная награда)"/>
+	</entry>
+	<entry key="ui_random_box_test_06_description">
+		<original value="Special test randombox with guaranteed reward &quot;win_limit=6&quot;"/>
+		<translation value="Специальная тестовая Коробка с гарантированной наградой &quot;win_limit=6&quot;"/>
+	</entry>
+	<entry key="random_box_test_07_shop_name">
+		<original value="Test Random Box (REGULAR ITEM)"/>
+		<translation value="Тестовая Коробка (обычный предмет)"/>
+	</entry>
+	<entry key="ui_random_box_test_07_description">
+		<original value="Special test randombox with high (90%) chance to drop Item (REGULAR ITEM)"/>
+		<translation value="Специальная Коробка с высоким (90%) шансом получения предмета"/>
+	</entry>
+	<entry key="random_box_test_08_shop_name">
+		<original value="Test Random Box (RANK RESTRICTION)"/>
+		<translation value="Тестовая Коробка (ограничение по званию)"/>
+	</entry>
+	<entry key="ui_random_box_test_08_description">
+		<original value="Special test randombox locked to purchase for players under 10 rank"/>
+		<translation value="Специальная тестовая коробка, которую могут приобрести только игроки ниже 10-го звания"/>
+	</entry>
+	<entry key="random_box_06_shop_name">
+		<original value="USAS-12 Random Box"/>
+		<translation value="Коробка c USAS-12"/>
+	</entry>
+	<entry key="ui_random_box_06_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_07_shop_name">
+		<original value="M951S Random Box"/>
+		<translation value="Коробка с Calico M951S"/>
+	</entry>
+	<entry key="ui_random_box_07_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_08_shop_name">
+		<original value="ACR Random Box"/>
+		<translation value="Коробка c ACR"/>
+	</entry>
+	<entry key="ui_random_box_08_description">
+		<original value="This box allows to win 3 random items for rifleman"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_09_shop_name">
+		<original value="H&amp;K UMP Random Box"/>
+		<translation value="Коробка с H&amp;K UMP"/>
+	</entry>
+	<entry key="ui_random_box_09_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_10_shop_name">
+		<original value="AK-47 Random Box"/>
+		<translation value="Коробка с AK-47"/>
+	</entry>
+	<entry key="ui_random_box_10_description">
+		<original value="This box allows to win 2 random items for rifleman"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_11_shop_name">
+		<original value="MK 14 EBR Random Box"/>
+		<translation value="Коробка с MK 14 EBR"/>
+	</entry>
+	<entry key="ui_random_box_11_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_12_shop_name">
+		<original value="AA-12 Random Box"/>
+		<translation value="Коробка с AA-12"/>
+	</entry>
+	<entry key="ui_random_box_12_description">
+		<original value="This box allows to win 2 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_13_shop_name">
+		<original value="Type 97 Random Box"/>
+		<translation value="Коробка c Type 97"/>
+	</entry>
+	<entry key="ui_random_box_13_description">
+		<original value="This box allows to win 3 random items for rifleman"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_14_shop_name">
+		<original value="AWM Random Box"/>
+		<translation value="Коробка с AWM"/>
+	</entry>
+	<entry key="ui_random_box_14_description">
+		<original value="This box allows to win 2 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_15_shop_name">
+		<original value="XM8 Compact Random Box"/>
+		<translation value="Коробка с XM8 Compact"/>
+	</entry>
+	<entry key="ui_random_box_15_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_16_shop_name">
+		<original value="Daewoo K7 Random Box"/>
+		<translation value="Коробка с Daewoo K7"/>
+	</entry>
+	<entry key="ui_random_box_16_description">
+		<original value="This box allows to win 2 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_17_shop_name">
+		<original value="Ressurection Coins Random Box"/>
+		<translation value="Коробка со знаками возвращения"/>
+	</entry>
+	<entry key="ui_random_box_17_description">
+		<original value="This box allows to win 2 random items for all classes"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_18_shop_name">
+		<original value="Mossber 500 Custom Random Box"/>
+		<translation value="Коробка c Mossberg 500"/>
+	</entry>
+	<entry key="ui_random_box_18_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_19_shop_name">
+		<original value="KA-BAR Kukri Random Box"/>
+		<translation value="Коробка с Кукри-мачете"/>
+	</entry>
+	<entry key="ui_random_box_19_description">
+		<original value="This box allows to win 2 random items for all classes"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_20_shop_name">
+		<original value="Glock 18C Random Box"/>
+		<translation value="Коробка с Glock 18c"/>
+	</entry>
+	<entry key="ui_random_box_20_description">
+		<original value="This box allows to win 2 random items for different classes"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_21_shop_name">
+		<original value="CS5 McMillan Random Box"/>
+		<translation value="Коробка с McMillan CS5"/>
+	</entry>
+	<entry key="ui_random_box_21_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_22_shop_name">
+		<original value="Katana Random Box"/>
+		<translation value="Коробка с Катаной"/>
+	</entry>
+	<entry key="ui_random_box_22_description">
+		<original value="This box allows to win 2 random items for different classes"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_23_shop_name">
+		<original value="MG3 Random Box"/>
+		<translation value="Коробка с MG3"/>
+	</entry>
+	<entry key="ui_random_box_23_description">
+		<original value="This box allows to win 2 random items for rifleman"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="ui_random_box_24_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_24_shop_name">
+		<original value="Crye Precision SIX12 Random Box"/>
+		<translation value="Коробка с SIX12"/>
+	</entry>
+	<entry key="ui_random_box_26_description">
+		<original value="This box allows to win 2 random items for different classes"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_26_shop_name">
+		<original value="MP 443 &quot;Grach&quot; Random Box"/>
+		<translation value="Коробка с ПЯ 'Грач'"/>
+	</entry>
+	<entry key="ui_random_box_27_description">
+		<original value="This box allows to win 2 random items for medic from one box"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_27_shop_name">
+		<original value="Remington 870 R.A.S. Random Box"/>
+		<translation value="Коробка с Remington 870 RAS"/>
+	</entry>
+	<entry key="ui_random_box_28_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_28_shop_name">
+		<original value="ACR CQB Random Box"/>
+		<translation value="Коробка с ACR CQB"/>
+	</entry>
+	<entry key="ui_random_box_29_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_29_shop_name">
+		<original value="AX-308 Random Box"/>
+		<translation value="Коробка с AX308"/>
+	</entry>
+	<entry key="ui_random_box_30_description">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_30_shop_name">
+		<original value="M249 Para Random Box"/>
+		<translation value="Коробка с M249 Para"/>
+	</entry>
+	<entry key="random_box_33_shop_name">
+		<original value="DSA SA58 SPR Random Box"/>
+		<translation value="Коробка с DSA SA58 SPR"/>
+	</entry>
+	<entry key="ui_random_box_33_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_37_shop_name">
+		<original value="Tactical Axe Random Box"/>
+		<translation value="Коробка с тактическим топором"/>
+	</entry>
+	<entry key="ui_random_box_37_description">
+		<original value="This box allows to win 3 random items for different classes"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_bonus_01_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_01_description">
+		<original value="This box contains random ultimate weapon !"/>
+		<translation value="Содержит случайное редкое оружие."/>
+	</entry>
+	<entry key="random_box_bonus_02_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_02_description">
+		<original value="This box contains random weapon !"/>
+		<translation value="Содержит случайное оружие."/>
+	</entry>
+	<entry key="random_box_bonus_03_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_03_description">
+		<original value="This box contains random pistol !"/>
+		<translation value="Содержит случайный пистолет."/>
+	</entry>
+	<entry key="random_box_bonus_04_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_04_description">
+		<original value="This box contains random armor !"/>
+		<translation value="Содержит случайную броню."/>
+	</entry>
+	<entry key="random_box_bonus_05_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_05_description">
+		<original value="This box contains random armor !"/>
+		<translation value="Содержит случайную броню."/>
+	</entry>
+	<entry key="random_box_bonus_06_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_06_description">
+		<original value="This box contains random armor !"/>
+		<translation value="Содержит случайную броню."/>
+	</entry>
+	<entry key="random_box_bonus_07_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_07_description">
+		<original value="This box contains random crown weapon !"/>
+		<translation value="Содержит случайное оружие за короны."/>
+	</entry>
+	<entry key="random_box_bonus_08_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_08_description">
+		<original value="This box contains awesome camo weapon !"/>
+		<translation value="Содержит случайное оружие с камуфляжем."/>
+	</entry>
+	<entry key="random_box_bonus_09_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_09_description">
+		<original value="This box contains awesome camo weapon !"/>
+		<translation value="Содержит случайное оружие с камуфляжем."/>
+	</entry>
+	<entry key="random_box_bonus_10_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_10_description">
+		<original value="This box contains awesome camo weapon !"/>
+		<translation value="Содержит случайное оружие с камуфляжем."/>
+	</entry>
+	<entry key="random_box_bonus_11_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_11_description">
+		<original value="This box contains awesome camo weapon !"/>
+		<translation value="Содержит случайное оружие с камуфляжем."/>
+	</entry>
+	<entry key="random_box_bonus_12_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_12_description">
+		<original value="This box contains awesome camo weapon !"/>
+		<translation value="Содержит случайное оружие с камуфляжем."/>
+	</entry>
+	<entry key="random_box_bonus_13_shop_name">
+		<original value="Bonus Random Box"/>
+		<translation value="Бонусная Коробка"/>
+	</entry>
+	<entry key="ui_random_box_bonus_13_description">
+		<original value="This box contains awesome camo weapon !"/>
+		<translation value="Содержит случайное оружие с камуфляжем."/>
+	</entry>
+	<entry key="warcase_zsd01_free_bronze_01_shop_name">
+		<original value="BRONZE CASE"/>
+		<translation value="Бронзовый контейнер"/>
+	</entry>
+	<entry key="warcase_zsd01_free_bronze_01_description">
+		<original value="Super Bronze Case with rewards!"/>
+		<translation value="Бронзовый контейнер с ценными наградами."/>
+	</entry>
+	<entry key="warcase_zsd01_free_gold_01_shop_name">
+		<original value="GOLD CASE"/>
+		<translation value="Золотой контейнер"/>
+	</entry>
+	<entry key="warcase_zsd01_free_gold_01_description">
+		<original value="Super Gold Case with rewards!"/>
+		<translation value="Золотой контейнер с ценными наградами."/>
+	</entry>
+	<entry key="warcase_zsd01_free_silver_01_shop_name">
+		<original value="SILVER CASE"/>
+		<translation value="Серебряный контейнер"/>
+	</entry>
+	<entry key="warcase_zsd01_free_silver_01_description">
+		<original value="Super Silver Case with rewards!"/>
+		<translation value="Серебряный контейнер с ценными наградами."/>
+	</entry>
+	<entry key="warcase_zsd01_key_gold_01_shop_name">
+		<original value="ELITE GOLD CASE"/>
+		<translation value="Редкий золотой контейнер"/>
+	</entry>
+	<entry key="warcase_zsd01_key_gold_01_description">
+		<original value="Super Gold Case with rewards for Keys!"/>
+		<translation value="Редкий золотой контейнер с наградами за ключи."/>
+	</entry>
+	<entry key="key_zsd01_bronze_01_item_shop_name">
+		<original value="Bronze Case Key"/>
+		<translation value="Бронзовый ключ"/>
+	</entry>
+	<entry key="ui_key_zsd01_bronze_01_item">
+		<original value="Give possibility to open Bronze Elite Warcase after survival mission."/>
+		<translation value="Позволяет открыть редкий бронзовый контейнер после выполнения спецоперации."/>
+	</entry>
+	<entry key="key_zsd01_silver_01_item_shop_name">
+		<original value="Silver Case key"/>
+		<translation value="Серебряный ключ"/>
+	</entry>
+	<entry key="ui_key_zsd01_silver_01_item">
+		<original value="Give possibility to open Silver Elite Warcase after survival mission."/>
+		<translation value="Позволяет открыть редкий серебряный контейнер после выполнения спецоперации."/>
+	</entry>
+	<entry key="key_zsd01_gold_01_item_shop_name">
+		<original value="Gold Case Key"/>
+		<translation value="Золотой ключ"/>
+	</entry>
+	<entry key="ui_key_zsd01_gold_01_item">
+		<original value="Give possibility to open Gold Elite Warcase after survival mission."/>
+		<translation value="Позволяет открыть редкий золотой контейнер после выполнения спецоперации."/>
+	</entry>
+	<entry key="ui_female_skin_01_name">
+		<original value="Skin: Female medic"/>
+		<translation value="Женщина-медик"/>
+	</entry>
+	<entry key="ui_female_skin_02_name">
+		<original value="Skin: Female engineer"/>
+		<translation value="Женщина-инженер"/>
+	</entry>
+	<entry key="ui_female_skin_03_name">
+		<original value="Skin: Female rifleman"/>
+		<translation value="Женщина-штурмовик"/>
+	</entry>
+	<entry key="ui_female_skin_04_name">
+		<original value="Skin: Female sniper"/>
+		<translation value="Женщина-снайпер"/>
+	</entry>
+	<entry key="ui_female_skin_01_descr">
+		<original value="Skin for medic"/>
+		<translation value="Особый внешний вид для медика."/>
+	</entry>
+	<entry key="ui_female_skin_02_descr">
+		<original value="Skin for engineer"/>
+		<translation value="Особый внешний вид для инженера."/>
+	</entry>
+	<entry key="ui_female_skin_03_descr">
+		<original value="Skin for rifleman"/>
+		<translation value="Особый внешний вид для штурмовика."/>
+	</entry>
+	<entry key="ui_female_skin_04_descr">
+		<original value="Skin for sniper"/>
+		<translation value="Особый внешний вид для снайпера."/>
+	</entry>
+	<entry key="ui_compound_booster">
+		<original value="%1\n%2"/>
+		<translation value="%1\n%2"/>
+	</entry>
+	<entry key="random_box_01_rw_shop_name">
+		<original value="Special Spearhead Mission Reward"/>
+		<translation value="Награда за миссию 'Острие'"/>
+	</entry>
+	<entry key="ui_random_box_01_rw_description">
+		<original value="Reward for completing the Spearhead Mission."/>
+		<translation value="Коробка, которая содержит 3 случайных предмета для разных классов"/>
+	</entry>
+	<entry key="random_box_02_rw_shop_name">
+		<original value="Special Ambush Mission Reward"/>
+		<translation value="Награда за миссию 'Засада'"/>
+	</entry>
+	<entry key="ui_random_box_02_rw_description">
+		<original value="Reward for completing the Ambush Mission."/>
+		<translation value="Коробка, которая содержит 3 случайных предмета для разных классов"/>
+	</entry>
+	<entry key="random_box_03_rw_shop_name">
+		<original value="Special Zenith Mission Reward"/>
+		<translation value="Награда за миссию 'Зенит'"/>
+	</entry>
+	<entry key="ui_random_box_03_rw_description">
+		<original value="Reward for completing the Zenith Mission."/>
+		<translation value="Коробка, которая содержит 3 случайных предмета для разных классов"/>
+	</entry>
+	<entry key="random_box_04_rw_shop_name">
+		<original value="Special Marathon Mission Reward"/>
+		<translation value="Награда за миссию 'Марафон'"/>
+	</entry>
+	<entry key="ui_random_box_04_rw_description">
+		<original value="Reward for completing the Marathon Mission."/>
+		<translation value="Коробка, которая содержит 3 случайных предмета для разных классов"/>
+	</entry>
+	<entry key="box_token_cry_money_01_name">
+		<original value="Token for random box"/>
+		<translation/>
+	</entry>
+	<entry key="box_token_cry_money_01_description">
+		<original value="Token for random box"/>
+		<translation/>
+	</entry>
+	<entry key="box_token_cry_money_02_name">
+		<original value="Token for random box"/>
+		<translation/>
+	</entry>
+	<entry key="box_token_cry_money_02_description">
+		<original value="Token for random box"/>
+		<translation/>
+	</entry>
+	<entry key="random_box_31_shop_name">
+		<original value="Skorpion vz. 83 Random Box"/>
+		<translation value="Коробка с Skorpion vz. 83"/>
+	</entry>
+	<entry key="ui_random_box_31_description">
+		<original value="This box allows to win 2 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_32_shop_name">
+		<original value="Glock 18c random box"/>
+		<translation value="Коробка с SIG Sauer P226 C"/>
+	</entry>
+	<entry key="ui_random_box_32_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="bundle_item_test_01">
+		<original value="Test bundle"/>
+		<translation value="Тестовый набор"/>
+	</entry>
+	<entry key="bundle_item_test_01_description">
+		<original value="Test bundle"/>
+		<translation value="Тестовый набор"/>
+	</entry>
+	<entry key="bundle_item_test_02">
+		<original value="Crown Pack"/>
+		<translation value="Элитный набор"/>
+	</entry>
+	<entry key="bundle_item_test_02_description">
+		<original value="All The Ultimate Weapons In One Pack"/>
+		<translation value="Все элитное оружие в одном наборе"/>
+	</entry>
+	<entry key="bundle_item_test_03">
+		<original value="Pack with all regular items"/>
+		<translation/>
+	</entry>
+	<entry key="bundle_item_test_03_description">
+		<original value="All Regular Items In One Pack"/>
+		<translation/>
+	</entry>
+	<entry key="ui_button_tab_bundle">
+		<original value="BUNDLES"/>
+		<translation value="КОМПЛЕКТЫ"/>
+	</entry>
+	<entry key="ui_bundleboxes_description">
+		<original value="Here you can buy several items as a bundle."/>
+		<translation value="Здесь вы можете купить наборы, содержащие несколько предметов."/>
+	</entry>
+	<entry key="bundle_item_01">
+		<original value="Rifleman Bundle"/>
+		<translation value="Комплект штурмовика"/>
+	</entry>
+	<entry key="bundle_item_01_description">
+		<original value="Complete set of equipment for Rifleman"/>
+		<translation value="Содержит комплект снаряжения для штурмовика."/>
+	</entry>
+	<entry key="bundle_item_02">
+		<original value="Engineer Bundle"/>
+		<translation value="Комплект инженера"/>
+	</entry>
+	<entry key="bundle_item_02_description">
+		<original value="Complete set of equipment for Engineer"/>
+		<translation value="Содержит комплект снаряжения для инженера."/>
+	</entry>
+	<entry key="bundle_item_03">
+		<original value="Sniper Bundle"/>
+		<translation value="Комплект снайпера"/>
+	</entry>
+	<entry key="bundle_item_03_description">
+		<original value="Complete set of equipment for Sniper"/>
+		<translation value="Содержит комплект снаряжения для снайпера."/>
+	</entry>
+	<entry key="bundle_item_04">
+		<original value="Medic Bundle"/>
+		<translation value="Комплект медика"/>
+	</entry>
+	<entry key="bundle_item_04_description">
+		<original value="Complete set of equipment for Medic"/>
+		<translation value="Содержит комплект снаряжения для медика."/>
+	</entry>
+	<entry key="bundle_item_05">
+		<original value="Assassination Bundle"/>
+		<translation value="Комплект агента"/>
+	</entry>
+	<entry key="bundle_item_05_description">
+		<original value="Everything you need for the Special Operations in one Bundle."/>
+		<translation value="Содержит все необходимое для участия в спецоперациях."/>
+	</entry>
+	<entry key="bundle_item_06">
+		<original value="Resistance Bundle"/>
+		<translation value="Комплект солдата РФ"/>
+	</entry>
+	<entry key="bundle_item_06_description">
+		<original value="Complete set of Resistance full body suits"/>
+		<translation value="Набор униформы бойцов спецназа РФ для разных классов."/>
+	</entry>
+	<entry key="bundle_item_07">
+		<original value="Aurora fbs bundle"/>
+		<translation value="Комплект &quot;Аврора&quot;"/>
+	</entry>
+	<entry key="bundle_item_07_description">
+		<original value="Complete set of &quot;Aurora&quot; full body suits"/>
+		<translation value="Набор униформы бойцов из отряда &quot;Аврора&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_item_08">
+		<original value="Special suit fbs bundle"/>
+		<translation value="Комплект особой униформы"/>
+	</entry>
+	<entry key="bundle_item_08_description">
+		<original value="Complete set of &quot;Special suit&quot; full body suits"/>
+		<translation value="Набор униформы инженера Кимана для разных классов"/>
+	</entry>
+	<entry key="bundle_item_09">
+		<original value="C.S.F. fbs bundle"/>
+		<translation value="Комплект &quot;Ночной тигр&quot;"/>
+	</entry>
+	<entry key="bundle_item_09_description">
+		<original value="Complete set of &quot;C.S.F&quot; full body suits"/>
+		<translation value="Набор униформы бойцов из отряда &quot;Ночной тигр&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_item_10">
+		<original value="Pandora fbs bundle"/>
+		<translation value="Комплект &quot;Пандора&quot;"/>
+	</entry>
+	<entry key="bundle_item_10_description">
+		<original value="Complete set of &quot;Pandora&quot; full body suits"/>
+		<translation value="Набор униформы бойцов из отряда &quot;Пандора&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_item_11">
+		<original value="Paragon squad fbs bundle"/>
+		<translation value="Комплект &quot;Фантом&quot;"/>
+	</entry>
+	<entry key="bundle_item_11_description">
+		<original value="Complete set of &quot;Paragon squad&quot; full body suits"/>
+		<translation value="Набор униформы бойцов из отряда &quot;Фантом&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_item_12">
+		<original value="Arctic squad fbs bundle"/>
+		<translation value="Комплект полярной униформы"/>
+	</entry>
+	<entry key="bundle_item_12_description">
+		<original value="Complete set of &quot;Arctic squad&quot; full body suits"/>
+		<translation value="Набор полярной униформы для разных классов."/>
+	</entry>
+	<entry key="bundle_item_13">
+		<original value="Exosuit &quot;AOS M2&quot; fbs bundle"/>
+		<translation value="Комплект экзоскелетов"/>
+	</entry>
+	<entry key="bundle_item_13_description">
+		<original value="Complete set of Exosuit &quot;AOS M2&quot; full body suits"/>
+		<translation value="Набор экзоскелетов для разных классов."/>
+	</entry>
+	<entry key="bundle_item_14">
+		<original value="Widow makers fbs bundle"/>
+		<translation value="Комплект &quot;Черная вдова&quot;"/>
+	</entry>
+	<entry key="bundle_item_14_description">
+		<original value="Complete set of &quot;Widow makers&quot; full body suits"/>
+		<translation value="Набор униформы бойцов из отряда &quot;Черная вдова&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_item_15">
+		<original value="Boosters bundle"/>
+		<translation value="Комплект ускорителей"/>
+	</entry>
+	<entry key="bundle_item_15_description">
+		<original value="Complete boosters allow you several times faster to reach the desired goals"/>
+		<translation value="Содержит полный комплект ускорителей."/>
+	</entry>
+	<entry key="bundle_item_16">
+		<original value="Neon bundle"/>
+		<translation value="Комплект оружия &quot;Неон&quot;"/>
+	</entry>
+	<entry key="bundle_item_16_description">
+		<original value="Complete set of &quot;Neon&quot; wepons"/>
+		<translation value="Набор оружия &quot;Неон&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_item_23">
+		<original value="X-Mas bundle"/>
+		<translation value="Новогодний Комплект"/>
+	</entry>
+	<entry key="bundle_item_23_description">
+		<original value="Complete set of &quot;X-Mas&quot; wepons"/>
+		<translation value="Набор новогоднего оружия и брони для разных классов. С новым годом !!!"/>
+	</entry>
+	<entry key="bundle_item_giveaway_01">
+		<original value="Support giveaway bundle 1"/>
+		<translation value="Подарок за привязку телефона"/>
+	</entry>
+	<entry key="bundle_item_giveaway_01_description">
+		<original value="VIP booster for 7 days"/>
+		<translation value="Содержит VIP ускоритель на 7 дней."/>
+	</entry>
+	<entry key="bundle_item_giveaway_02">
+		<original value="Support giveaway bundle 2"/>
+		<translation value="Рассылка 30-й день"/>
+	</entry>
+	<entry key="bundle_item_giveaway_02_description">
+		<original value="Set of box weapons"/>
+		<translation value="Содержит набор оружия."/>
+	</entry>
+	<entry key="bundle_item_giveaway_03">
+		<original value="Support giveaway bundle 3"/>
+		<translation value="Подарок 6-й день"/>
+	</entry>
+	<entry key="bundle_item_giveaway_03_description">
+		<original value="Set of weapons and armors"/>
+		<translation value="Содержит набор оружия и брони."/>
+	</entry>
+	<entry key="bundle_item_giveaway_04">
+		<original value="Support giveaway bundle 4"/>
+		<translation value="Компенсация за Марафон"/>
+	</entry>
+	<entry key="bundle_item_giveaway_04_description">
+		<original value="VIP booster for 3 days"/>
+		<translation value="Содержит VIP ускоритель на 3 дня."/>
+	</entry>
+	<entry key="bundle_item_giveaway_05">
+		<original value="Support giveaway bundle 5"/>
+		<translation value="Подарок за тест"/>
+	</entry>
+	<entry key="bundle_item_giveaway_05_description">
+		<original value="VIP booster for 1 day"/>
+		<translation value="Содержит VIP ускоритель на 1 день."/>
+	</entry>
+	<entry key="bundle_item_giveaway_06">
+		<original value="Support giveaway bundle 6"/>
+		<translation value="Маркетинг кампания"/>
+	</entry>
+	<entry key="bundle_item_giveaway_06_description">
+		<original value="M249 Para for 1 day"/>
+		<translation value="Содержит M249 Para на 1 день."/>
+	</entry>
+	<entry key="algeria_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Algeria.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Алжира.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="argentina_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Argentina.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Аргентины.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="australia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Australia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Австралии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="brazil_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Brazil.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Бразилии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="bulgaria_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Bulgaria.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Болгарии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="canada_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Canada.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Канады.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="chile_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Chile.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Чили.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="china_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of China.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Китая.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="colombia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Colombia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Колумбии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="egypt_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Egypt.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Египта.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="finland_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Finland.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Финляндии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="greece_flag_01_shop_desc">
+		<original value="This item allows you to purchase Greek Flag.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Греции.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="hongkong_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Hong Kong.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Гонконга.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="indonesia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Indonesia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Индонезии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="israel_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Israel.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Израиля.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="japan_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Japan.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Японии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="korea_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Republic of Korea.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Южной Кореи.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="mexico_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Mexico.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Мексики.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="netherlands_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Netherlands.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Нидерландов.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="newzealand_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of New Zealand.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Новой Зеландии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="norway_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Norway.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Норвегии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="peru_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Peru.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Перу.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="philippines_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Philippines.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Филиппин.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="pirate_flag_01_shop_desc">
+		<original value="This item allows you to purchase Pirate Flag.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить пиратский флаг.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="serbia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Serbia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Сербии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="usa_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of USA.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг США.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="venezuela_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Venezuela.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Венесуэлы.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="vietnam_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Vietnam.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Вьетнама.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="pin_up_01_shop_desc">
+		<original value="This item allows you to purchase pin-up mark.\n The mark can be used for your personal banner."/>
+		<translation value="Позволяет купить значок в стиле 'пин-ап'.\nЗначок можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="pin_up_02_shop_desc">
+		<original value="This item allows you to purchase pin-up badge.\n The badge can be used for your personal banner."/>
+		<translation value="Позволяет купить жетон в стиле 'пин-ап'.\nЖетон можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="pin_up_03_shop_desc">
+		<original value="This item allows you to purchase pin-up stripe.\n The stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку в стиле 'пин-ап'.\nНашивку можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="meta_game_item_01">
+		<original value="Reset PvP statistics"/>
+		<translation value="Сбросить PvP-статистику"/>
+	</entry>
+	<entry key="meta_game_item_01_description">
+		<original value="Reset personal Kill/Death and PvP Win/Lose statistics. Applied immediately after purchase."/>
+		<translation value="Позволяет сбросить статистику убийств/смертей и побед/поражений в PvP. Применяется сразу после покупки."/>
+	</entry>
+	<entry key="meta_game_item_01_buy_confirmation">
+		<original value="It will reset your personal Kill/Death and PvP Win/Lose statistics. Are you sure?"/>
+		<translation value="Вы действительно хотите сбросить свою статистику убийств/смертей и побед/поражений в PvP?"/>
+	</entry>
+	<entry key="meta_game_item_02">
+		<original value="Reset PvP statistics"/>
+		<translation value="Сбросить статистику убийств/смертей"/>
+	</entry>
+	<entry key="meta_game_item_02_buy_confirmation">
+		<original value="Reset personal Kill/Death and PvP Win/Lose statistics. Applied immediately after purchase."/>
+		<translation value="Вы действительно хотите сбросить свою статистику убийств/смертей в PvP?"/>
+	</entry>
+	<entry key="meta_game_item_02_description">
+		<original value="Reset personal Kill/Death and PvP Win/Lose statistics. Applied immediately after purchase."/>
+		<translation value="Позволяет сбросить статистику убийств/смертей в PvP. Применяется сразу после покупки."/>
+	</entry>
+	<entry key="meta_game_item_03">
+		<original value="Reset PvP statistics"/>
+		<translation value="Сбросить статистику побед/поражений"/>
+	</entry>
+	<entry key="meta_game_item_03_buy_confirmation">
+		<original value="It will reset your personal Kill/Death and PvP Win/Lose statistics. Are you sure?"/>
+		<translation value="Вы действительно хотите сбросить свою статистику побед/поражений в PvP?"/>
+	</entry>
+	<entry key="meta_game_item_03_description">
+		<original value="Reset personal Kill/Death and PvP Win/Lose statistics. Applied immediately after purchase."/>
+		<translation value="Позволяет сбросить статистику побед/поражений в PvP. Применяется сразу после покупки."/>
+	</entry>
+	<entry key="random_box_34_shop_name">
+		<original value="Fabarm S.A.T. 8 Pro Random Box"/>
+		<translation value="Коробка с Fabarm S.A.T. 8 Pro"/>
+	</entry>
+	<entry key="ui_random_box_34_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_35_shop_name">
+		<original value="SCAR-L PDW Random Box"/>
+		<translation value="Коробка с SCAR-L PDW"/>
+	</entry>
+	<entry key="ui_random_box_35_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_36_shop_name">
+		<original value="M16A3 Random Box"/>
+		<translation value="Коробка с M16A3"/>
+	</entry>
+	<entry key="ui_random_box_36_description">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_rank_01_shop_name">
+		<original value="Rank Up Bonus for Rookie Players"/>
+		<translation value="Бонус за повышение для новичков"/>
+	</entry>
+	<entry key="ui_random_box_rank_01_description">
+		<original value="Reach New Rank to Get Random Bonus. As a higher level you receive a higher reward you get."/>
+		<translation value="Достигните следующего ранга, чтобы получить случайный бонус. Чем выше ранг, тем лучше награда."/>
+	</entry>
+	<entry key="random_box_rank_02_shop_name">
+		<original value="Rank Up Bonus for Experienced Players"/>
+		<translation value="Бонус за повышение для опытных игроков"/>
+	</entry>
+	<entry key="ui_random_box_rank_02_description">
+		<original value="Reach New Rank to Get Random Bonus. As a higher level you receive a higher reward you get."/>
+		<translation value="Достигните следующего ранга, чтобы получить случайный бонус. Чем выше ранг, тем лучше награда."/>
+	</entry>
+	<entry key="random_box_rank_03_shop_name">
+		<original value="Rank Up Bonus for Professional Players"/>
+		<translation value="Бонус за повышение для профи"/>
+	</entry>
+	<entry key="ui_random_box_rank_03_description">
+		<original value="Reach New Rank to Get Random Bonus. As a higher level you receive a higher reward you get."/>
+		<translation value="Достигните следующего ранга, чтобы получить случайный бонус. Чем выше ранг, тем лучше награда."/>
+	</entry>
+	<entry key="random_box_rank_04_shop_name">
+		<original value="Rank Up Bonus for the Best Professional Players"/>
+		<translation value="Бонус за повышение для лучших из лучших"/>
+	</entry>
+	<entry key="ui_random_box_rank_04_description">
+		<original value="Reach New Rank to Get Random Bonus."/>
+		<translation value="Достигните следующего ранга, чтобы получить случайный бонус."/>
+	</entry>
+	<entry key="random_box_daily_01_shop_name">
+		<original value="Crown Random Box"/>
+		<translation value="Коробка (короны)"/>
+	</entry>
+	<entry key="ui_random_box_daily_01_description">
+		<original value="Get Your Crown Reward"/>
+		<translation value="Получите вашу награду!"/>
+	</entry>
+	<entry key="random_box_daily_02_shop_name">
+		<original value="Daily Bonus Random Box"/>
+		<translation value="Коробка (ежедневный бонус)"/>
+	</entry>
+	<entry key="ui_random_box_daily_02_description">
+		<original value="Get Your Random Reward"/>
+		<translation value="Внутри случайная награда."/>
+	</entry>
+	<entry key="random_box_daily_03_shop_name">
+		<original value="Golden Random Box"/>
+		<translation value="Золотая Коробка"/>
+	</entry>
+	<entry key="ui_random_box_daily_03_description">
+		<original value="Get Your Random Reward"/>
+		<translation value="Внутри случайная награда."/>
+	</entry>
+	<entry key="random_box_hlw_01_shop_name">
+		<original value="Halloween Random Box"/>
+		<translation value="Коробка Анти-зомби"/>
+	</entry>
+	<entry key="ui_random_box_hlw_01_description">
+		<original value="Get Your Halloween Reward"/>
+		<translation value="Внутри случайная Анти-зомби награда."/>
+	</entry>
+	<entry key="random_box_hlw_02_shop_name">
+		<original value="Halloween Random Box"/>
+		<translation value="Коробка Анти-зомби"/>
+	</entry>
+	<entry key="ui_random_box_hlw_02_description">
+		<original value="Get Your Halloween Reward"/>
+		<translation value="Внутри случайная Анти-зомби награда."/>
+	</entry>
+	<entry key="random_box_zsd_01_shop_name">
+		<original value="Special Zombie Mission Reward"/>
+		<translation value="Награда за операцию 'Опасный эксперимент'"/>
+	</entry>
+	<entry key="ui_random_box_zsd_01_description">
+		<original value="Reward for completing the easy Zombie Mission."/>
+		<translation value="Награда за выполнение операции 'Опасный эксперимент' на легком уровне."/>
+	</entry>
+	<entry key="random_box_zsd_02_shop_name">
+		<original value="Special Zombie Mission Reward"/>
+		<translation value="Награда за операцию 'Опасный эксперимент'"/>
+	</entry>
+	<entry key="ui_random_box_zsd_02_description">
+		<original value="Reward for completing the normal Zombie Mission."/>
+		<translation value="Награда за выполнение операции 'Опасный эксперимент' на сложном уровне."/>
+	</entry>
+	<entry key="random_box_zsd_03_shop_name">
+		<original value="Special Zombie Mission Reward"/>
+		<translation value="Награда за операцию 'Опасный эксперимент'"/>
+	</entry>
+	<entry key="ui_random_box_zsd_03_description">
+		<original value="Reward for completing the hardcore Zombie Mission."/>
+		<translation value="Награда за выполнение операции 'Опасный эксперимент' на уровне сложности 'Профи'."/>
+	</entry>
+	<entry key="random_box_xmas_01_shop_name">
+		<original value="Xmas Random Box"/>
+		<translation value="Новогодняя Коробка"/>
+	</entry>
+	<entry key="ui_random_box_xmas_01_description">
+		<original value="Get Your Xmas Reward"/>
+		<translation value="Получите вашу новогоднюю награду!"/>
+	</entry>
+	<entry key="random_box_xmas_02_shop_name">
+		<original value="Xmas Random Box"/>
+		<translation value="Новогодняя Коробка"/>
+	</entry>
+	<entry key="ui_random_box_xmas_02_description">
+		<original value="Get Your Xmas Reward"/>
+		<translation value="Получите вашу новогоднюю награду!"/>
+	</entry>
+	<entry key="random_box_38_shop_name">
+		<original value="Remington R11 RSASS Random Box"/>
+		<translation value="Коробка с Remington R11 RSASS"/>
+	</entry>
+	<entry key="ui_random_box_38_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_39_shop_name">
+		<original value="Magmatic Mega Random Box"/>
+		<translation value="Большая коробка 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_39_description">
+		<original value="The box allows to win 2 random items. It contains awesome Magma weapons!"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных награды, в числе которых может быть оружие с камуфляжем 'Магма'."/>
+	</entry>
+	<entry key="random_box_25_shop_name">
+		<original value="Pinkie Micro-Desert Random Box"/>
+		<translation value="Коробка с розовым Micro Desert Eagle"/>
+	</entry>
+	<entry key="ui_random_box_25_description">
+		<original value="This box allows to win 2 random items for different classes"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_vc_01_shop_name">
+		<original value="Special Volcano Mission Reward"/>
+		<translation value="Особая награда за миссию 'Вулкан'"/>
+	</entry>
+	<entry key="ui_random_box_vc_01_description">
+		<original value="Reward for completing the Volcano easy mission."/>
+		<translation value="Награда за прохождение миссии 'Вулкан' на легком уровне."/>
+	</entry>
+	<entry key="random_box_vc_02_shop_name">
+		<original value="Special Volcano Mission Reward"/>
+		<translation value="Особая награда за миссию 'Вулкан'"/>
+	</entry>
+	<entry key="ui_random_box_vc_02_description">
+		<original value="Reward for completing the Volcano normal mission."/>
+		<translation value="Награда за прохождение миссии 'Вулкан' на сложном уровне."/>
+	</entry>
+	<entry key="random_box_vc_03_shop_name">
+		<original value="Special Volcano Mission Reward"/>
+		<translation value="Особая награда за миссию 'Вулкан'"/>
+	</entry>
+	<entry key="ui_random_box_vc_03_description">
+		<original value="Reward for completing the Volcano hard mission."/>
+		<translation value="Награда за прохождение миссии 'Вулкан' на уровне 'Профи'."/>
+	</entry>
+	<entry key="random_box_40_shop_name">
+		<original value="Fabarm STF 12 Compact Random Box"/>
+		<translation value="Коробка с Fabarm STF 12 Compact"/>
+	</entry>
+	<entry key="ui_random_box_40_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_skin_01_shop_name">
+		<original value="AS VAL Skin box"/>
+		<translation value="Коробка с камуфляжами для АС 'Вал'"/>
+	</entry>
+	<entry key="ui_random_box_skin_01_description">
+		<original value="Contain 3 unique skins with different rarity for AS VAL rifle"/>
+		<translation value="Внутри можно найти 3 вида камуфляжа различной редкости для АС 'Вал'."/>
+	</entry>
+	<entry key="random_box_skin_02_shop_name">
+		<original value="UTAS UTS-15 Skin box"/>
+		<translation value="Коробка с камуфляжами для UTAS UTS-15"/>
+	</entry>
+	<entry key="ui_random_box_skin_02_description">
+		<original value="Contain 3 unique skins with different rarity for UTAS UTS-15 shotgun"/>
+		<translation value="Внутри можно найти 3 вида камуфляжа различной редкости для UTAS UTS-15."/>
+	</entry>
+	<entry key="random_box_skin_03_shop_name">
+		<original value="Berretta MX4 Storm Skin box"/>
+		<translation value="Коробка с камуфляжами для Beretta MX4 Storm"/>
+	</entry>
+	<entry key="ui_random_box_skin_03_description">
+		<original value="Contain 3 unique skins with different rarity for Berretta MX4 Storm sub-machine gun"/>
+		<translation value="Внутри можно найти 3 вида камуфляжа различной редкости для Beretta MX4 Storm."/>
+	</entry>
+	<entry key="random_box_skin_04_shop_name">
+		<original value="M98B Barret Skin box"/>
+		<translation value="Коробка с камуфляжами для Barrett M98B"/>
+	</entry>
+	<entry key="ui_random_box_skin_04_description">
+		<original value="Contain 3 unique skins with different rarity for M98B Barret sniper rifle"/>
+		<translation value="Внутри можно найти 3 вида камуфляжа различной редкости для Barrett M98B."/>
+	</entry>
+	<entry key="random_box_skin_05_shop_name">
+		<original value="Colt M1911 Skin box"/>
+		<translation value="Коробка с камуфляжами для M1911A1"/>
+	</entry>
+	<entry key="ui_random_box_skin_05_description">
+		<original value="Contain 3 unique skins with different rarity for Colt M1911 handgun gun"/>
+		<translation value="Внутри можно найти 3 вида камуфляжа различной редкости для M1911A1."/>
+	</entry>
+	<entry key="random_box_41_shop_name">
+		<original value="Steyr Scout Random Box"/>
+		<translation value="Коробка с Steyr Scout"/>
+	</entry>
+	<entry key="ui_random_box_41_description">
+		<original value="This box allows to win 3 random items for sniper."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_42_shop_name">
+		<original value="Honey Badger Random Box"/>
+		<translation value="Коробка с Honey Badger"/>
+	</entry>
+	<entry key="ui_random_box_42_description">
+		<original value="This box allows to win 3 random items for engineer."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_45_shop_name">
+		<original value="Magmatic Mossber 500 Custom"/>
+		<translation value="Коробка с Mossberg 500 Custom 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_45_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_46_shop_name">
+		<original value="Magmatic SCAR-L PDW"/>
+		<translation value="Коробка с SCAR-L PDW 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_46_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_47_shop_name">
+		<original value="Magmatic AX-308"/>
+		<translation value="Коробка с AX308 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_47_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_48_shop_name">
+		<original value="Magmatic Sig Sauer P226"/>
+		<translation value="Коробка с Sig Sauer P226 C 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_48_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_49_shop_name">
+		<original value="Magmatic Katana"/>
+		<translation value="Коробка с Катана 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_49_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_50_shop_name">
+		<original value="Magmatic ACR"/>
+		<translation value="Коробка с ACR 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_50_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_vc_04_shop_name">
+		<original value="Special Volcano Mission Reward"/>
+		<translation value="Особая награда за миссию 'Вулкан'"/>
+	</entry>
+	<entry key="ui_random_box_vc_04_description">
+		<original value="Reward for completing the Volcano Nightmare mission."/>
+		<translation value="Награда за прохождение миссии 'Вулкан' на сложности 'Хардкор'."/>
+	</entry>
+	<entry key="random_box_skin_06_shop_name">
+		<original value="AK-103 &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с АК-103 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_06_description">
+		<original value="Contains AK-103 assault rifle rare Anubis weapon"/>
+		<translation value="Внутри можно найти АК-103 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_07_shop_name">
+		<original value="ALPINE &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с Alpine 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_07_description">
+		<original value="Contains ALPINE rare Anubis weapon"/>
+		<translation value="Внутри можно найти Аlpine 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_08_shop_name">
+		<original value="Bizon &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с ПП-19 Бизон 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_08_description">
+		<original value="Contains Bizon rare Anubis weapon"/>
+		<translation value="Внутри можно найти ПП-19 Бизон 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_09_shop_name">
+		<original value="Vepr &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с Вепрем 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_09_description">
+		<original value="Contains Vepr rare Anubis weapon"/>
+		<translation value="Внутри можно найти Вепрь 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_10_shop_name">
+		<original value="Colt Python &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с COLT Python 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_10_description">
+		<original value="Contains Colt Python rare Anubis weapon"/>
+		<translation value="Внутри можно найти COLT Python 'Анубис'."/>
+	</entry>
+	<entry key="random_box_afro_02_shop_name">
+		<original value="Special &quot;Anubis&quot; Mission Reward"/>
+		<translation value="Особая награда за миссию 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_afro_02_description">
+		<original value="Reward for completing the &quot;Anubis&quot; normal mission."/>
+		<translation value="Награда за прохождение миссии 'Анубис' на высокой сложности."/>
+	</entry>
+	<entry key="random_box_afro_03_shop_name">
+		<original value="Special &quot;Anubis&quot; Mission Reward"/>
+		<translation value="Особая награда за миссию 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_afro_03_description">
+		<original value="Reward for completing the &quot;Anubis&quot; hard mission."/>
+		<translation value="Награда за прохождение миссии 'Анубис' на сложности 'Профи'."/>
+	</entry>
+	<entry key="albania_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Albania.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Албании.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="albania_flag_01_shop">
+		<original value="Flag of Albania"/>
+		<translation value="Флаг Албании"/>
+	</entry>
+	<entry key="austria_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Austria.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Австрии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="belgium_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Belgium.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Бельгии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="croatia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Croatia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Хорватии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="czech_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Czech Republic.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Чехии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="denmark_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Denmark.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Дании.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="france_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of France.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Франции.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="germany_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Germany.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Германии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="hungary_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Hungary.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Венгрии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="iceland_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Iceland.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Исландии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="iceland_flag_01_shop">
+		<original value="Flag of Iceland"/>
+		<translation value="Флаг Исландии"/>
+	</entry>
+	<entry key="italy_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Italy.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Италии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="england_flag_01_shop">
+		<original value="Flag of England"/>
+		<translation value="Флаг Англии"/>
+	</entry>
+	<entry key="england_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of UK.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Англии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="northernireland_flag_01_shop">
+		<original value="Flag of Northern Ireland"/>
+		<translation value="Флаг Северной Ирландии"/>
+	</entry>
+	<entry key="northernireland_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Northern Ireland.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Северной Ирландии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="poland_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Poland.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Польши.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="portugal_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Portugal.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Португалии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="ireland_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Republic of Ireland.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Ирландии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="romania_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Romania.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Румынии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="russia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Russia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг России.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="slovakia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Slovakia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Словакии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="spain_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Spain.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Испании.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="sweden_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Sweden.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Швеции.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="switzerland_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Switzerland.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Швейцарии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="turkey_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Turkey.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Турции.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="uk_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of UK.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Англии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="ukraine_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Ukraine.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Украины.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wales_flag_01_shop">
+		<original value="Flag of Wales"/>
+		<translation value="Флаг Уэльса"/>
+	</entry>
+	<entry key="wales_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Wales.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Уэльса.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="random_box_44_shop_name">
+		<original value="EURO 2016 Random Box"/>
+		<translation value="Коробка 'Евро-2016'"/>
+	</entry>
+	<entry key="ui_random_box_44_description">
+		<original value="The box allows to win 2 random items. Hustle, Hit and Never Quit!"/>
+		<translation value="Внутри можно найти два случайных предмета. Вперед, к мечте!"/>
+	</entry>
+	<entry key="random_box_58_shop_name">
+		<original value="Jagdkommando Random Box"/>
+		<translation value="Коробка с Jagdkommando"/>
+	</entry>
+	<entry key="ui_random_box_58_description">
+		<original value="This box allows to win 2 random items for all classes"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_51_shop_name">
+		<original value="Top dog soldier helmet Randombox"/>
+		<translation value="Коробка со шлемом 'Лидер' для штурмовика"/>
+	</entry>
+	<entry key="ui_random_box_51_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_52_shop_name">
+		<original value="Top dog engineer helmet Randombox"/>
+		<translation value="Коробка со шлемом 'Лидер' для инженера"/>
+	</entry>
+	<entry key="ui_random_box_52_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_53_shop_name">
+		<original value="Top dog medic helmet Randombox"/>
+		<translation value="Коробка со шлемом 'Лидер' для медика"/>
+	</entry>
+	<entry key="ui_random_box_53_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_54_shop_name">
+		<original value="Top dog sniper helmet Randombox"/>
+		<translation value="Коробка со шлемом 'Лидер' для снайпера"/>
+	</entry>
+	<entry key="ui_random_box_54_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_55_shop_name">
+		<original value="Fabarm XLR 5 Prestige Random Box"/>
+		<translation value="Коробка с Fabarm XLR5 Prestige"/>
+	</entry>
+	<entry key="ui_random_box_55_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="bundle_item_17">
+		<original value="Rookie bundle"/>
+		<translation value="Комплект новичка"/>
+	</entry>
+	<entry key="bundle_item_17_description">
+		<original value="Live to fight another day with this enlistment package providing the necessary gear to join and win your first missions"/>
+		<translation value="Комплект содержит необходимую экипировку для триумфального завершения первых миссий."/>
+	</entry>
+	<entry key="bundle_item_18">
+		<original value="Warlord Bundle"/>
+		<translation value="Комплект воителя"/>
+	</entry>
+	<entry key="bundle_item_18_description">
+		<original value="Survive against the odds, face any onslaught and never let the enemy get the best of you with this powerful set of Warlord armor"/>
+		<translation value="Комплект содержит боевое снаряжение, способное защитить бойца в самых суровых сражениях."/>
+	</entry>
+	<entry key="bundle_item_19">
+		<original value="Elite Rifleman bundle"/>
+		<translation value="Особый комплект штурмовика"/>
+	</entry>
+	<entry key="bundle_item_19_description">
+		<original value="Superior firepower, tactical options and increased survivability in one well rounded assault package"/>
+		<translation value="Содержит комплект особого снаряжения для штурмовика."/>
+	</entry>
+	<entry key="bundle_item_20">
+		<original value="Elite Medic bundle"/>
+		<translation value="Особый комплект медика"/>
+	</entry>
+	<entry key="bundle_item_20_description">
+		<original value="Decide who lives and who dies on the battlefield with this surgical close quarters package"/>
+		<translation value="Содержит комплект особого снаряжения для медика."/>
+	</entry>
+	<entry key="bundle_item_21">
+		<original value="Elite Engineer bundle"/>
+		<translation value="Особый комплект инженера"/>
+	</entry>
+	<entry key="bundle_item_21_description">
+		<original value="Storm entrenched opposition or blow them up from up close with this well fortified package"/>
+		<translation value="Содержит комплект особого снаряжения для инженера."/>
+	</entry>
+	<entry key="bundle_item_22">
+		<original value="Elite Sniper bundle"/>
+		<translation value="Особый комплект снайпера"/>
+	</entry>
+	<entry key="bundle_item_22_description">
+		<original value="Reach out and snipe your opponents from a safe distance with this full sharpshooting package"/>
+		<translation value="Содержит комплект особого снаряжения для снайпера."/>
+	</entry>
+	<entry key="random_box_56_shop_name">
+		<original value="Enfield L85A2 Custom Random Box"/>
+		<translation value="Коробка с Enfield L85A2 Custom"/>
+	</entry>
+	<entry key="ui_random_box_56_description">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_dragon_jade_shop_name">
+		<original value="Special Ranked games reward"/>
+		<translation value="Особая награда первой лиги рейтинговых боев"/>
+	</entry>
+	<entry key="ui_random_box_dragon_jade_description">
+		<original value="Reward for 1-th place ranked games of season."/>
+		<translation value="Награда, которую получают игроки первой лиги рейтинговых боев по завершении сезона"/>
+	</entry>
+	<entry key="bundle_item_24">
+		<original value="Nanosuit fbs Bundle"/>
+		<translation value="Комплект нанокостюмов"/>
+	</entry>
+	<entry key="bundle_item_24_description">
+		<original value="Complete set of Nano full body suits"/>
+		<translation value="Полный набор нанокостюмов для разных классов."/>
+	</entry>
+	<entry key="random_box_59_shop_name">
+		<original value="CZ 75-Auto Random Box"/>
+		<translation value="Коробка с CZ 75-Auto"/>
+	</entry>
+	<entry key="ui_random_box_59_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_dragon_black_shop_name">
+		<original value="Black Dragon Skin random box"/>
+		<translation value="Коробка &quot;Черный дракон&quot;"/>
+	</entry>
+	<entry key="ui_random_box_dragon_black_description">
+		<original value="The box allows to win 5 random black skins"/>
+		<translation value="Содержит один случайный камуфляж &quot;Черный дракон&quot;"/>
+	</entry>
+	<entry key="random_box_dragon_red_shop_name">
+		<original value="Red Dragon Skin random box"/>
+		<translation value="Коробка &quot;Алый дракон&quot;"/>
+	</entry>
+	<entry key="ui_random_box_dragon_red_description">
+		<original value="The box allows to win 5 random red skins"/>
+		<translation value="Содержит один случайный камуфляж &quot;Алый дракон&quot;"/>
+	</entry>
+	<entry key="random_box_61_shop_name">
+		<original value="Dragunov SVU-AS Random Box"/>
+		<translation value="Коробка c СВУ-АС"/>
+	</entry>
+	<entry key="ui_random_box_61_description">
+		<original value="This box allows to win 3 random items for Sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_zt_01_shop_name">
+		<original value="Special Black Shark Mission Reward"/>
+		<translation value="Особая награда за миссию 'Черная акула'"/>
+	</entry>
+	<entry key="ui_random_box_zt_01_description">
+		<original value="Reward for completing the Black Shark easy mission."/>
+		<translation value="Награда за прохождение миссии 'Черная акула' на легком уровне."/>
+	</entry>
+	<entry key="random_box_zt_02_shop_name">
+		<original value="Special Black Shark Mission Reward"/>
+		<translation value="Особая награда за миссию 'Черная акула'"/>
+	</entry>
+	<entry key="ui_random_box_zt_02_description">
+		<original value="Reward for completing the Black Shark normal mission."/>
+		<translation value="Награда за прохождение миссии 'Черная акула' на сложном уровне."/>
+	</entry>
+	<entry key="random_box_zt_03_shop_name">
+		<original value="Special Black Shark Mission Reward"/>
+		<translation value="Особая награда за миссию 'Черная акула'"/>
+	</entry>
+	<entry key="ui_random_box_zt_03_description">
+		<original value="Reward for completing the Black Shark hard mission."/>
+		<translation value="Награда за прохождение миссии 'Черная акула' на сложности 'Профи'."/>
+	</entry>
+	<entry key="random_box_65_shop_name">
+		<original value="Cyber Slayer FN SCAR-H"/>
+		<translation value="Коробка с FN SCAR-H 'Убийца зомби'"/>
+	</entry>
+	<entry key="ui_random_box_65_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_66_shop_name">
+		<original value="Cyber Slayer Saiga Bullpup"/>
+		<translation value="Коробка с Сайгой-12С 'Убийца зомби'"/>
+	</entry>
+	<entry key="ui_random_box_66_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_67_shop_name">
+		<original value="Cyber Slayer XM8 Compact"/>
+		<translation value="Коробка с XM8 Compact 'Убийца зомби'"/>
+	</entry>
+	<entry key="ui_random_box_67_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_68_shop_name">
+		<original value="Cyber Slayer Glock 18C"/>
+		<translation value="Коробка с Glock 18C 'Убийца зомби'"/>
+	</entry>
+	<entry key="ui_random_box_68_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_69_shop_name">
+		<original value="Cyber Slayer Tactical Axe"/>
+		<translation value="Коробка с топором 'Убийца зомби'"/>
+	</entry>
+	<entry key="ui_random_box_69_description">
+		<original value="The box allows to win 2 random items."/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_70_shop_name">
+		<original value="Cyber Slayer Stayer Scout"/>
+		<translation value="Коробка со Steyr Scout 'Убийца зомби'"/>
+	</entry>
+	<entry key="ui_random_box_70_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="ui_random_box_72_description">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_72_shop_name">
+		<original value="PKP Pecheneg Random Box"/>
+		<translation value="Коробка с ПКП 'Печенег'"/>
+	</entry>
+	<entry key="ui_random_box_73_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_73_shop_name">
+		<original value="MAG-7 Random Box"/>
+		<translation value="Коробка с MAG-7"/>
+	</entry>
+	<entry key="random_box_75_shop_name">
+		<original value="Cyber Slayer Fabarm STF12 Compact"/>
+		<translation value="Коробка с Fabarm STF12 Compact 'Убийца зомби'"/>
+	</entry>
+	<entry key="ui_random_box_75_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_fbs_01_shop_name">
+		<original value="Nanosuit fbs random box"/>
+		<translation value="Коробка с нанокостюмами"/>
+	</entry>
+	<entry key="ui_random_box_fbs_01_description">
+		<original value="This box allows to win 4 random Nanosuit fbs"/>
+		<translation value="Коробка с нанокостюмами для разных классов."/>
+	</entry>
+	<entry key="random_box_skin_17_shop_name">
+		<original value="AK-47 Skin box"/>
+		<translation value="Коробка с камуфляжами для АК-47"/>
+	</entry>
+	<entry key="ui_random_box_skin_17_description">
+		<original value="Contain 3 unique skins with different rarity for AK-47 rifle"/>
+		<translation value="Внутри можно найти 3 вида камуфляжа различной редкости для АК-47."/>
+	</entry>
+	<entry key="random_box_76_shop_name">
+		<original value="Magpul FMG 9 Random Box"/>
+		<translation value="Коробка с Magpul FMG 9"/>
+	</entry>
+	<entry key="ui_random_box_76_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_santa_01_shop_name">
+		<original value="Xmas Medic Random Box"/>
+		<translation value="Новогодняя коробка медика"/>
+	</entry>
+	<entry key="ui_random_box_santa_01_description">
+		<original value="Try your luck and win random Christmas items for the Medic in each box."/>
+		<translation value="Испытайте удачу и выиграйте случайные новогодние предметы для медика!"/>
+	</entry>
+	<entry key="random_box_santa_02_shop_name">
+		<original value="Xmas Rifleman Random Box"/>
+		<translation value="Новогодняя коробка штурмовика"/>
+	</entry>
+	<entry key="ui_random_box_santa_02_description">
+		<original value="Try your luck and win random Christmas items for the Rifleman in each box."/>
+		<translation value="Испытайте удачу и выиграйте случайные новогодние предметы для штурмовика!"/>
+	</entry>
+	<entry key="random_box_santa_03_shop_name">
+		<original value="Xmas Engineer Random Box"/>
+		<translation value="Новогодняя коробка инженера"/>
+	</entry>
+	<entry key="ui_random_box_santa_03_description">
+		<original value="Try your luck and win random Christmas items for the Engineer in each box."/>
+		<translation value="Испытайте удачу и выиграйте случайные новогодние предметы для инженера!"/>
+	</entry>
+	<entry key="random_box_santa_04_shop_name">
+		<original value="Xmas Sniper Random Box"/>
+		<translation value="Новогодняя коробка снайпера"/>
+	</entry>
+	<entry key="ui_random_box_santa_04_description">
+		<original value="Try your luck and win random Christmas items for the Sniper in each box."/>
+		<translation value="Испытайте удачу и выиграйте случайные новогодние предметы для снайпера!"/>
+	</entry>
+	<entry key="random_box_santa_05_shop_name">
+		<original value="Xmas Pistol Random Box"/>
+		<translation value="Новогодняя коробка с пистолетом"/>
+	</entry>
+	<entry key="ui_random_box_santa_05_description">
+		<original value="Try your luck and win random Christmas items to use in combat."/>
+		<translation value="Испытайте удачу и выиграйте случайные новогодние предметы для разных классов!"/>
+	</entry>
+	<entry key="random_box_83_shop_name">
+		<original value="Gold Smoke Grenade"/>
+		<translation value="Коробка с золотой дымовой гранатой"/>
+	</entry>
+	<entry key="ui_random_box_83_description">
+		<original value="The box allows to win Gold Smoke Grenades"/>
+		<translation value="Внутри можно найти золотые дымовые гранаты"/>
+	</entry>
+	<entry key="random_box_ib_01_shop_name">
+		<original value="Special Ice-Breaker Mission Reward"/>
+		<translation value="Особая награда за миссию 'Ледокол'"/>
+	</entry>
+	<entry key="ui_random_box_ib_01_description">
+		<original value="Reward for completing the Ice-Breaker easy mission."/>
+		<translation value="Награда за прохождение миссии 'Ледокол' на легком уровне."/>
+	</entry>
+	<entry key="random_box_ib_02_shop_name">
+		<original value="Special Ice-Breaker Mission Reward"/>
+		<translation value="Особая награда за миссию 'Ледокол'"/>
+	</entry>
+	<entry key="ui_random_box_ib_02_description">
+		<original value="Reward for completing the Ice-Breaker normal mission."/>
+		<translation value="Награда за прохождение миссии 'Ледокол' на сложном уровне."/>
+	</entry>
+	<entry key="random_box_ib_03_shop_name">
+		<original value="Special Ice-Breaker Mission Reward"/>
+		<translation value="Особая награда за миссию 'Ледокол'"/>
+	</entry>
+	<entry key="ui_random_box_ib_03_description">
+		<original value="Reward for completing the Ice-Breaker hard mission."/>
+		<translation value="Награда за прохождение миссии 'Ледокол' на сложности 'Профи'."/>
+	</entry>
+	<entry key="ui_random_box_74_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_74_shop_name">
+		<original value="M14 Crazy Horse Random Box"/>
+		<translation value="Коробка с M14 Crazy Horse"/>
+	</entry>
+	<entry key="random_box_77_shop_name">
+		<original value="Frozen M16A3 Custom"/>
+		<translation value="Коробка с M16A3 Custom 'Стужа'"/>
+	</entry>
+	<entry key="ui_random_box_77_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_78_shop_name">
+		<original value="Frozen Fabarm STF 12 Compact"/>
+		<translation value="Коробка с Fabarm STF 12 Compact 'Стужа'"/>
+	</entry>
+	<entry key="ui_random_box_78_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_79_shop_name">
+		<original value="Frozen Honey Badger"/>
+		<translation value="Коробка с Honey Badger 'Стужа'"/>
+	</entry>
+	<entry key="ui_random_box_79_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_80_shop_name">
+		<original value="Frozen Sig Sauer P226"/>
+		<translation value="Коробка с Sig Sauer P226 'Стужа'"/>
+	</entry>
+	<entry key="ui_random_box_80_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_81_shop_name">
+		<original value="Frozen Stayer Scout"/>
+		<translation value="Коробка с Steyr Scout 'Стужа'"/>
+	</entry>
+	<entry key="ui_random_box_81_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_82_shop_name">
+		<original value="Frozen Tactical Axe"/>
+		<translation value="Коробка с тактическим топором 'Стужа'"/>
+	</entry>
+	<entry key="ui_random_box_82_description">
+		<original value="The box allows to win 2 random items."/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_84_shop_name">
+		<original value="Magmatic Crye Precision SIX12"/>
+		<translation value="Коробка с SIX12 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_84_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_85_shop_name">
+		<original value="Magmatic ACR CQB"/>
+		<translation value="Коробка с ACR CQB 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_85_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_86_shop_name">
+		<original value="Magmatic McMillan CS5"/>
+		<translation value="Коробка с McMillan CS5 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_86_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_87_shop_name">
+		<original value="Magmatic Glock 18c"/>
+		<translation value="Коробка с Glock 18C 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_87_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_88_shop_name">
+		<original value="Magmatic KA-BAR Kukri Machete"/>
+		<translation value="Коробка с Кукри-мачете 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_88_description">
+		<original value="The box allows to win 2 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_89_shop_name">
+		<original value="Magmatic Type 97"/>
+		<translation value="Коробка с Type 97 'Магма'"/>
+	</entry>
+	<entry key="ui_random_box_89_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_skin_11_shop_name">
+		<original value="AK-103 &quot;Lac Bird&quot; Skin box"/>
+		<translation value="Коробка с камуфляжем 'Фортуна' для АК-103"/>
+	</entry>
+	<entry key="ui_random_box_skin_11_description">
+		<original value="Contains 1 ultrarare skin for AK-103 assault rifle"/>
+		<translation value="Содержит очень редкий камуфляж для АК-103."/>
+	</entry>
+	<entry key="random_box_skin_12_shop_name">
+		<original value="Saiga Bullpup &quot;Lac Bird&quot; Skin box"/>
+		<translation value="Коробка с камуфляжем 'Фортуна' для Сайги-12С"/>
+	</entry>
+	<entry key="ui_random_box_skin_12_description">
+		<original value="Contains 1 ultrarare skin for Saiga Bullpup shotgun"/>
+		<translation value="Содержит очень редкий камуфляж для Сайги-12С."/>
+	</entry>
+	<entry key="random_box_skin_13_shop_name">
+		<original value="Tavor CTAR-21 &quot;Lac Bird&quot; Skin box"/>
+		<translation value="Коробка с камуфляжем 'Фортуна' для Tavor CTAR-21"/>
+	</entry>
+	<entry key="ui_random_box_skin_13_description">
+		<original value="Contains 1 ultrarare skin for Tavor CTAR-21 sub-machinegun"/>
+		<translation value="Содержит очень редкий камуфляж для Tavor CTAR-21."/>
+	</entry>
+	<entry key="random_box_skin_14_shop_name">
+		<original value="McMillan CS5 &quot;Lac Bird&quot; Skin box"/>
+		<translation value="Коробка с камуфляжем 'Фортуна' для McMillan CS5"/>
+	</entry>
+	<entry key="ui_random_box_skin_14_description">
+		<original value="Contains 1 ultrarare skin for McMillan CS5 sniper rifle"/>
+		<translation value="Содержит очень редкий камуфляж для McMillan CS5."/>
+	</entry>
+	<entry key="random_box_skin_15_shop_name">
+		<original value="Glock 18c &quot;Lac Bird&quot; Skin box"/>
+		<translation value="Коробка с камуфляжем 'Фортуна' для Glock 18C"/>
+	</entry>
+	<entry key="ui_random_box_skin_15_description">
+		<original value="Contains 1 ultrarare skin for Glock 18c pistol"/>
+		<translation value="Содержит очень редкий камуфляж для Glock 18C."/>
+	</entry>
+	<entry key="random_box_skin_16_shop_name">
+		<original value="Tactical Axe &quot;Lac Bird&quot; Skin box"/>
+		<translation value="Коробка с камуфляжем 'Фортуна' для тактического топора"/>
+	</entry>
+	<entry key="ui_random_box_skin_16_description">
+		<original value="Contains 1 ultrarare skin for Tactical Axe"/>
+		<translation value="Содержит очень редкий камуфляж для тактического топора."/>
+	</entry>
+	<entry key="random_box_43_shop_name">
+		<original value="Magmatic Mega Random Box Second Edition"/>
+		<translation value="Большая коробка 'Магма' (второе издание)"/>
+	</entry>
+	<entry key="ui_random_box_43_description">
+		<original value="The box allows to win 2 random items. It contains awesome Magma weapons!"/>
+		<translation value="Каждая коробка содержит 2 случайных награды, в числе которых может быть оружие с камуфляжем 'Магма'."/>
+	</entry>
+	<entry key="random_box_skin_18_shop_name">
+		<original value="M16A3 &quot;Lac Bird&quot; Skin box"/>
+		<translation value="Коробка с камуфляжем 'Фортуна' для M16A3"/>
+	</entry>
+	<entry key="ui_random_box_skin_18_description">
+		<original value="Contains 1 ultrarare skin for M16A3 assault rifle"/>
+		<translation value="Внутри можно найти один редкий камуфляж для M16A3."/>
+	</entry>
+	<entry key="random_box_90_shop_name">
+		<original value="Beretta ARX160 Random Box"/>
+		<translation value="Коробка с Beretta ARX160"/>
+	</entry>
+	<entry key="ui_random_box_90_description">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="bundle_item_29">
+		<original value="Nanosuit female FBS Bundle"/>
+		<translation value="Комплект женских нанокостюмов"/>
+	</entry>
+	<entry key="bundle_item_29_description">
+		<original value="Complete set of female Nano full body suits"/>
+		<translation value="Полный набор женских нанокостюмов для разных классов."/>
+	</entry>
+	<entry key="random_box_91_shop_name">
+		<original value="DP-12 Random Box"/>
+		<translation value="Коробка с DP-12"/>
+	</entry>
+	<entry key="ui_random_box_91_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="bundle_item_25">
+		<original value="Military Rifleman bundle"/>
+		<translation value="Армейский набор штурмовика"/>
+	</entry>
+	<entry key="bundle_item_25_description">
+		<original value="Full warehouse stock of military grade outfit and weapons for the Soldier"/>
+		<translation value="Полный комплект армейского снаряжения и оружия для штурмовика."/>
+	</entry>
+	<entry key="bundle_item_27">
+		<original value="Military Medic bundle"/>
+		<translation value="Армейский набор медика"/>
+	</entry>
+	<entry key="bundle_item_27_description">
+		<original value="Full warehouse stock of military grade outfit and weapons for the Medic"/>
+		<translation value="Полный комплект армейского снаряжения и оружия для медика."/>
+	</entry>
+	<entry key="bundle_item_28">
+		<original value="Military Engineer bundle"/>
+		<translation value="Армейский набор инженера"/>
+	</entry>
+	<entry key="bundle_item_28_description">
+		<original value="Full warehouse stock of military grade outfit and weapons for the Engineer"/>
+		<translation value="Полный комплект армейского снаряжения и оружия для инженера."/>
+	</entry>
+	<entry key="bundle_item_26">
+		<original value="Military Sniper bundle"/>
+		<translation value="Армейский набор снайпера"/>
+	</entry>
+	<entry key="bundle_item_26_description">
+		<original value="Full warehouse stock of military grade outfit and weapons for the Sniper"/>
+		<translation value="Полный комплект армейского снаряжения и оружия для снайпера."/>
+	</entry>
+	<entry key="random_box_rm_01_shop_name">
+		<original value="Special Reward"/>
+		<translation value="Особая награда"/>
+	</entry>
+	<entry key="ui_random_box_rm_01_description">
+		<original value="Desert Digital Camo Random Box."/>
+		<translation value="Коробка с горным или другим камуфляжем."/>
+	</entry>
+	<entry key="random_box_rm_02_shop_name">
+		<original value="Special Reward"/>
+		<translation value="Особая награда"/>
+	</entry>
+	<entry key="ui_random_box_rm_02_description">
+		<original value="Jungle Camo Random Box."/>
+		<translation value="Коробка с камуфляжем &quot;Джунгли&quot; или другим камуфляжем."/>
+	</entry>
+	<entry key="random_box_rm_03_shop_name">
+		<original value="Special Reward"/>
+		<translation value="Особая награда"/>
+	</entry>
+	<entry key="ui_random_box_rm_03_description">
+		<original value="City Digital Camo Random Box."/>
+		<translation value="Коробка с камуфляжем &quot;Город&quot; или другим камуфляжем."/>
+	</entry>
+	<entry key="key_smugg_card">
+		<original value="Smuggler’s card"/>
+		<translation value="Карта черного рынка"/>
+	</entry>
+	<entry key="ui_key_random_box_93">
+		<original value="Provides you with a CZ Scorpion Evo3 A1 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить CZ Scorpion Evo3 A1 навсегда."/>
+	</entry>
+	<entry key="random_box_93_shop_name">
+		<original value="CZ Scorpion Evo Random Box"/>
+		<translation value="Коробка с CZ Scorpion Evo3 A1"/>
+	</entry>
+	<entry key="ui_random_box_93_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_92_shop_name">
+		<original value="PM-84 Glauberyt Box"/>
+		<translation value="Коробка с PM-84 Glauberyt Custom"/>
+	</entry>
+	<entry key="ui_random_box_92_description">
+		<original value="This box allows to win 2 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для инженера."/>
+	</entry>
+	<entry key="thailand_flag_01_shop">
+		<original value="Flag of Thailand"/>
+		<translation value="Флаг Таиланда"/>
+	</entry>
+	<entry key="thailand_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Thailand.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Таиланда.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="random_box_94_shop_name">
+		<original value="Bushmaster BA50 Random Box"/>
+		<translation value="Коробка с Bushmaster BA50"/>
+	</entry>
+	<entry key="ui_random_box_94_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="ui_key_random_box_94">
+		<original value="Provides you with a Bushmaster BA50 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Bushmaster BA50 навсегда."/>
+	</entry>
+	<entry key="random_box_96_shop_name">
+		<original value="RPD Custom Random Box"/>
+		<translation value="Коробка с РПД Custom"/>
+	</entry>
+	<entry key="ui_random_box_96_description">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="ui_key_random_box_96">
+		<original value="Provides you with a RPD Custom for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить РПД Custom навсегда."/>
+	</entry>
+	<entry key="random_box_afro_04_shop_name">
+		<original value="Special &quot;Escape from Anubis&quot; Mission Reward"/>
+		<translation value="Особая награда за миссию 'Затмение'"/>
+	</entry>
+	<entry key="ui_random_box_afro_04_description">
+		<original value="Reward for completing the &quot;Escape from Anubis&quot; normal mission."/>
+		<translation value="Награда за прохождение миссии 'Затмение' на сложном уровне."/>
+	</entry>
+	<entry key="random_box_afro_05_shop_name">
+		<original value="Special &quot;Escape from Anubis&quot; Mission Reward"/>
+		<translation value="Особая награда за миссию 'Затмение'"/>
+	</entry>
+	<entry key="ui_random_box_afro_05_description">
+		<original value="Reward for completing the &quot;Escape from Anubis&quot; hard mission."/>
+		<translation value="Награда за прохождение миссии 'Затмение' на сложности 'Профи'."/>
+	</entry>
+	<entry key="bundle_item_smg38_smugglers_card">
+		<original value="Provides you with a CZ Scorpion Evo3 A1 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить CZ Scorpion Evo3 A1 навсегда."/>
+	</entry>
+	<entry key="bundle_item_sr42_smugglers_card">
+		<original value="Provides you with a Bushmaster BA50 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Bushmaster BA50 навсегда."/>
+	</entry>
+	<entry key="bundle_item_pt33_smugglers_card">
+		<original value="Provides you with a S&amp;W M&amp;P R8 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить S&amp;W M&amp;P R8 навсегда."/>
+	</entry>
+	<entry key="random_box_skin_19_shop_name">
+		<original value="MSBS Radon &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с MSBS Radon 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_19_description">
+		<original value="Contains MSBS Radon rare Anubis weapon"/>
+		<translation value="Внутри можно найти MSBS Radon 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_20_shop_name">
+		<original value="Sidewinder Venom &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с Sidewinder Venom 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_20_description">
+		<original value="Contains Sidewinder Venom rare Anubis weapon"/>
+		<translation value="Внутри можно найти Sidewinder Venom 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_21_shop_name">
+		<original value="Orsis T-5000 &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с ОРСИС Т-5000 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_21_description">
+		<original value="Contains Orsis T-5000 rare Anubis weapon"/>
+		<translation value="Внутри можно найти ОРСИС Т-5000 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_22_shop_name">
+		<original value="PP-2000 &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с ПП-2000 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_22_description">
+		<original value="Contains PP-2000 rare Anubis weapon"/>
+		<translation value="Внутри можно найти ПП-2000 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_23_shop_name">
+		<original value="Walther P99 &quot;Anubis&quot; Weapon box"/>
+		<translation value="Коробка с Walther P99 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_skin_23_description">
+		<original value="Contains Walther P99 rare Anubis weapon"/>
+		<translation value="Внутри можно найти Walther P99 'Анубис'."/>
+	</entry>
+	<entry key="bundle_item_30">
+		<original value="C.O.S. FBS Bundle"/>
+		<translation value="Комплект COS"/>
+	</entry>
+	<entry key="bundle_item_30_description">
+		<original value="Complete set of &quot;C.O.S.&quot; full body suits"/>
+		<translation value="Набор униформы бойцов из отряда COS для разных классов."/>
+	</entry>
+	<entry key="azerbaijan_flag_01_shop">
+		<original value="Flag of Azerbaijan"/>
+		<translation value="Флаг Азербайджана"/>
+	</entry>
+	<entry key="azerbaijan_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Azerbaijan.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Азербайджана.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="armenia_flag_01_shop">
+		<original value="Flag of Armenia"/>
+		<translation value="Флаг Армении"/>
+	</entry>
+	<entry key="armenia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Armenia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Армении.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="belarus_flag_01_shop">
+		<original value="Flag of Belarus"/>
+		<translation value="Флаг Беларуси"/>
+	</entry>
+	<entry key="belarus_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Belarus.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Беларуси.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="estonia_flag_01_shop">
+		<original value="Flag of Estonia"/>
+		<translation value="Флаг Эстонии"/>
+	</entry>
+	<entry key="estonia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Estonia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Эстонии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="georgia_flag_01_shop">
+		<original value="Flag of Georgia"/>
+		<translation value="Флаг Грузии"/>
+	</entry>
+	<entry key="georgia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Georgia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Грузии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="kazakhstan_flag_01_shop">
+		<original value="Flag of Kazakhstan"/>
+		<translation value="Флаг Казахстана"/>
+	</entry>
+	<entry key="kazakhstan_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Kazakhstan.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Казахстана.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="kyrgyzstan_flag_01_shop">
+		<original value="Flag of Kyrgyzstan"/>
+		<translation value="Флаг Кыргызстана"/>
+	</entry>
+	<entry key="kyrgyzstan_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Kyrgyzstan.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Кыргызстана.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="latvia_flag_01_shop">
+		<original value="Flag of Latvia"/>
+		<translation value="Флаг Латвии"/>
+	</entry>
+	<entry key="latvia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Latvia.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Латвии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="lithuania_flag_01_shop">
+		<original value="Flag of Lithuania"/>
+		<translation value="Флаг Литвы"/>
+	</entry>
+	<entry key="lithuania_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Lithuania.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Литвы.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="moldova_flag_01_shop">
+		<original value="Flag of Moldova"/>
+		<translation value="Флаг Молдовы"/>
+	</entry>
+	<entry key="moldova_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Moldova.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Молдовы.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="tajikistan_flag_01_shop">
+		<original value="Flag of Tajikistan"/>
+		<translation value="Флаг Таджикистана"/>
+	</entry>
+	<entry key="tajikistan_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Tajikistan.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Таджикистана.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="turkmenistan_flag_01_shop">
+		<original value="Flag of Turkmenistan"/>
+		<translation value="Флаг Туркменистана"/>
+	</entry>
+	<entry key="turkmenistan_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Turkmenistan.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Туркменистана.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="uzbekistan_flag_01_shop">
+		<original value="Flag of Uzbekistan"/>
+		<translation value="Флаг Узбекистана"/>
+	</entry>
+	<entry key="uzbekistan_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Uzbekistan.\n The flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Узбексистана.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="ui_key_random_box_95">
+		<original value="Provides you with a S&amp;W M&amp;P R8 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить S&amp;W M&amp;P R8 навсегда."/>
+	</entry>
+	<entry key="ui_random_box_95_description">
+		<original value="This box allows to win 3 random items for different classes"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_95_shop_name">
+		<original value="S&amp;W M&amp;P R8 Random Box"/>
+		<translation value="Коробка с S&amp;W M&amp;P R8"/>
+	</entry>
+	<entry key="random_box_99_shop_name">
+		<original value="Fabarm P.S.S.10 Box"/>
+		<translation value="Коробка с Fabarm P.S.S.10"/>
+	</entry>
+	<entry key="ui_random_box_99_description">
+		<original value="This box allows to win 2 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_97_shop_name">
+		<original value="Type 97B Random Box"/>
+		<translation value="Коробка с Type 97B"/>
+	</entry>
+	<entry key="random_box_pve_crown_01_shop_name">
+		<original value="Daily PVE Random Box"/>
+		<translation value="Ежедневная PvE-награда"/>
+	</entry>
+	<entry key="random_box_pve_crown_02_shop_name">
+		<original value="Daily PVE Random Box"/>
+		<translation value="Ежедневная PvE-награда"/>
+	</entry>
+	<entry key="random_box_pve_crown_03_shop_name">
+		<original value="Daily PVE Random Box"/>
+		<translation value="Ежедневная PvE-награда"/>
+	</entry>
+	<entry key="ui_random_box_97_description">
+		<original value="This box allows to win 2 random items for rifleman"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="ui_random_box_pve_crown_01_description">
+		<original value="Congratulations! You've got your daily PVE bonus. Come back tomorrow to get next one."/>
+		<translation value="Поздравляем! Вы получили ежедневную PvE-награду. Возвращайтесь за новой наградой завтра."/>
+	</entry>
+	<entry key="ui_random_box_pve_crown_02_description">
+		<original value="Congratulations! You've got your daily PVE bonus. Come back tomorrow to get next one."/>
+		<translation value="Поздравляем! Вы получили ежедневную PvE-награду. Возвращайтесь за новой наградой завтра."/>
+	</entry>
+	<entry key="ui_random_box_pve_crown_03_description">
+		<original value="Congratulations! You've got your daily PVE bonus. Come back tomorrow to get next one."/>
+		<translation value="Поздравляем! Вы получили ежедневную PvE-награду. Возвращайтесь за новой наградой завтра."/>
+	</entry>
+	<entry key="random_box_98_shop_name">
+		<original value="Winchester 1887 Box"/>
+		<translation value="Коробка с Winchester 1887"/>
+	</entry>
+	<entry key="ui_key_random_box_98">
+		<original value="Provides you with a Winchester 1887 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Winchester 1887 навсегда."/>
+	</entry>
+	<entry key="ui_random_box_98_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="bundle_item_31">
+		<original value="GROM FBS Bundle"/>
+		<translation value="Комплект GROM"/>
+	</entry>
+	<entry key="bundle_item_31_description">
+		<original value="Complete set of &quot;GROM&quot; full body suits"/>
+		<translation value="Набор униформы бойцов из отряда GROM для разных классов."/>
+	</entry>
+	<entry key="random_box_zsd03_01_shop_name">
+		<original value="Halloween 2017 Weapons Box"/>
+		<translation value="Коробка с оружием 'Каратель'"/>
+	</entry>
+	<entry key="ui_random_box_zsd03_01_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета."/>
+	</entry>
+	<entry key="random_box_101_shop_name">
+		<original value="Desert Tech MDR-C Random Box"/>
+		<translation value="Коробка с Desert Tech MDR-C"/>
+	</entry>
+	<entry key="ui_random_box_101_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="ui_key_random_box_101">
+		<original value="Provides you with a Desert Tech MDR-C for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Desert Tech MDR-C навсегда."/>
+	</entry>
+	<entry key="random_box_crown_01_shop_name">
+		<original value="Crown Weapons Box"/>
+		<translation value="Коробка с элитным оружием"/>
+	</entry>
+	<entry key="ui_random_box_crown_01_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета."/>
+	</entry>
+	<entry key="random_box_bf_01_shop_name">
+		<original value="Black Friday Weapons Box"/>
+		<translation value="Коробка с оружием 'Черная пятница'"/>
+	</entry>
+	<entry key="ui_random_box_bf_01_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета."/>
+	</entry>
+	<entry key="bundle_item_34">
+		<original value="Boosters bundle"/>
+		<translation value="Комплект ускорителей"/>
+	</entry>
+	<entry key="bundle_item_34_description">
+		<original value="This booster bundle allows you to reach your desired goals quite faster"/>
+		<translation value="Этот комплект позволит вам достигнуть цели гораздо быстрее."/>
+	</entry>
+	<entry key="random_box_rad01_pt33_shop_name">
+		<original value="Radiation S&amp;W M&amp;P R8 Box"/>
+		<translation value="Коробка с S&amp;W M&amp;P R8 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_pt33_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_rad01_kn13_shop_name">
+		<original value="Radiation Katana Box"/>
+		<translation value="Коробка с катаной 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_kn13_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_rad01_smg38_shop_name">
+		<original value="Radiation CZ Scorpion EVO Box"/>
+		<translation value="Коробка с CZ Scorpion EVO 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_smg38_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_rad01_shg40_shop_name">
+		<original value="Radiation MAG-7 Box"/>
+		<translation value="Коробка с MAG-7 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_shg40_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_rad01_sr31_shop_name">
+		<original value="Radiation AX308 Box"/>
+		<translation value="Коробка с AX308 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_sr31_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_rad01_ar27_shop_name">
+		<original value="Radiation Beretta ARX160 Box"/>
+		<translation value="Коробка с Beretta ARX160 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_ar27_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_bf_01_shop_name">
+		<original value="Black Friday Weapons Box"/>
+		<translation value="Коробка с оружием 'Черная пятница'"/>
+	</entry>
+	<entry key="ui_random_box_bf_01_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета."/>
+	</entry>
+	<entry key="bundle_item_34">
+		<original value="Boosters bundle"/>
+		<translation value="Комплект ускорителей"/>
+	</entry>
+	<entry key="bundle_item_34_description">
+		<original value="This bundle allows you to reach your desired goals quite faster"/>
+		<translation value="Этот комплект позволит вам достигнуть цели гораздо быстрее."/>
+	</entry>
+	<entry key="random_box_rad_01_shop_name">
+		<original value="Special Chernobyl Mission Reward"/>
+		<translation value="Особая награда за миссию 'Припять'"/>
+	</entry>
+	<entry key="ui_random_box_rad_01_description">
+		<original value="Reward for completing the Chernobyl easy mission."/>
+		<translation value="Награда за прохождение миссии 'Припять' на легком уровне."/>
+	</entry>
+	<entry key="random_box_rad_02_shop_name">
+		<original value="Special Chernobyl Mission Reward"/>
+		<translation value="Особая награда за миссию 'Припять'"/>
+	</entry>
+	<entry key="ui_random_box_rad_02_description">
+		<original value="Reward for completing the Chernobyl normal mission."/>
+		<translation value="Награда за прохождение миссии 'Припять' на сложном уровне."/>
+	</entry>
+	<entry key="random_box_rad_03_shop_name">
+		<original value="Special Chernobyl Mission Reward"/>
+		<translation value="Особая награда за миссию 'Припять'"/>
+	</entry>
+	<entry key="ui_random_box_rad_03_description">
+		<original value="Reward for completing the Chernobyl hard mission."/>
+		<translation value="Награда за прохождение миссии 'Припять' на уровне 'Профи'."/>
+	</entry>
+	<entry key="random_box_rad01_pt16_shop_name">
+		<original value="Radiation M1911A1 Box"/>
+		<translation value="Коробка с M1911A1 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_pt16_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_rad01_kn16_shop_name">
+		<original value="Radiation Tactical Axe Box"/>
+		<translation value="Коробка с топором 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_kn16_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_rad01_smg33_shop_name">
+		<original value="Radiation Honey Badger Box"/>
+		<translation value="Коробка с Honey Badger 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_smg33_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_rad01_shg42_shop_name">
+		<original value="Radiation DP-12 Box"/>
+		<translation value="Коробка с DP-12 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_shg42_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_rad01_sr33_shop_name">
+		<original value="Radiation R11 RSASS Box"/>
+		<translation value="Коробка с R11 RSASS 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_sr33_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_rad01_mg22_shop_name">
+		<original value="Radiation PKP Pecheneg Box"/>
+		<translation value="Коробка с ПКП Печенег 'Радиация'"/>
+	</entry>
+	<entry key="ui_random_box_rad01_mg22_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_103_shop_name">
+		<original value="MSBS Radon Box"/>
+		<translation value="Коробка с MSBS Radon"/>
+	</entry>
+	<entry key="ui_random_box_103_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_104_shop_name">
+		<original value="M1911A1 Box"/>
+		<translation value="Коробка с M1911A1"/>
+	</entry>
+	<entry key="ui_random_box_104_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_105_shop_name">
+		<original value="M40A5 Box"/>
+		<translation value="Коробка с M40A5"/>
+	</entry>
+	<entry key="ui_random_box_105_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="ui_key_box_weapon_smg25">
+		<original value="Provides you with a ACR CQB for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить ACR CQB навсегда."/>
+	</entry>
+	<entry key="africas_flag_01_shop">
+		<original value="Flag of South Africa"/>
+		<translation value="Флаг ЮАР"/>
+	</entry>
+	<entry key="africas_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of South Africa.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг ЮАР.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="bosnia_flag_01_shop">
+		<original value="Flag of Bosnia"/>
+		<translation value="Флаг Боснии"/>
+	</entry>
+	<entry key="bosnia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Bosnia.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Боснии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="eu_flag_01_shop">
+		<original value="Flag of European Union"/>
+		<translation value="Флаг Европейского союза"/>
+	</entry>
+	<entry key="eu_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of European Union.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Европейского союза.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="honduras_flag_01_shop">
+		<original value="Flag of Honduras"/>
+		<translation value="Флаг Гондураса"/>
+	</entry>
+	<entry key="honduras_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Honduras.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Гондураса.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="india_flag_01_shop">
+		<original value="Flag of India"/>
+		<translation value="Флаг Индии"/>
+	</entry>
+	<entry key="india_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of India.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Индии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="iraq_flag_01_shop">
+		<original value="Flag of Iraq"/>
+		<translation value="Флаг Ирака"/>
+	</entry>
+	<entry key="iraq_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Iraq.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Ирака.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="morocco_flag_01_shop">
+		<original value="Flag of Morocco"/>
+		<translation value="Флаг Марокко"/>
+	</entry>
+	<entry key="morocco_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Morocco.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Марокко.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="namibia_flag_01_shop">
+		<original value="Flag of Namibia"/>
+		<translation value="Флаг Намибии"/>
+	</entry>
+	<entry key="namibia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Namibia.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Намибии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="pacifist_flag_01_shop">
+		<original value="Flag of Pacifists"/>
+		<translation value="Пацифистский флаг"/>
+	</entry>
+	<entry key="pacifist_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Pacifists.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить пацифистский флаг.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="scotland_flag_01_shop">
+		<original value="Flag of Scotland"/>
+		<translation value="Флаг Шотландии"/>
+	</entry>
+	<entry key="scotland_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Scotland.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Шотландии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="srilanka_flag_01_shop">
+		<original value="Flag of Sri Lanka"/>
+		<translation value="Флаг Шри-Ланки"/>
+	</entry>
+	<entry key="srilanka_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Sri Lanka.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Шри-Ланки.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="uruguay_flag_01_shop">
+		<original value="Flag of Uruguay"/>
+		<translation value="Флаг Уругвая"/>
+	</entry>
+	<entry key="uruguay_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Uruguay.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Уругвая.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="random_box_120_shop_name">
+		<original value="QSZ-92 Random Box"/>
+		<translation value="Коробка с QSZ-92"/>
+	</entry>
+	<entry key="ui_random_box_120_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_121_shop_name">
+		<original value="Derya MK10 Random Box"/>
+		<translation value="Коробка с Derya MK10"/>
+	</entry>
+	<entry key="ui_random_box_121_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_122_shop_name">
+		<original value="Veresk Random Box"/>
+		<translation value="Коробка с СР-2 'Вереск'"/>
+	</entry>
+	<entry key="ui_random_box_122_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_113_shop_name">
+		<original value="FN FAL DSA-58 Random Box"/>
+		<translation value="Коробка с FN FAL DSA-58"/>
+	</entry>
+	<entry key="ui_random_box_113_description">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="ui_key_random_box_113">
+		<original value="Provides you with a FN FAL DSA-58 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить FN FAL DSA-58 навсегда."/>
+	</entry>
+	<entry key="box_winter_rm_skins">
+		<original value="Ranked Matches seasonal rewards"/>
+		<translation value="Награда за сезон рейтинговых боев"/>
+	</entry>
+	<entry key="ui_box_winter_rm_skins_description">
+		<original value="Rewards for reaching League 1 in a Winter RM Season."/>
+		<translation value="Награда за выход в первую лигу в зимнем сезоне рейтинговых боев."/>
+	</entry>
+	<entry key="box_weapon_shg45_shop_name">
+		<original value="Fostech Origin-12 Random Box"/>
+		<translation value="Коробка с Fostech Origin-12"/>
+	</entry>
+	<entry key="ui_box_weapon_shg45_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="ui_key_box_weapon_shg45">
+		<original value="Provides you with a Fostech Origin-12 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Fostech Origin-12 навсегда."/>
+	</entry>
+	<entry key="box_sr44_shop_name">
+		<original value="Remington MSR Random Box"/>
+		<translation value="Коробка с Remington MSR"/>
+	</entry>
+	<entry key="ui_box_sr44_description">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="ui_key_box_sr44">
+		<original value="Provides you with a Remington MSR for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Remington MSR навсегда."/>
+	</entry>
+	<entry key="box_spring_rm_skins_shop_name">
+		<original value="Special Ranked games reward"/>
+		<translation value="Награда за сезон рейтинговых боев"/>
+	</entry>
+	<entry key="ui_box_spring_rm_skins_description">
+		<original value="Rewards for reaching League 1 in a Spring RM Season."/>
+		<translation value="Награда за выход в первую лигу в весеннем сезоне рейтинговых боев."/>
+	</entry>
+	<entry key="box_summer_rm_skins_shop_name">
+		<original value="Special Ranked games reward"/>
+		<translation value="Награда за сезон рейтинговых боев"/>
+	</entry>
+	<entry key="ui_box_summer_rm_skins_description">
+		<original value="Rewards for reaching League 1 in a Summer RM Season."/>
+		<translation value="Награда за выход в первую лигу в летнем сезоне рейтинговых боев."/>
+	</entry>
+	<entry key="box_autumn_rm_skins_shop_name">
+		<original value="Special Ranked games reward"/>
+		<translation value="Награда за сезон рейтинговых боев"/>
+	</entry>
+	<entry key="ui_box_autumn_rm_skins_description">
+		<original value="Rewards for reaching League 1 in a Autumn RM Season."/>
+		<translation value="Награда за выход в первую лигу в осеннем сезоне рейтинговых боев."/>
+	</entry>
+	<entry key="box_mg24_shop_name">
+		<original value="DP-27 Random Box"/>
+		<translation value="Коробка с ДП-27"/>
+	</entry>
+	<entry key="ui_box_mg24_description">
+		<original value="This box allows to win 3 random items for rifleman"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="ui_key_box_mg24">
+		<original value="Provides you with a DP-27 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить ДП-27 навсегда."/>
+	</entry>
+	<entry key="box_pt35_shop_name">
+		<original value="Taurus Judge Random Box"/>
+		<translation value="Коробка с Taurus Judge"/>
+	</entry>
+	<entry key="ui_box_pt35_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="box_ec02_ar25_shop_name">
+		<original value="Football 2018 Enfield L85A2 Box"/>
+		<translation value="Коробка с Enfield L85A2 'Триумф'"/>
+	</entry>
+	<entry key="ui_box_ec02_ar25_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="box_ec02_shg08_shop_name">
+		<original value="Football 2018 Mossberg 500 Box"/>
+		<translation value="Коробка с Mossberg 500 'Триумф'"/>
+	</entry>
+	<entry key="ui_box_ec02_shg08_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="box_ec02_smg31_shop_name">
+		<original value="Football 2018 SCAR-L PDW Box"/>
+		<translation value="Коробка с SCAR-L PDW 'Триумф'"/>
+	</entry>
+	<entry key="ui_box_ec02_smg31_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="box_ec02_sr09_shop_name">
+		<original value="Football 2018 McMillan CS5 Box"/>
+		<translation value="Коробка с McMillan CS5 'Триумф'"/>
+	</entry>
+	<entry key="ui_box_ec02_sr09_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="box_ec02_pt32_shop_name">
+		<original value="Football 2018 CZ 75-Auto Box"/>
+		<translation value="Коробка с CZ 75-Auto 'Триумф'"/>
+	</entry>
+	<entry key="ui_box_ec02_pt32_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="box_ec02_kn17_shop_name">
+		<original value="Football 2018 Jagdkommando Box"/>
+		<translation value="Коробка с Jagdkommando 'Триумф'"/>
+	</entry>
+	<entry key="ui_box_ec02_kn17_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="bundle_ps4_01">
+		<original value="PS4 FAMAS Bundle"/>
+		<translation value="Стартовый набор штурмовика"/>
+	</entry>
+	<entry key="bundle_ps4_01_description">
+		<original value="PS4 Bundle with FAMAS"/>
+		<translation value="Ваш путь к славе начинается прямо сейчас!"/>
+	</entry>
+	<entry key="bundle_ps4_02">
+		<original value="PS4 Cobray Striker Bundle"/>
+		<translation value="Стартовый набор медика"/>
+	</entry>
+	<entry key="bundle_ps4_02_description">
+		<original value="PS4 Bundle with Cobray Striker"/>
+		<translation value="Ваш путь к славе начинается прямо сейчас!"/>
+	</entry>
+	<entry key="bundle_ps4_03">
+		<original value="PS4 JS 9mm Bundle"/>
+		<translation value="Стартовый набор инженера"/>
+	</entry>
+	<entry key="bundle_ps4_03_description">
+		<original value="PS4 Bundle with JS 9mm"/>
+		<translation value="Ваш путь к славе начинается прямо сейчас!"/>
+	</entry>
+	<entry key="bundle_ps4_04">
+		<original value="PS4 Barrett M98B Bundle"/>
+		<translation value="Стартовый набор снайпера"/>
+	</entry>
+	<entry key="bundle_ps4_04_description">
+		<original value="PS4 Bundle with Barrett M98B"/>
+		<translation value="Ваш путь к славе начинается прямо сейчас!"/>
+	</entry>
+	<entry key="bundle_ps4_05">
+		<original value="PS4 City Bundle"/>
+		<translation value="Набор 'Город'"/>
+	</entry>
+	<entry key="bundle_ps4_05_description">
+		<original value="PS4 Bundle with City Camo weapons"/>
+		<translation value="Одержите победу в городских сражениях!"/>
+	</entry>
+	<entry key="bundle_ps4_06">
+		<original value="PS4 Steel Bundle"/>
+		<translation value="Набор 'Сталь'"/>
+	</entry>
+	<entry key="bundle_ps4_06_description">
+		<original value="PS4 Bundle with Steel weapons"/>
+		<translation value="Обрушьте на врагов стальную ярость!"/>
+	</entry>
+	<entry key="bundle_ps4_07">
+		<original value="PS4 Jungle Bundle"/>
+		<translation value="Набор 'Джунгли'"/>
+	</entry>
+	<entry key="bundle_ps4_07_description">
+		<original value="PS4 Bundle with Jungle weapons"/>
+		<translation value="Высвободите свои первобытные инстинкты!"/>
+	</entry>
+	<entry key="bundle_ps4_08">
+		<original value="PS4 VIP Bundle"/>
+		<translation value="Набор VIP-ускорителей"/>
+	</entry>
+	<entry key="bundle_ps4_08_description">
+		<original value="PS4 Bundle with VIP Boosters"/>
+		<translation value="Для тех, кто предпочитает высокие скорости."/>
+	</entry>
+	<entry key="bundle_ps4_09">
+		<original value="PS4 PvE Bundle"/>
+		<translation value="Набор для спецопераций"/>
+	</entry>
+	<entry key="bundle_ps4_09_description">
+		<original value="PS4 Bundle with PvE tokens"/>
+		<translation value="Комплект средств для выживания."/>
+	</entry>
+	<entry key="box_ps4_01_shop_name">
+		<original value="PS4 Magma Box"/>
+		<translation value="Коробка 'Магма'"/>
+	</entry>
+	<entry key="ui_box_ps4_01_description">
+		<original value="This box allows to win Magma weapons"/>
+		<translation value="Растопите сердца своих врагов!"/>
+	</entry>
+	<entry key="box_ps4_02_shop_name">
+		<original value="PS4 Frozen Box"/>
+		<translation value="Коробка 'Стужа'"/>
+	</entry>
+	<entry key="ui_box_ps4_02_description">
+		<original value="This box allows to win Frozen weapons"/>
+		<translation value="Холодный расчет - ключ к победе!"/>
+	</entry>
+	<entry key="box_ps4_03_shop_name">
+		<original value="PS4 Anubis Box"/>
+		<translation value="Коробка 'Анубис'"/>
+	</entry>
+	<entry key="ui_box_ps4_03_description">
+		<original value="This box allows to win Anubis weapons"/>
+		<translation value="Обратите во прах тех, кто стоит у вас на пути!"/>
+	</entry>
+	<entry key="box_ps4_04_shop_name">
+		<original value="PS4 Cyber Slayer Box"/>
+		<translation value="Коробка 'Убийца зомби'"/>
+	</entry>
+	<entry key="ui_box_ps4_04_description">
+		<original value="This box allows to win Cyber Slayer weapons"/>
+		<translation value="Разорвите своего противника на части!"/>
+	</entry>
+	<entry key="box_ps4_05_shop_name">
+		<original value="PS4 Radiation Box"/>
+		<translation value="Коробка 'Радиация'"/>
+	</entry>
+	<entry key="ui_box_ps4_05_description">
+		<original value="This box allows to win Radiation weapons"/>
+		<translation value="Возьмите под контроль разрушительную силу!"/>
+	</entry>
+	<entry key="box_ps4_06_shop_name">
+		<original value="PS4 Weapon Box"/>
+		<translation value="Коробка 'Ближний бой'"/>
+	</entry>
+	<entry key="ui_box_ps4_06_description">
+		<original value="This box allows to win random skinned weapons"/>
+		<translation value="Оружие для близкого контакта с противником."/>
+	</entry>
+	<entry key="box_ps4_07_shop_name">
+		<original value="PS4 Set Box"/>
+		<translation value="Коробка 'Легендарное оружие'"/>
+	</entry>
+	<entry key="ui_box_ps4_07_description">
+		<original value="Legendary weapons for domination and conquest."/>
+		<translation value="Знаменитое оружие для тех, кто привык побеждать."/>
+	</entry>
+	<entry key="box_skin_kn19_shop_name">
+		<original value="Balisong Knife Skins Random Box"/>
+		<translation value="Коробка с камуфляжами ножа-бабочки"/>
+	</entry>
+	<entry key="ui_box_skin_kn19_description">
+		<original value="This box allows to win Balisong Knife skins"/>
+		<translation value="Содержит камуфляжи для ножа-бабочки."/>
+	</entry>
+	<entry key="box_kn19_shop_name">
+		<original value="Balisong Knife Random Box"/>
+		<translation value="Коробка с ножом-бабочкой"/>
+	</entry>
+	<entry key="ui_box_kn19_description">
+		<original value="This box allows to win Balisong Knife and Gold Balisong Knife"/>
+		<translation value="Содержит обычную и золотую версии ножа-бабочки."/>
+	</entry>
+	<entry key="box_bundle_kn19_nord01">
+		<original value="Wood Skin"/>
+		<translation value="Древесный камуфляж"/>
+	</entry>
+	<entry key="box_bundle_kn19_nord01_description">
+		<original value="This bundle allows you to win wood skin for Balisong Knife."/>
+		<translation value="Содержит древесный камуфляж для ножа-бабочки."/>
+	</entry>
+	<entry key="box_bundle_kn19_black01">
+		<original value="Black Skin"/>
+		<translation value="Черный камуфляж"/>
+	</entry>
+	<entry key="box_bundle_kn19_black01_description">
+		<original value="This bundle allows you to win black skin for Balisong Knife."/>
+		<translation value="Содержит черный камуфляж для ножа-бабочки."/>
+	</entry>
+	<entry key="box_bundle_kn19_blackwd01">
+		<original value="Blackwood Skin"/>
+		<translation value="Камуфляж Blackwood"/>
+	</entry>
+	<entry key="box_bundle_kn19_blackwd01_description">
+		<original value="This bundle allows you to win blackwood skin for Balisong Knife."/>
+		<translation value="Содержит камуфляж Blackwood для ножа-бабочки."/>
+	</entry>
+	<entry key="box_bundle_kn19_blue01">
+		<original value="Blue Skin"/>
+		<translation value="Синий камуфляж"/>
+	</entry>
+	<entry key="box_bundle_kn19_blue01_description">
+		<original value="This bundle allows you to win blue skin for Balisong Knife."/>
+		<translation value="Содержит синий камуфляж для ножа-бабочки."/>
+	</entry>
+	<entry key="box_bundle_kn19_warf01">
+		<original value="Warface Skin"/>
+		<translation value="Камуфляж Warface"/>
+	</entry>
+	<entry key="box_bundle_kn19_warf01_description">
+		<original value="This bundle allows you to win warface skin for Balisong Knife."/>
+		<translation value="Содержит камуфляж Warface для ножа-бабочки."/>
+	</entry>
+	<entry key="box_bundle_kn19_red01">
+		<original value="Red Skin"/>
+		<translation value="Красный камуфляж"/>
+	</entry>
+	<entry key="box_bundle_kn19_red01_description">
+		<original value="This bundle allows you to win red skin for Balisong Knife."/>
+		<translation value="Содержит красный камуфляж для ножа-бабочки."/>
+	</entry>
+	<entry key="box_bundle_kn19_purple01">
+		<original value="Purple Skin"/>
+		<translation value="Пурпурный камуфляж"/>
+	</entry>
+	<entry key="box_bundle_kn19_purple01_description">
+		<original value="This bundle allows you to win purple skin for Balisong Knife."/>
+		<translation value="Содержит пурпурный камуфляж для ножа-бабочки."/>
+	</entry>
+	<entry key="box_smg43_shop_name">
+		<original value="Micro-Roni CAA Random Box"/>
+		<translation value="Коробка с Micro-Roni CAA"/>
+	</entry>
+	<entry key="ui_random_box_smg43_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="ui_key_box_smg43">
+		<original value="Provides you with a Micro-Roni CAA for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Micro-Roni CAA навсегда."/>
+	</entry>
+	<entry key="box_pt37_shop_name">
+		<original value="CZ 75 Czech Mate Parrot Random Box"/>
+		<translation value="Коробка с CZ 75 Czechmate Parrot"/>
+	</entry>
+	<entry key="ui_random_box_pt37_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="ui_key_box_pt37">
+		<original value="Provides you with a CZ 75 Czech Mate Parrot for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить CZ 75 Czechmate Parrot навсегда."/>
+	</entry>
+	<entry key="box_crown_pt37_shop_name">
+		<original value="CZ 75 Czech Mate Parrot Crown Random Box"/>
+		<translation value="Коробка с CZ 75 Czechmate Parrot (короны)"/>
+	</entry>
+	<entry key="ui_random_box_crown_pt37_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="box_bundle_pt37_plat01">
+		<original value="Platinum Skin"/>
+		<translation value="Платиновый комплект"/>
+	</entry>
+	<entry key="box_bundle_pt37_plat01_description">
+		<original value="This bundle allows you to win Platinum skin and gold version CZ 75 Czech Mate Parrot ."/>
+		<translation value="Содержит золотую версию CZ 75 Czechmate Parrot и платиновый камуфляж для нее."/>
+	</entry>
+	<entry key="box_shg46_shop_name">
+		<original value="Saiga-12 Spike Random Box"/>
+		<translation value="Коробка с Сайгой Spike"/>
+	</entry>
+	<entry key="ui_box_shg46_description">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для медика."/>
+	</entry>
+	<entry key="bundle_item_fbs_comp_01">
+		<original value="ATLAS FBS Bundle"/>
+		<translation value="Комплект &quot;Атлас&quot;"/>
+	</entry>
+	<entry key="bundle_item_fbs_comp_01_description">
+		<original value="Complete set of ATLAS full body suits"/>
+		<translation value="Набор униформы бойцов из отряда &quot;Атлас&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_item_fbs_comp_02">
+		<original value="Absolute Power FBS Bundle"/>
+		<translation value="Комплект &quot;Абсолют&quot;"/>
+	</entry>
+	<entry key="bundle_item_fbs_comp_02_description">
+		<original value="Complete set of Absolute Power full body suits"/>
+		<translation value="Набор униформы бойцов из отряда &quot;Абсолют&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_item_fbs_sas_01">
+		<original value="SAS FBS Bundle"/>
+		<translation value="Комплект SAS"/>
+	</entry>
+	<entry key="bundle_item_fbs_sas_01_description">
+		<original value="Complete set of SAS full body suits"/>
+		<translation value="Набор униформы бойцов из отряда SAS для разных классов."/>
+	</entry>
+	<entry key="bundle_item_fbs_ghost_01">
+		<original value="Ghost Squad FBS Bundle"/>
+		<translation value="Комплект &quot;Призраки&quot;"/>
+	</entry>
+	<entry key="bundle_item_fbs_ghost_01_description">
+		<original value="Complete set of Ghost Squad full body suits"/>
+		<translation value="Набор униформы бойцов из отряда &quot;Призраки&quot; для разных классов."/>
+	</entry>
+	<entry key="bundle_ps4_10">
+		<original value="PS4 AUG A3 Bundle"/>
+		<translation value="Комплект AUG A3"/>
+	</entry>
+	<entry key="bundle_ps4_10_description">
+		<original value="PS4 Bundle with AUG A3"/>
+		<translation value="Специальный комплект с винтовкой AUG A3 и другими предметами."/>
+	</entry>
+	<entry key="bundle_ps4_11">
+		<original value="PS4 SIG 551 Bundle"/>
+		<translation value="Комплект SIG 551"/>
+	</entry>
+	<entry key="bundle_ps4_11_description">
+		<original value="PS4 Bundle with SIG 551"/>
+		<translation value="Специальный комплект с винтовкой SIG 551 и другими предметами."/>
+	</entry>
+	<entry key="bundle_ps4_12">
+		<original value="PS4 Kel-Tec Shotgun Bundle"/>
+		<translation value="Комплект Kel-Tec"/>
+	</entry>
+	<entry key="bundle_ps4_12_description">
+		<original value="PS4 Bundle with Kel-Tec Shotgun"/>
+		<translation value="Специальный комплект с дробовиком Kel-Tec и другими предметами."/>
+	</entry>
+	<entry key="bundle_ps4_13">
+		<original value="PS4 Anakon Bundle"/>
+		<translation value="Комплект Anakon"/>
+	</entry>
+	<entry key="bundle_ps4_13_description">
+		<original value="PS4 Bundle with Anakon"/>
+		<translation value="Специальный комплект с дробовиком Anakon и другими предметами."/>
+	</entry>
+	<entry key="bundle_ps4_14">
+		<original value="PS4 Beretta MX4 Storm Bundle"/>
+		<translation value="Комплект Beretta MX4 Storm"/>
+	</entry>
+	<entry key="bundle_ps4_14_description">
+		<original value="PS4 Bundle with Beretta MX4 Storm"/>
+		<translation value="Специальный комплект с пистолетом-пулеметом Beretta MX4 Storm и другими предметами."/>
+	</entry>
+	<entry key="bundle_ps4_15">
+		<original value="PS4 SR-2 Veresk Bundle "/>
+		<translation value="Комплект СР-2 'Вереск'"/>
+	</entry>
+	<entry key="bundle_ps4_15_description">
+		<original value="PS4 Bundle with SR-2 Veresk"/>
+		<translation value="Специальный комплект с пистолетом-пулеметом СР-2 'Вереск' и другими предметами."/>
+	</entry>
+	<entry key="bundle_ps4_16">
+		<original value="PS4 Barrett M107 Bundle"/>
+		<translation value="Комплект Barrett M107"/>
+	</entry>
+	<entry key="bundle_ps4_16_description">
+		<original value="PS4 Bundle with Barrett M107"/>
+		<translation value="Специальный комплект с винтовкой Barrett M107 и другими предметами."/>
+	</entry>
+	<entry key="bundle_ps4_17">
+		<original value="PS4 CheyTac M200 Bundle"/>
+		<translation value="Комплект CheyTac M200"/>
+	</entry>
+	<entry key="bundle_ps4_17_description">
+		<original value="PS4 Bundle with CheyTac M200"/>
+		<translation value="Специальный комплект с винтовкой CheyTac M200 и другими предметами."/>
+	</entry>
+	<entry key="box_ar33_shop_name">
+		<original value="HCAR Random Box "/>
+		<translation value="Коробка с HCAR"/>
+	</entry>
+	<entry key="ui_box_ar33_description">
+		<original value="This box allows to win 3 random items for rifleman "/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="ui_key_box_ar33">
+		<original value="Provides you with a HCAR for a limited time and an offer for its direct purchase "/>
+		<translation value="Дает возможность купить HCAR навсегда."/>
+	</entry>
+	<entry key="box_crown_ar33_shop_name">
+		<original value="HCAR Crown Random Box"/>
+		<translation value="Коробка с HCAR (короны)"/>
+	</entry>
+	<entry key="ui_box_crown_ar33_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="box_shg47_shop_name">
+		<original value="Uzkon UNG-12 Random Box"/>
+		<translation value="Коробка с Uzkon UNG-12"/>
+	</entry>
+	<entry key="ui_box_shg47_description">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="ui_key_box_shg47">
+		<original value="Provides you with a Uzkon UNG-12 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Uzkon UNG-12 навсегда."/>
+	</entry>
+	<entry key="box_crown_shg47_shop_name">
+		<original value="Uzkon UNG-12 Crown Random Box"/>
+		<translation value="Коробка с Uzkon UNG-12 (короны)"/>
+	</entry>
+	<entry key="ui_box_crown_shg47_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="box_bundle_shg47_plat01">
+		<original value="Platinum Skin"/>
+		<translation value="Платиновый комплект"/>
+	</entry>
+	<entry key="box_bundle_shg47_plat01_description">
+		<original value="This bundle allows you to win Platinum skin and gold version Uzkon UNG-12."/>
+		<translation value="Содержит золотую версию Uzkon UNG-12 и платиновый камуфляж для нее."/>
+	</entry>
+</localization>

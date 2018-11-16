@@ -1,0 +1,22 @@
+<CharacterPartTemplate Name="AI_Vests">
+
+  <Morphs Gender="Male">
+      </Morphs>
+
+  <Morphs Gender="Female">
+      </Morphs>
+
+
+  <Switches Gender="Male">
+     </Switches>
+  <Switches Gender="Female">
+     </Switches>
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+
+  </VisibilityMasks>
+  <TexAtlasGen TextureSize="1024"/>
+
+</CharacterPartTemplate>

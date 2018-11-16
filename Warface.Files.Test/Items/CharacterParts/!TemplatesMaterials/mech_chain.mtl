@@ -1,0 +1,4 @@
+<Material MtlFlags="524288" Shader="Illum" GenMask="8" StringGenMask="%ANISO_SPECULAR" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.48627451,0.48627451,0.48627451" Specular="1.5,1.5,1.5" Emissive="0,0,0" Shininess="11.9" Opacity="1" GlowAmount="8">
+ <Textures />
+ <PublicParams AnisotropicShape="0.25" AmbientMultiplier="2" IndirectColor="0.25,0.25,0.25"/>
+</Material>

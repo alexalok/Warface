@@ -1,0 +1,18 @@
+<CharacterPart Name="Hands_02" Slot="Hands" Template="Hands">
+	<Model File="objects/characters/gloves/gloves_02/male/gloves_02.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="Default" File="objects/characters/gloves/gloves_02/male/gloves_02.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Gloves\Gloves_02\Female\gloves_02.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="Default" File="Objects\Characters\Gloves\Gloves_02\Female\gloves_02.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>
