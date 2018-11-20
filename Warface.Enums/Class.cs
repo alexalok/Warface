@@ -20,5 +20,54 @@ namespace Warface.Enums
                 return Class.Sniper;
             throw new ArgumentOutOfRangeException(nameof(internalName), internalName, "Unknown class name");
         }
+
+        public static string ToFriendlyString(this Class @class, RussianCase @case = RussianCase.Nominative)
+        {
+            switch (@class)
+            {
+                case Class.Rifleman:
+                    switch (@case)
+                    {
+                        case RussianCase.Nominative:
+                            return "Штурмовик";
+                        case RussianCase.Genitive:
+                            return "Штурмовика";
+                        default:
+                            throw new ArgumentOutOfRangeException(nameof(@case), @case, null);
+                    }
+                case Class.Medic:
+                    switch (@case)
+                    {
+                        case RussianCase.Nominative:
+                            return "Медик";
+                        case RussianCase.Genitive:
+                            return "Медика";
+                        default:
+                            throw new ArgumentOutOfRangeException(nameof(@case), @case, null);
+                    }
+                case Class.Engineer:
+                    switch (@case)
+                    {
+                        case RussianCase.Nominative:
+                            return "Инженер";
+                        case RussianCase.Genitive:
+                            return "Инженера";
+                        default:
+                            throw new ArgumentOutOfRangeException(nameof(@case), @case, null);
+                    }
+                case Class.Sniper:
+                    switch (@case)
+                    {
+                        case RussianCase.Nominative:
+                            return "Снайпер";
+                        case RussianCase.Genitive:
+                            return "Снайпера";
+                        default:
+                            throw new ArgumentOutOfRangeException(nameof(@case), @case, null);
+                    }
+                default:
+                    throw new ArgumentOutOfRangeException(nameof(@class), @class, null);
+            }
+        }
     }
 }
