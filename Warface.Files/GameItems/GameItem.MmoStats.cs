@@ -19,15 +19,17 @@ namespace Warface.Files.GameItems
 
             public int? Durability { get; }
 
-            public int? RepairCost { get; }
+            public int?  RepairCost { get; }
+            public bool? Stackable  { get; }
 
-            public MmoStats(ItemCategory? itemCategory, bool? shopContent, IEnumerable<Class> classes, int? durability, int? repairCost)
+            public MmoStats(ItemCategory? itemCategory, bool? shopContent, IEnumerable<Class> classes, int? durability, int? repairCost, bool? stackable)
             {
                 ItemCategory = itemCategory;
                 ShopContent  = shopContent;
                 Classes      = classes;
                 Durability   = durability;
                 RepairCost   = repairCost;
+                Stackable    = stackable;
             }
 
             public static MmoStats ParseNode(XmlNode mmoStatsNode)
@@ -37,6 +39,7 @@ namespace Warface.Files.GameItems
                 List<Class>   classes      = null;
                 int?          durability   = null;
                 int?          repairCost   = null;
+                bool?         stackable    = null;
 
                 var paramNodes = mmoStatsNode.SelectNodes("./param");
                 foreach (XmlNode paramNode in paramNodes)
@@ -47,7 +50,7 @@ namespace Warface.Files.GameItems
                     {
                         case "item_category":
                         case "category":
-                            itemCategory = string.IsNullOrWhiteSpace(value) ? 
+                            itemCategory = string.IsNullOrWhiteSpace(value) ?
                                 (ItemCategory?) null : (ItemCategory) Enum.Parse(typeof(ItemCategory), value, true);
                             break;
                         case "shopcontent":
@@ -84,12 +87,15 @@ namespace Warface.Files.GameItems
                         case "repair_cost":
                             repairCost = (int?) Convert.ToUInt32(value);
                             break;
+                        case "stackable":
+                            stackable = value == "1";
+                            break;
                     }
                 }
 
-                Debug.Assert(classes?.Any() == true, nameof(classes)     + ".Any()");
+                Debug.Assert(classes?.Any() == true, nameof(classes) + ".Any()");
 
-                return new MmoStats(itemCategory, shopContent, classes, durability, repairCost);
+                return new MmoStats(itemCategory, shopContent, classes, durability, repairCost, stackable);
             }
 
             /*
