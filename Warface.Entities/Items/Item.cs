@@ -178,28 +178,7 @@ namespace Warface.Entities.Items
             bool   expiredConfirmed = itemNode.Attributes["expired_confirmed"].BoolValue();
             var    buyTimeUtc       = DateTimeOffset.FromUnixTimeSeconds(itemNode.Attributes["buy_time_utc"].IntValue());
 
-            int?   pocketIndex = default;
-            int?   dm          = default;
-            string material    = default;
-            if (config != string.Empty)
-            {
-                //dm=0;material=;pocket_index=1083393
-                var splitConfig = config.Split(new[] {';'}, StringSplitOptions.RemoveEmptyEntries);
-
-                var    dmSplit = splitConfig[0].Split('=');
-                string dmStr   = dmSplit[1];
-                dm = Convert.ToInt32(dmStr);
-
-                var materialSplit = splitConfig[1].Split('=');
-                material = materialSplit[1];
-
-                if (splitConfig.Length == 3)
-                {
-                    var    pocketIndexSplit = splitConfig[2].Split('=');
-                    string pocketIndexStr   = pocketIndexSplit[1];
-                    pocketIndex = Convert.ToInt32(pocketIndexStr);
-                }
-            }
+            var (dm, material, pocketIndex) = ParseConfig(config);
 
             if (permanent)
             {
@@ -233,6 +212,27 @@ namespace Warface.Entities.Items
             return new Items.Item(id, name, attachedTo, slot, equipped, @default, permanent, expiredConfirmed, buyTimeUtc, dm, material, pocketIndex);
         }
 
+        public void UpdateFromShort(HtmlNode itemShortNode)
+        {
+            //<item id='1210933425' name='claymoreexplosive08' attached_to='0' slot='22528' slot='dm=0;material=;pocket_index=1024'/>
+
+            string id         = itemShortNode.Attributes["id"].Value;
+            string name       = itemShortNode.Attributes["name"].Value;
+            int    attachedTo = itemShortNode.Attributes["attached_to"].IntValue();
+            string config     = itemShortNode.Attributes["config"].Value;
+            int    slot       = itemShortNode.Attributes["slot"].IntValue();
+
+            var (dm, material, pocketIndex) = ParseConfig(config);
+
+            if (id != ID || name != Name)
+                throw new InvalidOperationException();
+            AttachedTo  = attachedTo;
+            Slot        = slot;
+            Dm          = dm;
+            Material    = material;
+            PocketIndex = pocketIndex;
+        }
+
         public string GetItemAsShortString()
         {
             return $"<item id='{ID}' name='{Name}' attached_to='{AttachedTo}' slot='{Slot}' config='{Config}' />";
@@ -241,6 +241,32 @@ namespace Warface.Entities.Items
         public string GetItemAsLongString()
         {
             throw new NotImplementedException();
+        }
+
+        static (int? dm, string material, int? pocketIndex) ParseConfig(string config)
+        {
+            //dm=0;material=;pocket_index=1083393
+            var splitConfig = config.Split(new[] {';'}, StringSplitOptions.RemoveEmptyEntries);
+
+            if (splitConfig.Length == 0)
+                return (null, null, null);
+
+            var    dmSplit = splitConfig[0].Split('=');
+            string dmStr   = dmSplit[1];
+            int    dm      = Convert.ToInt32(dmStr);
+
+            var    materialSplit = splitConfig[1].Split('=');
+            string material      = materialSplit[1];
+
+            int? pocketIndex = null;
+            if (splitConfig.Length == 3)
+            {
+                var    pocketIndexSplit = splitConfig[2].Split('=');
+                string pocketIndexStr   = pocketIndexSplit[1];
+                pocketIndex = Convert.ToInt32(pocketIndexStr);
+            }
+
+            return (dm, material, pocketIndex);
         }
 
         string GetConfig()

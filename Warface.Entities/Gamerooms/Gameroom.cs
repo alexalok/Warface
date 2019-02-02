@@ -16,7 +16,7 @@ namespace Warface.Entities.Gamerooms
         public bool IsPve => Type == RoomType.PveQuickplay || Type == RoomType.PvePrivate;
 
         [CanBeNull]
-        public RoomPlayer? MasterPlayer
+        public RoomPlayer MasterPlayer
         {
             get
             {
@@ -26,7 +26,7 @@ namespace Warface.Entities.Gamerooms
         }
 
         [CanBeNull]
-        public RoomPlayer? GetPlayer(long profileID) => Core?.Players.FirstOrDefault(p => p.ProfileId == profileID);
+        public RoomPlayer GetPlayer(long profileID) => Core?.Players.FirstOrDefault(p => p.ProfileId == profileID);
 
         [CanBeNull]
         public GameroomCore? Core { get; }
@@ -113,19 +113,19 @@ namespace Warface.Entities.Gamerooms
             return new Gameroom(id, channelNameOrJid, type, core, session, customParams, mission, autostart, regions, master);
         }
 
-        public static Gameroom Merge(Gameroom gameroom1, Gameroom gameroom2)
+        public static Gameroom Merge(Gameroom olderRoom, Gameroom newerRoom)
         {
-            if (gameroom1.ID != gameroom2.ID)
-                throw new ArgumentException();
+            if (olderRoom.ID != newerRoom.ID)
+                throw new GameroomsHaveDifferentIdsException();
             return new Gameroom(
-                gameroom1.ID, gameroom1.ChannelName, gameroom2.Type,
-                gameroom2.Core ?? gameroom1.Core,
-                gameroom2.Session ?? gameroom1.Session,
-                gameroom2.CustomParams ?? gameroom1.CustomParams,
-                gameroom2.Mission ?? gameroom1.Mission,
-                gameroom2.Autostart ?? gameroom1.Autostart,
-                gameroom2.Regions ?? gameroom1.Regions,
-                gameroom2.Master ?? gameroom1.Master
+                olderRoom.ID, olderRoom.ChannelName, newerRoom.Type,
+                newerRoom.Core ?? olderRoom.Core,
+                newerRoom.Session ?? olderRoom.Session,
+                newerRoom.CustomParams ?? olderRoom.CustomParams,
+                newerRoom.Mission ?? olderRoom.Mission,
+                newerRoom.Autostart ?? olderRoom.Autostart,
+                newerRoom.Regions ?? olderRoom.Regions,
+                newerRoom.Master ?? olderRoom.Master
             );
         }
     }

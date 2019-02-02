@@ -49,7 +49,6 @@ namespace Warface.Entities.Shop
         public int    CrownPriceOrigin     { get; }
         public string KeyItemName          { get; }
 
-        [CanBeNull]
         public WinItem[] WinItems
         {
             get

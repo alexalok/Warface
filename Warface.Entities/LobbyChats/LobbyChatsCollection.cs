@@ -10,6 +10,7 @@ namespace Warface.Entities.LobbyChats
         LobbyChat _room;
         LobbyChat _team;
         LobbyChat _clan;
+        LobbyChat _observer;
 
         public void SetLobbyChat(LobbyChat lobbyChat)
         {
@@ -26,6 +27,9 @@ namespace Warface.Entities.LobbyChats
                     break;
                 case LobbyChatType.Clan:
                     _clan = lobbyChat;
+                    break;
+                case LobbyChatType.Observer:
+                    _observer = lobbyChat;
                     break;
                 default:
                     throw new ArgumentOutOfRangeException();
@@ -44,7 +48,8 @@ namespace Warface.Entities.LobbyChats
                 res.Add(_team);
             if (_clan != null)
                 res.Add(_clan);
-
+            if (_observer != null)
+                res.Add(_observer);
             return res;
         }
 
@@ -61,6 +66,8 @@ namespace Warface.Entities.LobbyChats
                     return _team;
                 case LobbyChatType.Clan:
                     return _clan;
+                case LobbyChatType.Observer:
+                    return _observer;
                 default:
                     throw new ArgumentOutOfRangeException();
             }
@@ -70,6 +77,7 @@ namespace Warface.Entities.LobbyChats
         {
             _room = null;
             _team = null;
+            _observer = null;
         }
 
         public void ClearClanChat() //to be called when leaving clan 

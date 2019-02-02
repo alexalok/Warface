@@ -62,6 +62,9 @@ namespace Warface.Entities.LobbyChats
                 case "clan":
                     type = LobbyChatType.Clan;
                     break;
+                case "observer":
+                    type = LobbyChatType.Observer;
+                    break;
                 default:
                     throw new NotSupportedException();
             }

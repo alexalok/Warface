@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq.Expressions;
 using HtmlAgilityPack;
 using Xunit;
@@ -14,6 +15,31 @@ namespace Warface.Entities.Tests
             (int profileId, var achievements) = Achievement.ParseAchievementNode(achievementNode);
             Assert.Equal(expectedProfileId, profileId);
             Assert.NotEmpty(achievements);
+        }
+
+        [Theory]
+        [MemberData(nameof(GetAchievementAndExpectedValues))]
+        void Achievement_ParseNode(HtmlNode achNode, int expectedId, int expectedProgress, long expectedCompletionTimeUnix, DateTimeOffset? expectedCompletionTime)
+        {
+            var achievement = Achievement.ParseNode(achNode);
+            Assert.Equal(expectedId,                 achievement.Id);
+            Assert.Equal(expectedProgress,           achievement.Progress);
+            Assert.Equal(expectedCompletionTimeUnix, achievement.CompletionTimeUnixTimestamp);
+            Assert.Equal(expectedCompletionTime,     achievement.CompletionTime);
+        }
+
+        public static IEnumerable<object[]> GetAchievementAndExpectedValues()
+        {
+            yield return new object[]
+            {
+                HtmlNode.CreateNode("<achievement achievement_id='8210' progress='65' completion_time='0'></achievement>"),
+                8210, 65, 0, null
+            };
+            yield return new object[]
+            {
+                HtmlNode.CreateNode("<achievement achievement_id='123' progress='100' completion_time='1543662133'></achievement>"),
+                123, 100, 1543662133, DateTimeOffset.FromUnixTimeSeconds(1543662133)
+            };
         }
 
         public static IEnumerable<object[]> GetAchievementsNodeAndExpectedProfileId()

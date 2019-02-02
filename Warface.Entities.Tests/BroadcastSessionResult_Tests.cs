@@ -55,7 +55,7 @@ namespace Warface.Entities.Tests
 
             var expectedObject = new BroadcastSessionResult(new[]
             {
-                new BroadcastSessionResult.PlayerResult("СумашедшийТруп", 864, 351, 0, true, 510, 40, 1, 2, 3, 462, 166, 201, 1.15, 0.9, 0.65, 0, true, 2145, false, "", 1),
+                new BroadcastSessionResult.PlayerResult("СумашедшийТруп", 864, 351, 0, true, 510, 40, 1, 2, 3, 462, 166, 201, 1.15, 0.9, 0.65, 0, true, 2145, false, "", 1, null),
             });
 
             yield return new object[] {node1, expectedObject};

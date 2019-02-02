@@ -1,11 +1,12 @@
 ﻿using HtmlAgilityExtended;
 using HtmlAgilityPack;
+using JetBrains.Annotations;
 
 namespace Warface.Entities.Sessions
 {
     public partial class BroadcastSessionResult
     {
-        public class PlayerResult
+        public partial class PlayerResult
         {
             public string Nickname                  { get; }
             public int    Experience                { get; }
@@ -30,7 +31,10 @@ namespace Warface.Entities.Sessions
             public string DynamicMultipliersInfo    { get; }
             public int    DynamicCrownMultiplier    { get; }
 
-            public PlayerResult(string nickname, int experience, int money, int gainedCrownMoney, bool noCrownRewards, int sponsorPoints, int clanPoints, int bonusExperience, int bonusMoney, int bonusSponsorPoints, int experienceBoost, int moneyBoost, int sponsorPointsBoost, double experienceBoostPercent, double moneyBoostPercent, double sponsorPointsBoostPercent, int completedStages, bool isVip, int score, bool firstWin, string dynamicMultipliersInfo, int dynamicCrownMultiplier)
+            [CanBeNull]
+            public PvpRatingOutcome PvpRatingOutcome_ { get; }
+
+            public PlayerResult(string nickname, int experience, int money, int gainedCrownMoney, bool noCrownRewards, int sponsorPoints, int clanPoints, int bonusExperience, int bonusMoney, int bonusSponsorPoints, int experienceBoost, int moneyBoost, int sponsorPointsBoost, double experienceBoostPercent, double moneyBoostPercent, double sponsorPointsBoostPercent, int completedStages, bool isVip, int score, bool firstWin, string dynamicMultipliersInfo, int dynamicCrownMultiplier, [CanBeNull] PvpRatingOutcome pvpRatingOutcome)
             {
                 Nickname                  = nickname;
                 Experience                = experience;
@@ -54,6 +58,7 @@ namespace Warface.Entities.Sessions
                 FirstWin                  = firstWin;
                 DynamicMultipliersInfo    = dynamicMultipliersInfo;
                 DynamicCrownMultiplier    = dynamicCrownMultiplier;
+                PvpRatingOutcome_         = pvpRatingOutcome;
             }
 
             public static PlayerResult ParseNode(HtmlNode playerResultNode)
@@ -81,11 +86,17 @@ namespace Warface.Entities.Sessions
                 string dynamicMultipliersInfo    = playerResultNode.Attributes["dynamic_multipliers_info"].Value;
                 int    dynamicCrownMultiplier    = playerResultNode.Attributes["dynamic_crown_multiplier"].IntValue();
 
-                return new PlayerResult(nickname, experience, money, gainedCrownMoney, noCrownRewards, sponsorPoints, clanPoints, bonusExperience, bonusMoney, bonusSponsorPoints, experienceBoost, moneyBoost, sponsorPointsBoost, experienceBoostPercent, moneyBoostPercent, sponsorPointsBoostPercent, completedStages, isVip, score, firstWin, dynamicMultipliersInfo, dynamicCrownMultiplier);
+                PvpRatingOutcome pvpRatingOutcome     = null;
+                var              pvpRatingOutcomeNode = playerResultNode.SelectSingleNode("./pvp_rating_outcome");
+                if (pvpRatingOutcomeNode != null)
+                    pvpRatingOutcome = PvpRatingOutcome.ParseNode(pvpRatingOutcomeNode);
+
+                return new PlayerResult(nickname, experience, money, gainedCrownMoney, noCrownRewards, sponsorPoints, clanPoints, bonusExperience, bonusMoney, bonusSponsorPoints, experienceBoost, moneyBoost, sponsorPointsBoost, experienceBoostPercent, moneyBoostPercent, sponsorPointsBoostPercent, completedStages, isVip, score, firstWin, dynamicMultipliersInfo, dynamicCrownMultiplier, pvpRatingOutcome);
             }
 
             /*<player_result nickname='..каштыр..' experience='0' money='338' gained_crown_money='0' no_crown_rewards='1' sponsor_points='0' clan_points='38' bonus_experience='0' bonus_money='0' bonus_sponsor_points='0' experience_boost='444' money_boost='160' sponsor_points_boost='0' experience_boost_percent='1.15' money_boost_percent='0.9' sponsor_points_boost_percent='0.65' completed_stages='0' is_vip='1' score='1310' first_win='0' dynamic_multipliers_info='' dynamic_crown_multiplier='1'>
 				<profile_progression_update profile_id='13143324' mission_unlocked='none,trainingmission,easymission,normalmission,hardmission,survivalmission,zombieeasy,zombienormal,zombiehard,campaignsections,campaignsection1,campaignsection2,campaignsection3,volcanoeasy,volcanonormal,volcanohard,volcanosurvival,anubiseasy,anubisnormal,anubishard,zombietowereasy,zombietowernormal,zombietowerhard,icebreakereasy,icebreakernormal,icebreakerhard,anubiseasy2,anubisnormal2,anubishard2,chernobyleasy,chernobylnormal,japaneasy,japannormal,all' tutorial_unlocked='7' tutorial_passed='7' class_unlocked='29'/>
+                <pvp_rating_outcome rank='9' game_result='1' games_history='' win_streak_bonus='0'/>
 			</player_result>*/
         }
     }

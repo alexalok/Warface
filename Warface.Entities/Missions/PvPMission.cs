@@ -46,6 +46,7 @@ namespace Warface.Entities.Missions
             new PvPMission("cccea92f-612d-2850-1111-3e02a3a54d6c", "ffa_downtown"),
             new PvPMission("fb53bbbb-f555-45aa-9144-8442446b1c4f", "ffa_forest_dawn"),
             new PvPMission("227123ef-b394-4321-b697-abed0fff9e38", "ffa_forest"),
+            new PvPMission("4eac367d-a583-4640-a56b-3e8d3d6d2cf1", "ffa_japan"),
             new PvPMission("dda0b8ac-de2e-9474-84fc-5b4ec51bf7ef", "ffa_motel"),
             new PvPMission("52fa65a0-d182-4abb-97c2-54857c6b3bbc", "ffa_overpass"),
             new PvPMission("c61ea94f-505d-4860-9199-3e02a1a54d9c", "ffa_train"),

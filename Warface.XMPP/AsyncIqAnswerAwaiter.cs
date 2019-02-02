@@ -10,8 +10,6 @@ namespace Warface.XMPP
         string                         _id;
         TaskCompletionSource<object[]> _tcs;
 
-        protected Task<object[]> BaseTask => _tcs.Task;
-
         protected AsyncIqAnswerAwaiter(TimeSpan timeout = default)
         {
             if (timeout == default)
@@ -26,7 +24,7 @@ namespace Warface.XMPP
         public string StartAwaiting()
         {
             //TODO ensure previous task is finished or wait for it
-            _id = XmppMethods.GetRandomIqUid();
+            _id = XmppMethods.GetRandomIqUid(cryPrefix: true);
             var ct  = new CancellationTokenSource(_timeout);
             var tcs = new TaskCompletionSource<object[]>();
             ct.Token.Register(() => tcs.TrySetCanceled());
@@ -40,6 +38,18 @@ namespace Warface.XMPP
                 return;
             _tcs.TrySetResult(pars);
         }
+
+        protected async Task<object[]> GetBaseTask()
+        {
+            try
+            {
+                return await _tcs.Task;
+            }
+            catch (TaskCanceledException ex)
+            {
+                throw new IqAwaitingException(_id, ex);
+            }
+        }
     }
 
     public class AsyncIqAnswerAwaiter<T> : AsyncIqAnswerAwaiter
@@ -50,7 +60,7 @@ namespace Warface.XMPP
 
         public async Task<T> GetTask()
         {
-            var taskResult = await BaseTask;
+            var taskResult = await GetBaseTask();
             var param      = (T) taskResult[0];
             return param;
         }
@@ -69,7 +79,7 @@ namespace Warface.XMPP
 
         public async Task<(T1, T2)> GetTask()
         {
-            var taskResult = await BaseTask;
+            var taskResult = await GetBaseTask();
             var param1     = (T1) taskResult[0];
             var param2     = (T2) taskResult[1];
             return (param1, param2);
@@ -89,7 +99,7 @@ namespace Warface.XMPP
 
         public async Task<(T1, T2, T3)> GetTask()
         {
-            var taskResult = await BaseTask;
+            var taskResult = await GetBaseTask();
             var param1     = (T1) taskResult[0];
             var param2     = (T2) taskResult[1];
             var param3     = (T3) taskResult[2];
@@ -110,7 +120,7 @@ namespace Warface.XMPP
 
         public async Task<(T1, T2, T3, T4)> GetTask()
         {
-            var taskResult = await BaseTask;
+            var taskResult = await GetBaseTask();
             var param1     = (T1) taskResult[0];
             var param2     = (T2) taskResult[1];
             var param3     = (T3) taskResult[2];

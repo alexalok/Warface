@@ -11,6 +11,8 @@ namespace Warface.XMPP
 {
     public class IQ
     {
+        public const string IdCryPrefix = "cry";
+
         public HtmlNode Node { get; }
 
         [CanBeNull]
@@ -55,6 +57,7 @@ namespace Warface.XMPP
             set => Node.Attributes["id"].Value = value;
         }
 
+        public bool IsCryId => ID.StartsWith(IdCryPrefix);
 
         public IQError? Error    { get; }
         public bool     HasError => Error != null;
@@ -67,7 +70,7 @@ namespace Warface.XMPP
             var errorNode = iqNode.ChildNodes.FirstOrDefault(n => n.Name == "error");
             if (errorNode != null)
             {
-                var code       = errorNode.Attributes["code"]?.IntValue();
+                var code       = errorNode.Attributes["code"].IntValue();
                 var customCode = errorNode.Attributes["custom_code"]?.IntValue();
                 Error = new IQError(code, customCode);
             }

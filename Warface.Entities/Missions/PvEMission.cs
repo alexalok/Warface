@@ -141,6 +141,11 @@ namespace Warface.Entities.Missions
                 case PvEMissionType.ZombieHard:
                     return PvEMissionGlobalType.CyberHorde;
 
+                case PvEMissionType.JapanEasy:
+                case PvEMissionType.JapanNormal:
+                case PvEMissionType.JapanHard:
+                    return PvEMissionGlobalType.Japan;
+
                 default:
                     throw new ArgumentOutOfRangeException();
             }
@@ -218,6 +223,11 @@ namespace Warface.Entities.Missions
         [Description("Припять (легко)")]  ChernobylEasy,
         [Description("Припять (сложно)")] ChernobylNormal,
         [Description("Припять (профи)")]  ChernobylHard,
+
+        //japan
+        [Description("Восход (легко)")]  JapanEasy,
+        [Description("Восход (сложно)")] JapanNormal,
+        [Description("Восход (профи)")]  JapanHard,
     }
 
     public enum PvEMissionGlobalType
@@ -231,6 +241,7 @@ namespace Warface.Entities.Missions
         [Description("Черная акула")]        BlackShark,
         [Description("Затмение")]            Blackout,
         [Description("Ледокол")]             IceBreaker,
-        [Description("Чернобыль")]           Chernobyl
+        [Description("Чернобыль")]           Chernobyl,
+        [Description("Восход")]              Japan
     }
 }

@@ -23,11 +23,21 @@ namespace Warface.Entities.RandomBoxes
         [CanBeNull]
         public string Name => _offers.FirstOrDefault()?.Name;
 
-        public bool     HasGoldenItem => _offers.First().WinItems.Any(winItem => winItem.Name.Contains("gold"));
-        public Currency Currency      => _offers.First().Currency;
+        public bool HasGoldenItem => _offers.FirstOrDefault()?.
+                WinItems.Any(winItem => winItem.Name.Contains("gold")) ??
+            throw new RandomBoxHasNoOffersException();
+
+        public bool HasGoldenItemInfo => HasAnyOffer;
+
+        public Currency Currency => _offers.FirstOrDefault()?.Currency ??
+            throw new RandomBoxHasNoOffersException();
+
+        public bool HasCurrencyInfo => HasAnyOffer;
 
 
-        public List<ShopOffer> GetOffers() => _offers.ToList();
+        public IEnumerable<ShopOffer> GetOffers() => _offers.ToList();
+
+        bool HasAnyOffer => _offers.Any();
 
         public void AddOrUpdateOffer(ShopOffer rbOffer)
         {

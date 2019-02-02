@@ -24,16 +24,16 @@ namespace Warface.Entities
             SessionId = sessionId;
         }
 
-        public static Session ParseNode(HtmlNode sessionNode)
+        public static Session ParseNode(HtmlNode sessionJoinNode)
         {
             //<session_join room_id='10871592193693321097' server='ded3-lv-eq-tr_64000' hostname='212.68.32.90' 
             //port='64000' local='0' session_id='146236211925286815'/>
 
-            string server = sessionNode.Attributes["server"].Value;
-            var hostname = IPAddress.Parse(sessionNode.Attributes["hostname"].Value);
-            int port = sessionNode.Attributes["port"].IntValue();
-            bool local = sessionNode.Attributes["local"].BoolValue();
-            string sessionId = sessionNode.Attributes["session_id"].Value;
+            string server = sessionJoinNode.Attributes["server"].Value;
+            var hostname = IPAddress.Parse(sessionJoinNode.Attributes["hostname"].Value);
+            int port = sessionJoinNode.Attributes["port"].IntValue();
+            bool local = sessionJoinNode.Attributes["local"].BoolValue();
+            string sessionId = sessionJoinNode.Attributes["session_id"].Value;
 
             return new Session(server, hostname, port, local, sessionId);
         }

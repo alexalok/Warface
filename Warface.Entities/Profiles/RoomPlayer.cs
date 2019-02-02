@@ -4,7 +4,7 @@ using Warface.Enums;
 
 namespace Warface.Entities.Profiles
 {
-    public struct RoomPlayer
+    public class RoomPlayer
     {
         public long ProfileId { get; }
 

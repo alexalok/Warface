@@ -5,6 +5,7 @@
         Global,
         Room,
         Team,
-        Clan
+        Clan,
+        Observer
     }
 }

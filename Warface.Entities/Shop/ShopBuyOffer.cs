@@ -27,9 +27,11 @@ namespace Warface.Entities.Shop
 
         public int? CrownMoney { get; }
 
+        public bool HasMoneyUpdate => GameMoney != null && CryMoney != null && CrownMoney != null;
+
         ShopBuyOffer(ErrorStatus                   error,
                      [CanBeNull] List<ProfileItem> profileItems, [CanBeNull] List<int> offerIds,
-                     int?                           gameMoney,    int?                   cryMoney, int? crownMoney)
+                     int?                          gameMoney,    int?                  cryMoney, int? crownMoney)
         {
             Error = error;
 

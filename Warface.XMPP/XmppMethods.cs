@@ -5,9 +5,9 @@ namespace Warface.XMPP
 {
     public static class XmppMethods
     {
-        public static string GetRandomIqUid()
+        public static string GetRandomIqUid(bool cryPrefix = false)
         {
-            return "uid" + SRandom.Next(0, 99999999).ToString("00000000");
+            return (cryPrefix ? IQ.IdCryPrefix : "uid") + SRandom.Next(0, 99999999).ToString("00000000");
         }
 
         public static string EscapeXml(string unescapedText)

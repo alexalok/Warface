@@ -4,6 +4,7 @@
     {
         None,
         PreGame,
-        InGame = 2
+        InGame,
+        PostGame
     }
 }

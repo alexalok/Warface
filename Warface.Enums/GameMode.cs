@@ -15,7 +15,7 @@ namespace Warface.Enums
         [Description("Мясорубка")]         Ffa,
         [Description("Выживание")]         Hnt,
         [Description("Захват")]            Ctf,
-        [Description("Доминация")]         Dst,
+        [Description("Уничтожение")]       Dst,
         [Description("Блиц")]              Tbs,
         [Description("Королевская битва")] Lms
     }

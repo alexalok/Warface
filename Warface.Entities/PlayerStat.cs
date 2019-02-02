@@ -66,5 +66,15 @@ namespace Warface.Entities
 
             return new PlayerStat(stat, value, difficulty, mode, @class, itemType);
         }
+
+        public bool IsSameEntry(PlayerStat otherStat)
+        {
+            return
+                Stat       == otherStat.Stat       &&
+                Difficulty == otherStat.Difficulty &&
+                Mode       == otherStat.Mode       &&
+                Class      == otherStat.Class      &&
+                ItemType   == otherStat.ItemType;
+        }
     }
 }
