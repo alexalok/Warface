@@ -17,7 +17,7 @@
         GiveRandomBox    = 1 << 13,
         Unknown14        = 1 << 14,
         ItemUnlocked     = 1 << 15,
-        Unknown16        = 1 << 16,
+        RepairResult     = 1 << 16,
         NewRank          = 1 << 17,
         Message          = 1 << 18,
         Unknown19        = 1 << 19,
