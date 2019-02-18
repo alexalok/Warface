@@ -9,7 +9,7 @@ namespace Warface.XMPP
     public class WakeCipher
     {
         readonly uint[] _key;
-        readonly uint[] _t        = new uint[257];
+        readonly uint[] _t = new uint[257];
         readonly uint[] _r = new uint[4];
 
         static readonly uint[] Tt =
@@ -24,15 +24,15 @@ namespace Warface.XMPP
             0x9ee27cf3
         };
 
-        public WakeCipher(IEnumerable<long> key)
+        public WakeCipher(IEnumerable<uint> key)
         {
-            _key = key.Select(k => (uint) k).ToArray();
+            _key = key.ToArray();
             SetArrays();
         }
 
         public void Encrypt(byte[] input)
         {
-            CryptOperation(input,  false);
+            CryptOperation(input, false);
         }
 
 
@@ -83,19 +83,14 @@ namespace Warface.XMPP
         void SetArrays()
         {
             uint x, p;
-            var  k = new uint[4];
 
             if (_key.Length != 4)
                 throw new ArgumentException("Invalid key length");
 
-            k[0] = _key[0];
-            k[1] = _key[1];
-            k[2] = _key[2];
-            k[3] = _key[3];
-
             for (p = 0; p < 4; p++)
             {
-                _t[p] = k[p];
+                _t[p] = _key[p];
+                _r[p] = _key[p];
             }
 
             for (p = 4; p < 256; p++)
@@ -127,11 +122,6 @@ namespace Warface.XMPP
                     0xff];
                 _t[x] = _t[p + 1];
             }
-
-            _r[0] = k[0];
-            _r[1] = k[1];
-            _r[2] = k[2];
-            _r[3] = k[3];
         }
 
         uint M(uint x, uint y)
