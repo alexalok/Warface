@@ -8,5 +8,6 @@
         public const int TokenLength             = 64;
         public const int MaxAnnounceLength       = 300;
         public const int MaxSafeMessageBoxLength = 150;
+        public const int MaxMessageBoxRows       = 3;
     }
 }
