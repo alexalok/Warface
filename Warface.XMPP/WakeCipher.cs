@@ -8,9 +8,9 @@ namespace Warface.XMPP
 {
     public class WakeCipher
     {
-        readonly uint[] _key;
-        readonly uint[] _t = new uint[257];
-        readonly uint[] _r = new uint[4];
+        readonly uint[]              _key;
+        readonly IReadOnlyList<uint> _r;
+        readonly IReadOnlyList<uint> _t;
 
         static readonly uint[] Tt =
         {
@@ -26,8 +26,8 @@ namespace Warface.XMPP
 
         public WakeCipher(IEnumerable<uint> key)
         {
-            _key = key.ToArray();
-            SetArrays();
+            _key     = key.ToArray();
+            (_r, _t) = SetArrays();
         }
 
         public void Encrypt(byte[] input)
@@ -80,8 +80,11 @@ namespace Warface.XMPP
             }
         }
 
-        void SetArrays()
+        (uint[] r, uint[] t) SetArrays()
         {
+            var t = new uint[257];
+            var r = new uint[4];
+
             uint x, p;
 
             if (_key.Length != 4)
@@ -89,45 +92,47 @@ namespace Warface.XMPP
 
             for (p = 0; p < 4; p++)
             {
-                _t[p] = _key[p];
-                _r[p] = _key[p];
+                t[p] = _key[p];
+                r[p] = _key[p];
             }
 
             for (p = 4; p < 256; p++)
             {
-                x     = _t[p - 4] + _t[p - 1];
-                _t[p] = x >> 3 ^ Tt[x & 7];
+                x    = t[p - 4] + t[p - 1];
+                t[p] = x >> 3 ^ Tt[x & 7];
             }
 
             for (p = 0; p < 23; p++)
-                _t[p] += _t[p + 89];
+                t[p] += t[p + 89];
 
-            x = _t[33];
-            uint z = _t[59] | 0x01000001;
+            x = t[33];
+            uint z = t[59] | 0x01000001;
             z &= 0xff7fffff;
 
             for (p = 0; p < 256; p++)
             {
-                x     = (x     & 0xff7fffff) + z;
-                _t[p] = (_t[p] & 0x00ffffff) ^ x;
+                x    = (x    & 0xff7fffff) + z;
+                t[p] = (t[p] & 0x00ffffff) ^ x;
             }
 
-            _t[256] =  _t[0];
-            x       &= 0xff;
+            t[256] =  t[0];
+            x      &= 0xff;
 
             for (p = 0; p < 256; p++)
             {
-                _t[p] = _t[x =
-                    (_t[p ^ x] ^ x) &
+                t[p] = t[x =
+                    (t[p ^ x] ^ x) &
                     0xff];
-                _t[x] = _t[p + 1];
+                t[x] = t[p + 1];
             }
+
+            return (r, t);
         }
 
         uint M(uint x, uint y)
         {
             uint tmp = x + y;
-            return ((((tmp) >> 8) & 0x00ffffff) ^ _t[(tmp) & 0xff]);
+            return ((((tmp) >> 8) & 0x00ffffff) ^ _t[(int) (tmp & 0xff)]);
         }
 
         /// <summary>
