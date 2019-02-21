@@ -29,7 +29,7 @@ namespace Warface.Entities.Channels
             Name         = name ?? throw new ArgumentNullException(nameof(name));
             PlayersCount = playersCount;
 
-            if (name.Contains("@") || name.Contains("/") || !(name.StartsWith("pvp_") || name.StartsWith("pve_")))
+            if (name.Contains("@") || name.Contains("/") || !(name.StartsWith("pvp_") || name.StartsWith("pve_") || name.StartsWith("dal_")))
                 throw new ArgumentException($"Argument must be a valid channel name.", nameof(name));
         }
 
