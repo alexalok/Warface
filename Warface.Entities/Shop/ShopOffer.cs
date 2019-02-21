@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Dynamic;
 using System.Linq;
 using System.Reflection;
@@ -122,14 +123,18 @@ namespace Warface.Entities.Shop
 
         public static ShopOffer ParseNode(HtmlNode offerNode)
         {
-            int    id               = offerNode.Attributes["id"].IntValue();
+            int id = offerNode.Attributes["id"].IntValue();
             string expirationTime   = offerNode.Attributes["expirationTime"].Value;
             int    durabilityPoints = offerNode.Attributes["durabilityPoints"].IntValue();
 
             string        repairCostRaw = offerNode.Attributes["repair_cost"].Value;
             int           repairCost    = -1;
             List<WinItem> winItems      = null;
-            if (repairCostRaw.All(char.IsDigit))
+            if (string.IsNullOrEmpty(repairCostRaw))
+            {
+                repairCost = 0;
+            }
+            else if (repairCostRaw.All(char.IsDigit))
             {
                 repairCost = Convert.ToInt32(repairCostRaw);
             }
