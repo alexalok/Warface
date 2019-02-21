@@ -1,4 +1,5 @@
 ﻿using System.Security;
+using System.Text;
 using aDevLib.Classes;
 
 namespace Warface.XMPP
@@ -12,7 +13,14 @@ namespace Warface.XMPP
 
         public static string EscapeXml(string unescapedText)
         {
-            return SecurityElement.Escape(unescapedText);
+            return string.IsNullOrEmpty(unescapedText)
+                ? unescapedText
+                : unescapedText.Replace("'", "&apos;").Replace("\"", "&quot;").Replace(">", "&gt;").Replace("<", "&lt;").Replace("&", "&amp;");
+        }
+
+        public static void EscapeXml(StringBuilder unescapedText)
+        {
+            unescapedText.Replace("'", "&apos;").Replace("\"", "&quot;").Replace(">", "&gt;").Replace("<", "&lt;").Replace("&", "&amp;");
         }
 
         public static string UnescapeXml(string escapedXml)
