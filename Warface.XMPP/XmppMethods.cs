@@ -13,21 +13,31 @@ namespace Warface.XMPP
 
         public static string EscapeXml(string unescapedText)
         {
-            return string.IsNullOrEmpty(unescapedText)
-                ? unescapedText
-                : unescapedText.Replace("'", "&apos;").Replace("\"", "&quot;").Replace(">", "&gt;").Replace("<", "&lt;").Replace("&", "&amp;");
+            var sb = new StringBuilder(unescapedText);
+            EscapeXml(sb);
+            return sb.ToString();
         }
 
         public static void EscapeXml(StringBuilder unescapedText)
         {
-            unescapedText.Replace("'", "&apos;").Replace("\"", "&quot;").Replace(">", "&gt;").Replace("<", "&lt;").Replace("&", "&amp;");
+            unescapedText.
+                Replace("&", "&amp;"). //amp must come first or else it will break all replacements before it
+                Replace("'", "&apos;").
+                Replace("\"", "&quot;").
+                Replace(">",  "&gt;").
+                Replace("<",  "&lt;");
         }
 
         public static string UnescapeXml(string escapedXml)
         {
             return string.IsNullOrEmpty(escapedXml)
                 ? escapedXml
-                : escapedXml.Replace("&apos;", "'").Replace("&quot;", "\"").Replace("&gt;", ">").Replace("&lt;", "<").Replace("&amp;", "&");
+                : escapedXml.
+                    Replace("&apos;", "'").
+                    Replace("&quot;", "\"").
+                    Replace("&gt;",   ">").
+                    Replace("&lt;",   "<").
+                    Replace("&amp;",  "&");
         }
     }
 }
