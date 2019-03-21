@@ -5,7 +5,6 @@ namespace Warface.Entities.Missions
 {
     public class Mission
     {
-        public string Name => Type;
         public string Key { get; }
         public string Type { get; }
         public MissionMode Mode { get; }

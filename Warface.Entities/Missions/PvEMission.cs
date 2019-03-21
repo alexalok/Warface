@@ -9,7 +9,7 @@ namespace Warface.Entities.Missions
 {
     public class PvEMission : Mission
     {
-        public new string               Name            => Type.GetDescription();
+        public     string               FriendlyName    => Type.GetDescription();
         public new PvEMissionType       Type            { get; }
         public     PvEMissionGlobalType GlobalType      => GetGlobalType();
         public     CrownRewards         CrownRewards    { get; }
