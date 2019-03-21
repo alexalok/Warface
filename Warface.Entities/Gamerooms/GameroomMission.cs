@@ -42,7 +42,7 @@ namespace Warface.Entities.Gamerooms
             string mode     = gameroomMissionNode.Attributes["mode"].Value;
             string modeName = gameroomMissionNode.Attributes["mode_name"].Value;
             string name     = gameroomMissionNode.Attributes["name"].Value;
-            Enum.TryParse(gameroomMissionNode.Attributes["name"].Value, true, out Difficulty difficulty);
+            Enum.TryParse(gameroomMissionNode.Attributes["difficulty"].Value, true, out Difficulty difficulty);
             string type  = gameroomMissionNode.Attributes["type"].Value;
             string image = gameroomMissionNode.Attributes["image"].Value;
 
