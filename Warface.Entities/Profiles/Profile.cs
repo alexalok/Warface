@@ -1,4 +1,5 @@
 ﻿using System;
+using aDevLib.Extensions;
 using JetBrains.Annotations;
 using Warface.Entities.PeerStatusUpdates;
 
@@ -19,6 +20,8 @@ namespace Warface.Entities.Profiles
         [CanBeNull] string _jid;
 
         public PlayerStatus Status { get; protected set; }
+
+        public bool IsOnline => Status.Has(PlayerStatus.Online);
 
         public int Experience { get; protected set; }
 
