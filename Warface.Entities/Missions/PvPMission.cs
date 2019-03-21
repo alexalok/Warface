@@ -96,6 +96,7 @@ namespace Warface.Entities.Missions
             new PvPMission("8702f1ee-bac1-4bea-a92b-d5b76c5cd5af", "tdm_shuttle"),
             new PvPMission("c090ccd6-dfd4-46aa-a5a6-929d974451e1", "tdm_sirius"),
             new PvPMission("d2cc9728-2a3f-4387-a0ea-ea1e0f967495", "tdm_streetwars"),
+            new PvPMission("a8ee23a0-da5a-4a25-823f-23dcf98198c2", "tbs_deepwater"),
             new PvPMission("791f8fd3-41de-4a94-a5d0-945b461f691e", "tbs_hawkrock"),
             new PvPMission("da20dcc4-9672-4077-b877-1b04c6772b75", "tbs_waterfalling"),
             new PvPMission("8fa3688a-75c9-44d8-ff92-90ac38c56b4c", "tbs_waterfalling_xmas"),
