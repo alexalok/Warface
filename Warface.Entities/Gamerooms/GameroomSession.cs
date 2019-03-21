@@ -13,7 +13,7 @@ namespace Warface.Entities.Gamerooms
 
         public float GameProgress { get; }
 
-        public DateTimeOffset StartTime { get; }
+        public DateTimeOffset? StartTime { get; }
 
         public int Team1StartScore { get; }
 
@@ -23,7 +23,7 @@ namespace Warface.Entities.Gamerooms
 
         public bool HasStarted => (int) Status >= 2;
 
-        public GameroomSession(string id,              SessionStatus status,          float gameProgress, DateTimeOffset startTime,
+        public GameroomSession(string id,              SessionStatus status,          float gameProgress, DateTimeOffset? startTime,
                                int    team1StartScore, int           team2StartScore, int   revision)
         {
             ID              = id;
@@ -38,7 +38,7 @@ namespace Warface.Entities.Gamerooms
         public HtmlNode GetAsNode()
         {
             var node = HtmlNode.CreateNode(
-                $"<session id='{ID}' status='{(int) Status}' game_progress='{GameProgress}' start_time='{StartTime.ToUnixTimeSeconds()}' " +
+                $"<session id='{ID}' status='{(int) Status}' game_progress='{GameProgress}' start_time='{StartTime?.ToUnixTimeSeconds() ?? 0}' " +
                 $"team1_start_score='{Team1StartScore}' team2_start_score='{Team2StartScore}' revision='{Revision}'/>");
             return node;
         }
@@ -48,10 +48,10 @@ namespace Warface.Entities.Gamerooms
             //<session id='3461684861154490475' status='2' game_progress='0' start_time='1500903531' team1_start_score='0' 
             //team2_start_score ='0' revision='914'/>
 
-            string id           = sessionNode.Attributes["id"]?.Value; //sometimes there is no id
-            var    status       = (SessionStatus) sessionNode.Attributes["status"].IntValue();
-            float  gameProgress = sessionNode.Attributes["game_progress"].FloatValue(); //can be 2.4E-05
-            var    startTime    = DateTimeOffset.MinValue;
+            string          id           = sessionNode.Attributes["id"]?.Value; //sometimes there is no id
+            var             status       = (SessionStatus) sessionNode.Attributes["status"].IntValue();
+            float           gameProgress = sessionNode.Attributes["game_progress"].FloatValue(); //can be 2.4E-05
+            DateTimeOffset? startTime    = null;
             if (sessionNode.Attributes["start_time"].TryLongValue(out long startTimeTimestamp)) //can be start_time='18446744011573954816'
                 startTime = DateTimeOffset.FromUnixTimeSeconds(startTimeTimestamp);
             int team1StartScore = sessionNode.Attributes["team1_start_score"].IntValue();
