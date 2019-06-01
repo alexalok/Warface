@@ -1,0 +1,11 @@
+<CharacterPart Name="AI_Helmet_Assault" Slot="AI_Helmets" Template="AI_Helmets">
+	<Model File="objects/Characters/AI_Helmets/Helmet_assault/Helmet_assault.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Game/Objects/Characters/AI_Helmets/helmet_assault/helmet_assault.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

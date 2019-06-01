@@ -1,0 +1,30 @@
+<item name="sr09_gold01_sc_d" class="K01_Item" type="attachment" view_settings="objects/weapons/sr09/sr09_sc_d.xml">
+	<description_ingame text="@ui_sr09_sc_d_ingame"/>
+	<skins>
+		<material name="gold01"/>
+	</skins>
+	<UI_stats>
+		<param name="name" value="@sr09_sc_d_name"/>
+		<param name="description" value="@ui_sr09_sc_d"/>
+		<param name="icon" value="sr09_sc_d"/>
+		<param name="shopcontent" value="1"/>
+	</UI_stats>
+	<drop_params>
+		<item name="sr09_gold01_sc_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="silencer" value="1"/>
+		<param name="ai_sound_radius" value="5"/>
+		<param name="ai_light_radius" value="0"/>
+		<param name="damage_mul" value="0.95"/>
+	</settings>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="sr09_sc_d" name="sr09_gold01_sc_d"/>
+	</types>
+</item>

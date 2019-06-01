@@ -1,0 +1,12 @@
+<CharacterPart Name="heavy_jacket_01" Slot="Jacket" Template="Jacket">
+	<Model File="Objects\Characters\heavy\jackets\heavy_jacket_01\heavy_jacket_01.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="vest_type11" Target="#jacket_vest_11"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="heavy_jacket_01" File="Objects\Characters\heavy\jackets\heavy_jacket_01\heavy_jacket_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

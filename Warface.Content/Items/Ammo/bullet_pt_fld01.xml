@@ -1,0 +1,47 @@
+<ammo name="bullet_pt_fld01" class="Projectile"  type="grenade">
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<trail>
+		<param name="effect" value="muzzleflash_pt.pt29_trail"/>
+		<param name="prime" value="false"/>
+	</trail>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="10"/>
+		<param name="speed" value="45"/>
+		<param name="radius" value="0.125"/>
+		<param name="air_resistance" value="0.2"/>
+		<param name="water_resistance" value="0.5"/>
+		<param name="gravity" value="0, 0, -10"/>
+		<param name="water_gravity" value="0, 0, -0.1"/>
+		<param name="thrust" value="20"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="0"/>
+		<param name="material" value="mat_metal"/>
+		<param name="single_contact" value="1"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<explosion>
+		<param name="min_radius" value="0.1"/>
+		<param name="max_radius" value="0.1"/>
+		<param name="min_phys_radius" value="0.75"/>
+		<param name="max_phys_radius" value="0.85"/>
+		<param name="decal" value="textures/decal/explo_decal.dds"/>
+		<param name="effect_scale" value="1"/>
+		<param name="max_explode_on_impact_angle" value="360"/>
+		<param name="min_explode_on_impact_lifetime" value="0"/>
+	</explosion>
+	<params>
+		<param name="lifetime" value="0"/>
+		<param name="hit_type" value="rocket"/>
+		<param name="showtime" value="0.09"/>
+		<param name="bulletType" value="0"/> <!-- Bullet Type 2 - Assault rifle bullet -->
+		<param name="giveable" value="1"/>
+		<param name="launch_type" value="0"/>
+	</params>
+</ammo>

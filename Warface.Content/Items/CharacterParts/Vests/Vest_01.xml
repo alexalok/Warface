@@ -1,0 +1,38 @@
+<CharacterPart Name="vest_01" Slot="Vest" Template="Vest_Type1">
+	<Model File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01.chr" Gender="Male">
+		<Morphs/>
+		<Switches>
+			<Switch Value="Vest01"/>
+		</Switches>
+		<Materials>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01_green.mtl"/>
+			<Material Name="grey" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01_grey.mtl"/>
+			<Material Name="blue" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01_blue.mtl"/>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01_desert.mtl"/>
+		</Materials>
+		<Sockets>
+			<Socket name="01" edge="0" angle="13" damping="3.73">
+				<AllowedTypes>
+					<type name="Small Grenades"/>
+					<type name="Pistols"/>
+					<type name="Ammo Bag"/>
+				</AllowedTypes>
+			</Socket>
+		</Sockets>
+	</Model>
+	<Model File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01.chr" Gender="Female">
+		<Morphs/>
+		<Switches>
+			<Switch Value="Vest_01"/>
+		</Switches>
+		<Materials>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01_green.mtl"/>
+			<Material Name="grey" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01_grey.mtl"/>
+			<Material Name="blue" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01_blue.mtl"/>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01_desert.mtl"/>
+		</Materials>
+		<Sockets>
+			<Socket name="01" edge="0" angle="0" damping="0"/>
+		</Sockets>
+	</Model>
+</CharacterPart>

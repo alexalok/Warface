@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="rds03_camo09" type="attachment" view_settings="objects/attachments/rds05/rds05.xml">
+	   <skins>
+		    <material name="camo09"/>
+	   </skins>		
+		<description_ingame text="@ui_rds03_ingame"/>
+		<mmo_stats>
+			<param name="item_category" value="attachment"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@rds03_shop_name"/>
+			<param name="description" value="@ui_accessories_rds03"/>
+			<param name="icon" value="rds05_camo09"/>
+		</UI_stats>
+		<content>
+			<item name="rds03_camo09"/>
+		</content>
+		<drop_params>
+			<item name="rds03_camo09" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="fov_mul" value="0"/>
+			<param name="zoom_factor" value="1.2"/>
+			<param name="spread_min_mul" value="0.8"/>
+			<param name="spread_max_mul" value="0.8"/>
+			<param name="recoil_att_mul" value="0.8"/>
+			<param name="recoil_max_mul" value="0.8"/>
+		</settings>
+		<types>
+			<type helper="top_small" name="rds03_camo09"/>
+			<type helper="zoom_helper" name="zoom_helper"/>
+			<type helper="aux_helper" name="aux_helper"/>
+		</types>
+	</item>

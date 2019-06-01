@@ -1,0 +1,34 @@
+<CharacterPart Name="Pants_02" Slot="Pants" Template="Pants">
+	<Model File="objects/characters/pants/pants_02/male/pants_02.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="shoes_type2" Target="#pants_shoes2"/>
+			<Morph Switch="shoes_type3" Target="#pants_shoes3"/>
+			<Morph Switch="elbow_left" Target="#vestmorph"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="blue" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_jeans.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_green.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_beige.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_leather.mtl"/>
+			<Material Name="civilian_grey" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_civilian_grey.mtl"/>
+			<Material Name="civilian_green" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_civilian_green.mtl"/>
+			<Material Name="civilian_blue" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_civilian_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/Pants/Pants_02/Female/pants_02.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="blue" File="Game\Objects\Characters\Pants\Pants_02\female\pants_02_jeans.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Pants\Pants_02\female\pants_02_green.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\Pants\Pants_02\female\pants_02_beige.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_leather.mtl"/>
+			<Material Name="civilian_grey" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_civilian_grey.mtl"/>
+			<Material Name="civilian_green" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_civilian_green.mtl"/>
+			<Material Name="civilian_blue" File="Game\Objects\Characters\Pants\Pants_02\male\pants_02_civilian_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

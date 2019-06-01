@@ -1,0 +1,43 @@
+<CharacterPart Name="Pants_01_prot_optim" Slot="Pants" Template="Pants">
+	<Model File="objects/characters/pants/pants_prot/male/pants_prot_optim.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="shoes_type2" Target="#pants_shoes2"/>
+			<Morph Switch="shoes_type3" Target="#pants_shoes3"/>
+			<Morph Switch="knee+legarmor_right" Target="#pants_knee+legarmor_right "/>
+			<Morph Switch="elbow_left" Target="#vestmorph"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="objects/characters/pants/pants_prot/male/panrs_prot_grey.mtl"/>
+			<Material Name="black" File="objects/characters/pants/pants_prot/male/pants_prot_black.mtl"/>
+			<Material Name="desert" File="objects/characters/pants/pants_prot/male/pants_prot_desert.mtl"/>
+			<Material Name="digital" File="objects/characters/pants/pants_prot/male/pants_prot_digital.mtl"/>
+			<Material Name="green" File="objects/characters/pants/pants_prot/male/pants_prot_green.mtl"/>
+			<Material Name="jungle" File="objects/characters/pants/pants_prot/male/pants_prot_jungle.mtl"/>
+			<Material Name="snow" File="objects/characters/pants/pants_prot/male/pants_prot_snow.mtl"/>
+			<Material Name="urban" File="objects/characters/pants/pants_prot/male/pants_prot_urban.mtl"/>
+			<Material Name="blue" File="objects/characters/pants/pants_prot/male/pants_prot_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/pants/pants_prot/female/pants_prot.chr" FGTFile="" Gender="Female">
+		<Morphs>
+			<Morph Switch="shoes_type2" Target="#pants_shoes2"/>
+			<Morph Switch="shoes_type3" Target="#pants_shoes3"/>
+			<Morph Switch="elbow_left" Target="#vestmorph"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="objects/characters/pants/pants_prot/male/panrs_prot_grey.mtl"/>
+			<Material Name="black" File="objects/characters/pants/pants_prot/male/pants_prot_black.mtl"/>
+			<Material Name="desert" File="objects/characters/pants/pants_prot/male/pants_prot_desert.mtl"/>
+			<Material Name="digital" File="objects/characters/pants/pants_prot/male/pants_prot_digital.mtl"/>
+			<Material Name="green" File="objects/characters/pants/pants_prot/male/pants_prot_green.mtl"/>
+			<Material Name="jungle" File="objects/characters/pants/pants_prot/male/pants_prot_jungle.mtl"/>
+			<Material Name="snow" File="objects/characters/pants/pants_prot/male/pants_prot_snow.mtl"/>
+			<Material Name="urban" File="objects/characters/pants/pants_prot/male/pants_prot_urban.mtl"/>
+			<Material Name="blue" File="objects/characters/pants/pants_prot/male/pants_prot_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,18 @@
+<CharacterPartTemplate Name="Elbowpads">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#elbowpads_fat" />
+    <Morph Switch="thin" Target="#elbowpads_thin" />
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="Elbowpads" />
+  </Switches>
+  
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+  </VisibilityMasks>
+<TexAtlasGen TextureSize="256"/>
+
+</CharacterPartTemplate>

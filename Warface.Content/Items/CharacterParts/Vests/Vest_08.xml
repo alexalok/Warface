@@ -1,0 +1,20 @@
+<CharacterPart Name="vest_08" Slot="Vest" Template="Vest_Type5">
+	<Model File="Objects\Characters\shared\vests\shared_vest_08\shared_vest_08.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_08\shared_vest_08_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\shared\vests\shared_vest_08\shared_vest_08_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\shared\vests\shared_vest_08\shared_vest_08.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_08\shared_vest_08_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\shared\vests\shared_vest_08\shared_vest_08_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

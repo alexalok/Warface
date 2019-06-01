@@ -1,0 +1,16 @@
+<CharacterPart Name="mech_01_leg_R" Slot="Arms" Template="mech_01">
+	<Model File="Objects\Characters\ai\boss\mech_01\mech_01_leg_r.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="Objects\Characters\ai\boss\mech_01\mech_01_leg.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials/>
+		<Sockets/>
+	</Model>
+</CharacterPart>

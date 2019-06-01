@@ -1,0 +1,18 @@
+<CharacterPart Name="head_agent" Slot="Head" Template="Head">
+	<Model File="objects/characters/heads/custom_head_male.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="head_02" File="objects/characters/heads/head_01/male/head_01_2.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/heads/custom_head_female.chr"  Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="head_02" File="objects/characters/heads/head_01/female/head_01_2.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

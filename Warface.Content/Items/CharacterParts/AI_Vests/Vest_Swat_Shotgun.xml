@@ -1,0 +1,11 @@
+<CharacterPart Name="Vest_Swat_Shotgun" Slot="AI_Vests" Template="AI_Vests">
+	<Model File="objects/Characters\AI_Vests\Vest_Swat_Shotgun/Vest_Swat_Shotgun.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Vests\Vest_Swat_Shotgun/Vest_Swat_Shotgun.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

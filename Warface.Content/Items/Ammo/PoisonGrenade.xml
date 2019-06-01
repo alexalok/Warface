@@ -1,0 +1,68 @@
+<ammo name="poisongrenade" type="grenade" class="KillZoneProjectile" require="pg01">
+	<mmo_stats>
+		<param name="category" value="Grenade"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="EMRS"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@pg01_test_default_name"/>
+		<param name="description" value=""/>
+		<param name="icon" value="test_item_icon"/>
+	</UI_stats>
+	<icons>
+		<combatlog icon="Fg01"/>
+	</icons>
+	<geometry>
+		<firstperson name="objects/Weapons/Grenades/fg01/fg01_exp.cgf" scale = "1"/>
+		<thirdperson name="objects/weapons/Grenades/fg01/fg01_exp.cgf" scale = "1"/>
+	</geometry>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="0.5"/>
+		<param name="speed" value="17"/>
+		<param name="radius" value="0.05"/>
+		<param name="air_resistance" value="0.1"/>
+		<param name="water_resistance" value="0.5"/>
+		<param name="gravity" value="0, 0, -9.8"/>
+		<param name="water_gravity" value="0, 0, -9.8"/>
+		<param name="thrust" value="0"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="1"/>
+		<param name="material" value="mat_grenade"/>
+		<param name="spin_random" value="360, 360, 360"/>
+		<param name="single_contact" value="0"/>
+		<param name="traceable" value="1"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<explosion>
+		<param name="min_radius" value="1"/>
+		<param name="max_radius" value="4"/>
+		<param name="min_phys_radius" value="1"/>
+		<param name="max_phys_radius" value="4"/>
+		<param name="effect_class" value="explosivegrenade"/>
+	</explosion>
+	<trail>
+		<param name="effect" value="weapon_fx.tracer.grenade_trail"/>
+		<param name="prime" value="false"/>
+	</trail>
+	<params>
+		<param name="lifetime" 		value="2"/>
+		<param name="showtime" 		value="0.05"/>
+		<param name="aitype"		value="grenade"/>
+		<param name="can_toss" 		value="1"/>
+		<param name="toss_priority" 	value="1"/>
+		<param name="ammo_kind"	value="poisongrenade"/>
+		<param name="hit_type" value="poison"/>
+		<param name="launch_type" value="0"/>
+	</params>
+	<killzone>
+		<param name="lifetime" value="15"/>
+		<param name="damage_timeout" value="1"/>
+		<param name="damage" value="20"/>       
+		<param name="explosion_effect" value="grenades.poison_grenade.Smoke_a"/>       
+		<param name="effect" value="grenades.poison_grenade.Smoke_b"/>       
+	</killzone>
+</ammo>

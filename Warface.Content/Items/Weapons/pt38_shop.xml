@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+	<shop_item name="pt38_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Pistol"/>
+			<param name="price" value="5000"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="SRME"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="2625"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="pt"/>
+			<param name="name" value="@pt38_shop_name"/>
+			<param name="description" value="@ui_weapons_pt38"/>
+			<param name="icon" value="pt38"/>
+		</UI_stats>
+		<content>
+			<item name="pt38"/>
+			<item name="pt38_sc01_d"/>
+			<item name="pt38_sc02_d"/>
+			<item name="pt38_rds_d"/>
+			<item name="pt38_is_d"/>
+		</content>
+		<skin_content>
+			<item name="pt38_bp06skin_shop"/>
+			<item name="pt38_an07skin_shop"/>			
+		</skin_content>
+	</shop_item>

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <entry key="secondary_objective_enemy_headshots_completed">
+    <original value="Provide %total% headshots completed"/>
+    <translation value="Убить выстрелами в голову: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_enemy_melee_kills_completed">
+    <original value="Provide %total% melee kills completed"/>
+    <translation value="Убить в ближнем бою: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_enemy_slide_kills_completed">
+    <original value="Provide %total% slide kills completed"/>
+    <translation value="Убить во время подката: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_headshots_in_a_row_2_completed">
+    <original value="Perform %total% Skull Hunter completed"/>
+    <translation value="Заслужить наград 'Взрыватель голов': %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_5x_score_completed">
+    <original value="Achieve 5X score multiplier completed"/>
+    <translation value="Получить бонус 5X - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_melee_kills_in_a_row_1_completed">
+    <original value="Perform %total% Butcher actions completed"/>
+    <translation value="Заслужить наград 'Мясник': %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_grenade_kill_completed">
+    <original value="Perform %total% grenade kills completed"/>
+    <translation value="Убить гранатами: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_headshots_from_slide_completed">
+    <original value="Provide %total% headshots in slide completed"/>
+    <translation value="Убить в голову во время подката: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_headshots_with_pistol_completed">
+    <original value="Provide %total% headshots with pistol completed"/>
+    <translation value="Убить в голову из пистолета: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_defibrillator_kill_completed">
+    <original value="Provide %total% kills using defibrillator completed"/>
+    <translation value="Убить дефибриллятором: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_melee_headshots_kill_completed">
+    <original value="Provide %total% headshots using melee weapons completed"/>
+    <translation value="Убить в голову в ближнем бою: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_claymore_kill_completed">
+    <original value="Provide %total% claymore kills completed"/>
+    <translation value="Взорвать с помощью  мин: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_headshot_out_of_zoom_completed">
+    <original value="Provide %total% headshots out of zoom completed"/>
+    <translation value="Убить в голову без прицеливания: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_kills_with_pistol_completed">
+    <original value="Provide %total% kills with pistol completed"/>
+    <translation value="Убить из пистолета: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_silinced_kill_completed">
+    <original value="Provide %total% kills with silenced weapons  completed"/>
+    <translation value="Убить из оружия с глушителем: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_kills_in_a_row_completed">
+    <original value="Perform %total% Combo-Kill&quot; completed"/>
+    <translation value="Заслужить наград 'Комбо-убийство': %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_in_knock_back_kill_completed">
+    <original value="Perform %total% severe murder action&quot; completed"/>
+    <translation value="Заслужить наград 'Контратака': %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_prone_kill_completed">
+    <original value="Provide %total% headshots kills in prone position completed"/>
+    <translation value="Убить в голову из положения лежа: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_knifes_kill_completed">
+    <original value="Provide %total% kills using knifes completed"/>
+    <translation value="Убить ножом: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_enemy_headshots_progress">
+    <original value="Provide %total% headshots (%current%/%total%)"/>
+    <translation value="Убить врагов выстрелами в голову: %total% (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_enemy_melee_kills_progress">
+    <original value="Provide %total% melee kills  (%current%/%total%)"/>
+    <translation value="Убить врагов в ближнем бою: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_enemy_slide_kills_progress">
+    <original value="Provide %total% slide kills  (%current%/%total%)"/>
+    <translation value="Убить врагов во время подката: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_headshots_in_a_row_2_progress">
+    <original value="Perform %total% Skull Hunter&quot; (%current%/%total%)"/>
+    <translation value="Заслужить наград 'Взрыватель голов': %total% (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_5x_score_progress">
+    <original value="Achieve 5X score multiplier (%current%/%total%)"/>
+    <translation value="Получить бонус 5X (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_melee_kills_in_a_row_1_progress">
+    <original value="Perform %total% butcher actions&quot; (%current%/%total%)"/>
+    <translation value="Заслужить наград 'Мясник': %total% (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_grenade_kill_progress">
+    <original value="Provide %total% kills using grenades  (%current%/%total%)"/>
+    <translation value="Убить гранатами: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_headshots_from_slide_progress">
+    <original value="Provide %total% headshots in slide  (%current%/%total%)"/>
+    <translation value="Убить в голову во время подката: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_headshots_with_pistol_progress">
+    <original value="Provide %total% headshots with pistol  (%current%/%total%)"/>
+    <translation value="Убить выстрелами в голову из пистолета: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_defibrillator_kill_progress">
+    <original value="Provide %total% kills using defibrillator  (%current%/%total%)"/>
+    <translation value="Убить с помощью дефибриллятора: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_melee_headshots_kill_progress">
+    <original value="Provide %total% headshots using melee weapons  (%current%/%total%)"/>
+    <translation value="Убить в голову оружием ближнего боя: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_claymore_kill_progress">
+    <original value="Provide %total% claymore kills  (%current%/%total%)"/>
+    <translation value="Взорвать с помощью мин: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_headshot_out_of_zoom_progress">
+    <original value="Provide %total% headshots out of zoom  (%current%/%total%)"/>
+    <translation value="Убить в голову без прицеливания: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_kills_with_pistol_progress">
+    <original value="Provide %total% kills with pistol  (%current%/%total%)"/>
+    <translation value="Убить из пистолета: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_silinced_kill_progress">
+    <original value="Provide %total% kills with silenced weapons  (%current%/%total%)"/>
+    <translation value="Убить из оружия с глушителем: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_kills_in_a_row_progress">
+    <original value="Perform %total% Combo-Kill&quot; (%current%/%total%)"/>
+    <translation value="Заслужить наград 'Комбо-убийство': %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_in_knock_back_kill_progress">
+    <original value="Perform %total% severe murder action&quot; (%current%/%total%)"/>
+    <translation value="Заслужить наград 'Контратака': %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_prone_kill_progress">
+    <original value="Provide %total% headshots kills in prone position  (%current%/%total%)"/>
+    <translation value="Убить в голову из положения лежа: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_knifes_kill_progress">
+    <original value="Provide %total% kills using knifes  (%current%/%total%)"/>
+    <translation value="Убить ножом: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_enemy_headshots_description">
+    <original value="Kill enemies with headshots"/>
+    <translation value="Убейте врагов выстрелами в голову"/>
+  </entry>
+  <entry key="secondary_objective_enemy_melee_kills_description">
+    <original value="Kill enemies in melee"/>
+    <translation value="Убейте врагов в ближнем бою"/>
+  </entry>
+  <entry key="secondary_objective_enemy_slide_kills_description">
+    <original value="Kill in slide"/>
+    <translation value="Убейте врагов в подкате"/>
+  </entry>
+  <entry key="secondary_objective_PPES_5x_score_description">
+    <original value="Achieve 5X score multiplier"/>
+    <translation value="Получите бонус X5"/>
+  </entry>
+  <entry key="secondary_objective_headshots_in_a_row_2_description">
+    <original value="Perform Skull Hunter actions"/>
+    <translation value="Заслужить награды 'Взрыватель голов'"/>
+  </entry>
+  <entry key="secondary_objective_melee_kills_in_a_row_1_description">
+    <original value="Perform Butcher actions"/>
+    <translation value="Получите награды 'Мясник'"/>
+  </entry>
+  <entry key="secondary_objective_grenade_kill_description">
+    <original value="Kill enemies using grenades"/>
+    <translation value="Убейте врагов гранатами"/>
+  </entry>
+  <entry key="secondary_objective_headshots_from_slide_description">
+    <original value="Kill enemies with headshots in slide"/>
+    <translation value="Убейте врагов выстрелами в голову в подкате"/>
+  </entry>
+  <entry key="secondary_objective_headshots_with_pistol_description">
+    <original value="Kill enemies with headshots using pistol"/>
+    <translation value="Убейте врагов выстрелами в голову из пистолета"/>
+  </entry>
+  <entry key="secondary_objective_defibrillator_kill_description">
+    <original value="Kill enemies using defibrillator"/>
+    <translation value="Убейте врагов с помощью дефибриллятора"/>
+  </entry>
+  <entry key="secondary_objective_melee_headshots_kill_description">
+    <original value="Kill enemies with headshots using mele weapons"/>
+    <translation value="Убить ударами в голову оружием ближнего боя"/>
+  </entry>
+  <entry key="secondary_objective_claymore_kill_description">
+    <original value="Kill enemies using claymores"/>
+    <translation value="Взорвать с помощью мин"/>
+  </entry>
+  <entry key="secondary_objective_headshot_out_of_zoom_description">
+    <original value="Kill enemies with headshots out of zoom"/>
+    <translation value="Убейте выстрелами в голову без прицеливания"/>
+  </entry>
+  <entry key="secondary_objective_kills_with_pistol_description">
+    <original value="Kills with pistol"/>
+    <translation value="Убейте врагов выстрелами из пистолета"/>
+  </entry>
+  <entry key="secondary_objective_silinced_kill_description">
+    <original value="Kill enemies with silinced weapons"/>
+    <translation value="Убить из оружия с глушителем"/>
+  </entry>
+  <entry key="secondary_objective_kills_in_a_row_description">
+    <original value="Perform Combo-kill"/>
+    <translation value="Заслужить награды 'Комбо-убийство'"/>
+  </entry>
+  <entry key="secondary_objective_in_knock_back_kill_description">
+    <original value="Perform Severe murder action"/>
+    <translation value="Заслужить награды 'Контратака'"/>
+  </entry>
+  <entry key="secondary_objective_prone_kill_description">
+    <original value="Kill enemies with headshots in prone position"/>
+    <translation value="Убить выстрелами в голову из положения лежа"/>
+  </entry>
+  <entry key="secondary_objective_knifes_kill_description">
+    <original value="Kill enemies using knifes"/>
+    <translation value="Убить ножом"/>
+  </entry>
+  <entry key="secondary_objective_grenadiers_completed">
+    <original value="&quot;Perform %total% grenadier actions&quot; completed"/>
+    <translation value="Заслужить наград 'Гренадер': %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_melee_kills_from_slide_completed">
+    <original value="&quot;Provide %total% melee kills in slide&quot; completed"/>
+    <translation value="Убить врукопашную в подкате: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_grenadiers_progress">
+    <original value="&quot;Perform %total%&quot; grenadier actions&quot; (%current%/%total%)"/>
+    <translation value="Заслужить наград 'Гренадер': %total% (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_melee_kills_from_slide_progress">
+    <original value="&quot;Provide %total% melee kills in slide&quot;  (%current%/%total%)"/>
+    <translation value="Убить рукопашными атаками в подкате: %total%  (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_grenadiers_description">
+    <original value="Perform grenadier actions"/>
+    <translation value="Получите награды 'Гренадер'"/>
+  </entry>
+  <entry key="secondary_objective_melee_kills_from_slide_description">
+    <original value="Enemies melee kills in slide"/>
+    <translation value="Убейте врагов рукопашными атаками в подкате"/>
+  </entry>
+  <entry key="secondary_objective_brain_smashers_completed">
+    <original value="&quot;Perform %total% brainsmasher actions&quot; completed"/>
+    <translation value="Заслужить наград 'Взрыватель голов': %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_butchers_completed">
+    <original value="&quot;Perform %total% butcher actions&quot; completed"/>
+    <translation value="Заслужить наград 'Мясник': %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_defibrillator_completed">
+    <original value="&quot;Provide %total% kills using defibrillator&quot; completed"/>
+    <translation value="Убить врагов дефибриллятором: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_grenades_completed">
+    <original value="&quot;Provide %total% grenade kills&quot; completed"/>
+    <translation value="Убить врагов гранатами: %total% - выполнено!"/>
+  </entry>
+  <entry key="secondary_objective_brain_smashers_progress">
+    <original value="&quot;Perform %total%&quot; brainsmasher actions&quot; (%current%/%total%)"/>
+    <translation value="Заслужить наград 'Взрыватель голов':  %total% (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_butchers_progress">
+    <original value="&quot;Perform %total%&quot; butcher actions&quot; (%current%/%total%)"/>
+    <translation value="Заслужить наград 'Мясник':  %total% (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_defibrillator_progress">
+    <original value="&quot;Provide %total% kills using defibrillator&quot;  (%current%/%total%)"/>
+    <translation value="Убить врагов дефибриллятором:  %total% (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_grenades_progress">
+    <original value="&quot;Provide %total% grenade kills&quot;  (%current%/%total%)"/>
+    <translation value="Убить врагов гранатами:  %total% (%current%/%total%)"/>
+  </entry>
+  <entry key="secondary_objective_brain_smashers_description">
+    <original value="Perform brainsmasher actions"/>
+    <translation value="Получить награды 'Взрыватель голов'"/>
+  </entry>
+  <entry key="secondary_objective_butchers_description">
+    <original value="Perform butcher actions"/>
+    <translation value="Получить награды 'Мясник'"/>
+  </entry>
+  <entry key="secondary_objective_defibrillator_description">
+    <original value="Kill enemies using defibrillator"/>
+    <translation value="Убить врагов дефибриллятором"/>
+  </entry>
+  <entry key="secondary_objective_grenades_description">
+    <original value="Kill enemies with grenades"/>
+    <translation value="Убить врагов гранатами"/>
+  </entry>
+</localization>

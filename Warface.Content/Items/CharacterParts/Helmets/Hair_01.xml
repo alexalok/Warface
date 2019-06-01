@@ -1,0 +1,18 @@
+<CharacterPart Name="Hair_01" Slot="Helmet" Template="Helmet">
+	<Model File="objects/characters/helmets/hair_01/male/hair_01_male.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="hair_01" File="objects/characters/helmets/hair_01/female/hair_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Helmets\Hair_01\female\Hair_01.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="Hair_01" File="objects/characters/helmets/hair_01/female/hair_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

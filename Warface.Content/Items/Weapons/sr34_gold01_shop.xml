@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+	<shop_item name="sr34_gold01_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SniperRifle"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="5400"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="sr"/>
+			<param name="name" value="@sr34_gold01_shop_name"/>
+			<param name="description" value="@ui_weapons_sr34_gold01"/>
+			<param name="icon" value="sr34_gold01"/>
+		</UI_stats>
+		<content>
+			<item name="sr34_gold01">
+				<item name="ss06_gold01"/>
+				<item name="ss04_gold01"/>
+				<item name="sr34_gold01_gp_d"/>
+				<item name="sr34_gold01_bp_d"/>
+				<item name="sr34_gold01_sp_d"/>
+				<item name="ss01_gold01"/>
+				<item name="ss02_gold01"/>
+				<item name="sp04_gold01"/>
+			</item>
+		</content>
+	</shop_item>

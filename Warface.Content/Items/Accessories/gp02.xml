@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="gp02" type="attachment" view_settings="objects/attachments/gp02/gp02.xml">
+		<description_ingame text="@ui_gp02_ingame"/>
+		<mmo_stats>
+			<param name="item_category" value="attachment"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@gp02_shop_name"/>
+			<param name="description" value="@ui_accessories_gp02"/>
+			<param name="icon" value="gp02"/>
+		</UI_stats>
+		<content>
+			<item name="gp02"/>
+		</content>
+		<drop_params model="Objects/Attachments/gp02/gp02_tp.cgf" scale="2">
+			<item name="gp02" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="spread_min_mul" value="0.9">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="spread_max_mul" value="0.9">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="recoil_att_mul" value="0.9">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="recoil_max_mul" value="0.9">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+		</settings>
+		<types>
+			<type helper="underbarrel_middle" name="gp02"/>
+		</types>
+	</item>

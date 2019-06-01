@@ -1,0 +1,37 @@
+<ammo name="bullet_sr_turret_ai" class="Bullet">
+	<geometry>
+	</geometry>
+	<flags>
+		<param name="clientonly" value="1"/>
+	</flags>
+	<whiz>
+		<param name="sound" value="sounds/physics:bullet_whiz:bullet_whiz_large"/>
+		<param name="speed" value="22"/>
+	</whiz>
+	<ricochet>
+		<param name="sound" value="sounds/physics:bullet_ricochet:bullet_ricochet"/>
+		<param name="speed" value="16"/>
+	</ricochet>
+	<physics type="particle">
+		<param name="mass" value="0.05"/>
+		<param name="speed" value="880"/>
+		<param name="air_resistance" value="0"/>
+		<param name="water_resistance" value="0"/>
+		<param name="gravity" value="0, 0, -1"/>
+		<param name="water_gravity" value="0, 0, -1"/>
+		<param name="material" value="mat_metal"/>
+		<param name="pierceability" value="4"/>
+		<param name="single_contact" value="1"/>
+	</physics>
+	<params>
+		<param name="lifetime" value="0.5"/>
+		<param name="showtime" value="0.15"/>
+		<param name="bulletType" value="3"/> <!-- bulletType 0 - LightBullet -->
+		<param name="hit_type" value="bullet"/>
+		<param name="launch_type" value="1"/>
+	</params>
+	<trailUnderWater>
+		<param name="effect" value="water.bubbles.bullets"/>
+		<param name="scale"  value="3.0"/>
+	</trailUnderWater>
+</ammo>

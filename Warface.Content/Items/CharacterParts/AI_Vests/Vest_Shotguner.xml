@@ -1,0 +1,11 @@
+<CharacterPart Name="Vest_Shotguner" Slot="AI_Vests" Template="AI_Vests">
+	<Model File="objects/Characters\AI_Vests\vest_shotguner/vest_shotguner.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Vests\vest_shotguner/vest_shotguner.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,15 @@
+<shop_item name="key_10th_rank_offer" type="key">
+	<mmo_stats>
+		<param name="item_category" value="Misc"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RESM"/>
+		<param name="max_buy_amount" value="32000"/>
+		<param name="stackable" value="0"/>
+		<param name="testcontent" value="0"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@key_10th_rank_offer_name"/>
+		<param name="description" value="@key_10th_rank_offer_description"/>
+		<param name="icon" value="key_10th_rank_offer_image"/>
+	</UI_stats>
+</shop_item>

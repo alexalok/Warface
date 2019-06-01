@@ -1,0 +1,23 @@
+<CharacterPart Name="Vest_Guner" Slot="AI_Vests" Template="AI_Vests">
+	<Model File="objects/characters/ai_vests/vest_guner/ai_vest_guner.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#vest_fat"/>
+			<Morph Switch="thin" Target="#vest_thin"/>
+			<Morph Switch="vest_type3" Target="#jacket_vest10"/>
+			<Morph Switch="vest_type11" Target="#jacket_vest_11"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Game\Objects\Characters\AI_Vests\vest_guner\vest_guner.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\AI_Vests\vest_guner\vest_guner_green.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\AI_Vests\vest_guner\vest_guner_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials/>
+		<Sockets/>
+	</Model>
+</CharacterPart>

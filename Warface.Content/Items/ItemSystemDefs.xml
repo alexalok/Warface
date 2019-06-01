@@ -1,0 +1,34 @@
+<DefItemSystem>
+	<spawnPolicy>
+		<item name="AISmokeGrenades" usePool="1"/>
+		<item name="AIFlashbangs" usePool="1"/>
+		<item name="FG_PM50AI" usePool="1"/>
+		<item name="SG_P19AI" usePool="1"/>
+		<!--
+			<item name="Reflex"	accessory="1"/>
+			<item name="AssaultScope" accessory="1"/>
+			<item name="SniperScope"  accessory="1"/>
+			<item name="FY71IncendiaryAmmo" accessory="1"/>
+			<item name="FY71NormalAmmo" accessory="1"/>
+			<item name="GrenadeLauncher" accessory="1"/>
+			<item name="GrenadeShell" accessory="1"/>
+			<item name="LAM" accessory="1"/>
+			<item name="LAMFlashLight" accessory="1"/>
+			<item name="LAMRifle" accessory="1"/>
+			<item name="LAMRifleFlashLight" accessory="1"/>
+			<item name="LAWScope" accessory="1"/>
+			<item name="MOACAttach" accessory="1"/>
+			<item name="OffhandFlashbang" accessory="1"/>
+			<item name="OffhandGrenade" accessory="1"/>
+			<item name="OffhandNanoDisruptor" accessory="1"/>
+			<item name="OffhandSmoke" accessory="1"/>
+			<item name="SCARIncendiaryAmmo" accessory="1"/>
+			<item name="SCARNormalAmmo" accessory="1"/>
+			<item name="SCARTagAmmo" accessory="1"/>
+			<item name="ScoutSearchBeam" accessory="1"/>
+			<item name="Silencer" accessory="1"/>
+			<item name="SOCOMSilencer" accessory="1"/>
+			<item name="TacticalAttachment" accessory="1"/>
+			-->
+		</spawnPolicy>
+	</DefItemSystem>

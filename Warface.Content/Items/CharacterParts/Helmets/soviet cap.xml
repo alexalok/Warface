@@ -1,0 +1,28 @@
+<CharacterPart Name="Soviet cap_01" Slot="Helmet" Template="Helmet">
+	<Model File="Objects\Characters\Helmets\Soviet_cap\Male\Soviet_cap_01.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_grey.mtl"/>
+			<Material Name="green" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_black.mtl"/>
+			<Material Name="dark_blue" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_dark_blue.mtl"/>
+			<Material Name="snow" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_snow.mtl"/>
+			<Material Name="urban" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_urban.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Helmets\Soviet_cap\Female\Soviet_cap_01.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_grey.mtl"/>
+			<Material Name="green" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_black.mtl"/>
+			<Material Name="dark_blue" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_dark_blue.mtl"/>
+			<Material Name="snow" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_snow.mtl"/>
+			<Material Name="urban" File="Objects\Characters\Helmets\Soviet_cap\soviet_cap_urban.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

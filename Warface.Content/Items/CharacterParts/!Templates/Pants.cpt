@@ -1,0 +1,65 @@
+<CharacterPartTemplate Name="Pants">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#pants_fat" />
+    <Morph Switch="thin" Target="#pants_thin" />
+
+    <Morph Switch="vest_type1" Target="#pants_vest01" />
+    <Morph Switch="vest_type2" Target="#pants_vest02" />
+    <Morph Switch="vest_type3" Target="#pants_vest03" />
+    <Morph Switch="vest_type4" Target="#pants_vest04" />
+
+    <Morph Switch="shoes_type2" Target="#pants_shoes02" />
+    <Morph Switch="shoes_type3" Target="#pants_shoes03" />
+  
+
+    <Morph Switch="hiparmor_left" Target="#pants_hiparmor_left" />
+    <Morph Switch="kneepad_left" Target="#pants_kneepad_left" />
+    <Morph Switch="knee+legarmor_left" Target="#pants_knee+legarmor_left" />
+
+    <Morph Switch="hiparmor_right" Target="#pants_hiparmor_right" />
+    <Morph Switch="kneepad_right" Target="#pants_kneepad_right" />
+    <Morph Switch="knee+legarmor_right" Target="#pants_knee+legarmor_right" />
+
+  </Morphs>
+
+  <Morphs Gender="Female">
+    <Morph Switch="fat" Target="#pants_fat" />
+    <Morph Switch="thin" Target="#pants_thin" />
+
+    <Morph Switch="vest_type1" Target="#pants_vest01" />
+    <Morph Switch="vest_type2" Target="#pants_vest02" />
+    <Morph Switch="vest_type3" Target="#pants_vest03" />
+    <Morph Switch="vest_type4" Target="#pants_vest04" />
+
+    <Morph Switch="shoes_type2" Target="#pants_shoes02" />
+    <Morph Switch="shoes_type3" Target="#pants_shoes03" />
+
+
+    <Morph Switch="hiparmor_left" Target="#pants_hiparmor_left" />
+    <Morph Switch="kneepad_left" Target="#pants_kneepad_left" />
+    <Morph Switch="knee+legarmor_left" Target="#pants_knee+legarmor_left" />
+
+    <Morph Switch="hiparmor_right" Target="#pants_hiparmor_right" />
+    <Morph Switch="kneepad_right" Target="#pants_kneepad_right" />
+    <Morph Switch="knee+legarmor_right" Target="#pants_knee+legarmor_right" />
+
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="Pants" />
+  </Switches>
+  <Switches Gender="Female">
+    <Switch Value="Pants" />
+  </Switches>
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+    <Mask Name="VISIBLE_FIRST_PERSON" />
+    <Mask Name="VISIBLE_HIGHQUALITY_THIRD_PERSON" />
+  </VisibilityMasks>
+<TexAtlasGen TextureSize="1024"/>
+
+  
+</CharacterPartTemplate>

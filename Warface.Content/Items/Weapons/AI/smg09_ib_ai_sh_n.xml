@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="medium" class="K01_Item" name="smg09_ib_ai_sh_n" net_policy="weapon_ai" priority="24" view_settings="objects/Weapons/smg09/smg09_ai_sh.xml">
+  <description text="@ui_weapons_smg02" />
+  <ai_descriptor burstBulletCountMax="1" burstBulletCountMin="1" burstPauseTimeMax="2" burstPauseTimeMin="1.0" draw_time="1.0" handler="instant" singleFireTriggerTime="-1" sweep_frequency="2.5" sweep_width="1.5" />
+  <params>
+    <param name="giveable" value="1" />
+    <param name="selectable" value="1" />
+    <param name="ui_weapon" value="1" />
+    <param name="giveable" value="1" />
+    <param name="ai_weapon_type" value="Assault" />
+  </params>
+  <ammos>
+    <ammo name="bullet_smg" />
+  </ammos>
+  <icons>
+    <combatlog icon="Smg09_combatLog" melee="Melee" />
+  </icons>
+  <settings archetype="Items/Weapons/Archetypes/SMG_ai.xml">
+    <param name="ammo_amount" value="25" />
+    <param name="rpm" value="300" />
+    <param name="damage" value="20" />
+    <param name="damage_min" value="12" />
+    <param name="damage_mul" value="1" />
+    <param name="melee_damage" value="25" />
+    <param name="melee_knock_back_chance" value="0" />
+    <param name="melee_knock_back_chance_mul" value="0" />
+    <param name="melee_knock_back_stamina_damage" value="0" />
+    <param name="melee_range" value="2.2" />
+    <param name="melee_radius" value="0.5" />
+    <param name="melee_radius_mul" value="1.0" />
+    <param name="spread_min" value="10" />
+    <param name="spread_max" value="16" />
+    <param name="spread_att" value="0" />
+    <param name="spread_dec" value="0" />
+    <param name="spread_min_mul" value="1" />
+    <param name="spread_max_mul" value="1" />
+    <param name="spread_att_mul" value="1" />
+    <param name="spread_dec_mul" value="1" />
+    <param name="damage_drop_per_meter" value="1.4" />
+    <param name="damage_drop_min_distance" value="7" />
+    <param name="knock_back_chance" value="0" />
+    <param name="reload_duration" value="1400" />
+    <param name="zoom_factor" value="1" />
+    <param name="melee_duration" value="370" />
+    <param name="melee_out_duration" value="200" />
+    <param name="toss_duration" value="500" />
+    <param name="holster_in_duration" value="200" />
+    <param name="deselect_duration" value="300" />
+  </settings>
+  <firemodes>
+    <firemode name="Rapid" type="Rapid" />
+  </firemodes>
+  <clipmode auto_reload="0" capacity="30" />
+  <melee_params></melee_params>
+  <sockets />
+  <fireparams>
+    <fire>
+      <param name="extra_ammo" value="150" />
+      <param name="ammo_type" value="bullet_smg" />
+      <param name="bullet_chamber" value="1" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+      <param name="ai_muzzle_pos" value="0.0, 0.25, 0.1" />
+    </fire>
+    <recoil />
+  </fireparams>
+</item>

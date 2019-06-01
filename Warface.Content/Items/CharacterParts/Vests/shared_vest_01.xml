@@ -1,0 +1,11 @@
+<CharacterPart Name="shared_vest_01" Slot="Vests" Template="shared_vest_01">
+	<Model File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01.chr" Gender="Male">
+		<Morphs/>
+		<Switches>
+			<Switch Value="shared_vest_01"/>
+		</Switches>
+		<Materials>
+			<Material Name="shared_vest_01" File="Objects\Characters\shared\vests\shared_vest_01\shared_vest_01.mtl"/>
+		</Materials>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<shop_item name="sr32_ps4_01skin_shop" type="weapon_skin">
+		<mmo_stats>
+			<param name="item_category" value="primarySkin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@sr32_ps4_01skin_shop_name"/>
+			<param name="description" value="@sr32_ps4_01"/>
+			<param name="icon" value="sr32_ps4_01"/>
+		</UI_stats>
+		<skin>
+			<param name="thumbnail_icon" value="sr32_ps4_01_thumbnail"/>
+			<param name="material" value="ps4_01"/>
+		</skin>
+	</shop_item>

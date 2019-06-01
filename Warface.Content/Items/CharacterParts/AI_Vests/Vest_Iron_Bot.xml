@@ -1,0 +1,11 @@
+<CharacterPart Name="Vest_Iron_Bot" Slot="AI_Vests" Template="AI_Vests">
+	<Model File="objects/Characters/AI_Vests/vest_Iron_Bot/vest_Iron_Bot.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Game/Objects/Characters/AI_Vests/vest_Iron_Bot/vest_Iron_Bot.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

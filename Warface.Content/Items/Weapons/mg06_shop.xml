@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+	<shop_item name="mg06_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Machinegun"/>
+			<param name="price" value="9000"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="2180"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@mg06_shop_name"/>
+			<param name="description" value="@ui_weapons_mg06"/>
+			<param name="icon" value="mg06"/>
+		</UI_stats>
+		<content>
+			<item name="mg06">
+				<item name="mg06_sp_d"/>
+			</item>
+		</content>
+		<skin_content>
+			<item name="mg06_camo03_shop"/>
+			<item name="mg06_camo04_shop"/>
+			<item name="mg06_camo06_shop"/>
+			<item name="mg06_camo07_shop"/>
+			<item name="mg06_set01_shop"/>
+			<item name="mg06_clr01_shop"/>
+		</skin_content>
+	</shop_item>

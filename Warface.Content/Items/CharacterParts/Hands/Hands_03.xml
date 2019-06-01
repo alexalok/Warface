@@ -1,0 +1,10 @@
+<CharacterPart Name="Hands_03" Slot="Hands" Template="Hands">
+	<Model File="Objects\Characters\medic\gloves\medic_gloves_01\medic_gloves_01.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="medic_gloves_03" File="Objects\Characters\medic\gloves\medic_gloves_01\medic_gloves_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

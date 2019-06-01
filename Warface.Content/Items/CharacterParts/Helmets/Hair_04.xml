@@ -1,0 +1,18 @@
+<CharacterPart Name="Hair_04" Slot="Helmet" Template="Helmet">
+	<Model File="Game\Objects\Characters\Body_Types\Liquid nsc\Liquid male\Liquid_body_glass.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/body_types/liquid nsc/liquid 1.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Helmets\Hair_04\female\Hair_04.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="Hair_01" File="objects/characters/helmets/hair_04/female/hair_04.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,11 @@
+<CharacterPart Name="Head_Arms_Swat_Shotgun" Slot="AI_Heads_Arms" Template="AI_Heads_Arms">
+	<Model File="objects/Characters\AI_Heads_Arms\head_swat_shotgun/head_swat_shotgun.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Heads_Arms\head_swat_shotgun/head_swat_shotgun.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

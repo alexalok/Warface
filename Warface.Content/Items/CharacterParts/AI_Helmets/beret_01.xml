@@ -1,0 +1,15 @@
+<CharacterPart Name="AI_beret_01" Slot="AI_Helmets" Template="AI_Helmets">
+	<Model File="Objects\Characters\AI_Helmets\beret_01\beret_01.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="objects/characters/helmets/beret/beret_green.mtl"/>
+			<Material Name="red" File="objects/characters/helmets/beret/beret_red.mtl"/>
+			<Material Name="black" File="objects/characters/helmets/beret/beret_black.mtl"/>
+			<Material Name="snow" File="objects/characters/helmets/beret/beret_white.mtl"/>
+			<Material Name="blue" File="objects/characters/helmets/beret/beret_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

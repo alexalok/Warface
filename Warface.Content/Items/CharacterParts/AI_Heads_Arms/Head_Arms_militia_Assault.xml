@@ -1,0 +1,11 @@
+<CharacterPart Name="Head_Arms_militia_Assault" Slot="AI_Heads_Arms" Template="AI_Heads_Arms">
+	<Model File="objects/Characters\AI_Heads_Arms\head_militia_assault/head_militia_assault.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Heads_Arms\head_militia_assault/head_militia_assault.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

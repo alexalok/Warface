@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="medium" class="K01_Item" name="pt03_ib_ai_e" net_policy="weapon_ai" priority="22" view_settings="objects/weapons/pt02/pt02_sed.xml">
+  <ai_descriptor burstBulletCountMax="1" burstBulletCountMin="1" burstPauseTimeMax="1" burstPauseTimeMin="0.5" draw_time="1.0" handler="instant" singleFireTriggerTime="-1" sweep_frequency="2.5" sweep_width="1.5" />
+  <params>
+    <param name="giveable" value="1" />
+    <param name="selectable" value="1" />
+    <param name="ui_weapon" value="1" />
+    <param name="giveable" value="1" />
+    <param name="ai_weapon_type" value="Handgun" />
+  </params>
+  <ammos>
+    <ammo name="bullet_pt" />
+  </ammos>
+  <icons>
+    <combatlog icon="Pt14_combatLog" melee="Melee" />
+  </icons>
+  <settings archetype="Items/Weapons/Archetypes/PT_ai.xml">
+    <param name="ammo_amount" value="10" />
+    <param name="rpm" value="100" />
+    <param name="damage" value="50" />
+    <param name="damage_mul" value="1" />
+    <param name="damage_min" value="15" />
+    <param name="melee_damage" value="40" />
+    <param name="melee_range" value="1" />
+    <param name="damage_drop_per_meter" value="20" />
+    <param name="damage_drop_min_distance" value="3" />
+    <param name="spread_min" value="1" />
+    <param name="spread_max" value="1.5" />
+    <param name="spread_att" value="0" />
+    <param name="spread_dec" value="0" />
+    <param name="spread_min_mul" value="1" />
+    <param name="spread_max_mul" value="1" />
+    <param name="spread_att_mul" value="1" />
+    <param name="spread_dec_mul" value="1" />
+    <param name="select_duration" value="0" />
+    <param name="deselect_duration" value="0" />
+    <param name="reload_duration" value="0" />
+    <param name="toss_duration" value="700" />
+    <param name="melee_duration" value="350" />
+    <param name="melee_out_duration" value="500" />
+    <param name="holster_in_duration" value="200" />
+    <param name="bayonet_melee_duration" value="233" />
+    <param name="bayonet_melee_out_duration" value="1000" />
+  </settings>
+  <firemodes>
+    <firemode name="Single" type="Single" />
+  </firemodes>
+  <clipmode auto_reload="0" capacity="15" unlimited="1" />
+  <melee_params>
+    <param name="impulse" value="20" />
+    <param name="pierce" value="100" />
+  </melee_params>
+  <sockets>
+    <socket can_be_empty="1" name="scope" ui_helper="ui_scope">
+      <support helper="top_small" name="top_small" />
+    </socket>
+    <socket can_be_empty="1" name="muzzle" ui_helper="ui_muzzle">
+      <support helper="silencer" name="silencer" />
+    </socket>
+    <socket can_be_empty="1" name="effects">
+      <support helper="muzzle_flash_effect" name="muzzle_flash_effect" />
+      <support helper="muzzle_flash_light" name="muzzle_flash_light" />
+    </socket>
+    <socket can_be_empty="0" name="clip">
+      <support helper="pt01_clip" name="pt01_clip" />
+    </socket>
+  </sockets>
+  <fireparams>
+    <fire>
+      <param name="ammo_type" value="bullet_pt" />
+      <param name="bullet_chamber" value="0" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+      <param name="ai_muzzle_pos" value="0.0, 0.25, 0.1" />
+    </fire>
+    <recoil>
+      <hints>
+        <hint x="0" y="1" />
+        <hint x="0" y="1" />
+        <hint x="0" y="1" />
+        <hint x="0" y="1" />
+      </hints>
+    </recoil>
+  </fireparams>
+</item>

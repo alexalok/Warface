@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+	<shop_item name="pt06_test_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Pistol"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="SRME"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="980"/>
+			<param name="testcontent" value="1"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="pt"/>
+			<param name="name" value="@pt06_skin_test_shop_name"/>
+			<param name="description" value="@ui_weapons_pt06_skin_test"/>
+			<param name="icon" value="pt06"/>
+		</UI_stats>
+		<content>
+			<item name="pt06"/>
+		</content>
+		<skin_content>
+			<item name="pt06_camo02_skin_test_shop"/>
+		</skin_content>
+	</shop_item>

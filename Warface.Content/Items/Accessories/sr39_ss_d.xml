@@ -1,0 +1,50 @@
+<item class="K01_Item" name="sr39_ss_d" type="attachment" view_settings="objects/weapons/sr39/sr39_ss_d.xml">
+	<skins>
+		<material name="default"/>
+	</skins>
+	<description_ingame text="@ui_sr39_ss_d_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="S"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@sr39_ss_d_shop_name"/>
+		<param name="description" value="@ui_accessories_sr39_ss_d"/>
+		<param name="icon" value="sr39_ss_d"/>
+	</UI_stats>
+	<content>
+		<item name="sr39_ss_d"/>
+	</content>
+	<drop_params>
+		<item name="sr39_ss_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="spread_min_mul" value="1">
+			<stance name="run" value="1"/>
+			<stance name="jump" value="1"/>
+			<stance name="haste" value="1"/>
+			<stance name="crouch" value="1"/>
+			<stance name="prone" value="1"/>
+			<stance name="rest" value="1"/>
+			<stance name="stand" value="1"/>
+		</param>
+		<param name="fov_mul" value="0">
+			<stance name="zoomed_stand" value="0.45"/>
+			<stance name="zoomed_crouch" value="0.45"/>
+			<stance name="zoomed_prone" value="0.45"/>
+			<stance name="zoomed_rest" value="0.45"/>
+			<stance name="zoomed_walk" value="0.45"/>
+			<stance name="zoomed_jump" value="0.45"/>
+		</param>
+		<param name="zoom_factor" value="4"/>
+		<param name="zoom_in_duration_mul" value="0.86"/>
+		<param name="zoom_out_duration_mul" value="0.86"/>
+	</settings>
+	<types>
+		<type helper="sr39_ss_d" name="sr39_ss_d"/>
+		<type helper="top_large" name="top_large"/>
+		<type helper="zoom_helper" name="zoom_helper"/>
+		<type helper="aux_helper" name="aux_helper"/>
+	</types>
+</item>

@@ -1,0 +1,19 @@
+<CharacterPart Name="AI_Cap_01" Slot="AI_Helmets" Template="AI_Helmets">
+	<Model File="Objects\Characters\AI_Helmets\Cap_01\cap_01.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Helmets\cap\cap_grey.mtl"/>
+			<Material Name="green" File="Objects\Characters\Helmets\cap\cap_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\Helmets\cap\cap_black.mtl"/>
+			<Material Name="blue" File="Objects\Characters\Helmets\cap\cap_dark_blue.mtl"/>
+			<Material Name="snow" File="Objects\Characters\Helmets\cap\cap_snow.mtl"/>
+			<Material Name="jungle" File="Objects\Characters\Helmets\cap\cap_jungle.mtl"/>
+			<Material Name="urban" File="Objects\Characters\Helmets\cap\cap_urban.mtl"/>
+			<Material Name="digital" File="Objects\Characters\Helmets\cap\cap_digital.mtl"/>
+			<Material Name="desert" File="Objects\Characters\Helmets\cap\cap_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,22 @@
+<CharacterPart Name="HP_Wristarmor_01_right" Slot="HP_Wrist_right" Template="HP_ElbowPads+WristArmor_Right">
+	<Model File="Game\Objects\Characters\HP_Wristarmor\HP_Wristarmor_01\Male\HP_wristarmor_01_right.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\FP_Wristarmor\FP_Wristarmor_01\FP_Wristarmor_01.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\FP_Wristarmor\FP_Wristarmor_01\FP_Wristarmor_01_green.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\FP_Wristarmor\FP_Wristarmor_01\FP_Wristarmor_01_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\HP_Wristarmor\HP_Wristarmor_01\Female\HP_Wristarmor_01_right.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\FP_Wristarmor\FP_Wristarmor_01\FP_Wristarmor_01.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\FP_Wristarmor\FP_Wristarmor_01\FP_Wristarmor_01_green.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\FP_Wristarmor\FP_Wristarmor_01\FP_Wristarmor_01_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

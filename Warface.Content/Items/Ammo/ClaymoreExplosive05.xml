@@ -1,0 +1,53 @@
+<ammo name="claymoreexplosive05" type="claymore" net_policy="weapon" class="ClaymoreExplosive" require="cm05">
+	<mmo_stats>
+		<param name="item_category" value="Grenade"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RMES"/>
+		<param name="max_buy_amount" value="9999"/>
+		<param name="stackable" value="1"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@cm05_shop_name"/>
+		<param name="description" value="@ui_weapons_05"/>
+		<param name="icon" value="cm05"/>
+	</UI_stats>
+	<icons>
+		<combatlog icon="Cm05_combatLog" melee="Melee"/>
+	</icons>
+	<settings>
+		<param name="amount" value="5"/>
+	</settings>
+	<geometry>
+		<firstperson name="Objects/Weapons/cm05/cm05_tp_ammo.cgf"/>
+		<thirdperson name="Objects/Weapons/cm05/cm05_tp_ammo.cgf"/>
+	</geometry>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="static">
+		<param name="material" value="mat_metal"/>
+	</physics>
+	<explosion>
+		<param name="pressure" value="50"/>
+		<param name="max_radius" value="7"/>
+		<param name="hole_size" value="2"/>
+		<param name="terrain_hole_size" value="5"/>
+		<param name="effect_scale" value="2"/>
+		<param name="radialblurdist" value="65"/>
+		<param name="type" value="frag"/>
+	</explosion>
+	<params>
+		<param name="trigger_radius" value="3"/>
+		<param name="trigger_angle" value="360"/>
+		<param name="arm_delay" value="2"/>
+		<param name="activation_delay" value="0.6"/>
+		<param name="activation_sound" value="sounds/w_cm_05:cm_05_handling:activate"/>
+		<param name="hitPoints" value="50"/>
+		<param name="quietRemoval" value="1"/>
+		<param name="lifetime" value="0"/>
+		<param name="ammo_kind"	value="claymoreexplosive"/>
+		<param name="hit_type" value="claymore"/>
+		<param name="launch_type" value="0"/>
+	</params>
+</ammo>

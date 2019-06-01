@@ -1,0 +1,15 @@
+<shop_item name="key_booster_02" type="key">
+	<mmo_stats>
+		<param name="item_category" value="Misc"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RESM"/>
+		<param name="max_buy_amount" value="32000"/>
+		<param name="stackable" value="0"/>
+		<param name="testcontent" value="0"/>
+	</mmo_stats>
+	<UI_stats>
+			<param name="name" value="@ui_booster_name_2"/>
+			<param name="description" value=""/>
+			<param name="icon" value="ItemBoosterVIP"/>
+	</UI_stats>
+</shop_item>

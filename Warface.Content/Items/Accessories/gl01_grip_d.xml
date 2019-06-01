@@ -1,0 +1,7 @@
+<item class="K01_Item" name="gl01_grip_d" type="attachment" view_settings="Objects/Attachments/gp01/gp01.xml">
+	<description text="@ui_accessories_gl01_grip_d"/>
+	<settings>
+	</settings>
+	<types>
+	</types>
+</item>

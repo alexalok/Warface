@@ -1,0 +1,30 @@
+<CharacterPartTemplate Name="Vest_Type10">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#vest_fat" />
+    <Morph Switch="thin" Target="#vest_thin" />
+    <Morph Switch="neck_fat" Target="#vest_neck_fat" />
+    <Morph Switch="neck_thin" Target="#vest_neck_thin" />
+  </Morphs>
+
+  <Morphs Gender="Female">
+    <Morph Switch="fat" Target="#vest_fat" />
+    <Morph Switch="thin" Target="#vest_thin" />
+    <Morph Switch="neck_fat" Target="#vest_neck_fat" />
+    <Morph Switch="neck_thin" Target="#vest_neck_thin" />
+  </Morphs>
+
+
+  <Switches Gender="Male">
+    <Switch Value="vest_type10" />
+  </Switches>
+  <Switches Gender="Female">
+    <Switch Value="vest_type10" />
+  </Switches>
+  
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+  </VisibilityMasks>
+<TexAtlasGen TextureSize="1024"/>
+</CharacterPartTemplate>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="pve_call_lift">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to call lift"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы вызвать лифт"/>
+	</entry>
+	<entry key="pve_move_lift">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to start moving"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы начать движение"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="hideout_start_training">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; for start training mode"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы начать тренировку"/>
+	</entry>
+	<entry key="hideout_stop_training">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; for stop training mode"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы остановить тренировку"/>
+	</entry>
+	<entry key="hideout_start_running">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; for start running targets"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы включить движущиеся мишени"/>
+	</entry>
+	<entry key="move_bridge">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to move bridge"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы передвинуть мост"/>
+	</entry>
+	<entry key="lift_fork">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to lift fork"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы поднять цель"/>
+	</entry>
+	<entry key="lower_hatch">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to lower rocket hatch"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы убрать заслон"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Africa path 04">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="hack_security">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; for hack security"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы начать взлом"/>
+	</entry>
+	<entry key="disable_rocket_start">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; for disable missile navigation system"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы отключить систему наведения ракет."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Africa path 05">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="deactivate_forcefield">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to deactivate forcefield"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы отключить силовое поле"/>
+	</entry>
+	<entry key="destroy_radar_first">
+		<original value="Destroy the radar to proceed!"/>
+		<translation value="Уничтожьте радар, чтобы продолжить миссию!"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Africa path 08">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="feed_the_dog">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to feed the dog"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы покормить пса"/>
+	</entry>
+	<entry key="turn_off_the_drill">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to turn off the drill"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы отключить"/>
+	</entry>
+	<entry key="start_the_dozer">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to move dozer"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы передвинуть"/>
+	</entry>
+	<entry key="feed_the_dog_first">
+		<original value="Yum Yum said dog"/>
+		<translation value="Пес облизывается"/>
+	</entry>
+	<entry key="turn_off_the_drill_first">
+		<original value="Noise here"/>
+		<translation value="Звук идет отсюда"/>
+	</entry>
+	<entry key="defuse_the_bomb">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to defuse the bomb"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы обезвредить бомбу"/>
+	</entry>
+	<entry key="hit_the_airplane">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to hit the airplane"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы сбить самолет"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Africa path 09">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="PlantC4">
+		<original value="Plant the C4!"/>
+		<translation value="Установите С4!"/>
+	</entry>
+	<entry key="Protect_device">
+		<original value="Protect the console!"/>
+		<translation value="Защищайте консоль!"/>
+	</entry>
+	<entry key="Defend_the_area">
+		<original value="Defend your positions!"/>
+		<translation value="Держите оборону!"/>
+	</entry>
+	<entry key="device_under_attack">
+		<original value="Device is under attack!"/>
+		<translation value="Устройство атакуют!"/>
+	</entry>
+	<entry key="device_protected">
+		<original value="Proceed to the elevator!"/>
+		<translation value="Идите к лифту!"/>
+	</entry>
+	<entry key="30_seconds_remain">
+		<original value="30 seconds left!"/>
+		<translation value="Осталось 30 секунд!"/>
+	</entry>
+	<entry key="Kill_ironman">
+		<original value="Kill ironman!"/>
+		<translation value="Победите джаггернаута!"/>
+	</entry>
+	<entry key="Clear_place">
+		<original value="Move cars from landing place!"/>
+		<translation value="Уберите машины с места посадки!"/>
+	</entry>
+	<entry key="device_destroyed">
+		<original value="Device is destroyed"/>
+		<translation value="Устройство уничтожено"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Anubis Act03">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Run_Virus_Application_msg">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to install virus"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы установить вирус"/>
+	</entry>
+	<entry key="launch_bridge_msg">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to open bridge"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы опустить мост"/>
+	</entry>
+	<entry key="cinematic_call_elevator_msg">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to turn on generator"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы включить генератор"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="pve_stop_lift">
+		<original value="Press &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to stop elevator"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt;, чтобы остановить лифт"/>
+	</entry>
+	<entry key="Icebreaker Act 02">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ib_act2_deactivate_01">
+		<original value="Hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to deactivate hacking device"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы отключить устройство для взлома"/>
+	</entry>
+	<entry key="ib_act2_deactivate_02">
+		<original value="Hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to deactivate jamming device"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы отключить генератор помех"/>
+	</entry>
+	<entry key="ib_act2_activate_01">
+		<original value="Hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to enable communications"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы включить связь"/>
+	</entry>
+	<entry key="ib_act2_activate_02">
+		<original value="Hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to change coordinates"/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы изменить координаты"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Flying_Turret">
+		<original value="Flying Turret"/>
+		<translation value="Капсула с турелью"/>
+	</entry>
+	<entry key="ship_name01">
+		<original value="K017"/>
+		<translation value="Ракетный корабль"/>
+	</entry>
+	<entry key="fallen_tree">
+		<original value="Fallen tree"/>
+		<translation value="Поваленное дерево"/>
+	</entry>
+	<entry key="fire">
+		<original value="Fire"/>
+		<translation value="Пламя"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Escape">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="go_to_light">
+		<original value="Go to the illuminated areas!"/>
+		<translation value="Держитесь освещенных участков!"/>
+	</entry>
+	<entry key="killing_darkness">
+		<original value="Killing Darkness"/>
+		<translation value="Тьма"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="Escape Act01">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="light_killzone_warning">
+		<original value="Get back to the light!"/>
+		<translation value="Возвращайтесь к свету!"/>
+	</entry>
+	<entry key="electric_fence">
+		<original value="Electric fence"/>
+		<translation value="Электрическая ограда"/>
+	</entry>
+	<entry key="electric_fence_warning">
+		<original value="Get off the fence!"/>
+		<translation value="Отойдите от ограды!"/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="pick_lock">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to pick lock"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы взломать замок"/>
+	</entry>
+	<entry key="poison_gas">
+		<original value="Posion gas"/>
+		<translation value="Ядовитый газ"/>
+	</entry>
+	<entry key="explosion">
+		<original value="Explosion"/>
+		<translation value="Взрыв"/>
+	</entry>
+	<entry key="open_door">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to open door"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы открыть дверь"/>
+	</entry>
+	<entry key="read_sed_info">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to inspect terminal"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы использовать терминал"/>
+	</entry>
+	<entry key="call_elevator">
+		<original value="Press and hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to call lift"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы вызвать лифт"/>
+	</entry>
+	<entry key="ring_school">
+		<original value="Lessons over, time to go home!"/>
+		<translation value="Уроки окончены, пора домой!"/>
+	</entry>
+	<entry key="make_wish">
+		<original value="Press and hold &lt;font color='#ffc800'&gt; %[default:use] &lt;/font&gt; to make a wish"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы загадать желание"/>
+	</entry>
+	<entry key="radiation">
+		<original value="Radiation"/>
+		<translation value="Радиация"/>
+	</entry>
+	<entry key="ring_school_1">
+		<original value="1/6"/>
+		<translation value="1/6"/>
+	</entry>
+	<entry key="ring_school_2">
+		<original value="2/6"/>
+		<translation value="2/6"/>
+	</entry>
+	<entry key="ring_school_3">
+		<original value="3/6"/>
+		<translation value="3/6"/>
+	</entry>
+	<entry key="ring_school_4">
+		<original value="4/6"/>
+		<translation value="4/6"/>
+	</entry>
+	<entry key="ring_school_5">
+		<original value="5/6"/>
+		<translation value="5/6"/>
+	</entry>
+	<entry key="hack">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to hack into the Blackwood data server"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы взломать сервер Blackwood"/>
+	</entry>
+	<entry key="Mantis">
+		<original value="Mantis"/>
+		<translation value="Богомол"/>
+	</entry>
+	<entry key="wishmaster_text">
+		<original value="Happiness for everybody, free, and no one will go away unsatisfied!"/>
+		<translation value="Счастье для всех, даром, и пусть никто не уйдет обиженный!"/>
+	</entry>
+	<entry key="use_antirad">
+		<original value="Take anti-radiation medication"/>
+		<translation value="Принять противорадиационный препарат"/>
+	</entry>
+	<entry key="antirad_01">
+		<original value="It seems that the expiration date has expired long ago."/>
+		<translation value="Судя по всему, срок годности препарата давно истек."/>
+	</entry>
+	<entry key="antirad_02">
+		<original value="This antiradiation drug is contaminated with radiation."/>
+		<translation value="У этого препарата все признаки радиационного заражения."/>
+	</entry>
+	<entry key="antirad_03">
+		<original value="This box is empty."/>
+		<translation value="Ящик пуст."/>
+	</entry>
+	<entry key="antirad_04">
+		<original value="There is only a bolt inside."/>
+		<translation value="Внутри лежит ржавый болт."/>
+	</entry>
+	<entry key="antirad_05">
+		<original value="Someone has looted this already."/>
+		<translation value="Кто-то уже забрал содержимое себе."/>
+	</entry>
+	<entry key="antirad_06">
+		<original value="The lock is broken."/>
+		<translation value="Замок взломан."/>
+	</entry>
+	<entry key="cb_apc">
+		<original value="APC-3000"/>
+		<translation value="БТР-3000"/>
+	</entry>
+	<entry key="interaction_forcefield">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to deactivate forcefield"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы отключить силовое поле"/>
+	</entry>
+	<entry key="interaction_gate">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to open the gate"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы открыть ворота"/>
+	</entry>
+	<entry key="interaction_terminal">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to connect to the terminal"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы подключиться к терминалу"/>
+	</entry>
+	<entry key="interaction_shield_install">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to activate shield"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы активировать щит"/>
+	</entry>
+	<entry key="interaction_shield_pickup">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to pickup shield"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы взять щит"/>
+	</entry>
+	<entry key="move_shield_warning">
+		<original value="Move the shield forward!"/>
+		<translation value="Двигайте щит вперед!"/>
+	</entry>
+	<entry key="install_shield_warning">
+		<original value="Install shield and get ready!"/>
+		<translation value="Установите щит и приготовьтесь!"/>
+	</entry>
+	<entry key="Tower">
+		<original value="TOWER"/>
+		<translation value="БАШНЯ"/>
+	</entry>
+	<entry key="kick_gate">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to kick the gate"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы распахнуть ворота ударом"/>
+	</entry>
+</localization>

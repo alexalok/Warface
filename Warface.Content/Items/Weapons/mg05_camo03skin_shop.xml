@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<shop_item name="mg05_camo03skin_shop" type="weapon_skin">
+		<mmo_stats>
+			<param name="item_category" value="primarySkin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@mg05_camo03skin_shop_name"/>
+			<param name="description" value="@mg05_camo03"/>
+			<param name="icon" value="mg05_camo03"/>
+		</UI_stats>
+		<skin>
+			<param name="thumbnail_icon" value="mg05_camo03_thumbnail"/>
+			<param name="material" value="camo03"/>
+		</skin>
+	</shop_item>

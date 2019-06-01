@@ -1,0 +1,34 @@
+<CharacterPart Name="PvEP_Arms_02" Slot="FP_Arms" Template="FP_Arms">
+	<Model File="Objects/Characters/PvEP/fp_arms_hands_02.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_grey.mtl"/>
+			<Material Name="black" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_black.mtl"/>
+			<Material Name="digital" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_digital.mtl"/>
+			<Material Name="blue" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_blue.mtl"/>
+			<Material Name="urban" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_urban.mtl"/>
+			<Material Name="desert" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_desert.mtl"/>
+			<Material Name="jungle" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_jungle.mtl"/>
+			<Material Name="snow" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_snow.mtl"/>
+			<Material Name="green" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects/Characters/PvEP/fp_arms_hands_02.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_grey.mtl"/>
+			<Material Name="black" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_black.mtl"/>
+			<Material Name="digital" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_digital.mtl"/>
+			<Material Name="blue" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_blue.mtl"/>
+			<Material Name="urban" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_urban.mtl"/>
+			<Material Name="desert" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_desert.mtl"/>
+			<Material Name="jungle" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_jungle.mtl"/>
+			<Material Name="snow" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_snow.mtl"/>
+			<Material Name="green" File="Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_hands_02_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

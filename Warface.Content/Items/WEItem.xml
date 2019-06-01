@@ -1,0 +1,7 @@
+<item name="WEItem" class="K01_Item" category="medium" priority="1" view_settings="">
+	<settings/>
+	<fireparams/>
+	<firemodes>
+		<firemode type="Single" name="Single"/>
+	</firemodes>
+</item>

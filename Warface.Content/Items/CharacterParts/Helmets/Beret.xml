@@ -1,0 +1,28 @@
+<CharacterPart Name="Beret" Slot="Helmet" Template="Helmet">
+	<Model File="Game\Objects\Characters\Helmets\beret\Male\beret.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="objects/characters/helmets/beret/beret_green.mtl"/>
+			<Material Name="grey" File="objects/characters/helmets/beret/beret_grey.mtl"/>
+			<Material Name="red" File="objects/characters/helmets/beret/beret_red.mtl"/>
+			<Material Name="black" File="objects/characters/helmets/beret/beret_black.mtl"/>
+			<Material Name="snow" File="objects/characters/helmets/beret/beret_white.mtl"/>
+			<Material Name="blue" File="objects/characters/helmets/beret/beret_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/helmets/beret/female/beret.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="objects/characters/helmets/beret/beret_green.mtl"/>
+			<Material Name="grey" File="objects/characters/helmets/beret/beret_grey.mtl"/>
+			<Material Name="red" File="objects/characters/helmets/beret/beret_red.mtl"/>
+			<Material Name="black" File="objects/characters/helmets/beret/beret_black.mtl"/>
+			<Material Name="snow" File="objects/characters/helmets/beret/beret_white.mtl"/>
+			<Material Name="blue" File="objects/characters/helmets/beret/beret_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

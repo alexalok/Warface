@@ -1,0 +1,11 @@
+<CharacterPart Name="Pants_Spec_ops" Slot="AI_Pants" Template="AI_Pants">
+	<Model File="Objects\Characters\AI_Pants\Pants_spec_ops\pants_spec_ops.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Objects\Characters\AI_Pants\Pants_spec_ops\pants_spec_ops.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

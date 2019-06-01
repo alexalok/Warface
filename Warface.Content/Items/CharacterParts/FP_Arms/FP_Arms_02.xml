@@ -1,0 +1,44 @@
+<CharacterPart Name="FP_Arms_02" Slot="FP_Arms" Template="FP_Arms">
+	<Model File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\FP_Arms\FP_Arms_02\Male\fp_arms_02.mtl"/>
+			<Material Name="black" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="digital" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_digital.mtl"/>
+			<Material Name="blue" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_darkblu.mtl"/>
+			<Material Name="urban" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_urban.mtl"/>
+			<Material Name="desert" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_desert.mtl"/>
+			<Material Name="jungle" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_jungle.mtl"/>
+			<Material Name="snow" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_snow.mtl"/>
+			<Material Name="green" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_green.mtl"/>
+			<Material Name="civilian_grey" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="civilian_red" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="civilian_green" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="civilian_blue" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="civilian_yellow" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\FP_Arms\FP_Arms_02\Female\FP_Arms_02.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_black.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_dark_blue.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_desert.mtl"/>
+			<Material Name="digital" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_digital.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_green.mtl"/>
+			<Material Name="grey" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_grey_camo.mtl"/>
+			<Material Name="jungle" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_jungle.mtl"/>
+			<Material Name="urban" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_urban.mtl"/>
+			<Material Name="snow" File="Game\Objects\Characters\HP_Arms\HP_Arms_02\Female\HP_Arms_02_snow.mtl"/>
+			<Material Name="civilian_grey" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="civilian_red" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="civilian_green" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="civilian_blue" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+			<Material Name="civilian_yellow" File="objects/characters/fp_arms/fp_arms_02/male/fp_arms_02_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

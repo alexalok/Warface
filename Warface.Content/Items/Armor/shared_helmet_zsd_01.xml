@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+	<GameItem name="shared_helmet_zsd_01" type="armor">
+		<mmo_stats>
+			<param name="item_category" value="Helmet"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="MERS"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="624"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_shared_helmet_zsd_01_name"/>
+			<param name="description" value="@ui_armor_shared_helmet_zsd_01"/>
+			<param name="icon" value="shared_helmet_zsd_01"/>
+		</UI_stats>
+		<slots>
+			<slot main="1" name="helmet">
+				<Materials>
+					<Material default="1" display_name="grey" icon="mat_grey" name="default" surface_type="mat_armor_head"/>
+				</Materials>
+				<assets>
+					<asset display="all" mode="tp" name="shared_helmet_zsd_01" teamId="1"/>
+					<asset display="all" mode="tp" name="shared_helmet_zsd_01" teamId="2"/>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+			<param name="hp_regeneration_hps" value="1"/>
+			<param name="hp_regeneration_timeout" value="5"/>
+			<param name="blind_amount_mul" value="0.4"/>
+			<param name="flashbang_time_mul" value="0.6"/>
+		</GameParams>
+	</GameItem>

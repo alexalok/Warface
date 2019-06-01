@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+	<decal name="Decal008" texture="objects\Characters\Decals\8.tif" type="decal">
+		<mmo_stats>
+			<param name="item_category" value="decal"/>
+			<param name="price" value="0"/>
+			<param name="shopcontent" value="0"/>
+			<param name="classes" value="RESM"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@decal_item_shop_name"/>
+			<param name="description" value="@ui_decal_item"/>
+			<param name="icon" value="Tatoo008"/>
+		</UI_stats>
+	</decal>

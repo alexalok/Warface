@@ -1,0 +1,188 @@
+<item category="heavy" class="K01_Item" name="sr14" priority="60" view_settings="objects/weapons/sr14/sr14.xml">
+	<tags>
+		<tag name="sr" />
+	</tags>
+	<skins>
+		<material name="default"/>
+		<material name="kra01"/>
+		<material name="set01"/>
+		<material name="bra01"/>
+		<material name="carbon01"/>	
+	</skins>
+	<icons>
+		<ui_icon name="sr14"/>
+		<combatlog icon="Sr14_combatLog" melee="Melee"/>
+	</icons>
+	<drop_params>
+		<item name="sr14" type="weapon"/>
+	</drop_params>
+	<settings archetype="Items/Weapons/Archetypes/SR.xml">
+		<param name="ammo_amount" value="5"/>
+		<param name="rpm" value="150"/>
+		<param name="damage" value="340"/>
+		<param name="damage_min" value="180"/>
+		<param name="damage_mul" value="1"/>
+		<param name="damage_drop_per_meter" value="2"/>
+		<param name="damage_drop_min_distance" value="70"/>
+		<param name="melee_damage" value="40"/>
+		<param name="melee_range" value="1.3"/>
+		<param name="melee_radius" value="0.2"/>
+		<param name="recoil_max" value="550"/>
+		<param name="recoil_att" value="150"/>
+		<param name="recoil_att_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="0.8"/>
+			<stance name="prone" value="0.77"/>
+			<stance name="run" value="1.1"/>
+			<stance name="haste" value="1"/>
+			<stance name="jump" value="1"/>
+			<stance name="zoomed_stand" value="1"/>
+			<stance name="zoomed_crouch" value="0.8"/>
+			<stance name="zoomed_prone" value="0.77"/>
+			<stance name="zoomed_walk" value="1"/>
+			<stance name="zoomed_jump" value="1"/>
+		</param>
+		<param name="recoil_dec" value="90"/>
+		<param name="recoil_dec_mul" value="1"/>
+		<param name="recoil_rnd" value="0"/>
+		<param name="recoil_smth" value="70"/>
+		<param name="recoil_smth_mul" value="1"/>
+		<param name="spread_min" value="22"/>
+		<param name="spread_min_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="0.8"/>
+			<stance name="prone" value="0.77"/>
+			<stance name="run" value="1.3"/>
+			<stance name="haste" value="7"/>
+			<stance name="jump" value="7"/>
+			<stance name="zoomed_stand" value="0.001"/>
+			<stance name="zoomed_crouch" value="0.001"/>
+			<stance name="zoomed_prone" value="0.001"/>
+			<stance name="zoomed_walk" value="0.001"/>
+			<stance name="zoomed_jump" value="0.1"/>
+		</param>
+		<param name="spread_max" value="32"/>
+		<param name="spread_max_mul" value="1">
+			<stance name="stand" value="1"/>
+			<stance name="crouch" value="0.8"/>
+			<stance name="prone" value="0.8"/>
+			<stance name="run" value="1.2"/>
+			<stance name="haste" value="1"/>
+			<stance name="jump" value="1.2"/>
+			<stance name="zoomed_stand" value="0.001"/>
+			<stance name="zoomed_crouch" value="0.001"/>
+			<stance name="zoomed_prone" value="0.001"/>
+			<stance name="zoomed_walk" value="0.001"/>
+			<stance name="zoomed_jump" value="0.1"/>
+		</param>
+		<param name="spread_att" value="5"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec" value="90"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="spread_dec_delay" value="100"/>
+		<param name="sway_dec" value="1">
+			<stance name="zoomed_stand" value="0.5"/>
+			<stance name="zoomed_crouch" value="0.5"/>
+			<stance name="zoomed_prone" value="0.5"/>
+			<stance name="zoomed_walk" value="0.5"/>
+			<stance name="zoomed_jump" value="0.5"/>
+		</param>
+		<param name="sway_dec_mul" value="1">
+			<stance name="zoomed_stand" value="0.25"/>
+			<stance name="zoomed_crouch" value="0.25"/>
+			<stance name="zoomed_prone" value="0.25"/>
+			<stance name="zoomed_walk" value="0.25"/>
+			<stance name="zoomed_jump" value="0.25"/>
+		</param>
+		<param name="sway_speed_mult" value="0.1">
+			<stance name="zoomed_stand" value="0.4"/>
+			<stance name="zoomed_crouch" value="0.4"/>
+			<stance name="zoomed_prone" value="0.1"/>
+			<stance name="zoomed_walk" value="1.5"/>
+			<stance name="zoomed_jump" value="2.5"/>
+		</param>
+		<param name="sway_mul" value="1">
+			<stance name="zoomed_stand" value="1"/>
+			<stance name="zoomed_crouch" value="1"/>
+			<stance name="zoomed_prone" value="1"/>
+			<stance name="zoomed_walk" value="2"/>
+			<stance name="zoomed_jump" value="8"/>
+		</param>
+		<param name="sway_min_x" value="0.025"/>
+		<param name="sway_min_y" value="0.035"/>
+		<param name="fov_mul" value="1">
+			<stance name="zoomed_stand" value="0.7"/>
+			<stance name="zoomed_crouch" value="0.7"/>
+			<stance name="zoomed_prone" value="0.7"/>
+			<stance name="zoomed_walk" value="0.7"/>
+			<stance name="zoomed_jump" value="0.7"/>
+		</param>
+		<param name="melee_knock_back_chance" value="1"/>
+		<param name="knock_back_chance" value="1"/>
+		<param name="knock_back_stamina_damage" value="0.01"/>
+		<param name="zoom_factor" value="1"/>
+		<param name="reload_duration" value="2900"/>
+		<param name="melee_duration" value="400"/>
+		<param name="melee_out_duration" value="500"/>
+		<param name="select_duration" value="650"/>
+		<param name="deselect_duration" value="600"/>
+		<param name="holster_in_duration" value="200"/>
+		<param name="bolt_action" value="1"/>
+		<param name="bolt_action_duration" value="1000"/>
+		<param name="auto_zoom_in" value="1"/>
+		<param name="auto_zoom_out" value="1"/>
+		<param name="zoomed_bolt_action_duration" value="1400"/>
+		<param name="ai_sound_radius" value="400"/>
+		<param name="ai_light_radius" value="2.3"/>
+		<param name="zoom_in_duration" value="200"/>
+		<param name="zoom_out_duration" value="150"/>
+		<param name="cyborg_damage_buff" value="2"/>
+	</settings>
+	<firemodes>
+		<firemode icon="FireModeSingle" type="Single"/>
+	</firemodes>
+	<melee_params>
+		<param name="impulse" value="20"/>
+		<param name="pierce" value="10"/>
+		<param name="no_ray_test" value="1"/>
+	</melee_params>
+	<sockets>
+		<socket can_be_empty="0" name="scope" ui_helper="ui_scope">
+			<support helper="top_large" name="ss04"/>
+			<support helper="top_large" name="ss06"/>
+			<support helper="top_large" name="ss02"/>
+		</socket>
+		<socket can_be_empty="1" name="underbarrel" ui_helper="ui_underbarrel">
+			<support helper="underbarrel_small" name="bp01"/>
+		</socket>
+		<socket can_be_empty="1" name="muzzle" ui_helper="ui_muzzle">
+			<support helper="suppressor" name="sp04"/>
+			<support helper="silencer" name="sc02"/>
+			<support helper="silencer" name="sc06"/>
+		</socket>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<fireparams>
+		<fire>
+			<param name="extra_ammo" value="40"/>
+			<param name="ammo_type" value="bullet_sr"/>
+			<param name="bullet_chamber" value="0"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="helper_fp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+		</fire>
+		<recoil>
+			<param name="hint_loop_start" value="1"/>
+			<hints>
+				<hint x="1.2" y="1"/>
+				<hint x="1.5" y="0.8"/>
+				<hint x="0.5" y="1.4"/>
+				<hint x="1.3" y="1.8"/>
+				<hint x="1.1" y="2"/>
+			</hints>
+		</recoil>
+	</fireparams>
+</item>

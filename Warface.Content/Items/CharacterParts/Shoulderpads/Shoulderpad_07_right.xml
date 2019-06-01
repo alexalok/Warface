@@ -1,0 +1,22 @@
+<CharacterPart Name="Shoulderpad_07_right" Slot="Shoulder_right" Template="ShoulderPads_Right">
+	<Model File="Game\Objects\Characters\Shoulderpads\Shoulderpads_07\male\Shoulderpads_07_right.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Vests\Tactical_Vest_07\vest_07.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Vests\Tactical_Vest_07\vest_07_green.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Vests\Tactical_Vest_07\vest_07_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Shoulderpads\Shoulderpads_07\Female\Shoulderpad_07_right.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Vests\Tactical_Vest_07\vest_07.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Vests\Tactical_Vest_07\vest_07_green.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Vests\Tactical_Vest_07\vest_07_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

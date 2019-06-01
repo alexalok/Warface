@@ -1,0 +1,36 @@
+<ammo name="bullet_rg" class="Bullet">
+	<icons>
+		<combatlog icon="Rg01_zsd01_combatLog"/>
+	</icons>
+	<flags>
+		<param name="clientonly" value="1"/>
+	</flags>
+	<trail>
+		<param name="effect" value="weapon_fx.tracer.tracer_railgun_volcano_fp"/>
+		<param name="prime" value="false"/>
+	</trail>
+	<physics type="particle">
+		<param name="mass" value="100"/>
+		<param name="speed" value="100"/>
+		<param name="radius" value="0.125"/>
+		<param name="air_resistance" value="0"/>
+		<param name="water_resistance" value="0.5"/>
+		<param name="gravity" value="0, 0, -2.0"/>
+		<param name="water_gravity" value="0, 0, -0.1"/>
+		<param name="thrust" value="20"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="8"/>
+		<param name="material" value="mat_metal"/>
+		<param name="spin_random" value="0, 0, 0"/>
+		<param name="single_contact" value="1"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<params>
+		<param name="lifetime" value="5"/>
+		<param name="hit_type" value="bullet"/>
+		<param name="showtime" value="0.09"/>
+		<param name="bulletType" value="4"/> <!-- Bullet Type 4 - Special Blaster Bullet -->
+		<param name="giveable" value="1"/>
+		<param name="launch_type" value="1"/>
+	</params>
+</ammo>

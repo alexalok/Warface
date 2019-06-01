@@ -1,0 +1,28 @@
+<item class="K01_Item" name="shg49_xmas_rds_d" type="attachment" view_settings="objects/weapons/shg49_xmas/shg49_xmas_rds_d.xml">
+	<skins>
+		<material name="default"/>
+	</skins>
+	<description_ingame text="@ui_shg49_xmas_rds_d_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RMES"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@shg49_xmas_rds_d_name"/>
+		<param name="description" value="@ui_accessories_shg49_xmas_rds_d"/>
+		<param name="icon" value="ccs_nonitem"/>
+	</UI_stats>
+	<content>
+		<item name="shg49_xmas_rds_d"/>
+	</content>
+	<drop_params>
+		<item name="shg49_xmas_rds_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="zoom_factor" value="1.9"/>
+	</settings>
+	<types>
+		<type name="shg49_xmas_rds_d" helper="shg49_xmas_rds_d"/>
+	</types>
+</item>

@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Xml;
+using JetBrains.Annotations;
 
 namespace Warface.Files
 {
@@ -9,6 +10,7 @@ namespace Warface.Files
 
         public string Original { get; }
 
+        [CanBeNull]
         public string Translation { get; }
 
         public LocalizationEntry(string key, string original, string translation)
@@ -29,8 +31,6 @@ namespace Warface.Files
                 return false;
 
             string translationValue = entryNode.SelectSingleNode("./translation").Attributes["value"]?.Value;
-            if (string.IsNullOrWhiteSpace(translationValue))
-                return false;
 
             localizationEntry = new LocalizationEntry(key, originalValue, translationValue);
             return true;

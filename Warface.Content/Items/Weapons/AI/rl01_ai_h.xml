@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="heavy" class="K01_Item" name="rl01_ai_h" priority="40" view_settings="objects/weapons/rl01_ai/rl01_ai.xml">
+  <description text="" />
+  <params>
+    <param name="giveable" value="1" />
+    <param name="selectable" value="1" />
+    <param name="ui_weapon" value="1" />
+    <param name="giveable" value="1" />
+    <param name="ai_weapon_type" value="Sniper" />
+  </params>
+  <ai_descriptor burstBulletCountMax="1" burstBulletCountMin="1" burstPauseTimeMax="0" burstPauseTimeMin="0" charge_time="0" coverFireTime="0" damage_radius="5" draw_time="0" handler="instant" signal_on_shoot="0" singleFireTriggerTime="1" speed="30" sweep_frequency="0" sweep_width="0" />
+  <ammos>
+    <ammo name="bullet_rl01_ai" />
+  </ammos>
+  <icons>
+    <combatlog icon="Rl01_combatLog" melee="Melee" />
+  </icons>
+  <skins>
+    <material display_name="default" icon="default_icon" name="default" />
+    <material display_name="desert" icon="desert_icon" name="desert" />
+    <material display_name="desert digital" icon="desert_d_icon" name="desert_d" />
+    <material display_name="winter" icon="winter_icon" name="winter" />
+    <material display_name="winter digital" icon="winter_d_icon" name="winter_d" />
+    <material display_name="jungle" icon="jungle_icon" name="jungle" />
+    <material display_name="jungle digital" icon="jungle_d_icon" name="jungle_d" />
+    <material display_name="urban" icon="urban_icon" name="urban" />
+    <material display_name="urban digital" icon="urban_d_icon" name="urban_d" />
+    <material display_name="polished" icon="polished_icon" name="polished" />
+    <material display_name="gold" icon="gold_icon" name="gold" />
+  </skins>
+  <settings>
+    <param name="ammo_amount" value="1" />
+    <param name="rpm" value="500" />
+    <param name="damage" value="140" />
+    <param name="damage_min" value="40" />
+    <param name="damage_mul" value="1" />
+    <param name="recoil_max" value="0.1" />
+    <param name="recoil_max_mul" value="1" />
+    <param name="recoil_att" value="0.1" />
+    <param name="recoil_att_mul" value="1">
+      <stance name="zoomed_crouch" value="0.65" />
+      <stance name="zoomed_stand" value="0.7" />
+      <stance name="zoomed_prone" value="0.5" />
+      <stance name="zoomed_rest" value="0.3" />
+    </param>
+    <param name="recoil_dec" value="250" />
+    <param name="recoil_dec_mul" value="1" />
+    <param name="recoil_rnd" value="0" />
+    <param name="recoil_smth" value="30" />
+    <param name="recoil_smth_mul" value="1">
+      <stance name="zoomed_stand" value="2" />
+      <stance name="zoomed_crouch" value="2" />
+      <stance name="zoomed_prone" value="2" />
+      <stance name="zoomed_jump" value="2" />
+      <stance name="zoomed_rest" value="2" />
+      <stance name="zoomed_walk" value="2" />
+    </param>
+    <param name="spread_min" value="0.1" />
+    <param name="spread_min_mul" value="1">
+      <stance name="run" value="4" />
+      <stance name="jump" value="4" />
+      <stance name="haste" value="4" />
+      <stance name="crouch" value="0.8" />
+      <stance name="prone" value="0.7" />
+      <stance name="rest" value="0.5" />
+      <stance name="zoomed_stand" value="0.4" />
+      <stance name="zoomed_crouch" value="0.25" />
+      <stance name="zoomed_prone" value="0.25" />
+      <stance name="zoomed_jump" value="0.4" />
+      <stance name="zoomed_rest" value="0.1" />
+      <stance name="zoomed_walk" value="0.4" />
+    </param>
+    <param name="spread_max" value="0.1" />
+    <param name="spread_att" value="0.1" />
+    <param name="spread_att_mul" value="1">
+      <stance name="run" value="2" />
+      <stance name="zoomed_stand" value="0.4" />
+      <stance name="zoomed_crouch" value="0.25" />
+      <stance name="zoomed_prone" value="0.25" />
+      <stance name="zoomed_jump" value="0.4" />
+      <stance name="zoomed_rest" value="0.4" />
+      <stance name="zoomed_walk" value="0.4" />
+    </param>
+    <param name="spread_dec" value="22.5" />
+    <param name="spread_dec_mul" value="1">
+      <stance name="run" value="1.8" />
+    </param>
+    <param name="sway_dec" value="1" />
+    <param name="sway_dec_mul" value="1" />
+    <param name="sway_mul" value="0.1">
+      <stance name="zoomed_stand" value="2" />
+      <stance name="zoomed_crouch" value="1.2" />
+      <stance name="zoomed_prone" value="1" />
+      <stance name="zoomed_walk" value="1.75" />
+      <stance name="zoomed_rest" value="0" />
+      <stance name="zoomed_jump" value="2" />
+    </param>
+    <param name="sway_min_x" value="0" />
+    <param name="sway_min_y" value="0" />
+    <param name="fov_mul" value="1">
+      <stance name="zoomed_stand" value="0.7" />
+      <stance name="zoomed_crouch" value="0.7" />
+      <stance name="zoomed_prone" value="0.7" />
+      <stance name="zoomed_walk" value="0.7" />
+      <stance name="zoomed_jump" value="0.7" />
+      <stance name="zoomed_rest" value="0.7" />
+    </param>
+    <param name="reload_duration" value="8000" />
+    <param name="zoom_factor" value="1" />
+    <param name="melee_duration" value="280" />
+    <param name="melee_range" value="1" />
+    <param name="melee_out_duration" value="500" />
+    <param name="toss_duration" value="400" />
+    <param name="deselect_duration" value="300" />
+    <param name="holster_in_duration" value="120" />
+  </settings>
+  <firemodes>
+    <firemode name="Single" type="Single" />
+  </firemodes>
+  <clipmode auto_reload="0" capacity="1" />
+  <melee_params>
+    <param name="damage" value="60" />
+    <param name="impulse" value="20" />
+    <param name="range" value="1" />
+    <param name="pierce" value="10" />
+  </melee_params>
+  <sockets>
+    <socket can_be_empty="0" name="butt">
+      <support helper="al103_butt" name="al103_butt" />
+    </socket>
+    <socket can_be_empty="0" name="barrel">
+      <support helper="al103_barrel" name="al103_barrel" />
+    </socket>
+    <socket can_be_empty="0" name="clip">
+      <support helper="al103_clip" name="al103_clip" />
+      <support helper="al103_drum_clip" name="al103_drum_clip" />
+    </socket>
+    <socket can_be_empty="1" name="scope" ui_helper="ui_scope">
+      <support helper="top_small" name="top_small" />
+      <support helper="top_middle" name="top_middle" />
+      <support helper="top_large" name="top_large" />
+    </socket>
+  </sockets>
+  <fireparams>
+    <fire>
+      <param name="ammo_type" value="bullet_rl01_ai" />
+      <param name="bullet_chamber" value="1" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+      <param name="damage_drop_per_meter" value="0" />
+      <param name="damage_drop_min_distance" value="25" />
+    </fire>
+  </fireparams>
+</item>

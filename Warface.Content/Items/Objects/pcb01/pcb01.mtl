@@ -1,0 +1,8 @@
+<Material MtlFlags="524288" Shader="Illum" GenMask="80080000" StringGenMask="%GLOSS_MAP%SPECULARPOW_GLOSSALPHA" SurfaceType="mat_metal_weapons_impact" MatTemplate="" Diffuse="0.49950528,0.49950528,0.49950528" Specular="1,1,1" Emissive="0,0,0" Shininess="255" Opacity="1">
+ <Textures>
+  <Texture Map="Diffuse" File="objects/weapons/smg42/textures/smg42_diff.tif"/>
+  <Texture Map="Specular" File="objects/weapons/smg42/textures/smg42_spec.tif"/>
+  <Texture Map="Bumpmap" File="objects/weapons/smg42/textures/smg42_ddn.tif"/>
+ </Textures>
+ <PublicParams FresnelPower="4" GlossMapChannelB="0" SpecMapChannelG="0" FresnelScale="3" FresnelBias="0.69999999" IndirectColor="0.25,0.25,0.25"/>
+</Material>

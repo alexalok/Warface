@@ -1,0 +1,6 @@
+<settings>
+	<param name="head_damage_mult" value="4"/>
+	<param name="body_damage_mult" value="1"/>
+	<param name="arms_damage_mult" value="0.8"/>
+	<param name="legs_damage_mult" value="0.7"/>
+</settings>

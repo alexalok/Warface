@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+	<shop_item name="smg35_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SMG"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="E"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="7200"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@smg35_shop_name"/>
+			<param name="description" value="@ui_weapons_smg35"/>
+			<param name="icon" value="smg35"/>
+		</UI_stats>
+		<content>
+			<item name="smg35">
+				<item name="smg35_sp_d"/>
+				<item name="smg35_gp_d"/>
+			</item>
+		</content>
+		<skin_content>
+			<item name="smg35_afro01skin_shop"/>
+			<item name="smg35_rank01skin_shop"/>
+			<item name="smg35_rank02skin_shop"/>
+			<item name="smg35_rank03skin_shop"/>
+			<item name="smg35_rank04skin_shop"/>
+			<item name="smg35_xmas03skin_shop"/>
+			<item name="smg35_carbon01skin_shop"/>			
+		</skin_content>
+	</shop_item>

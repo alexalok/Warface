@@ -1,0 +1,11 @@
+<CharacterPart Name="shared_arms_01" Slot="Arms" Template="Arms">
+	<Model File="objects/characters/shared/arms/shared_arms_01/shared_arms_01.chr" FGTFile="" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="shared_arms_01" File="objects/characters/shared/arms/shared_arms_01/shared_arms_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

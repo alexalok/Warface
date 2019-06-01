@@ -1,0 +1,102 @@
+<item category="heavy" class="K01_Item" name="rl07_jp_ai_e" net_policy="weapon" priority="65" view_settings="objects/weapons/gl01/gl01.xml">
+	<ai_descriptor burstBulletCountMax="12" burstBulletCountMin="11" burstPauseTimeMax="3" burstPauseTimeMin="2" draw_time="1.0" handler="instant" signal_on_shoot="1" singleFireTriggerTime="-1" sweep_frequency="2.5" sweep_width="1.5"/>
+	<skins>
+		<material name="default"/>
+	</skins>
+	<icons>
+		<ui_icon name="gl01_zsd01"/>
+		<combatlog icon="Gl01_zsd01_combatLog" melee="Melee"/>
+	</icons>
+	<ammos>
+		<ammo name="bullet_rl07_ai"/>
+	</ammos>
+	<drop_params>
+		<item name="gl01" type="weapon"/>
+	</drop_params>
+	<settings archetype="Items/Weapons/Archetypes/SR_ai.xml">
+		<param name="ammo_amount" value="10000"/>
+		<param name="rpm" value="80"/>
+		<param name="damage" value="25"/>
+		<param name="damage_mul" value="1"/>
+		<param name="damage_min" value="20"/>
+		<param name="melee_damage" value="70"/>
+		<param name="melee_radius" value="0.5"/>
+		<param name="melee_range" value="1.5"/>
+		<param name="damage_drop_per_meter" value="1.2"/>
+		<param name="damage_drop_min_distance" value="15"/>
+		<param name="spread_min" value="0.5"/>
+		<param name="spread_max" value="0.5"/>
+		<param name="spread_att" value="0"/>
+		<param name="spread_dec" value="0"/>
+		<param name="spread_min_mul" value="0.5"/>
+		<param name="spread_max_mul" value="0.5"/>
+		<param name="spread_att_mul" value="0.5"/>
+		<param name="spread_dec_mul" value="0.5"/>
+		<param name="deselect_duration" value="300"/>
+		<param name="reload_duration" value="4000"/>
+		<param name="toss_duration" value="700"/>
+		<param name="melee_duration" value="350"/>
+		<param name="melee_out_duration" value="1000"/>
+		<param name="holster_in_duration" value="200"/>
+		<param name="bayonet_melee_duration" value="233"/>
+		<param name="bayonet_melee_out_duration" value="1000"/>
+		<param name="knock_back_chance" value="0"/>
+	</settings>
+	<firemodes>
+		<firemode name="Rapid" type="Rapid"/>
+	</firemodes>
+	<clipmode unlimited_inventory="1"/>
+	<melee_params>
+		<param name="impulse" value="20"/>
+		<param name="pierce" value="10"/>
+		<param name="no_ray_test" value="1"/>
+	</melee_params>
+	<sockets>
+		<socket can_be_empty="0" name="scope" ui_helper="ui_scope">
+			<support helper="rg01_rds" name="rg01_rds"/>
+		</socket>
+		<socket can_be_empty="1" name="muzzle" ui_helper="ui_muzzle">
+		</socket>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<fireparams>
+		<fire>
+			<param name="extra_ammo" value="10000"/>
+			<param name="ammo_type" value="bullet_rl07_ai"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="helper_fp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+			<param name="ai_muzzle_pos" value="0.0, 0.3, 0.15"/>
+		</fire>
+		<recoil>
+			<param name="hint_loop_start" value="20"/>
+			<hints>
+				<hint x="0" y="2"/>
+				<hint x="0.3" y="0.25"/>
+				<hint x="0.31" y="0.21"/>
+				<hint x="0.34" y="-0.27"/>
+				<hint x="0.39" y="0.27"/>
+				<hint x="0.36" y="0.21"/>
+				<hint x="0.23" y="-0.28"/>
+				<hint x="0.31" y="0.23"/>
+				<hint x="0.35" y="0.29"/>
+				<hint x="0.3" y="0.2"/>
+				<hint x="0.45" y="0.32"/>
+				<hint x="-0.36" y="0.38"/>
+				<hint x="0.5" y="0.41"/>
+				<hint x="0.6" y="0.47"/>
+				<hint x="0.67" y="0.38"/>
+				<hint x="0.57" y="0.46"/>
+				<hint x="0.65" y="-0.5"/>
+				<hint x="0.71" y="0.42"/>
+				<hint x="0.77" y="0.51"/>
+				<hint x="0.69" y="0.44"/>
+				<hint x="0.8" y="0.5"/>
+			</hints>
+		</recoil>
+	</fireparams>
+</item>

@@ -1,0 +1,20 @@
+<CharacterPart Name="Hiparmor_01_right" Slot="Hip_right" Template="HipArmor_Right">
+	<Model File="objects/characters/hiparmor/hiparmor_01/male/hip_right.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Hiparmor\Hiparmor_01\hiparmor_01_right.mtl"/>
+			<Material Name="black" File="Objects\Characters\Hiparmor\Hiparmor_01\hiparmor_01_right_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Hiparmor\Hiparmor_01\Female\Hiparmor_01_right.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Objects\Characters\Hiparmor\Hiparmor_01\hiparmor_01_right.mtl"/>
+			<Material Name="black" File="Objects\Characters\Hiparmor\Hiparmor_01\hiparmor_01_right_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

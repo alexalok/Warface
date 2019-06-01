@@ -1,0 +1,37 @@
+<CharacterPart Name="Vest_13_np" Slot="Vest" Template="Vest_Type3">
+	<Model File="Game\Objects\Characters\Vests\Tactical_Vest_13\Male\vest_13_np.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Vests\Tactical_Vest_13\vest_13_black_np.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Vests\Tactical_Vest_13\Female\vest_13_np.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Vests\Tactical_Vest_13\vest_13_black_np.mtl"/>
+		</Materials>
+		<Sockets>
+			<Socket name="pocket_4_01" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_4_02" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_4_03" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_4_04" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_01" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_02" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_03" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_04" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_05" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_06" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_07" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_08" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_01" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_02" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_03" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_04" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_05" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_06" edge="17" angle="10" damping="10"/>
+		</Sockets>
+	</Model>
+</CharacterPart>

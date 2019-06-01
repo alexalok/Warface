@@ -1,0 +1,20 @@
+<CharacterPartTemplate Name="Kneepads">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#kneepads_fat" />
+    <Morph Switch="thin" Target="#kneepads_thin" />
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="Kneepads" />
+  </Switches>
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+    <Mask Name="VISIBLE_FIRST_PERSON" />
+    <Mask Name="VISIBLE_HIGHQUALITY_THIRD_PERSON" />
+  </VisibilityMasks>
+  <TexAtlasGen TextureSize="256"/>
+
+</CharacterPartTemplate>

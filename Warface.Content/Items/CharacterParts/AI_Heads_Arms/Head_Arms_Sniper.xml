@@ -1,0 +1,11 @@
+<CharacterPart Name="Head_Arms_Sniper" Slot="AI_Heads_Arms" Template="AI_Heads_Arms">
+	<Model File="Objects\Characters\AI_Heads_Arms\head_sniper\arm_sniper.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Heads_Arms\head_sniper\arm_sniper.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

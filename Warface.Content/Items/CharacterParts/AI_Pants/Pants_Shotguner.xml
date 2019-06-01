@@ -1,0 +1,11 @@
+<CharacterPart Name="Pants_Shotguner" Slot="AI_Pants" Template="AI_Pants">
+	<Model File="objects/Characters\AI_Pants\pants_shotguner/pants_shotguner.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Pants\pants_shotguner/pants_shotguner.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

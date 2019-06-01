@@ -1,0 +1,34 @@
+<item class="K01_Item" name="sr45_gold01_sp_d" type="attachment" view_settings="objects/weapons/sr45/sr45_sp_d.xml">
+	<description_ingame text="@ui_sr45_sp_d_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="S"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@sr45_sp_d_shop_name"/>
+		<param name="description" value="@ui_accessories_sr45_sp_d"/>
+		<param name="icon" value="sr45_sp_d"/>
+	</UI_stats>
+	<content>
+		<item name="sr45_gold01_sp_d"/>
+	</content>
+	<drop_params>
+		<item name="sr45_gold01_sp_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="damage_drop_per_meter_mul" value="0.8"/>
+		<param name="bullet_pierceability" value="3"/>
+		<param name="recoil_att_mul" value="0.85"/>
+		<param name="recoil_max_mul" value="0.85"/>		
+	</settings>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="sr45_sp_d" name="sr45_gold01_sp_d"/>
+	</types>
+</item>

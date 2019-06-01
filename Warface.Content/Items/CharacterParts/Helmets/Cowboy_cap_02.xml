@@ -1,0 +1,28 @@
+<CharacterPart Name="Cowboy_cap_02" Slot="Helmet" Template="Helmet">
+	<Model File="Objects\Characters\Helmets\Cowboy_cap\Male\Cowboy_cap_02.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_brown.mtl"/>
+			<Material Name="grey" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_grey.mtl"/>
+			<Material Name="green" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_black.mtl"/>
+			<Material Name="blue" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_blue.mtl"/>
+			<Material Name="camo" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_camo.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Helmets\Cowboy_cap\Female\Cowboy_cap_02.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_brown.mtl"/>
+			<Material Name="grey" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_grey.mtl"/>
+			<Material Name="green" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_green.mtl"/>
+			<Material Name="black" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_black.mtl"/>
+			<Material Name="blue" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_blue.mtl"/>
+			<Material Name="camo" File="Objects\Characters\Helmets\Cowboy_cap\cowboy_cap_camo.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

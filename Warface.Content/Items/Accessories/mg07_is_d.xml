@@ -1,0 +1,26 @@
+<item class="K01_Item" name="mg07_is_d" type="attachment" view_settings="objects/weapons/mg08/mg08_is_d.xml">
+	<UI_stats>
+		<param name="name" value="@is_default_name"/>
+		<param name="description" value="@ui_accessories_is_default"/>
+		<param name="icon" value="ccs_nonitem"/>
+	</UI_stats>
+	<icons>
+		<ui_icon name="mg07_is_d"/>
+	</icons>
+	<drop_params>
+		<item name="mg07_is_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="zoom_factor" value="1.1">
+			<stance name="zoomed_stand" value="1.4"/>
+			<stance name="zoomed_crouch" value="1.4"/>
+			<stance name="zoomed_prone" value="1.4"/>
+			<stance name="zoomed_walk" value="1.4"/>
+			<stance name="zoomed_jump" value="1.4"/>
+			<stance name="zoomed_rest" value="1.4"/>
+		</param>
+	</settings>
+	<types>
+		<type helper="mg08_is_d" name="mg08_is_d"/>
+	</types>
+</item>

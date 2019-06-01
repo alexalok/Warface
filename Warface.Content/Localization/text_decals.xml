@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <entry key="achievement_completed">
+    <original value="Challenge completed!"/>
+    <translation value="Новое достижение!"/>
+  </entry>
+  <entry key="ui_secondary_objectives">
+    <original value="Commander's orders"/>
+    <translation value="Приказы командования"/>
+  </entry>
+  <entry key="ui_secondary_objectives_done">
+    <original value="&lt;font color=&quot;#0E4E4E&quot;&gt;DONE!      &lt;/font&gt;&lt;font color=&quot;#F57636&quot;&gt;Reward bonus: +%1%&lt;/font&gt;"/>
+    <translation value="&lt;font color=&quot;#0E4E4E&quot;&gt;ВЫПОЛНЕНО! &lt;/font&gt;&lt;font color=&quot;#F57636&quot;&gt;Доп. награда: +%1%&lt;/font&gt;"/>
+  </entry>
+  <entry key="ui_leaderboard_title">
+    <original value="Team Scores"/>
+    <translation value="Очки команды"/>
+  </entry>
+  <entry key="ui_scoreboard_totalscore">
+    <original value="Total score"/>
+    <translation value="Общий счет"/>
+  </entry>
+  <entry key="ui_scoreboard_headshots">
+    <original value="By headshots"/>
+    <translation value="Попадания в голову"/>
+  </entry>
+  <entry key="ui_scoreboard_melee">
+    <original value="By melee kills"/>
+    <translation value="Убито в ближнем бою"/>
+  </entry>
+  <entry key="ui_scoreboard_explosions">
+    <original value="By explosions"/>
+    <translation value="Убито взрывами"/>
+  </entry>
+  <entry key="ui_scoreboard_mult">
+    <original value="Score multiplier"/>
+    <translation value="Средний множитель"/>
+  </entry>
+  <entry key="ui_competition_noperformance">
+    <original value="No results yet"/>
+    <translation value="Результатов нет"/>
+  </entry>
+</localization>

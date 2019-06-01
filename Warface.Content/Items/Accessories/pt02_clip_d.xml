@@ -1,0 +1,10 @@
+<item class="K01_Item" name="pt02_clip_d" type="attachment">
+	<drop_params>
+		<item name="pt02_clip_d" type="attachment"/>
+	</drop_params>
+	<settings>
+	</settings>
+	<types>
+		<type helper="pt02_clip" name="pt02_clip"/>
+	</types>
+</item>

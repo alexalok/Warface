@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+	<shop_item name="shg50_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Shotgun"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="5400"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="shg"/>
+			<param name="name" value="@shg50_shop_name"/>
+			<param name="description" value="@ui_weapons_shg50"/>
+			<param name="icon" value="shg50"/>
+		</UI_stats>
+		<content>
+			<item name="shg50">
+			<item name="sc08"/>
+			<item name="shg50_is_d"/>
+			<item name="shg50_rds_d"/>
+			</item>
+		</content>
+		<skin_content>	
+		</skin_content>
+	</shop_item>

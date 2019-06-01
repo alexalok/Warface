@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <entry key="achievement_kills_in_a_row_1">
+    <original value="Combo Kill"/>
+    <translation value="Комбо-убийство"/>
+  </entry>
+  <entry key="achievement_kills_in_a_row_2">
+    <original value="Mega Kill"/>
+    <translation value="Мега-убийство"/>
+  </entry>
+  <entry key="achievement_kills_in_a_row_3">
+    <original value="Uber Kill"/>
+    <translation value="Ультра-убийство"/>
+  </entry>
+  <entry key="achievement_headshots_in_a_row_1">
+    <original value="Brain Smasher"/>
+    <translation value="Взрыватель голов"/>
+  </entry>
+  <entry key="achievement_headshots_in_a_row_2">
+    <original value="Skull Hunter"/>
+    <translation value="Крушитель черепов"/>
+  </entry>
+  <entry key="achievement_headshots_in_a_row_3">
+    <original value="Head Crasher"/>
+    <translation value="Мозголом"/>
+  </entry>
+  <entry key="achievement_headshots_in_a_row_4">
+    <original value="Brain Annihilator"/>
+    <translation value="Вышибатель мозгов"/>
+  </entry>
+  <entry key="achievement_grenade_kills_in_a_row_1">
+    <original value="Grenadier"/>
+    <translation value="Гренадер"/>
+  </entry>
+  <entry key="achievement_grenade_kills_in_a_row_2">
+    <original value="Mega Grenadier"/>
+    <translation value="Мега-гренадер"/>
+  </entry>
+  <entry key="achievement_grenade_kills_in_a_row_3">
+    <original value="Uber Grenadier"/>
+    <translation value="Ультра-гренадер"/>
+  </entry>
+  <entry key="achievement_melee_kills_in_a_row_1">
+    <original value="Butcher"/>
+    <translation value="Мясник"/>
+  </entry>
+  <entry key="achievement_melee_kills_in_a_row_2">
+    <original value="Bloody Butcher"/>
+    <translation value="Кровавый мясник"/>
+  </entry>
+  <entry key="achievement_melee_kills_in_a_row_3">
+    <original value="Hell Butcher"/>
+    <translation value="Беспощадный мясник"/>
+  </entry>
+  <entry key="achievement_coop_assist">
+    <original value="Assistant"/>
+    <translation value="Помощник"/>
+  </entry>
+  <entry key="achievement_defibrillator_kill">
+    <original value="Dr. Doom"/>
+    <translation value="Разряд!"/>
+  </entry>
+  <entry key="achievement_in_knock_back_kill">
+    <original value="Severe Murder"/>
+    <translation value="Контратака"/>
+  </entry>
+  <entry key="achievement_claymore_kill">
+    <original value="Mine Kill"/>
+    <translation value="Сюрприз!"/>
+  </entry>
+  <entry key="achievement_two_at_once_kill">
+    <original value="Perforating Wound"/>
+    <translation value="Двоих сразу!"/>
+  </entry>
+  <entry key="achievement_slide_kill">
+    <original value="Slide Kill"/>
+    <translation value="В подкате!"/>
+  </entry>
+  <entry key="achievement_pvp_double_kill">
+    <original value="Double Kill"/>
+    <translation value="Двоих!"/>
+  </entry>
+  <entry key="achievement_pvp_triple_kill">
+    <original value="Triple Kill"/>
+    <translation value="Троих!"/>
+  </entry>
+  <entry key="achievement_pvp_flag_kill">
+    <original value="Color guard"/>
+    <translation value="Надежный курьер"/>
+  </entry>
+  <entry key="achievement_pvp_flag_returned">
+    <original value="Flag guard"/>
+    <translation value="Всегда на страже"/>
+  </entry>
+  <entry key="achievement_dmn_defend_kills_1">
+    <original value="Defender Kill"/>
+    <translation value="Убийство в защите"/>
+  </entry>
+  <entry key="achievement_dmn_attack_kills_1">
+    <original value="Attacker Kill"/>
+    <translation value="Убийство в атаке"/>
+  </entry>
+  <entry key="achievement_bullet_knockback">
+    <original value="Knocked down"/>
+    <translation value="Нокдаун"/>
+  </entry>
+  <entry key="achievement_hnt_dogtag_pickup">
+    <original value="Dogtags Collected"/>
+    <translation value="Собран жетон"/>
+  </entry>
+  <entry key="achievement_three_at_once_kill">
+    <original value="NECKLE MAKER"/>
+    <translation value="Троих сразу!"/>
+  </entry>
+  <entry key="achievement_four_at_once_kill">
+    <original value="JEWELER"/>
+    <translation value="Минус четыре!"/>
+  </entry>
+  <entry key="achievement_kills_in_a_row_4">
+    <original value="DOMINATOR "/>
+    <translation value="Доминатор"/>
+  </entry>
+  <entry key="achievement_grenade_kills_in_a_row_4">
+    <original value="BOMBARDIER "/>
+    <translation value="Бомбардир"/>
+  </entry>
+  <entry key="achievement_claymore_kill_2">
+    <original value="MINE TRIPLE KILL"/>
+    <translation value="Троих миной"/>
+  </entry>
+  <entry key="achievement_claymore_kill_3">
+    <original value="MINE QUAD KILL"/>
+    <translation value="Четверых миной"/>
+  </entry>
+  <entry key="achievement_claymore_kill_4">
+    <original value="MEGATON MINE"/>
+    <translation value="Мегатонна"/>
+  </entry>
+  <entry key="achievement_slide_kill_2">
+    <original value="SLIDE DOUBLE KILL"/>
+    <translation value="Двоих в подкате"/>
+  </entry>
+  <entry key="achievement_slide_kill_3">
+    <original value="SLIDE TRIPLE KILL"/>
+    <translation value="Троих в подкате"/>
+  </entry>
+  <entry key="achievement_slide_kill_4">
+    <original value="AVALANCHE"/>
+    <translation value="Лавина"/>
+  </entry>
+  <entry key="achievement_melee_kills_in_a_row_4">
+    <original value="MEATGRINDER"/>
+    <translation value="Мясорубка"/>
+  </entry>
+  <entry key="achievement_melee_kills_in_a_row_5">
+    <original value="HELL MEATGRINDER"/>
+    <translation value="Адская мясорубка"/>
+  </entry>
+  <entry key="achievement_slide_headshot_kill">
+    <original value="SLIDE HEADSHOT"/>
+    <translation value="В подкате в голову"/>
+  </entry>
+  <entry key="achievement_jump_shot_kill">
+    <original value="JUMP SHOT"/>
+    <translation value="В прыжке!"/>
+  </entry>
+</localization>

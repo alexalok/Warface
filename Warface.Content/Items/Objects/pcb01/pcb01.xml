@@ -1,0 +1,11 @@
+<CharacterPart Name="pcb01" Slot="" Template="">
+ <Model File="objects/characters/ai/ai_characters/ai_chernobyl_02/sed.chr" FGTFile="" Gender="Male">
+ <Morphs>
+ </Morphs>
+ <Switches />
+ <Materials>
+ <Material Name="default" File="Objects/pcb01/pcb01.mtl"/>
+ </Materials>
+ <Sockets />
+</Model>
+</CharacterPart>

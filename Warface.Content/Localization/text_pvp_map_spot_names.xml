@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="pvp_mission_area_name_hayloft">
+		<original value="Hayloft"/>
+		<translation value="Сеновал"/>
+	</entry>
+	<entry key="pvp_mission_area_name_curve">
+		<original value="Curve"/>
+		<translation value="Дуга"/>
+	</entry>
+	<entry key="pvp_mission_area_name_4">
+		<original value="Four"/>
+		<translation value="Четверка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_broken">
+		<original value="Broken"/>
+		<translation value="Обломки"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hedgehogs">
+		<original value="Hedgehogs"/>
+		<translation value="Ежи"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_water">
+		<original value="Water"/>
+		<translation value="Вода"/>
+	</entry>
+	<entry key="pvp_mission_area_name_attackers_base">
+		<original value="Attackers Base"/>
+		<translation value="База атакующих"/>
+	</entry>
+	<entry key="pvp_mission_area_name_curved_wood">
+		<original value="Curved Wood"/>
+		<translation value="Изгиб"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pier">
+		<original value="Pier"/>
+		<translation value="Пирс"/>
+	</entry>
+	<entry key="pvp_mission_area_name_stairs">
+		<original value="Stairs"/>
+		<translation value="Ступеньки 1"/>
+	</entry>
+	<entry key="pvp_mission_area_name_amunition">
+		<original value="Amunition"/>
+		<translation value="Снаряжение"/>
+	</entry>
+	<entry key="pvp_mission_area_name_lower_grid">
+		<original value="Lower Grid"/>
+		<translation value="Нижняя сетка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_roof">
+		<original value="Roof"/>
+		<translation value="Крыша"/>
+	</entry>
+	<entry key="pvp_mission_area_name_grid">
+		<original value="Grid"/>
+		<translation value="Приемка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_table">
+		<original value="Table"/>
+		<translation value="Стол"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hut">
+		<original value="Hut"/>
+		<translation value="Хижина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_grass">
+		<original value="Grass"/>
+		<translation value="Трава"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_glade">
+		<original value="Glade"/>
+		<translation value="Поляна"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tractor">
+		<original value="Tractor"/>
+		<translation value="Трактор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_verdure">
+		<original value="Verdure"/>
+		<translation value="Листва"/>
+	</entry>
+	<entry key="pvp_mission_area_name_meters">
+		<original value="Meters"/>
+		<translation value="Счетчики"/>
+	</entry>
+	<entry key="pvp_mission_area_name_wooden_bridge">
+		<original value="Wooden Bridge"/>
+		<translation value="Деревянный мост"/>
+	</entry>
+	<entry key="pvp_mission_area_name_goods">
+		<original value="Goods"/>
+		<translation value="Восьмерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_short">
+		<original value="Short"/>
+		<translation value="Перемычка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_square">
+		<original value="Square"/>
+		<translation value="Квадрат"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tank">
+		<original value="Tank"/>
+		<translation value="Цистерна"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_long">
+		<original value="Long"/>
+		<translation value="Длина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pallets">
+		<original value="Pallets"/>
+		<translation value="Поддон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_jumper">
+		<original value="Jumper"/>
+		<translation value="Девятка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hide">
+		<original value="Hide"/>
+		<translation value="Укрытие"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tree">
+		<original value="Tree"/>
+		<translation value="Дерево"/>
+	</entry>
+	<entry key="pvp_mission_area_name_paling">
+		<original value="Paling"/>
+		<translation value="Колья"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hole">
+		<original value="Hole"/>
+		<translation value="Подкат"/>
+	</entry>
+	<entry key="pvp_mission_area_name_gate">
+		<original value="Gate"/>
+		<translation value="Ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_road">
+		<original value="Road"/>
+		<translation value="Дорога"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_bombsite_2">
+		<original value="Bombsite 2"/>
+		<translation value="Точка 2"/>
+	</entry>
+	<entry key="pvp_mission_area_name_box">
+		<original value="Box"/>
+		<translation value="Ящик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fake">
+		<original value="Fake"/>
+		<translation value="Приманка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_entrance">
+		<original value="Entrance"/>
+		<translation value="Проход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_break">
+		<original value="Break"/>
+		<translation value="Разлом"/>
+	</entry>
+	<entry key="pvp_mission_area_name_garbage">
+		<original value="Garbage"/>
+		<translation value="Мусорный контейнер"/>
+	</entry>
+	<entry key="pvp_mission_area_name_first_floor">
+		<original value="First Floor"/>
+		<translation value="Первый этаж"/>
+	</entry>
+	<entry key="pvp_mission_area_name_second_floor">
+		<original value="Second Floor"/>
+		<translation value="Второй этаж"/>
+	</entry>
+	<entry key="pvp_mission_area_name_balcony">
+		<original value="Balcony"/>
+		<translation value="Балкон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_boxes">
+		<original value="Boxes"/>
+		<translation value="Коробки"/>
+	</entry>
+	<entry key="pvp_mission_area_name_truck">
+		<original value="Truck"/>
+		<translation value="Грузовик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bus">
+		<original value="Bus"/>
+		<translation value="Автобус"/>
+	</entry>
+	<entry key="pvp_mission_area_name_defenders_base">
+		<original value="Defenders Base"/>
+		<translation value="База защищающихся"/>
+	</entry>
+	<entry key="pvp_mission_area_name_rocks">
+		<original value="Rocks"/>
+		<translation value="Скалы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_stone">
+		<original value="Stone"/>
+		<translation value="Камень"/>
+	</entry>
+	<entry key="pvp_mission_area_name_slope">
+		<original value="Slope"/>
+		<translation value="Склон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_reef">
+		<original value="Reef"/>
+		<translation value="Риф"/>
+	</entry>
+	<entry key="pvp_mission_area_name_9">
+		<original value="Nine"/>
+		<translation value="Девятка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_steep">
+		<original value="Steep"/>
+		<translation value="Настил"/>
+	</entry>
+	<entry key="pvp_mission_area_name_miniven">
+		<original value="Miniven"/>
+		<translation value="Минивэн"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_parapet">
+		<original value="Parapet"/>
+		<translation value="Парапет"/>
+	</entry>
+	<entry key="pvp_mission_area_name_barn">
+		<original value="Barn"/>
+		<translation value="Тройка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_yard">
+		<original value="Yard"/>
+		<translation value="Двор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_junk">
+		<original value="Junk"/>
+		<translation value="Угол"/>
+	</entry>
+	<entry key="pvp_mission_area_name_car">
+		<original value="Car"/>
+		<translation value="Машина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_lurk">
+		<original value="Lurk"/>
+		<translation value="Засада"/>
+	</entry>
+	<entry key="pvp_mission_area_name_3">
+		<original value="Three"/>
+		<translation value="Семерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_viewpoint">
+		<original value="Viewpoint"/>
+		<translation value="Вышка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tires">
+		<original value="Tires"/>
+		<translation value="Шины"/>
+	</entry>
+	<entry key="pvp_mission_area_name_arch">
+		<original value="Arch"/>
+		<translation value="Арка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_bombsite_1">
+		<original value="Bombsite 1"/>
+		<translation value="Бомба 1"/>
+	</entry>
+	<entry key="pvp_mission_area_name_computers">
+		<original value="Computers"/>
+		<translation value="Компьютеры"/>
+	</entry>
+	<entry key="pvp_mission_area_name_portal">
+		<original value="Portal"/>
+		<translation value="Портал"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_central_water">
+		<original value="Central Water"/>
+		<translation value="Вода"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pillar">
+		<original value="Pillar"/>
+		<translation value="Столб"/>
+	</entry>
+	<entry key="pvp_mission_area_name_wooden_box">
+		<original value="Wooden Box"/>
+		<translation value="Деревянный ящик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_crates">
+		<original value="Crates"/>
+		<translation value="Шестерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hay">
+		<original value="Hay"/>
+		<translation value="Сеновал"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_barrels">
+		<original value="Barrels"/>
+		<translation value="Бочки"/>
+	</entry>
+	<entry key="arcway">
+		<original value="Arc"/>
+		<translation value="Арка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_empty">
+		<original value="Empty"/>
+		<translation value="Пусто"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_atackers_base">
+		<original value="Atackers Base"/>
+		<translation value="База атакующих"/>
+	</entry>
+	<entry key="pvp_mission_area_name_awning">
+		<original value="Awning"/>
+		<translation value="Навес"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bridge">
+		<original value="Bridge"/>
+		<translation value="Мост"/>
+	</entry>
+	<entry key="pvp_mission_area_name_sluice">
+		<original value="Sluice"/>
+		<translation value="Шлюз"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_pipe">
+		<original value="Pipe"/>
+		<translation value="Труба"/>
+	</entry>
+	<entry key="pvp_mission_area_name_lighthouse">
+		<original value="Lighthouse"/>
+		<translation value="Маяк"/>
+	</entry>
+	<entry key="pvp_mission_area_name_access">
+		<original value="Access"/>
+		<translation value="Доступ"/>
+	</entry>
+	<entry key="pvp_mission_area_name_dead_end">
+		<original value="Dead End"/>
+		<translation value="Тупик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hideaway">
+		<original value="Hideaway"/>
+		<translation value="Укрытие"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hose">
+		<original value="Hose"/>
+		<translation value="Рукав"/>
+	</entry>
+	<entry key="pvp_mission_area_name_loader">
+		<original value="Loader"/>
+		<translation value="Погрузчик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_blue_box">
+		<original value="Blue Box"/>
+		<translation value="Синий ящик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_yellow">
+		<original value="Yellow"/>
+		<translation value="Желтый"/>
+	</entry>
+	<entry key="pvp_mission_area_name_blue">
+		<original value="Blue"/>
+		<translation value="Синий ящик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_yellow_box">
+		<original value="Yellow Box"/>
+		<translation value="Желтый ящик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_front">
+		<original value="Front"/>
+		<translation value="Шестерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_barrel">
+		<original value="Barrel"/>
+		<translation value="Бочка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_containers">
+		<original value="Containers"/>
+		<translation value="Контейнеры"/>
+	</entry>
+	<entry key="pvp_mission_area_name_under_hose">
+		<original value="Under Hose"/>
+		<translation value="Под трубой"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_flank">
+		<original value="Flank"/>
+		<translation value="Фланг"/>
+	</entry>
+	<entry key="pvp_mission_area_name_leg">
+		<original value="Leg"/>
+		<translation value="Стойка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_warface_base">
+		<original value="Defenders Base"/>
+		<translation value="База защищающихся"/>
+	</entry>
+	<entry key="pvp_mission_area_name_roof">
+		<original value="Roof"/>
+		<translation value="Крыша"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_fork">
+		<original value="Fork"/>
+		<translation value="Развилка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_corridor">
+		<original value="Corridor"/>
+		<translation value="Коридор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_room">
+		<original value="Room"/>
+		<translation value="Комната"/>
+	</entry>
+	<entry key="pvp_mission_area_name_7">
+		<original value="Seven"/>
+		<translation value="Семерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_centre">
+		<original value="Centre"/>
+		<translation value="Центр"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_entrance">
+		<original value="Entrance"/>
+		<translation value="Вход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_inner_box">
+		<original value="Inner Box"/>
+		<translation value="Внутренняя часть"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_square">
+		<original value="Square"/>
+		<translation value="Площадь"/>
+	</entry>
+	<entry key="pvp_mission_area_name_ventilation">
+		<original value="Ventilation"/>
+		<translation value="Вентиляция"/>
+	</entry>
+	<entry key="pvp_mission_area_name_crane">
+		<original value="Crane"/>
+		<translation value="Кран"/>
+	</entry>
+	<entry key="pvp_mission_area_name_outer_box">
+		<original value="Outer Box"/>
+		<translation value="Внешняя часть"/>
+	</entry>
+	<entry key="pvp_mission_area_name_skew_boxes">
+		<original value="Skew Boxes"/>
+		<translation value="Уклон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_long">
+		<original value="Long"/>
+		<translation value="Длина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_red">
+		<original value="Red"/>
+		<translation value="Красный"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_bypass">
+		<original value="Bypass"/>
+		<translation value="Обход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_barrels">
+		<original value="Barrels"/>
+		<translation value="Бочки"/>
+	</entry>
+	<entry key="pvp_mission_area_name_5">
+		<original value="Five"/>
+		<translation value="Пятерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_upstairs">
+		<original value="Upstairs"/>
+		<translation value="Верх"/>
+	</entry>
+	<entry key="pvp_mission_area_name_outside">
+		<original value="Outside"/>
+		<translation value="Улица"/>
+	</entry>
+	<entry key="pvp_mission_area_name_wall">
+		<original value="Wall"/>
+		<translation value="Стена"/>
+	</entry>
+	<entry key="pvp_mission_area_name_on_grey">
+		<original value="On Grey"/>
+		<translation value="Серый"/>
+	</entry>
+	<entry key="pvp_mission_area_name_beth">
+		<original value="Beth"/>
+		<translation value="Зона"/>
+	</entry>
+	<entry key="pvp_mission_area_name_assault">
+		<original value="Assault"/>
+		<translation value="Штурм"/>
+	</entry>
+	<entry key="pvp_mission_area_name_10">
+		<original value="Ten"/>
+		<translation value="Десятка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_between">
+		<original value="Between"/>
+		<translation value="Промежуток"/>
+	</entry>
+	<entry key="pvp_mission_area_name_doors">
+		<original value="Doors"/>
+		<translation value="Двери"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tanks">
+		<original value="Tanks"/>
+		<translation value="Цистерны"/>
+	</entry>
+	<entry key="pvp_mission_area_name_upper_yellow">
+		<original value="Upper Yellow"/>
+		<translation value="Желтый "/>
+	</entry>
+	<entry key="pvp_mission_area_name_inside">
+		<original value="Inside"/>
+		<translation value="Помещение"/>
+	</entry>
+	<entry key="pvp_mission_area_name_nook">
+		<original value="Nook"/>
+		<translation value="Убежище"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_boost_to_1">
+		<original value="Boost To 1"/>
+		<translation value="Подсадка 1"/>
+	</entry>
+	<entry key="pvp_mission_area_name_banana">
+		<original value="Banana"/>
+		<translation value="Банан"/>
+	</entry>
+	<entry key="pvp_mission_area_name_boot">
+		<original value="Boot"/>
+		<translation value="Столб"/>
+	</entry>
+	<entry key="pvp_mission_area_name_crash">
+		<original value="Crash"/>
+		<translation value="Авария"/>
+	</entry>
+	<entry key="pvp_mission_area_name_barbwire">
+		<original value="Barbwire"/>
+		<translation value="Колючая проволока"/>
+	</entry>
+	<entry key="pvp_mission_area_name_green_lane">
+		<original value="Green Lane"/>
+		<translation value="Зелень"/>
+	</entry>
+	<entry key="pvp_mission_area_name_cafe">
+		<original value="Cafe"/>
+		<translation value="Кафе"/>
+	</entry>
+	<entry key="pvp_mission_area_name_6">
+		<original value="Six"/>
+		<translation value="Шестерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_net">
+		<original value="Net"/>
+		<translation value="Интернет"/>
+	</entry>
+	<entry key="pvp_mission_area_name_gap">
+		<original value="Gap"/>
+		<translation value="Фундамент"/>
+	</entry>
+	<entry key="pvp_mission_area_name_skew_box">
+		<original value="Skew Box"/>
+		<translation value="Косой ящик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fingers">
+		<original value="Fingers"/>
+		<translation value="Подсадка 2"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fist">
+		<original value="Fist"/>
+		<translation value="Оружейная"/>
+	</entry>
+	<entry key="pvp_mission_area_name_lamp">
+		<original value="Lamp"/>
+		<translation value="Лампа"/>
+	</entry>
+	<entry key="pvp_mission_area_name_sands">
+		<original value="Sands"/>
+		<translation value="Тройка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_zigzag">
+		<original value="Zigzag"/>
+		<translation value="Зигзаг"/>
+	</entry>
+	<entry key="pvp_mission_area_name_canister">
+		<original value="Canister"/>
+		<translation value="Канистра"/>
+	</entry>
+	<entry key="pvp_mission_area_name_blue_room">
+		<original value="Blue Room"/>
+		<translation value="Синяя комната"/>
+	</entry>
+	<entry key="pvp_mission_area_name_eight">
+		<original value="Eight"/>
+		<translation value="Восьмерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_market">
+		<original value="Market"/>
+		<translation value="Рынок"/>
+	</entry>
+	<entry key="pvp_mission_area_name_x_parapet">
+		<original value="Parapet"/>
+		<translation value="Парапет"/>
+	</entry>
+	<entry key="pvp_mission_area_name_vievpoint">
+		<original value="Vievpoint"/>
+		<translation value="Маяк"/>
+	</entry>
+	<entry key="pvp_mission_area_name_new_exit">
+		<original value="New Exit"/>
+		<translation value="Новый выход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_old_exit">
+		<original value="Old Exit"/>
+		<translation value="Старый выход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bags">
+		<original value="Bags"/>
+		<translation value="Мешки"/>
+	</entry>
+	<entry key="pvp_mission_area_name_minimarket">
+		<original value="Minimarket"/>
+		<translation value="Мини-маркет"/>
+	</entry>
+	<entry key="pvp_mission_area_name_dancehall">
+		<original value="Dancehall"/>
+		<translation value="Танцпол"/>
+	</entry>
+	<entry key="pvp_mission_area_name_headshot">
+		<original value="Headshot"/>
+		<translation value="Новый ящик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_slide">
+		<original value="Slide"/>
+		<translation value="Подкат"/>
+	</entry>
+	<entry key="pvp_mission_area_name_prone">
+		<original value="Prone"/>
+		<translation value="Склон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_zero">
+		<original value="Zero"/>
+		<translation value="Ноль"/>
+	</entry>
+	<entry key="pvp_mission_area_name_dumpster">
+		<original value="Dumpster"/>
+		<translation value="Мусор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_titanic">
+		<original value="Titanic"/>
+		<translation value="Титаник"/>
+	</entry>
+	<entry key="pvp_mission_area_name_underwear">
+		<original value="Underwear"/>
+		<translation value="Веревки"/>
+	</entry>
+	<entry key="pvp_mission_area_name_boards">
+		<original value="Boards"/>
+		<translation value="Доски"/>
+	</entry>
+	<entry key="pvp_mission_area_name_quadrate">
+		<original value="Quadrate"/>
+		<translation value="Подставка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_window">
+		<original value="Window"/>
+		<translation value="Балкон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_grains">
+		<original value="Grains"/>
+		<translation value="Зерно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_vase">
+		<original value="Vase"/>
+		<translation value="Ваза"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_plant">
+		<original value="Plant"/>
+		<translation value="Бомба"/>
+	</entry>
+	<entry key="pvp_mission_area_name_linen">
+		<original value="Linen"/>
+		<translation value="Полотно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_long_street">
+		<original value="Long Street"/>
+		<translation value="Подъем"/>
+	</entry>
+	<entry key="pvp_mission_area_name_base_loader">
+		<original value="Base Loader"/>
+		<translation value="Погрузчик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_entry">
+		<original value="Entry"/>
+		<translation value="Проходная"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_behind_0">
+		<original value="Behind Zero"/>
+		<translation value="Ниже нуля"/>
+	</entry>
+	<entry key="pvp_mission_area_name_0">
+		<original value="Zero"/>
+		<translation value="Ноль"/>
+	</entry>
+	<entry key="pvp_mission_area_name_garbage_can">
+		<original value="Garbage Can"/>
+		<translation value="Мусорный бак"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_zil">
+		<original value="Zil"/>
+		<translation value="ЗИЛ"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hangar">
+		<original value="Hangar"/>
+		<translation value="Ангар"/>
+	</entry>
+	<entry key="pvp_mission_area_name_upper_hide">
+		<original value="Upper Hide"/>
+		<translation value="Верхнее укрытие"/>
+	</entry>
+	<entry key="pvp_mission_area_name_upper_bypass">
+		<original value="Upper Bypass"/>
+		<translation value="Верхний обход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_bypass">
+		<original value="Bypass"/>
+		<translation value="Обход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_centre_containers">
+		<original value="Centre Containers"/>
+		<translation value="Центральные контейнеры"/>
+	</entry>
+	<entry key="pvp_mission_area_name_ribs">
+		<original value="Ribs"/>
+		<translation value="Выступ"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_centre">
+		<original value="Centre"/>
+		<translation value="Центр"/>
+	</entry>
+	<entry key="pvp_mission_area_name_water_source">
+		<original value="Water Source"/>
+		<translation value="Источник воды"/>
+	</entry>
+	<entry key="pvp_mission_area_name_subterrarean">
+		<original value="Subterrarean"/>
+		<translation value="Подземелье"/>
+	</entry>
+	<entry key="pvp_mission_area_name_water_flow">
+		<original value="Water Flow"/>
+		<translation value="Поток"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_attackers_base">
+		<original value="Attackers Base"/>
+		<translation value="База атакующих"/>
+	</entry>
+	<entry key="pvp_mission_area_name_descent">
+		<original value="Descent"/>
+		<translation value="Спуск"/>
+	</entry>
+	<entry key="pvp_mission_area_name_roost">
+		<original value="Roost"/>
+		<translation value="Насест"/>
+	</entry>
+	<entry key="pvp_mission_area_name_iron_bridge">
+		<original value="Iron Bridge"/>
+		<translation value="Железный мост"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_slate">
+		<original value="Slate"/>
+		<translation value="Доска"/>
+	</entry>
+	<entry key="pvp_mission_area_name_wagons">
+		<original value="Wagons"/>
+		<translation value="Вагоны"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pallet">
+		<original value="Pallet"/>
+		<translation value="Поддон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_covered_boxes">
+		<original value="Covered Boxes"/>
+		<translation value="Крытые контейнеры"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pipes">
+		<original value="Pipes"/>
+		<translation value="Трубы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_flaw">
+		<original value="Flaw"/>
+		<translation value="Трещина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_backyard">
+		<original value="Backyard"/>
+		<translation value="Задний двор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_slit">
+		<original value="Slit"/>
+		<translation value="Прорез"/>
+	</entry>
+	<entry key="pvp_mission_area_name_line">
+		<original value="Line"/>
+		<translation value="Линия"/>
+	</entry>
+	<entry key="pvp_mission_area_name_narrow">
+		<original value="Narrow"/>
+		<translation value="Пятерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_plant">
+		<original value="Plant"/>
+		<translation value="Объект"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_skew_container">
+		<original value="Skew Container"/>
+		<translation value="Уклон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_wing">
+		<original value="Wing"/>
+		<translation value="Крыло"/>
+	</entry>
+	<entry key="pvp_mission_area_name_upstairs">
+		<original value="Upstairs"/>
+		<translation value="Верх"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bicycle">
+		<original value="Bicycle"/>
+		<translation value="Велосипед"/>
+	</entry>
+	<entry key="pvp_mission_area_name_broken_car">
+		<original value="Broken Car"/>
+		<translation value="Сломанная машина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_trap">
+		<original value="Trap"/>
+		<translation value="Ловушка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_petrol_tanker">
+		<original value="Petrol Tanker"/>
+		<translation value="Бензовоз"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_rails">
+		<original value="Rails"/>
+		<translation value="Рельсы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_palm">
+		<original value="Palm"/>
+		<translation value="Ладонь"/>
+	</entry>
+	<entry key="pvp_mission_area_name_double_boxes">
+		<original value="Double Boxes"/>
+		<translation value="Двойные ящики"/>
+	</entry>
+	<entry key="pvp_mission_area_name_platform">
+		<original value="Platform"/>
+		<translation value="Центр"/>
+	</entry>
+	<entry key="pvp_mission_area_name_cardboard">
+		<original value="Cardboard"/>
+		<translation value="Картонная коробка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_green">
+		<original value="Green"/>
+		<translation value="Зеленый"/>
+	</entry>
+	<entry key="pvp_mission_area_name_through">
+		<original value="Through"/>
+		<translation value="Ложбина&#xA;"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_containers">
+		<original value="Containers"/>
+		<translation value="Контейнеры"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fire">
+		<original value="Fire"/>
+		<translation value="Огонь"/>
+	</entry>
+	<entry key="pvp_mission_area_name_beacon">
+		<original value="Beacon"/>
+		<translation value="Маячок"/>
+	</entry>
+	<entry key="pvp_mission_area_name_red_car">
+		<original value="Red Car"/>
+		<translation value="Красная машина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_entrance">
+		<original value="Entrance"/>
+		<translation value="Вход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hammer">
+		<original value="Hammer"/>
+		<translation value="Молот"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_leg">
+		<original value="Leg"/>
+		<translation value="Этап"/>
+	</entry>
+	<entry key="pvp_mission_area_name_spawn_box">
+		<original value="Spawn Box"/>
+		<translation value="Кладка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_concrete">
+		<original value="Concrete"/>
+		<translation value="Бетон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_depot">
+		<original value="Depot"/>
+		<translation value="Депо"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fork">
+		<original value="Fork"/>
+		<translation value="Развилка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_x_6">
+		<original value="Six"/>
+		<translation value="Шестерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_triple_boxes">
+		<original value="Triple Boxes"/>
+		<translation value="Тройные ящики"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_yard">
+		<original value="Yard"/>
+		<translation value="Двор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_roofs">
+		<original value="Roofs"/>
+		<translation value="Крыши"/>
+	</entry>
+	<entry key="pvp_mission_area_name_deadend">
+		<original value="Deadend"/>
+		<translation value="Тупик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pit">
+		<original value="Pit"/>
+		<translation value="Яма"/>
+	</entry>
+	<entry key="pvp_mission_area_name_block">
+		<original value="Block"/>
+		<translation value="Блокада"/>
+	</entry>
+	<entry key="pvp_mission_area_name_glade">
+		<original value="Glade"/>
+		<translation value="Прогалина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_booth">
+		<original value="Booth"/>
+		<translation value="Будка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_first_floor">
+		<original value="First Floor"/>
+		<translation value="Первый этаж"/>
+	</entry>
+	<entry key="pvp_mission_area_name_heads">
+		<original value="Heads"/>
+		<translation value="Основа"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_down">
+		<original value="Down"/>
+		<translation value="Низ"/>
+	</entry>
+	<entry key="pvp_mission_area_name_graffiti">
+		<original value="Graffiti"/>
+		<translation value="Граффити"/>
+	</entry>
+	<entry key="pvp_mission_area_name_up">
+		<original value="Up"/>
+		<translation value="Верх"/>
+	</entry>
+	<entry key="pvp_mission_area_name_closed">
+		<original value="Closed"/>
+		<translation value="Дальнее окно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_behind_site">
+		<original value="Behind Site"/>
+		<translation value="Позади объекта"/>
+	</entry>
+	<entry key="pvp_mission_area_name_main">
+		<original value="Main"/>
+		<translation value="Выход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_second_servers">
+		<original value="Servers"/>
+		<translation value="Серверы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hidden_box">
+		<original value="Hidden Box"/>
+		<translation value="Скрытый ящик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_assault_platform">
+		<original value="Assault Platform"/>
+		<translation value="Платформа"/>
+	</entry>
+	<entry key="pvp_mission_area_name_vent">
+		<original value="Vent"/>
+		<translation value="Вентиляция"/>
+	</entry>
+	<entry key="pvp_mission_area_name_behind_vent">
+		<original value="Behind Vent"/>
+		<translation value="За вентиляцией"/>
+	</entry>
+	<entry key="pvp_mission_area_name_wide">
+		<original value="Wide"/>
+		<translation value="Семерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_greenhouse">
+		<original value="Greenhouse"/>
+		<translation value="Оранжерея"/>
+	</entry>
+	<entry key="pvp_mission_area_name_exit">
+		<original value="Exit"/>
+		<translation value="Выход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_service_rooms">
+		<original value="Service Rooms"/>
+		<translation value="Служебные помещения"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_gallery">
+		<original value="Gallery"/>
+		<translation value="Галерея"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_window">
+		<original value="Window"/>
+		<translation value="Окно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_office">
+		<original value="Office"/>
+		<translation value="Офис"/>
+	</entry>
+	<entry key="pvp_mission_area_name_old_boost">
+		<original value="Old Boost"/>
+		<translation value="Ускорение (стар.)"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bank">
+		<original value="Bank"/>
+		<translation value="Банк"/>
+	</entry>
+	<entry key="pvp_mission_area_name_street">
+		<original value="Street"/>
+		<translation value="Улица"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_subway">
+		<original value="Subway"/>
+		<translation value="Подземка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_subway_box">
+		<original value="Subway Box"/>
+		<translation value="Ящики"/>
+	</entry>
+	<entry key="pvp_mission_area_name_flowerbed">
+		<original value="Flowerbed"/>
+		<translation value="Клумба"/>
+	</entry>
+	<entry key="pvp_mission_area_name_recess">
+		<original value="Recess"/>
+		<translation value="Спуск"/>
+	</entry>
+	<entry key="pvp_mission_area_name_servers">
+		<original value="Servers"/>
+		<translation value="Серверы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_lane">
+		<original value="Lane"/>
+		<translation value="Линия"/>
+	</entry>
+	<entry key="pvp_mission_area_name_central_top">
+		<original value="Central Top"/>
+		<translation value="Центр"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_top_stairs">
+		<original value="Top Stairs"/>
+		<translation value="Лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_alley">
+		<original value="Alley"/>
+		<translation value="Аллея"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fountain">
+		<original value="Fountain"/>
+		<translation value="Фонтан"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tile">
+		<original value="Tile"/>
+		<translation value="Леса"/>
+	</entry>
+	<entry key="pvp_mission_area_name_boost">
+		<original value="Boost"/>
+		<translation value="Подсадка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_ruined_top">
+		<original value="Ruined Top"/>
+		<translation value="Верх (атака)"/>
+	</entry>
+	<entry key="pvp_mission_area_name_broken_tap">
+		<original value="Broken Tap"/>
+		<translation value="Сломанный кран"/>
+	</entry>
+	<entry key="pvp_mission_area_name_board">
+		<original value="Board"/>
+		<translation value="Доска"/>
+	</entry>
+	<entry key="pvp_mission_area_name_climb">
+		<original value="Climb"/>
+		<translation value="Подъем"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_palace">
+		<original value="Palace"/>
+		<translation value="Дворец"/>
+	</entry>
+	<entry key="pvp_mission_area_name_lobby">
+		<original value="Lobby"/>
+		<translation value="Первая"/>
+	</entry>
+	<entry key="pvp_mission_area_name_open_window">
+		<original value="Open Window"/>
+		<translation value="Открытое окно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_old_top">
+		<original value="Old Top"/>
+		<translation value="Тройка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_far">
+		<original value="Far"/>
+		<translation value="Ноль"/>
+	</entry>
+	<entry key="pvp_mission_area_name_niche">
+		<original value="Niche"/>
+		<translation value="Подсадка 2"/>
+	</entry>
+	<entry key="pvp_mission_area_name_old_arches">
+		<original value="Old Arches"/>
+		<translation value="Четверка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_front_gate">
+		<original value="Front Gate"/>
+		<translation value="Главные ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_new_arches">
+		<original value="New Arches"/>
+		<translation value="Восьмерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_awnings">
+		<original value="Awnings"/>
+		<translation value="Тент"/>
+	</entry>
+	<entry key="pvp_mission_area_name_arty">
+		<original value="Arty"/>
+		<translation value="Решетки"/>
+	</entry>
+	<entry key="pvp_mission_area_name_racks">
+		<original value="Racks"/>
+		<translation value="Стеллажи"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bucket">
+		<original value="Bucket"/>
+		<translation value="Ведро"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_rocket">
+		<original value="Rocket"/>
+		<translation value="Ракета"/>
+	</entry>
+	<entry key="pvp_mission_area_name_backstreet">
+		<original value="Backstreet"/>
+		<translation value="Задний двор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_mud">
+		<original value="Mud"/>
+		<translation value="Грязь"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tunnel">
+		<original value="Tunnel"/>
+		<translation value="Канава"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_windows">
+		<original value="Windows"/>
+		<translation value="Окна"/>
+	</entry>
+	<entry key="pvp_mission_area_name_sam">
+		<original value="Sam"/>
+		<translation value="Сэм"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_garage">
+		<original value="Garage"/>
+		<translation value="Гараж"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_bombsite_1">
+		<original value="Bombsite 1"/>
+		<translation value="Точка 1"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fire_hose">
+		<original value="Fire Hose"/>
+		<translation value="Угол"/>
+	</entry>
+	<entry key="pvp_mission_area_name_ladder">
+		<original value="Ladder"/>
+		<translation value="Лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_locker">
+		<original value="Locker"/>
+		<translation value="Шкафчик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_green_room">
+		<original value="Green Room"/>
+		<translation value="Будка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_near">
+		<original value="Near"/>
+		<translation value="Ближнее окно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_uniform">
+		<original value="Uniform"/>
+		<translation value="Униформа"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hindcarriage">
+		<original value="Hindcarriage"/>
+		<translation value="Экипаж"/>
+	</entry>
+	<entry key="pvp_mission_area_name_rear_gate">
+		<original value="Rear Gate"/>
+		<translation value="Ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pixel">
+		<original value="Pixel"/>
+		<translation value="Пиксель"/>
+	</entry>
+	<entry key="pvp_mission_area_name_out">
+		<original value="Out"/>
+		<translation value="Выход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_fort">
+		<original value="Fort"/>
+		<translation value="Форт"/>
+	</entry>
+	<entry key="pvp_mission_area_name_courtyard">
+		<original value="Courtyard"/>
+		<translation value="Двор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_first_hangar">
+		<original value="First Hangar"/>
+		<translation value="Второй ангар"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_pit">
+		<original value="Pit"/>
+		<translation value="Яма"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bombsite_2">
+		<original value="Bombsite 2"/>
+		<translation value="Точка 2"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_second_hangar">
+		<original value="Second Hangar"/>
+		<translation value="Первый ангар"/>
+	</entry>
+	<entry key="pvp_mission_area_name_guns">
+		<original value="Guns"/>
+		<translation value="Оружие"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_boost">
+		<original value="Boost"/>
+		<translation value="Ускорение"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_bus">
+		<original value="Bus"/>
+		<translation value="Автобус"/>
+	</entry>
+	<entry key="pvp_mission_area_name_matresses">
+		<original value="Matresses"/>
+		<translation value="Матрацы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fence">
+		<original value="Fence"/>
+		<translation value="Насыпь"/>
+	</entry>
+	<entry key="pvp_mission_area_name_container">
+		<original value="Container"/>
+		<translation value="Контейнеры"/>
+	</entry>
+	<entry key="pvp_mission_area_name_trailer">
+		<original value="Trailer"/>
+		<translation value="Прицеп"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_midle">
+		<original value="Midle"/>
+		<translation value="Середина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bars">
+		<original value="Bars"/>
+		<translation value="Решетка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hovel">
+		<original value="Hovel"/>
+		<translation value="Лачуга"/>
+	</entry>
+	<entry key="pvp_mission_area_name_jump">
+		<original value="Jump"/>
+		<translation value="Прыжок"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_trench">
+		<original value="Trench"/>
+		<translation value="Траншея"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bypass">
+		<original value="Bypass"/>
+		<translation value="Обход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_podium">
+		<original value="Podium"/>
+		<translation value="Подиум"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_coils">
+		<original value="Coils"/>
+		<translation value="Виток"/>
+	</entry>
+	<entry key="pvp_mission_area_name_fougas">
+		<original value="Fougas"/>
+		<translation value="Фугас"/>
+	</entry>
+	<entry key="pvp_mission_area_name_armor">
+		<original value="Armor"/>
+		<translation value="Броневик"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_8">
+		<original value="Eight"/>
+		<translation value="Восьмерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pool">
+		<original value="Pool"/>
+		<translation value="Бассейн"/>
+	</entry>
+	<entry key="pvp_mission_area_name_lounger">
+		<original value="Lounger"/>
+		<translation value="Шезлонг"/>
+	</entry>
+	<entry key="pvp_mission_area_name_back_staircase">
+		<original value="Back Staircase"/>
+		<translation value="Запасная лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_y_rear_gate">
+		<original value="Rear Gate"/>
+		<translation value="Запасные ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_close_gate">
+		<original value="Close Gate"/>
+		<translation value="Закрытые ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_backdoor">
+		<original value="Backdoor"/>
+		<translation value="Черный ход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_transition">
+		<original value="Transition"/>
+		<translation value="Переход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_crypt">
+		<original value="Crypt"/>
+		<translation value="Склеп"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_basement">
+		<original value="Basement"/>
+		<translation value="Подвал"/>
+	</entry>
+	<entry key="pvp_mission_area_name_down">
+		<original value="Down"/>
+		<translation value="Нижняя часть"/>
+	</entry>
+	<entry key="pvp_mission_area_name_grasss">
+		<original value="Grasss"/>
+		<translation value="Трава"/>
+	</entry>
+	<entry key="pvp_mission_area_name_generator">
+		<original value="Generator"/>
+		<translation value="Генератор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_bombsite">
+		<original value="Bombsite"/>
+		<translation value="Точка минирования"/>
+	</entry>
+	<entry key="pvp_mission_area_name_globe">
+		<original value="Globe"/>
+		<translation value="Шар"/>
+	</entry>
+	<entry key="pvp_mission_area_name_rib">
+		<original value="Rib"/>
+		<translation value="Выступ"/>
+	</entry>
+	<entry key="pvp_mission_area_name_garage">
+		<original value="Garage"/>
+		<translation value="Гараж"/>
+	</entry>
+	<entry key="pvp_mission_area_name_iron_gate">
+		<original value="Iron Gate"/>
+		<translation value="Железные ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_main_gate">
+		<original value="Main Gate"/>
+		<translation value="Главные ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_vases">
+		<original value="Vases"/>
+		<translation value="Вазы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_palm_trees">
+		<original value="Palm Trees"/>
+		<translation value="Деревья"/>
+	</entry>
+	<entry key="pvp_mission_area_name_rag">
+		<original value="Rag"/>
+		<translation value="Обрывки"/>
+	</entry>
+	<entry key="pvp_mission_area_name_side_staircase">
+		<original value="Side Staircase"/>
+		<translation value="Боковая лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_narrow_staircase">
+		<original value="Narrow Staircase"/>
+		<translation value="Узкая лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pool_gate">
+		<original value="Pool gate"/>
+		<translation value="Вход в бассейн"/>
+	</entry>
+	<entry key="pvp_mission_area_name_ramp">
+		<original value="Ramp"/>
+		<translation value="Скат"/>
+	</entry>
+	<entry key="pvp_mission_area_name_upper_gate">
+		<original value="Upper Gate"/>
+		<translation value="Верхние ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_water">
+		<original value="Water"/>
+		<translation value="Вода"/>
+	</entry>
+	<entry key="pvp_mission_area_name_teeth">
+		<original value="Teeth"/>
+		<translation value="Выступы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_side_gate">
+		<original value="Side Gate"/>
+		<translation value="Боковые ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_waterfall">
+		<original value="Waterfall"/>
+		<translation value="Водопад"/>
+	</entry>
+	<entry key="pvp_mission_area_name_lower_gate">
+		<original value="Lower Gate"/>
+		<translation value="Нижние ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_blue_boxes">
+		<original value="Blue Boxes"/>
+		<translation value="Синий тент"/>
+	</entry>
+	<entry key="pvp_mission_area_name_red_boxes">
+		<original value="Red Boxes"/>
+		<translation value="Красные ящики"/>
+	</entry>
+	<entry key="pvp_mission_area_name_repairs">
+		<original value="Repairs"/>
+		<translation value="Ремонт"/>
+	</entry>
+	<entry key="pvp_mission_area_name_back_stairs">
+		<original value="Back Stairs"/>
+		<translation value="Запасная лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_main_stairs">
+		<original value="Main Stairs"/>
+		<translation value="Главная лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_stone">
+		<original value="Stone"/>
+		<translation value="Камень"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_subterranean">
+		<original value="Subterranean"/>
+		<translation value="Под мостом"/>
+	</entry>
+	<entry key="pvp_mission_area_name_secret_gate">
+		<original value="Secret Gate"/>
+		<translation value="Секретный ход"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_second_floor">
+		<original value="Second Floor"/>
+		<translation value="Второй этаж"/>
+	</entry>
+	<entry key="pvp_mission_area_name_glass">
+		<original value="Glass"/>
+		<translation value="Стекло"/>
+	</entry>
+	<entry key="pvp_mission_area_name_garages">
+		<original value="Garages"/>
+		<translation value="Гаражи"/>
+	</entry>
+	<entry key="pvp_mission_area_name_double_stairs">
+		<original value="Double Stairs"/>
+		<translation value="Двойная лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hq">
+		<original value="Hq"/>
+		<translation value="Штаб"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bombsite">
+		<original value="Bombsite"/>
+		<translation value="Точка минирования"/>
+	</entry>
+	<entry key="pvp_mission_area_name_broad">
+		<original value="Broad"/>
+		<translation value="Ширина"/>
+	</entry>
+	<entry key="pvp_mission_area_name_red_cube">
+		<original value="Red Cube"/>
+		<translation value="Подсадка 1"/>
+	</entry>
+	<entry key="pvp_mission_area_name_upper_cubes">
+		<original value="Upper Cubes"/>
+		<translation value="Верхние кубы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_attackers_top">
+		<original value="Attackers Top"/>
+		<translation value="Зал 2"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_left">
+		<original value="left"/>
+		<translation value="Ящик (атака)"/>
+	</entry>
+	<entry key="pvp_mission_area_name_closed_recess">
+		<original value="Closed Recess"/>
+		<translation value="Закрытый спуск"/>
+	</entry>
+	<entry key="pvp_mission_area_name_pillars">
+		<original value="Pillars"/>
+		<translation value="Развалины"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_damaged_stairs">
+		<original value="Damaged Stairs"/>
+		<translation value="Ступеньки 2"/>
+	</entry>
+	<entry key="pvp_mission_area_name_right">
+		<original value="Right"/>
+		<translation value="Правая часть"/>
+	</entry>
+	<entry key="pvp_mission_area_name_left">
+		<original value="Left"/>
+		<translation value="Левая часть"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_out">
+		<original value="Out"/>
+		<translation value="Окно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_construction">
+		<original value="Construction"/>
+		<translation value="Зал 1"/>
+	</entry>
+	<entry key="pvp_mission_area_name_scaffolding">
+		<original value="Scaffolding"/>
+		<translation value="Подмостки"/>
+	</entry>
+	<entry key="pvp_mission_area_name_cat">
+		<original value="Cat"/>
+		<translation value="Пятерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_dark">
+		<original value="Dark"/>
+		<translation value="Коридор"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bow">
+		<original value="Bow"/>
+		<translation value="Лук"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bombsite_1">
+		<original value="Bombsite 1"/>
+		<translation value="Точка 1"/>
+	</entry>
+	<entry key="pvp_mission_area_name_obelisk">
+		<original value="Obelisk"/>
+		<translation value="Обелиск"/>
+	</entry>
+	<entry key="pvp_mission_area_name_hump">
+		<original value="Hump"/>
+		<translation value="Подъем"/>
+	</entry>
+	<entry key="pvp_mission_area_name_ambush">
+		<original value="Ambush"/>
+		<translation value="Засада"/>
+	</entry>
+	<entry key="pvp_mission_area_name_z_obelisk">
+		<original value="Obelisk"/>
+		<translation value="Обелиск"/>
+	</entry>
+	<entry key="pvp_mission_area_name_big_cube">
+		<original value="Big Cube"/>
+		<translation value="Большой куб"/>
+	</entry>
+	<entry key="pvp_mission_area_name_bulkhead">
+		<original value="Bulkhead"/>
+		<translation value="Надстройка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_toilet">
+		<original value="Toilet"/>
+		<translation value="Туалет"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tambour">
+		<original value="Tambour"/>
+		<translation value="Тамбур"/>
+	</entry>
+	<entry key="pvp_mission_area_name_green_cube">
+		<original value="Green Cube"/>
+		<translation value="Тент"/>
+	</entry>
+	<entry key="pvp_mission_area_name_8">
+		<original value="Eight"/>
+		<translation value="Восьмерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_rags">
+		<original value="Rags"/>
+		<translation value="Зигзаг"/>
+	</entry>
+	<entry key="pvp_mission_area_name_1_right">
+		<original value="Right"/>
+		<translation value="Ящик (защита)"/>
+	</entry>
+	<entry key="pvp_mission_area_name_coupling">
+		<original value="Coupling"/>
+		<translation value="Шифер"/>
+	</entry>
+	<entry key="pvp_mission_area_name_rat">
+		<original value="Rat"/>
+		<translation value="Засада"/>
+	</entry>
+	<entry key="pvp_mission_area_name_a_tap">
+		<original value="Tap"/>
+		<translation value="Фонтан"/>
+	</entry>
+	<entry key="TBSdeepwater">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_helipad">
+		<original value="Helipad"/>
+		<translation value="Вертолетная площадка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_respawn">
+		<original value="Respawn"/>
+		<translation value="Точка возрождения"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_window">
+		<original value="Window"/>
+		<translation value="Окно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_boiler_corridor">
+		<original value="Boiler Corridor"/>
+		<translation value="Коридор в котельную"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_boiler_room_door">
+		<original value="Boiler Room Door"/>
+		<translation value="Дверь в котельную"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_respawn_door">
+		<original value="Respawn Door"/>
+		<translation value="Дверь на точку"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_veranda">
+		<original value="Veranda"/>
+		<translation value="Палуба с верандой"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_04_block_court">
+		<original value="04 Block Court"/>
+		<translation value="Блок 4"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_gas_flare">
+		<original value="Gas Flare"/>
+		<translation value="Газовый факел"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_climb">
+		<original value="Climb"/>
+		<translation value="Подъем"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_central_deck">
+		<original value="Central Deck"/>
+		<translation value="Главная палуба"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_central_gate">
+		<original value="Central Gate"/>
+		<translation value="Главные ворота"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_staircase_door">
+		<original value="Staircase Door"/>
+		<translation value="Дверь на лестницу"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_staircase">
+		<original value="Staircase"/>
+		<translation value="Лестница"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_def_sniper_window">
+		<original value="Def Sniper Window"/>
+		<translation value="Позиция снайпера 1"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_att_sniper_window">
+		<original value="Att Sniper Window"/>
+		<translation value="Позиция снайпера 2"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_living_block">
+		<original value="Living Block"/>
+		<translation value="Жилой блок"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_bomb_site">
+		<original value="Bomb Site"/>
+		<translation value="Точка минирования"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_pallet_jack">
+		<original value="Pallet Jack"/>
+		<translation value="Тележка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_balcony">
+		<original value="Balcony"/>
+		<translation value="Балкон"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_control_room">
+		<original value="Control Room"/>
+		<translation value="Рубка управления"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_container_gate">
+		<original value="Container Gate"/>
+		<translation value="Ворота на склад"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_blue_container">
+		<original value="Blue Container"/>
+		<translation value="Синий контейнер"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_red_container">
+		<original value="Red Container"/>
+		<translation value="Красный контейнер"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_canopy">
+		<original value="Canopy"/>
+		<translation value="Навес"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_containers">
+		<original value="Containers"/>
+		<translation value="Контейнеры"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_container_staircase">
+		<original value="Container Staircase"/>
+		<translation value="Лестница на склад"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_four">
+		<original value="4"/>
+		<translation value="Четверка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_bomb_gate">
+		<original value="Bomb Gate"/>
+		<translation value="Ворота к бомбе"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_five">
+		<original value="5"/>
+		<translation value="Пятерка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_bomb_container">
+		<original value="Bomb Container"/>
+		<translation value="Контейнер у бомбы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_drill">
+		<original value="Drill"/>
+		<translation value="Бур"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_ballon_gate">
+		<original value="Ballon Gate"/>
+		<translation value="Шлюз"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_staircase_corridor">
+		<original value="Staircase Corridor"/>
+		<translation value="Коридор к лестнице"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_barrels">
+		<original value="Radiopod"/>
+		<translation value="Радиовышка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_changing_room">
+		<original value="Changing Room"/>
+		<translation value="Раздевалка"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_three_pipes">
+		<original value="Three Pipes"/>
+		<translation value="Трубы"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_upper_window">
+		<original value="Upper Window"/>
+		<translation value="Верхнее окно"/>
+	</entry>
+	<entry key="pvp_mission_area_name_tbsdeepwater_changing_corridor">
+		<original value="Changing Corridor"/>
+		<translation value="Коридор к раздевалке"/>
+	</entry>
+</localization>

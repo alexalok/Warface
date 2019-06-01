@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="heavy" class="K01_Item" name="mg22_cb_ai_h" net_policy="weapon_ai" priority="41" view_settings="objects/weapons/mg22/mg22_ai.xml">
+  <params>
+    <param name="giveable" value="1" />
+    <param name="selectable" value="1" />
+    <param name="ui_weapon" value="1" />
+    <param name="giveable" value="1" />
+    <param name="ai_weapon_type" value="Assault" />
+  </params>
+  <ai_descriptor coverFireTime="10" burstBulletCountMax="25" burstBulletCountMin="25" burstPauseTimeMax="5" burstPauseTimeMin="3" draw_time="1.0" handler="instant" signal_on_shoot="1" singleFireTriggerTime="-1" spreadRadius="0" sweep_frequency="2.5" sweep_width="1.5" />
+  <ammos>
+    <ammo name="bullet_mg" />
+  </ammos>
+  <icons>
+    <combatlog icon="Mg22_combatLog" melee="Melee" />
+  </icons>
+  <settings archetype="Items/Weapons/Archetypes/MG_ai.xml">
+    <param name="ammo_amount" value="75" />
+    <param name="rpm" value="300" />
+    <param name="damage" value="40" />
+    <param name="damage_drop_per_meter" value="0.6" />
+    <param name="damage_drop_min_distance" value="20" />
+    <param name="damage_min" value="35" />
+    <param name="damage_mul" value="1" />
+    <param name="spread_min" value="6" />
+    <param name="spread_max" value="14" />
+    <param name="spread_att" value="15" />
+    <param name="spread_dec" value="50" />
+    <param name="spread_min_mul" value="1">
+      <stance name="run" value="3" />
+    </param>
+    <param name="spread_max_mul" value="1" />
+    <param name="spread_att_mul" value="1" />
+    <param name="spread_dec_mul" value="1" />
+    <param name="reload_duration" value="2800" />
+    <param name="melee_duration" value="290" />
+    <param name="melee_range" value="1.5" />
+    <param name="melee_damage" value="25" />
+    <param name="melee_radius" value="0.5" />
+    <param name="melee_radius_mul" value="1.0" />
+    <param name="melee_out_duration" value="1300" />
+    <param name="toss_duration" value="400" />
+    <param name="deselect_duration" value="300" />
+    <param name="holster_in_duration" value="120" />
+  </settings>
+  <firemodes>
+    <firemode name="Rapid" type="Rapid" />
+  </firemodes>
+  <clipmode auto_reload="0" capacity="75" unlimited="0" />
+  <melee_params>
+    <param name="impulse" value="20" />
+    <param name="pierce" value="10" />
+  </melee_params>
+  <fireparams>
+    <fire>
+      <param name="ammo_type" value="bullet_mg" />
+      <param name="bullet_chamber" value="1" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+      <param name="ai_muzzle_pos" value="0.0, 0.3, 0.15" />
+    </fire>
+  </fireparams>
+</item>

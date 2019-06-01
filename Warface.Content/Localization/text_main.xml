@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="lp_label1">
+		<original value="FFA Widestreet"/>
+		<translation value="Обновление 'Пригорода'"/>
+	</entry>
+	<entry key="lp_description1">
+		<original value="Widestreet reworked PvP map"/>
+		<translation value="Новая версия карты 'Пригород' для режима 'Мясорубка'."/>
+	</entry>
+	<entry key="lp_label2">
+		<original value="FFA Widestreet"/>
+		<translation value="Обновление 'Пригорода'"/>
+	</entry>
+	<entry key="lp_description2">
+		<original value="Widestreet reworked PvP map"/>
+		<translation value="Новая версия карты 'Пригород' для режима 'Мясорубка'."/>
+	</entry>
+	<entry key="lp_label3">
+		<original value="SIG MPX SBR Custom"/>
+		<translation value="SIG MPX SBR Custom"/>
+	</entry>
+	<entry key="lp_description3">
+		<original value="SMG SiG MPX SBR with Burst Fire 4 rounds"/>
+		<translation value="Новый пистолет-пулемет, позволяющий вести огонь очередями с осечкой по четыре патрона."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+</localization>

@@ -107,6 +107,7 @@ namespace Warface.Entities
 
             //Libs\Config\UI\mapImagesPVE.xml
 
+            {"mapImgInitiation_e", "initiation_easy"},
             {"mapImgKosovo", "kosovo"},
             {"mapImgKosovo_1", "kosovo_1"},
             {"mapImgKosovo_2", "kosovo_2"},

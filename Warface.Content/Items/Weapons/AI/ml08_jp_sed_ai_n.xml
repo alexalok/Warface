@@ -1,0 +1,29 @@
+<item category="small" class="K01_Item" name="ml08_jp_sed_ai_n" net_policy="weapon_ai" priority="3" type="weapon" view_settings="objects/weapons/kn13_sed/kn13_sed.xml">
+	<ai_descriptor burstBulletCountMax="1" burstBulletCountMin="1" burstPauseTimeMax="6" burstPauseTimeMin="6" coverFireTime="0" draw_time="1.0" handler="instant" signal_on_shoot="1" singleFireTriggerTime="-1" sweep_frequency="2.5" sweep_width="1.5"/>
+	<icons>
+		<combatlog melee="Melee"/>
+	</icons>
+	<settings>
+		<param name="melee_damage" value="600"/>
+		<param name="melee_range" value="5"/>
+		<param name="melee_radius" value="0.3"/>
+		<param name="select_duration" value="0"/>
+		<param name="deselect_duration" value="0"/>
+		<param name="melee_out_duration" value="1500"/>
+		<param name="melee_duration" value="100"/>
+		<param name="melee_knock_back_chance" value="0"/>
+		<param name="melee_knock_back_chance_mul" value="0"/>
+		<param name="melee_knock_back_stamina_damage" value="0"/>
+		<param name="melee_radius_mul" value="1.0"/>
+	</settings>
+	<firemodes>
+		<firemode icon="FireModeMelee" type="Melee"/>
+	</firemodes>
+	<melee_params>
+		<param name="aoe_height" value="3.5"/>
+	    <param name="aoe_enabled" value="1" />
+		<param name="impulse" value="0"/>
+		<param name="armor_absorb" value="1"/>
+		<param name="no_ray_test" value="1"/>
+	</melee_params>
+</item>

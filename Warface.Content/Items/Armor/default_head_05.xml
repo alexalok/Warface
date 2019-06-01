@@ -1,0 +1,28 @@
+<GameItem name="default_head_05" type="armor">
+	<mmo_stats>
+		<param name="item_category" value="Face"/>
+		<param name="price" value="0"/>
+		<param name="shopcontent" value="0"/>
+		<param name="classes" value="MERS"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@ui_armor_DefaultHead_name"/>
+		<param name="description" value="@ui_armor_DefaultHead_01"/>
+		<param name="icon" value="HeadIcon05"/>
+	</UI_stats>
+	<optional_stats>
+		<param name="voice_alias" value="voice_1"/>
+	</optional_stats>
+	<slots>
+		<slot name="defaulthead">   <!-- fake slot required for caps proper work -->
+			<materials>
+				<Material name="default" icon="mat_green" default = "1" display_name="default" surface_type="mat_head"/>
+			</materials>
+			<assets>
+				<asset mode="tp" display="all" name="shared_head_05"/>
+			</assets>
+		</slot>
+	</slots>
+	<GameParams>
+	</GameParams>
+</GameItem>

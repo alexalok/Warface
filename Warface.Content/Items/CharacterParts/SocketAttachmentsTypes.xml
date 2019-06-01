@@ -1,0 +1,7 @@
+<SocketAttachmentsTypes>
+	<type name="Small Grenades"/>
+	<type name="Large Grenades"/>
+	<type name="Pistols"/>
+	<type name="Equipment"/>
+	<type name="Ammo Bag"/>
+</SocketAttachmentsTypes>

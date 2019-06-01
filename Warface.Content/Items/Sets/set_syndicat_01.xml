@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<set name="set_syndicat_01">
+    <UI_stats>
+        <param name="name" value="@ui_set_syndicat_01"/>
+        <param name="description" value="@ui_set_syndicat_01_description"/>
+        <param name="color" value="33cc99"/>
+    </UI_stats>
+    <set_items>
+        <item name="soldier_helmet_syndicat"/>
+		<item name="sniper_helmet_syndicat"/>
+		<item name="medic_helmet_syndicat"/>
+		<item name="engineer_helmet_syndicat"/>
+		<item name="soldier_vest_syndicat"/>
+		<item name="sniper_vest_syndicat"/>
+		<item name="medic_vest_syndicat"/>
+		<item name="engineer_vest_syndicat"/>
+		<item name="shared_hands_syndicat"/>
+		<item name="shared_shoes_syndicat"/>
+    </set_items>
+    <set_bonuses>
+	    <bonus items_need="2" name="set_syndicat_01_bonus01"/>
+        <bonus items_need="3" name="set_syndicat_01_bonus02"/>
+		<bonus items_need="4" name="set_syndicat_01_bonus03"/>
+    </set_bonuses>
+</set>

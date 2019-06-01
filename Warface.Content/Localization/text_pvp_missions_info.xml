@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="game_room_name">
+		<original value="%1's GAME ROOM"/>
+		<translation value="Комната игрока %1"/>
+	</entry>
+	<entry key="lobby_chat_new_host_notification">
+		<original value="%1 is new host"/>
+		<translation value="%1 - новый лидер комнаты"/>
+	</entry>
+	<entry key="lobby_chat_kick_notification">
+		<original value="%1 kicked"/>
+		<translation value="Игрок %1 исключен из комнаты"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_convoy">
+		<original value="CONVOY"/>
+		<translation value="КОНВОЙ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_longway">
+		<original value="LONGWAY"/>
+		<translation value="КРЕПОСТЬ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_test">
+		<original value="ctf_test"/>
+		<translation value="ctf_test"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_vault">
+		<original value="VAULT"/>
+		<translation value="УБЕЖИЩЕ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_dst_towers">
+		<original value="TOWERS"/>
+		<translation value="БАШНИ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_dst_lighthouse">
+		<original value="LIGHTHOUSE"/>
+		<translation value="МАЯК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_forest">
+		<original value="FOREST"/>
+		<translation value="ЛЕС"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_train">
+		<original value="TRAIN"/>
+		<translation value="ДЕПО"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_widestreet">
+		<original value="WIDESTREET"/>
+		<translation value="ПРИГОРОД"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_afghan">
+		<original value="YARD"/>
+		<translation value="ПЕРЕУЛКИ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_bridges">
+		<original value="BRIDGES"/>
+		<translation value="МОСТЫ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_cave">
+		<original value="ptb_cave"/>
+		<translation value="ptb_cave"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_destination">
+		<original value="DESTINATION"/>
+		<translation value="ПУНКТ НАЗНАЧЕНИЯ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_test">
+		<original value="ptb_test"/>
+		<translation value="ptb_test"/>
+	</entry>
+	<entry key="pvp_mission_display_name_stm_blackgold">
+		<original value="BLACKGOLD"/>
+		<translation value="ЧЕРНОЕ ЗОЛОТО"/>
+	</entry>
+	<entry key="pvp_mission_display_name_stm_city">
+		<original value="stm_city"/>
+		<translation value="stm_city"/>
+	</entry>
+	<entry key="pvp_mission_display_name_stm_highhill">
+		<original value="HIGHILL"/>
+		<translation value="ХОЛМЫ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_aul">
+		<original value="AUL"/>
+		<translation value="ПОСЕЛОК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_cargo">
+		<original value="tdm_cargo"/>
+		<translation value="tdm_cargo"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_church">
+		<original value="tdm_church"/>
+		<translation value="tdm_church"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_corex">
+		<original value="tdm_corex"/>
+		<translation value="tdm_corex"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_dock">
+		<original value="DOCK"/>
+		<translation value="ДОК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_farm">
+		<original value="FARM"/>
+		<translation value="ФЕРМА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_farm_sunset">
+		<original value="FARM SUNSET"/>
+		<translation value="ФЕРМА (ЗАКАТ)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_hangar">
+		<original value="HANGAR"/>
+		<translation value="АНГАР"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_skyway">
+		<original value="tdm_skyway"/>
+		<translation value="tdm_skyway"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_afghanl">
+		<original value="YARD_Lite"/>
+		<translation value="ПЕРЕУЛКИ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_afghanlv2">
+		<original value="YARD_Lite v2"/>
+		<translation value="ПЕРЕУЛКИ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_overpass">
+		<original value="OVERPASS"/>
+		<translation value="ЭСТАКАДА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_convoy">
+		<original value="CONVOY"/>
+		<translation value="CONVOY"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_factory">
+		<original value="FACTORY"/>
+		<translation value="ФАБРИКА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_downtown">
+		<original value="DOWNTOWN"/>
+		<translation value="ПЛОЩАДЬ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_stm_wharf">
+		<original value="WHARF"/>
+		<translation value="ВЕРФЬ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_overpass">
+		<original value="OVERPASS"/>
+		<translation value="ЭСТАКАДА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_crossriver">
+		<original value="CROSS THE RIVER"/>
+		<translation value="ПЕРЕПРАВА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_downtown">
+		<original value="DOWNTOWN"/>
+		<translation value="ПЛОЩАДЬ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_forest_dawn">
+		<original value="FOREST DAWN"/>
+		<translation value="ЛЕС: НОЧЬ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_greenline">
+		<original value="GREEN LINE"/>
+		<translation value="ЗЕЛЕНАЯ ЛИНИЯ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_stm_invasion">
+		<original value="INVASION"/>
+		<translation value="ВТОРЖЕНИЕ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_ghostisland">
+		<original value="GHOST ISLAND"/>
+		<translation value="ОСТРОВ-ПРИЗРАК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_aul_pts">
+		<original value="AUL PTS"/>
+		<translation value="ПОСЕЛОК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_deposit">
+		<original value="DEPOSIT"/>
+		<translation value="ДЕПОЗИТ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_district">
+		<original value="DISTRICT"/>
+		<translation value="ОКРАИНА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_oildepot">
+		<original value="OILDEPOT"/>
+		<translation value="НЕФТЕБАЗА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_hangar_xmas">
+		<original value="XMAS HANGAR"/>
+		<translation value="АНГАР (НОВЫЙ ГОД)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_construction">
+		<original value="CONSTRUCTION"/>
+		<translation value="СТРОЙКА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_codenamed18">
+		<original value="CODE_D18"/>
+		<translation value="ОБЪЕКТ Д18"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_palace">
+		<original value="PALACE"/>
+		<translation value="ДВОРЕЦ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_vault_fwc">
+		<original value="FWC VAULT"/>
+		<translation value="УБЕЖИЩЕ (КАРНАВАЛ)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_shuttle">
+		<original value="SHUTTLE"/>
+		<translation value="ТЕРМИНАЛ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_d17">
+		<original value="D17"/>
+		<translation value="ОБЪЕКТ Д17"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_streetwars">
+		<original value="STREET WARS"/>
+		<translation value="КВАРТАЛ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_residential">
+		<original value="TRAILER PARK"/>
+		<translation value="СТОЯНКА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_motel">
+		<original value="MOTEL"/>
+		<translation value="МОТЕЛЬ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_grand_bazaar">
+		<original value="GRAND BAZAAR"/>
+		<translation value="РЫНОК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_airbase">
+		<original value="AIRBASE"/>
+		<translation value="АВИАБАЗА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_mine">
+		<original value="MINE"/>
+		<translation value="ШТОЛЬНЯ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_quarry">
+		<original value="QUARRY"/>
+		<translation value="КАРЬЕР"/>
+	</entry>
+	<entry key="pvp_mission_display_name_stm_blackmamba">
+		<original value="BLACKMAMBA"/>
+		<translation value="ЧЕРНАЯ МАМБА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_dmn_armageddon">
+		<original value="ARMAGEDDON"/>
+		<translation value="ШАХТА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_dmn_sirius">
+		<original value="SIRIUS"/>
+		<translation value="ЗАПУСК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_sirius">
+		<original value="SIRIUS"/>
+		<translation value="ЗАПУСК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_farm_hw">
+		<original value="FARM_HALLOWEEN"/>
+		<translation value="ФЕРМА (ХЕЛЛОУИН)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_dmn_subzero">
+		<original value="SUBZERO"/>
+		<translation value="ФОРПОСТ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ctf_breach">
+		<original value="BREACH"/>
+		<translation value="КОМПЛЕКС"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_motel">
+		<original value="MOTEL"/>
+		<translation value="МОТЕЛЬ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_yard_pro">
+		<original value="YARD PRO"/>
+		<translation value="ПЕРЕУЛКИ (ПРОФИ)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_destination_pro">
+		<original value="DESTINATION PRO"/>
+		<translation value="ПУНКТ НАЗНАЧЕНИЯ (ПРОФИ)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_palace_pro">
+		<original value="PALACE PRO"/>
+		<translation value="ДВОРЕЦ (ПРОФИ)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_hnt_night_motel">
+		<original value="HUNT"/>
+		<translation value="ПУСТЫНЯ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_trailerpark">
+		<original value="TRAILERPARK"/>
+		<translation value="ТРЕЙЛЕРНЫЙ ПАРК"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_hangar_up">
+		<original value="HANGAR_UP"/>
+		<translation value="АНГАР"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_oildepot_xmas">
+		<original value="OILDEPOT XMAS"/>
+		<translation value="НЕФТЕБАЗА (НОВЫЙ ГОД)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_bunker">
+		<original value="BUNKER"/>
+		<translation value="БУНКЕР"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_lockedup">
+		<original value="LOCKEDUP"/>
+		<translation value="КЛЕТКА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_hnt_africa">
+		<original value="AFRICA"/>
+		<translation value="АФРИКА"/>
+	</entry>
+	<entry key="info_tdm_coreX">
+		<original value="Eliminate enemy team"/>
+		<translation value="Победите вражескую команду"/>
+	</entry>
+	<entry key="info_tdm_skyway">
+		<original value="Eliminate enemy team"/>
+		<translation value="Победите вражескую команду"/>
+	</entry>
+	<entry key="info_stm_highhill">
+		<original value="Seize enemies’ city by capturing command posts one-by-one"/>
+		<translation value="Поочередно захватите все командные пункты противника"/>
+	</entry>
+	<entry key="info_ctf_longway">
+		<original value="Stole enemies’ warhead from their base and deliver it to safety place"/>
+		<translation value="Захватите коды запуска ракет и доставьте их в безопасное место"/>
+	</entry>
+	<entry key="info_ctf_afghan">
+		<original value="Stole enemies’ warhead from their base and deliver it to safety place"/>
+		<translation value="Захватите коды запуска ракет и доставьте их в безопасное место"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_oildepot_e16">
+		<original value="oildepot_e16"/>
+		<translation value="НЕФТЕБАЗА (ЕВРО-2016)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_hangar_OG16">
+		<original value="OG16 HANGAR"/>
+		<translation value="АНГАР (ЛЕТНИЕ ИГРЫ)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_pyramid">
+		<original value="PYRAMID"/>
+		<translation value="ПИРАМИДА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tbs_hawkrock">
+		<original value="HAWKROCK"/>
+		<translation value="ВИЛЛА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_hnt_winter_xmas">
+		<original value="SIBERIA XMAS"/>
+		<translation value="СИБИРЬ (НОВЫЙ ГОД)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_hnt_winter">
+		<original value="SIBERIA"/>
+		<translation value="СИБИРЬ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tbs_waterfalling">
+		<original value="VILLA DeMOON"/>
+		<translation value="РЕЗИДЕНЦИЯ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_bridges_up">
+		<original value="BRIDGES_UP"/>
+		<translation value="МОСТЫ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_lms_mojave">
+		<original value="MOJAVE"/>
+		<translation value="МОХАВЕ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tbs_waterfalling_xmas">
+		<original value="VILLA XMAS"/>
+		<translation value="РЕЗИДЕНЦИЯ (НОВЫЙ ГОД)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_afghan_up">
+		<original value="YARD_UP"/>
+		<translation value="ПЕРЕУЛКИ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_ghost_town">
+		<original value="GHOST TOWN"/>
+		<translation value="РАЙОН #4"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_oildepot_wc18">
+		<original value="oildepot_wc18"/>
+		<translation value="НЕФТЕБАЗА (ТРИУМФ)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_lms_pripyat">
+		<original value="PRIPYAT"/>
+		<translation value="ЗОНА ОТЧУЖДЕНИЯ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ptb_factory_up">
+		<original value="FACTORY_UP"/>
+		<translation value="ФАБРИКА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tbs_deepwater">
+		<original value="DEEPWATER"/>
+		<translation value="ПЛАТФОРМА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_tdm_streetwars_hw">
+		<original value="STREET WARS HW"/>
+		<translation value="КВАРТАЛ (ХЕЛЛОУИН)"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_japan">
+		<original value="JAPAN"/>
+		<translation value="ПАГОДА"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_widestreet_up">
+		<original value="WIDESTREET_UP"/>
+		<translation value="ПРИГОРОД"/>
+	</entry>
+</localization>

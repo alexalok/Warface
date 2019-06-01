@@ -1,0 +1,29 @@
+<CharacterPartTemplate Name="Shoes_Type3">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#shoes_fat" />
+    <Morph Switch="thin" Target="#shoes_thin" />
+  </Morphs>
+
+  <Morphs Gender="Female">
+    <Morph Switch="fat" Target="#shoes_fat" />
+    <Morph Switch="thin" Target="#shoes_thin" />
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="shoes_type3" />
+  </Switches>
+  <Switches Gender="Female">
+    <Switch Value="shoes_type3" />
+  </Switches>
+
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+    <Mask Name="VISIBLE_FIRST_PERSON" />
+    <Mask Name="VISIBLE_HIGHQUALITY_THIRD_PERSON" />
+  </VisibilityMasks>
+  
+<TexAtlasGen TextureSize="256"/>
+
+</CharacterPartTemplate>

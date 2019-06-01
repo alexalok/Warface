@@ -1,0 +1,72 @@
+<ammo name="flashbang02" type="grenade" class="Projectile" require="fl02">
+	<mmo_stats>
+		<param name="item_category" value="Grenade"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="REMS"/>
+		<param name="shop_item_status" value="hot"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@fl02_default_name"/>
+		<param name="description" value="@ui_weapons_fl02"/>
+		<param name="icon" value="fl02"/>
+	</UI_stats>
+	<geometry>
+		<firstperson name="objects/Weapons/Grenades/fl02/fl02_exp.cgf"/>
+		<thirdperson name="objects/weapons/Grenades/fl02/fl02_exp.cgf"/>
+	</geometry>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="0.5"/>
+		<param name="speed" value="22"/>
+		<param name="radius" value="0.03"/>
+		<param name="air_resistance" value="0"/>
+		<param name="water_resistance" value="0.5"/>
+		<param name="gravity" value="0, 0, -30"/>
+		<param name="water_gravity" value="0, 0, -9.8"/>
+		<param name="thrust" value="0"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="1"/>
+		<param name="material" value="mat_grenade"/>
+		<param name="spin_random" value="360, 360, 360"/>
+		<param name="single_contact" value="0"/>
+		<param name="traceable" value="1"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<explosion>
+		<param name="pressure" value="0"/>
+		<param name="hole_size" value="0"/>
+		<param name="terrain_hole_size" value="0"/>
+		<param name="decal" value="textures/decal/explo_decal.dds"/>
+		<param name="effect" value="explosions.flashbang.explode"/>
+		<param name="effect_scale" value="1"/>
+		<param name="effect_class" value="flashbang"/>
+	</explosion>
+	<trail>
+		<param name="effect" value="weapon_fx.tracer.grenade_trail"/>
+		<param name="prime" value="false"/>
+	</trail>
+	<params>
+		<param name="lifetime" value="1.7"/>
+		<param name="showtime" value="0.05"/>
+		<param name="aitype"	value="grenade"/>
+		<param name="ammo_kind"	value="flashgrenade"/>
+		<param name="hit_type" value="frag"/>
+		<param name="launch_type" value="0"/>
+	</params>
+	<flashbang>
+		<param name="max_radius" value="22.0"/>
+		<param name="blind_amount_red_coef" value="0.95"/> <!-- The les this number is the weaker effect player will receive if grenade explode in to players face -->
+		<param name="blind_amount_yellow_coef" value="0.35"/> <!-- same as above but for player sides -->
+		<param name="blind_amount_green_coef" value="0.1"/> <!-- same as above but for player back -->
+		<param name="flashbang_base_time" value="3"/>
+		<param name="ray_coef" value="0.15"/> <!-- multiplier for each additional ray, should be from 0.1 to 0.3-->
+		<param name="up_ray_length" value="2.0"/> <!-- lenght of additional rays, the bigger this number the higher obstacles flash bang can diffract -->
+		<param name="side_ray_length" value="2.0"/> <!-- same as above but horizontal -->
+		<param name="reflection_angle" value="8.0"/> <!-- angle for side rays -->
+		<param name="red_angle" value="80.0"/> <!-- basicaly an angle of player face -->
+		<param name="yellow_angle" value="110.0"/> <!-- same as above but for player back, should always be 30-40 bigger than "red_angle" -->
+	</flashbang>
+</ammo>

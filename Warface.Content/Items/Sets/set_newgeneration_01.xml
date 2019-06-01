@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<set name="set_newgeneration_01">
+    <UI_stats>
+        <param name="name" value="@ui_set_newgeneration_01"/>
+        <param name="description" value="@ui_set_newgeneration_01_description"/>
+        <param name="color" value="33cc99"/>
+    </UI_stats>
+    <set_items>
+        <item name="soldier_helmet_comp_18_01"/>
+		<item name="sniper_helmet_comp_18_01"/>
+		<item name="medic_helmet_comp_18_01"/>
+		<item name="engineer_helmet_comp_18_01"/>
+		<item name="shared_vest_comp_18_01"/>
+		<item name="shared_hands_comp_18_01"/>
+		<item name="shared_shoes_comp_18_01"/>
+    </set_items>
+    <set_bonuses>
+	    <bonus items_need="2" name="set_newgeneration_01_bonus01"/>
+        <bonus items_need="3" name="set_newgeneration_01_bonus02"/>
+		<bonus items_need="4" name="set_newgeneration_01_bonus03"/>
+    </set_bonuses>
+</set>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+	<shop_item name="smg45_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SMG"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="E"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="5400"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@smg45_shop_name"/>
+			<param name="description" value="@ui_weapons_smg45"/>
+			<param name="icon" value="smg45"/>
+		</UI_stats>
+		<content>
+			<item name="smg45">
+			<item name="smg45_rds_d"/>	
+			<item name="smg45_gp_d"/>	
+		</item>
+		</content>
+		<skin_content>
+		<item name="smg45_mars02skin_shop"/>
+		<item name="smg45_an07skin_shop"/>		
+		</skin_content>
+	</shop_item>

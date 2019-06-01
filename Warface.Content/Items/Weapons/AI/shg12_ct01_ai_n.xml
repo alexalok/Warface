@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="heavy" class="K01_Item" name="shg12_ct01_ai_n" net_policy="weapon_ai" priority="43" view_settings="objects/weapons/shg12/shg12_ai.xml">
+  <ai_descriptor burstBulletCountMax="1" burstBulletCountMin="1" burstPauseTimeMax="1.2" burstPauseTimeMin="1.0" draw_time="1.0" handler="instant" singleFireTriggerTime="-1" sweep_frequency="2.5" sweep_width="1.5" />
+  <params>
+    <param name="giveable" value="1" />
+    <param name="selectable" value="1" />
+    <param name="ui_weapon" value="1" />
+    <param name="giveable" value="1" />
+    <param name="ai_weapon_type" value="Shotgun" />
+  </params>
+  <ammos>
+    <ammo name="bullet_shg" />
+  </ammos>
+  <icons>
+    <combatlog icon="Shg12_combatLog" melee="Melee" />
+  </icons>
+  <settings archetype="Items/Weapons/Archetypes/SG_ai.xml">
+    <param name="ammo_amount" value="8" />
+    <param name="rpm" value="35" />
+    <param name="damage" value="20" />
+    <param name="damage_min" value="2.5" />
+    <param name="damage_mul" value="1" />
+    <param name="damage_drop_per_meter" value="1.3" />
+    <param name="damage_drop_min_distance" value="10" />
+    <param name="melee_damage" value="25" />
+    <param name="melee_range" value="1.8" />
+    <param name="melee_radius" value="0.5" />
+    <param name="melee_radius_mul" value="1.0" />
+    <param name="spread_min" value="10" />
+    <param name="spread_max" value="10" />
+    <param name="spread_att" value="0" />
+    <param name="spread_dec" value="0" />
+    <param name="spread_min_mul" value="1" />
+    <param name="spread_max_mul" value="1" />
+    <param name="spread_att_mul" value="1" />
+    <param name="spread_dec_mul" value="1" />
+    <param name="deselect_duration" value="500" />
+    <param name="reload_duration" value="500" />
+    <param name="melee_duration" value="200" />
+    <param name="melee_out_duration" value="500" />
+    <param name="toss_duration" value="400" />
+    <param name="holster_in_duration" value="120" />
+    <param name="bayonet_melee_duration" value="233" />
+    <param name="bayonet_melee_out_duration" value="1000" />
+  </settings>
+  <firemodes>
+    <firemode name="Single" type="Single" />
+  </firemodes>
+  <clipmode auto_reload="0" capacity="8" type="barrel" />
+  <melee_params>
+    <param name="impulse" value="10" />
+    <param name="pierce" value="100" />
+  </melee_params>
+  <sockets>
+    <socket can_be_empty="0" name="scope" ui_helper="ui_scope">
+      <support helper="top_small" name="top_small" />
+      <support helper="top_small" name="top_middle" />
+      <support helper="top_small" name="top_large" />
+      <support helper="shg01_is" name="shg01_is" />
+    </socket>
+    <socket can_be_empty="0" name="clip">
+      <support helper="shg01_clip" name="shg01_clip" />
+    </socket>
+    <socket can_be_empty="1" name="effects">
+      <support helper="muzzle_flash_effect" name="muzzle_flash_effect" />
+      <support helper="muzzle_flash_light" name="muzzle_flash_light" />
+    </socket>
+    <socket can_be_empty="1" name="muzzle" ui_helper="ui_muzzle">
+      <support helper="silencer" name="bayonet" />
+    </socket>
+  </sockets>
+  <fireparams>
+    <fire>
+      <param name="ammo_type" value="bullet_shg" />
+      <param name="pellets" value="5" />
+      <param name="bullet_chamber" value="1" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+      <param name="ai_muzzle_pos" value="0.0, 0.3, 0.15" />
+    </fire>
+    <recoil>
+      <param name="hint_loop_start" value="11" />
+      <hints>
+        <hint x="0.03" y="0.1" />
+        <hint x="0.03" y="0.4" />
+        <hint x="0.03" y="0.7" />
+        <hint x="0.03" y="1" />
+        <hint x="0.03" y="1.3" />
+        <hint x="0.03" y="1.6" />
+        <hint x="0.03" y="1.9" />
+        <hint x="0.03" y="2.2" />
+        <hint x="0.03" y="2.5" />
+        <hint x="0.03" y="2.8" />
+        <hint x="0.03" y="3.1" />
+        <hint x="0.03" y="3.4" />
+      </hints>
+    </recoil>
+  </fireparams>
+</item>

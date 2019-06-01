@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<set name="set_modernforce_02">
+    <UI_stats>
+        <param name="name" value="@ui_set_modernforce_02"/>
+        <param name="description" value="@ui_set_modernforce_02_description"/>
+        <param name="color" value="33cc99"/>
+    </UI_stats>
+    <set_items>
+		<item name="soldier_helmet_legend_01"/>
+    	<item name="soldier_hands_legend_01_02"/>
+		<item name="soldier_hands_legend_01_03"/>
+        <item name="soldier_vest_legend_01"/>
+        <item name="soldier_shoes_legend_01_02"/>
+        <item name="soldier_shoes_legend_01"/>		
+    </set_items>
+    <set_bonuses>
+        <bonus items_need="2" name="set_modernforce_02_bonus01"/>
+		<bonus items_need="4" name="set_modernforce_02_bonus02"/>
+    </set_bonuses>
+</set>

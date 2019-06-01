@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+	<GameItem name="soldier_helmet_05" type="armor">
+		<mmo_stats>
+			<param name="item_category" value="Helmet"/>
+			<param name="price" value=""/>
+			<param name="shopcontent" value="0"/>
+			<param name="classes" value="R"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_soldier_helmet_05_name"/>
+			<param name="description" value="@ui_armor_soldier_helmet_05"/>
+			<param name="icon" value="soldier_helmet_05"/>
+		</UI_stats>
+		<slots>
+			<slot main="1" name="helmet">
+				<Materials>
+					<Material default="1" display_name="green" icon="mat_green" name="default" surface_type="mat_head"/>
+				</Materials>
+				<assets>
+					<asset display="all" mode="tp" teamId="1" name="soldier_helmet_05"/>
+					<asset display="all" mode="tp" teamId="2" name="soldier_helmet_05_b"/>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+			<param name="res_head" value="0.1"/>
+		</GameParams>
+	</GameItem>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="explosive" class="K01_Item" name="cm02" priority="7" view_settings="objects/weapons/cm02/cm02.xml">
+  <icons>
+    <ui_icon name="cm02" />
+    <combatlog icon="Cm02_combatLog" melee="Melee" />
+  </icons>
+  <settings>
+    <param name="ammo_amount" value="1" />
+    <param name="rpm" value="80" />
+    <param name="damage" value="400" />
+    <param name="recoil_max" value="500" />
+    <param name="recoil_max_mul" value="1" />
+    <param name="recoil_att" value="70" />
+    <param name="recoil_att_mul" value="1" />
+    <param name="recoil_dec" value="250" />
+    <param name="recoil_dec_mul" value="1" />
+    <param name="recoil_rnd" value="0.3" />
+    <param name="spread_min" value="0.5" />
+    <param name="spread_max" value="2" />
+    <param name="spread_att" value="0.5" />
+    <param name="spread_dec" value="0.1" />
+    <param name="sway_dec" value="1" />
+    <param name="sway_dec_mul" value="1" />
+    <param name="sway_mul" value="1" />
+    <param name="sway_min_x" value="0" />
+    <param name="sway_min_y" value="0" />
+    <param name="melee_damage" value="40" />
+    <param name="melee_range" value="1.3" />
+    <param name="melee_duration" value="320" />
+    <param name="melee_out_duration" value="400" />
+    <param name="holster_in_duration" value="220" />
+    <param name="reload_duration" value="400" />
+    <param name="select_duration" value="300" />
+    <param name="deselect_duration" value="400" />
+    <param name="throw_fire_delay_duration" value="400" />
+    <param name="melee_knock_back_chance" value="0" />
+    <param name="knock_back_chance" value="0" />
+  </settings>
+  <firemodes>
+    <firemode icon="FireModeClaymore" name="Single" type="Plant" />
+  </firemodes>
+  <clipmode capacity="1" />
+  <fireparams>
+    <fire>
+      <param name="extra_ammo" value="1" />
+      <param name="ammo_type" value="claymoreexplosive02" />
+      <param name="bullet_chamber" value="1" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+      <param name="place_on_ground" value="1" />
+    </fire>
+  </fireparams>
+  <interaction_params>
+    <param name="crosshair_id" value="12" />
+    <param name="crosshair_type" value="4" />
+  </interaction_params>
+  <melee_params>
+    <param name="impulse" value="20" />
+  </melee_params>
+</item>

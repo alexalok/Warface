@@ -1,0 +1,24 @@
+<CharacterPart Name="Shoulderpad_02_left_optim" Slot="Shoulder_left" Template="ShoulderPads_Left">
+	<Model File="Game\Objects\Characters\Shoulderpads\Shoulderpads_02\male\Shoulderpads_02_left_optim.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/Vests/Tactical_Vest_02/vest_02_desert.mtl"/>
+			<Material Name="blue" File="objects/characters/Vests/Tactical_Vest_02/vest_02_dark_blue.mtl"/>
+			<Material Name="black" File="objects/characters/Vests/Tactical_Vest_02/vest_02_black.mtl"/>
+			<Material Name="grey" File="objects/characters/Vests/Tactical_Vest_02/vest_02_grey.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Shoulderpads\Shoulderpads_02\Female\shoulderpads_02_left.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/Vests/Tactical_Vest_02/vest_02_desert.mtl"/>
+			<Material Name="blue" File="objects/characters/Vests/Tactical_Vest_02/vest_02_dark_blue.mtl"/>
+			<Material Name="black" File="objects/characters/Vests/Tactical_Vest_02/vest_02_black.mtl"/>
+			<Material Name="grey" File="objects/characters/Vests/Tactical_Vest_02/vest_02_grey.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

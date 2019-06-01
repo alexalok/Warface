@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+	<GameItem name="shared_hands_01" type="armor">
+		<mmo_stats>
+			<param name="item_category" value="Gloves"/>
+			<param name="price" value=""/>
+			<param name="shopcontent" value="0"/>
+			<param name="classes" value="MERS"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_shared_hands_01_name"/>
+			<param name="description" value="@ui_armor_shared_hands_01"/>
+			<param name="icon" value="shared_hands_01"/>
+		</UI_stats>
+		<slots>
+			<slot main="1" name="gloves">
+				<materials>
+					<Material default="1" display_name="grey" icon="mat_grey" name="default" surface_type="mat_armor_arms"/>
+				</materials>
+				<assets>
+					<asset display="all" mode="tp" name="shared_hands_01" teamId="1"/>
+					<asset display="all" mode="hp" name="shared_hands_01_hp" teamId="1"/>
+					<asset display="all" mode="fp" name="shared_hands_01_fp" teamId="1"/>
+					<asset display="all" mode="tp" name="shared_hands_01_b" teamId="2"/>
+					<asset display="all" mode="hp" name="shared_hands_01_hp_b" teamId="2"/>
+					<asset display="all" mode="fp" name="shared_hands_01_fp_b" teamId="2"/>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+		</GameParams>
+	</GameItem>

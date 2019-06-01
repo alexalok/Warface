@@ -1,0 +1,32 @@
+<item name="smg42_set12_sp02_d" class="K01_Item" type="attachment" view_settings="objects/weapons/smg42/smg42_sp02_d.xml">
+	<description_ingame text="@ui_smg42_sp02_d_ingame"/>
+	<skins>
+		<material name="set12"/>
+	</skins>
+	<UI_stats>
+		<param name="name" value="@smg42_sp02_d_name"/>
+		<param name="description" value="@ui_smg42_sp02_d"/>
+		<param name="icon" value="smg42_set12_sp02_d"/>
+		<param name="shopcontent" value="1"/>
+	</UI_stats>
+	<drop_params>
+		<item name="smg42_set12_sp02_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="silencer" value="1"/>
+		<param name="spread_min_mul" value="0.8"/>
+		<param name="spread_max_mul" value="0.9"/>
+		<param name="ai_sound_radius" value="5"/>
+		<param name="ai_light_radius" value="0"/>
+		<param name="damage_mul" value="0.8"/>
+	</settings>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="smg42_sp02_d" name="smg42_set12_sp02_d"/>
+	</types>
+</item>

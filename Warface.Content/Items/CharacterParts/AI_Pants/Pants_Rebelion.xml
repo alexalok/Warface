@@ -1,0 +1,14 @@
+<CharacterPart Name="Pants_Rebelion" Slot="AI_Pants" Template="AI_Pants">
+	<Model File="objects/Characters\AI_Pants\pants_rebelion/pants_rebelion.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\AI_Pants\pants_rebelion/pants_rebelion_grey.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\AI_Pants\pants_rebelion/pants_rebelion_green.mtl"/>
+			<Material Name="digital" File="Game\Objects\Characters\AI_Pants\pants_rebelion/pants_rebelion_digital.mtl"/>
+			<Material Name="jungle" File="Game\Objects\Characters\AI_Pants\pants_rebelion/pants_rebelion_jungle.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

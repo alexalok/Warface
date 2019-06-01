@@ -1,0 +1,22 @@
+<CharacterPart Name="Vest_10_np" Slot="Vest" Template="Vest_Type1">
+	<Model File="Game\Objects\Characters\Vests\Tactical_Vest_10\Male\Vest_10_np.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_black_np.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_green_np.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_dark_blue_np.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Vests\Tactical_Vest_10\Female\vest_10_np.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_black_np.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_green_np.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_dark_blue_np.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

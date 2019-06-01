@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localization>
+  <entry key="tip_label">
+    <original value="Tip of the day:"/>
+    <translation value="Подсказка:"/>
+  </entry>
+  <entry key="tip_enemy_location">
+    <original value="&lt;p align='center'&gt;Communicate with your team and share information about enemy units and their movement.&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Старайтесь оперативно сообщать команде информацию о местонахождении и передвижениях неприятеля.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_principles_strategy">
+    <original value="&lt;p align='center'&gt;Flank and encircle, retreat when needed and ambush the enemy! Vantage points are your top priority in a shootout.&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Обходите противника с неожиданных направлений, отступайте и устраивайте засады! Выгодная позиция — залог успеха в перестрелках.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_shelter_material">
+    <original value="&lt;p align='center'&gt;Check your cover — a tree or metal sheets won't protect you as well as a concrete wall would.&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Выбирая укрытие, обращайте внимание на его материал. Дерево или листовой металл не защитят от пуль так же хорошо, как каменная стена.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_grenade_select">
+    <original value="&lt;p align='center'&gt;Make sure your smoke and flash grenades don't get in the way of your teammates!&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Используя дымовые и светошумовые гранаты, убедитесь, что ваши действия помешают противнику, а не вашей команде.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_medic_solution">
+    <original value="&lt;p align='center'&gt;As a medic, you get to make split-second calls, and the fate of your squad depends on you!&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;От правильного решения медика часто зависит судьба всего отряда!&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_player complaint">
+    <original value="&lt;p align='center'&gt;You can report rulebreakers and other violations by clicking their name and selecting &quot;Report Violation&quot; in the pop-up menu.&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Вы можете сообщать о нарушителях правил игры, нажимая на их позывные и выбирая пункт “Жалоба на игрока” в открывшемся меню.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_cheater_frends">
+    <original value="&lt;p align='center'&gt;Remember: intentionally teaming up with rulebreakers may lead to account suspensions for you as well.&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Помните: намеренная игра с нарушителями правил игры может привести к блокировке вашего аккаунта.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_dispatch_complaint">
+    <original value="&lt;p align='center'&gt;Make sure your report is valid before sending it in.&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Перед отправкой жалобы убедитесь, что подозреваемый игрок действительно нарушил правила игры.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_phone_account">
+    <original value="&lt;p align='center'&gt;Link your account to your phone to protect your account from theft.&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Привяжите аккаунт к номеру телефона, чтобы защитить вашу учетную запись от взлома.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_respectful_player">
+    <original value="&lt;p align='center'&gt;Friendliness goes a long way! Avoid swearing or being offensive to other players.&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Вежливому игроку союзники помогают активнее! Не используйте нецензурную лексику!&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_climb">
+    <original value="&lt;p align='center'&gt;Use your buddy to climb up high obstacles&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Товарищи по команде помогут вам забраться на высокие препятствия.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_grenade">
+    <original value="&lt;p align='center'&gt;Hold &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to control grenade explosion time&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Удерживайте &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы вытащить чеку из гранаты и начать отсчет до взрыва.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_aiming">
+    <original value="&lt;p align='center'&gt;Zoom in for the best shot&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Стрельба в режиме прицеливания значительно точнее, чем стрельба с бедра.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_jumpover">
+    <original value="&lt;p align='center'&gt;Jump over low obstacles&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Вы можете перепрыгивать низкие препятствия.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_vendor">
+    <original value="&lt;p align='center'&gt;Select one of the vendors to unlock new weapons, armor or equipment&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Выберите одного из поставщиков, чтобы получить доступ к новому оружию, броне и оборудованию.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_attachment">
+    <original value="&lt;p align='center'&gt;Press &lt;font color='#ffc800'&gt;%[player:hud_weapon_mod]&lt;/font&gt; while in combat to access the weapon customization menu&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[player:hud_weapon_mod]&lt;/font&gt; во время игры, чтобы модифицировать оружие.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_killfast">
+    <original value="&lt;p align='center'&gt;The faster the kill the higher the score&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Чем быстрее вы убьете врага, тем больше очков получите.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_prone">
+    <original value="&lt;p align='center'&gt;Press &lt;font color='#ffc800'&gt;%[player:prone]&lt;/font&gt; to go prone&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[player:prone]&lt;/font&gt;, чтобы принять положение лежа.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_specop">
+    <original value="&lt;p align='center'&gt;A glow on the screen indicates that you are under spec-op fire. Find cover quickly or you will die&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Старайтесь не попадать под огонь бойцов вражеского спецназа. Они используют оружие с ЛЦУ и могут убить вас всего за несколько секунд.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_medic">
+    <original value="&lt;p align='center'&gt;A single medic can revive a full team&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Один-единственный медик может вернуть к жизни целый отряд.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_slide">
+    <original value="&lt;p align='center'&gt;Press &lt;font color='#ffc800'&gt;%[player:slide]&lt;/font&gt; while sprinting to slide&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Во время рывка нажмите &lt;font color='#ffc800'&gt;%[player:slide]&lt;/font&gt;, чтобы сделать подкат.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_ptb_engineer">
+    <original value="&lt;p align='center'&gt;The engineer can plant or defuse bombs faster than any other class&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Инженеры устанавливают и обезвреживают бомбы быстрее, чем другие классы.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_stm_more_players">
+    <original value="&lt;p align='center'&gt;The more players at a strategic position, the faster you will capture it&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Чем больше членов вашей команды находится в ключевой точке, тем быстрее вы ее захватываете.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_pickup">
+    <original value="&lt;p align='center'&gt;Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to pick up a dropped weapon&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы поднять оружие с земли.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_chat">
+    <original value="&lt;p align='center'&gt;Press &lt;font color='#ffc800'&gt;%[default:hud_openchat]&lt;/font&gt; in the game to open global chat&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[default:hud_openchat]&lt;/font&gt; во время игры, чтобы открыть общий чат.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_team_chat">
+    <original value="&lt;p align='center'&gt;Press &lt;font color='#ffc800'&gt;%[default:hud_openteamchat]&lt;/font&gt; in the game to open team chat&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[default:hud_openteamchat]&lt;/font&gt; во время игры, чтобы открыть чат команды.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_butt_kick">
+    <original value="&lt;p align='center'&gt;Press &lt;font color='#ffc800'&gt;%[player:melee]&lt;/font&gt; to melee an enemy&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[player:melee]&lt;/font&gt;, чтобы ударить врага прикладом оружия.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_complete_orders">
+    <original value="&lt;p align='center'&gt;Complete all the commander's orders for the entire mission to increase your reward&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Выполняйте дополнительные задания командования, чтобы увеличить награды за миссии.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_coin_use">
+    <original value="&lt;p align='center'&gt;Press &lt;font color='#ffc800'&gt;%[player:use_coin]&lt;/font&gt; to use a coin and revive your dead character&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[player:use_coin]&lt;/font&gt; после гибели, чтобы применить знак возвращения.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_sprint">
+    <original value="&lt;p align='center'&gt;Toggle &lt;font color='#ffc800'&gt;%[player:haste]&lt;/font&gt; to sprint&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[player:haste]&lt;/font&gt;, чтобы сделать рывок.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_use_flashbang">
+    <original value="&lt;p align='center'&gt;Flashbangs are a great help in defeating shield bearers and machinegun nests&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Световые гранаты - отличное средство против врагов со щитами и пулеметчиков.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_leave">
+    <original value="&lt;p align='center'&gt;You lose all your score points if you leave before the end of the match&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Если вы выйдете из игры до окончания матча, то потеряете все набранные очки.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_checkpoints">
+    <original value="&lt;p align='center'&gt;Dead teammates automatically respawn at the checkpoint&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Погибшие члены команды автоматически воскресают у контрольных точек.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_rise">
+    <original value="&lt;p align='center'&gt;Lift up a downed teammate by pressing &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы помочь товарищу по команде подняться.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_together">
+    <original value="&lt;p align='center'&gt;Keep your teammates close. Unity is power!&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Помните, что командная игра - это залог успеха!&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_class_change">
+    <original value="&lt;p align='center'&gt;Press the &lt;font color='#ffc800'&gt;%[default:escape]&lt;/font&gt; button to change class in PVP via the in-game menu&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Нажмите клавишу &lt;font color='#ffc800'&gt;%[default:escape]&lt;/font&gt; во время PvP-матча, чтобы выбрать класс бойца в меню.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_pierce">
+    <original value="&lt;p align='center'&gt;Bullets can pierce light cover&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Пули могут пробивать некоторые укрытия.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_play_more">
+    <original value="&lt;p align='center'&gt;Play more! Unlock the cool stuff!&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Чем чаще вы играете, тем больше оружия, брони и оборудования можете открыть!&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_all_classes">
+    <original value="&lt;p align='center'&gt;A balanced team is the strongest team - make sure you use all the classes&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Правильно подобранная команда - половина успеха! Старайтесь использовать сильные стороны разных классов.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_switch_pistol">
+    <original value="&lt;p align='center'&gt;It is quicker to switch to a pistol than waiting to reload your primary weapon&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Иногда быстрее выхватить пистолет, чем перезаряжать основное оружие.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_steps_sound">
+    <original value="&lt;p align='center'&gt;Your footsteps are quieter when crouched&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Ваши шаги тише, когда вы передвигаетесь пригнувшись.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_ammo">
+    <original value="&lt;p align='center'&gt;The rifleman class can replenish ammo: &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; for teammates, &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; for yourself&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Штурмовики могут пополнять боезапас товарищей по команде с помощью &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; и свой боезапас с помощью &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_armor">
+    <original value="&lt;p align='center'&gt;The engineer class can restore armor: &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; for teammates, &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; for yourself&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Инженеры могут восстанавливать броню товарищей по команде с помощью &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; и свою броню с помощью &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_health">
+    <original value="&lt;p align='center'&gt;The medic class can heal damage: &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; for teammates, &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; for yourself&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Медики могут восстанавливать здоровье товарищей по команде с помощью &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; и свое здоровье с помощью &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_tutorial">
+    <original value="&lt;p align='center'&gt;The training mission will teach you the basics of combat&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Тренировочное задание поможет вам освоиться в игре.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_mission_leaderboard">
+    <original value="&lt;p align='center'&gt;Every day the best players in COOP awarded crowns&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Каждый день лучшие игроки PvE-рейтинга награждаются коронами - специальной валютой, которую можно обменять на редкое оружие и снаряжение.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_mission_generation">
+    <original value="&lt;p align='center'&gt;Evey day new set of mission available in COOP section&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Набор доступных PvE-миссий меняется каждый день.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_account_safety1">
+    <original value="&lt;p align='center'&gt;tip_account_safety1&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Не сообщайте никому данные своей учетной записи. Помните, что администрация игры никогда не попросит у вас пароль.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_account_safety2">
+    <original value="&lt;p align='center'&gt;tip_account_safety2&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Не вводите данные своей учетной записи на посторонних сайтах и не переходите по подозрительным ссылкам.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_account_safety3">
+    <original value="&lt;p align='center'&gt;tip_account_safety3&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Программ, позволяющих быстро повысить ранг или получить кредиты (варбаксы, короны), не существует.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_account_safety4">
+    <original value="&lt;p align='center'&gt;tip_account_safety4&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Игроки, предлагающие различные программы для быстрой наживы, пытаются завладеть вашим аккаунтом.&lt;/p&gt;"/>
+  </entry>
+  <entry key="tip_account_safety5">
+    <original value="&lt;p align='center'&gt;tip_account_safety5&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;Пожалуйста, сообщайте о попытках мошенничества в Службу поддержки через внутриигровую систему жалоб.&lt;/p&gt;"/>
+  </entry>
+  <entry key="weapon_customizer_how_to_close">
+    <original value="&lt;p align='center'&gt;&lt;font color='#eeeeee'&gt;Press &lt;font color='#ffc800'&gt;%[player:hud_weapon_mod] &lt;font color='#eeeeee'&gt;to close weapon customization menu&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;&lt;font color='#eeeeee'&gt;Нажмите &lt;font color='#ffc800'&gt;%[player:hud_weapon_mod]&lt;font color='#eeeeee'&gt;, чтобы закрыть меню модификации оружия&lt;/p&gt;"/>
+  </entry>
+  <entry key="weapon_customizer_how_to_hide">
+    <original value="&lt;p align='center'&gt;&lt;font color='#eeeeee'&gt;Hold &lt;font color='#ffc800'&gt;%[player:melee] &lt;font color='#eeeeee'&gt;to hide weapon customization menu&lt;/p&gt;"/>
+    <translation value="&lt;p align='center'&gt;&lt;font color='#eeeeee'&gt;Удерживайте &lt;font color='#ffc800'&gt;%[player:melee]&lt;font color='#eeeeee'&gt;, чтобы скрыть меню модификации оружия&lt;/p&gt;"/>
+  </entry>
+</localization>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+	<GameItem name="shared_pants_01" type="armor">
+		<mmo_stats>
+			<param name="item_category" value=""/>
+			<param name="price" value="0"/>
+			<param name="shopcontent" value="0"/>
+			<param name="classes" value="MERS"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_shared_pants_01_name"/>
+			<param name="description" value="@ui_armor_shared_pants_01"/>
+			<param name="icon" value="tbd_icon"/>
+		</UI_stats>
+		<slots>
+			<slot main="1" name="pants">
+				<materials>
+					<Material default="1" display_name="grey" icon="mat_grey" name="default" surface_type="mat_armor_legs"/>
+				</materials>
+				<assets>
+					<asset display="all" mode="tp" name="soldier_pants_01" teamId="1"/>
+					<asset display="all" mode="tp" name="soldier_pants_02" teamId="2"/>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+		</GameParams>
+	</GameItem>

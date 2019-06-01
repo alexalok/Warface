@@ -1,0 +1,18 @@
+<CharacterPartTemplate Name="Helmets">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#helmet_fat" />
+    <Morph Switch="thin" Target="#helmet_thin" />
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="Helmets" />
+  </Switches>
+  
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_SHADOW_GENERATION" />
+    <Mask Name="VISIBLE_THIRD_PERSON" />
+  </VisibilityMasks>
+<TexAtlasGen TextureSize="512"/>
+
+</CharacterPartTemplate>

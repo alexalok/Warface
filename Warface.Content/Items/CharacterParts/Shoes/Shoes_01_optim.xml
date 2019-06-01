@@ -1,0 +1,20 @@
+<CharacterPart Name="Shoes_01_optim" Slot="Shoes" Template="Shoes_Type2">
+	<Model File="Game\Objects\Characters\Shoes\Shoes_01\Male\Shoes_01_optim.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/Shoes/Shoes_01/shoes_01_black.mtl"/>
+			<Material Name="desert" File="objects/characters/Shoes/Shoes_01/shoes_01_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/Shoes/Shoes_01/Female/shoes_01.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/Shoes/Shoes_01/shoes_01_black.mtl"/>
+			<Material Name="desert" File="objects/characters/Shoes/Shoes_01/shoes_01_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

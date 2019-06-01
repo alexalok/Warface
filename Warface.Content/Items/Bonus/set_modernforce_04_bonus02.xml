@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<GameItem name="set_modernforce_04_bonus02" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_modernforce_04_bonus02_description"/>
+    </UI_stats>
+    <GameParams>
+       <param name="absorption" value="10"/> 
+	   <param name="hp_regeneration_hps" value="1"/>
+	   <param name="hp_regeneration_timeout" value="4"/>
+	   <param name="armor_regen_hps" value="1"/> 
+	   <param name="armor_regen_timeout" value="4"/>
+    </GameParams>
+</GameItem>

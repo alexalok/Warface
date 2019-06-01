@@ -1,0 +1,28 @@
+<CharacterPart Name="Hiparmor_02_right" Slot="Hip_right" Template="HipArmor_Right">
+	<Model File="objects/characters/hiparmor/hiparmor_02/male/hiparmor_02_right.chr" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#Hiparmor_fat"/>
+			<Morph Switch="thin" Target="#Hiparmor_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_black.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_green.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_dark_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/hiparmor/hiparmor_02/female/hiparmor_02_right.chr" Gender="Female">
+		<Morphs>
+			<Morph Switch="fat" Target="#Hiparmor_fat"/>
+			<Morph Switch="thin" Target="#Hiparmor_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_black.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_green.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Vests\Tactical_Vest_10\vest_10_dark_blue.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

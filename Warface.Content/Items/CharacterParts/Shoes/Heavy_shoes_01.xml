@@ -1,0 +1,10 @@
+<CharacterPart Name="heavy_shoes_01" Slot="Shoes" Template="Shoes_Type3">
+	<Model File="Objects\Characters\heavy\shoes\heavy_shoes_01\heavy_shoes_01.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="heavy_shoes_01" File="Objects\Characters\heavy\shoes\heavy_shoes_01\heavy_shoes_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,31 @@
+<CharacterPart Name="Jacket_sniper" Slot="Jacket" Template="Jacket">
+	<Model File="objects/characters/jacket/jacket_sniper/male/jacket_sniper.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="vest_type3" Target="#jacket_vest10"/>
+			<Morph Switch="vest_type11" Target="#jacket_vest_11"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="objects/characters/jacket/jacket_sniper/male/jacket_sniper.mtl"/>
+			<Material Name="grey" File="objects/characters/jacket/jacket_sniper/male/jacket_sniper_grey.mtl"/>
+			<Material Name="snow" File="Objects\Characters\Jacket\Jacket_sniper\Male\jacket_sniper_snow.tif"/>
+			<Material Name="urban" File="Objects\Characters\Jacket\Jacket_sniper\Male\jacket_sniper_urban.tif"/>
+			<Material Name="digital" File="Objects\Characters\Jacket\Jacket_sniper\Male\jacket_sniper_digital.tif"/>
+			<Material Name="jungle" File="Objects\Characters\Jacket\Jacket_sniper\Male\jacket_sniper_jungle.tif"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Jacket\jacket_sniper\Female\shirt_sniper.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\Jacket\jacket_sniper\jacket_grey.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\Jacket\jacket_sniper\jacket_desert.mtl"/>
+			<Material Name="jungle" File="Game\Objects\Characters\Jacket\jacket_sniper\jacket_jungle.mtl"/>
+			<Material Name="urban" File="Game\Objects\Characters\Jacket\jacket_sniper\jacket_urban.mtl"/>
+			<Material Name="digital" File="Game\Objects\Characters\Jacket\jacket_sniper\jacket_digital.mtl"/>
+			<Material Name="snow" File="Game\Objects\Characters\Jacket\jacket_sniper\jacket_snow.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

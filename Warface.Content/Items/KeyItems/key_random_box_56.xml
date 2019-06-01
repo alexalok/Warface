@@ -1,0 +1,15 @@
+<shop_item name="key_random_box_56" type="key">
+	<mmo_stats>
+		<param name="item_category" value="Misc"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RESM"/>
+		<param name="max_buy_amount" value="32000"/>
+		<param name="stackable" value="0"/>
+		<param name="testcontent" value="0"/>
+	</mmo_stats>
+	<UI_stats>
+			<param name="name" value="@key_random_box_56_name"/>
+			<param name="description" value="@ui_key_random_box_56"/>
+			<param name="icon" value="randombox_coin_icon"/>
+	</UI_stats>
+</shop_item>

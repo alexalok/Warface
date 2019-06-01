@@ -1,0 +1,66 @@
+<item category="medium" class="K01_Item" name="ft01_ai_h" net_policy="weapon_ai" priority="40" view_settings="objects/weapons/ft01/ft01.xml">
+	<params>
+		<param name="giveable" value="1"/>
+		<param name="selectable" value="1"/>
+		<param name="ui_weapon" value="1"/>
+	</params>
+	<ai_descriptor 
+		coverFireTime="10"
+		burstBulletCountMax="27"
+		burstBulletCountMin="24"
+		burstPauseTimeMax="2"
+		burstPauseTimeMin="1.5"
+		handler="jet"
+		draw_time="1"
+		rangeMax="20"
+		rangeMin="0.1"
+		spreadRadius="1"
+		singleFireTriggerTime="-1"
+		speed="30">
+	</ai_descriptor>
+	<ammos>
+		<ammo name="flame_bullet_ai_h"/>
+	</ammos>
+	<icons>
+		<combatlog icon="Turret_Machinegun" melee="Melee"/>
+	</icons>
+	<settings archetype="Items/Weapons/Archetypes/MG_ai.xml">
+		<param name="ammo_amount" value="3000"/>
+		<param name="rpm" value="375"/>
+		<param name="damage" value="25"/>
+		<param name="damage_min" value="10"/>
+		<param name="damage_mul" value="1"/>
+		<param name="damage_drop_per_meter" value="1.2"/>
+		<param name="damage_drop_min_distance" value="20"/>
+		<param name="spread_min" value="6"/>
+		<param name="spread_min_mul" value="1"/>
+		<param name="spread_max" value="12"/>
+		<param name="spread_max_mul" value="1"/>
+		<param name="spread_att" value="6"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec" value="30"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="reload_duration" value="1500"/>
+		<param name="melee_duration" value="280"/>
+		<param name="melee_range" value="0"/>
+		<param name="melee_damage" value="0"/>
+		<param name="melee_radius" value="0"/>
+		<param name="melee_radius_mul" value="0"/>
+		<param name="melee_out_duration" value="500"/>
+		<param name="toss_duration" value="400"/>
+		<param name="deselect_duration" value="300"/>
+		<param name="holster_in_duration" value="120"/>
+	</settings>
+	<firemodes>
+		<firemode name="Rapid" type="Rapid"/>
+	</firemodes>
+	<clipmode unlimited_inventory="1"/>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="flame_bullet_ai_h"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+		</fire>
+	</fireparams>
+</item>

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2042
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warface.Entities", "Warface.Entities\Warface.Entities.csproj", "{5FFD1F70-7457-47F8-8F25-4284E927395A}"
 EndProject
@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warface.Files", "Warface.Fi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warface.Files.Test", "Warface.Files.Test\Warface.Files.Test.csproj", "{082CEC91-A604-4BD6-8224-C74024F87561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warface.Entities.Tests", "Warface.Entities.Tests\Warface.Entities.Tests.csproj", "{884872A7-2589-40C8-AE17-4DEEF3D66E80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warface.Entities.Tests", "Warface.Entities.Tests\Warface.Entities.Tests.csproj", "{884872A7-2589-40C8-AE17-4DEEF3D66E80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warface.Content", "Warface.Content\Warface.Content.csproj", "{28CE039C-FF81-4EDD-8438-8AFC5C25AAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomBoxInfo", "RandomBoxInfo\RandomBoxInfo.csproj", "{5E954B9C-7D48-409C-AC0E-ED0BC50F6652}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,6 +78,18 @@ Global
 		{884872A7-2589-40C8-AE17-4DEEF3D66E80}.Release WFTS|Any CPU.Build.0 = Release|Any CPU
 		{884872A7-2589-40C8-AE17-4DEEF3D66E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{884872A7-2589-40C8-AE17-4DEEF3D66E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CE039C-FF81-4EDD-8438-8AFC5C25AAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CE039C-FF81-4EDD-8438-8AFC5C25AAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CE039C-FF81-4EDD-8438-8AFC5C25AAEF}.Release WFTS|Any CPU.ActiveCfg = Release|Any CPU
+		{28CE039C-FF81-4EDD-8438-8AFC5C25AAEF}.Release WFTS|Any CPU.Build.0 = Release|Any CPU
+		{28CE039C-FF81-4EDD-8438-8AFC5C25AAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CE039C-FF81-4EDD-8438-8AFC5C25AAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E954B9C-7D48-409C-AC0E-ED0BC50F6652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E954B9C-7D48-409C-AC0E-ED0BC50F6652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E954B9C-7D48-409C-AC0E-ED0BC50F6652}.Release WFTS|Any CPU.ActiveCfg = Release|Any CPU
+		{5E954B9C-7D48-409C-AC0E-ED0BC50F6652}.Release WFTS|Any CPU.Build.0 = Release|Any CPU
+		{5E954B9C-7D48-409C-AC0E-ED0BC50F6652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E954B9C-7D48-409C-AC0E-ED0BC50F6652}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

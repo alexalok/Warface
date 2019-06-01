@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Xml;
 using JetBrains.Annotations;
 
@@ -14,28 +15,57 @@ namespace Warface.Files.GameItems
 
                 public int Weight { get; }
 
+                public int? Amount { get; }
+
                 [CanBeNull]
                 public string Expiration { get; }
 
                 [CanBeNull]
+                public string FriendlyExpiration => GetExpirationFriendlyString();
+
+                [CanBeNull]
                 public string TopPrizeToken { get; }
 
-                public Item(string name, int weight, [CanBeNull] string expiration, [CanBeNull] string topPrizeToken)
+                public Item(string name, int weight, int? amount, [CanBeNull] string expiration, [CanBeNull] string topPrizeToken)
                 {
-                    Name          = name;
-                    Weight        = weight;
-                    Expiration    = expiration;
+                    Name = name;
+                    Weight = weight;
+                    Amount = amount;
+                    Expiration = expiration;
                     TopPrizeToken = topPrizeToken;
                 }
 
                 public static Item ParseNode(XmlNode itemNode)
                 {
-                    string name          = itemNode.Attributes["name"].Value;
-                    int    weight        = Convert.ToInt32(itemNode.Attributes["weight"].Value);
-                    string expiration    = itemNode.Attributes["expiration"]?.Value;
+                    string name = itemNode.Attributes["name"].Value;
+                    int weight = Convert.ToInt32(itemNode.Attributes["weight"].Value);
+                    string amountStr = itemNode.Attributes["amount"]?.Value;
+                    var amount = amountStr == null ? (int?) null : Convert.ToInt32(amountStr);
+                    string expiration = itemNode.Attributes["expiration"]?.Value;
                     string topPrizeToken = itemNode.Attributes["top_prize_token"]?.Value;
 
-                    return new Item(name, weight, expiration, topPrizeToken);
+                    return new Item(name, weight, amount, expiration, topPrizeToken);
+                }
+
+                [CanBeNull]
+                string GetExpirationFriendlyString()
+                {
+                    if (Expiration == null)
+                        return null;
+                    string value = Expiration.Substring(0, Expiration.Length - 1);
+                    string unit;
+                    switch (Expiration.Last())
+                    {
+                        case 'h':
+                            unit = "ч.";
+                            break;
+                        case 'd':
+                            unit = "д.";
+                            break;
+                        default:
+                            throw new NotSupportedException();
+                    }
+                    return $"{value} {unit}";
                 }
             }
         }

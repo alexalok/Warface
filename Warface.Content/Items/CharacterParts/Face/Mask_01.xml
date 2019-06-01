@@ -1,0 +1,20 @@
+<CharacterPart Name="Mask_01" Slot="Face" Template="FaceMasks">
+	<Model File="Game\Objects\Characters\Masks\m_01\male\mask_01.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\Masks\m_01\m_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Masks\m_01\Female\Mask_01.chr" Gender="Female">
+		<Morphs>
+			<Morph Switch="thin" Target="#mask_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="grey" File="Game\Objects\Characters\Masks\m_01\m_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

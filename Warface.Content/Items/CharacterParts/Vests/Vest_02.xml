@@ -1,0 +1,53 @@
+<CharacterPart Name="vest_02" Slot="Vest" Template="Vest_Type2">
+	<Model File="objects/characters/shared/vests/shared_vest_02/shared_vest_02.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/shared/vests/shared_vest_02/shared_vest_02_black.mtl"/>
+			<Material Name="blue" File="Objects\Characters\shared\vests\shared_vest_02\shared_vest_02_blue.mtl"/>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_02\shared_vest_02_desert.mtl"/>
+			<Material Name="grey" File="Objects\Characters\shared\vests\shared_vest_02\shared_vest_02_grey.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/Vests/Tactical_Vest_02/Female/shared_vest_02.chr" FGTFile="" Gender="Female">
+		<Morphs>
+			<Morph Switch="Fat" Target="#vest_02_fat"/>
+			<Morph Switch="Thin" Target="#vest_02_thin"/>
+		</Morphs>
+		<Switches>
+			<Switch Value="Vest_02"/>
+		</Switches>
+		<Materials>
+			<Material Name="desert" File="objects/characters/Vests/Tactical_Vest_02/shared_vest_02_desert.mtl"/>
+			<Material Name="blue" File="objects/characters/Vests/Tactical_Vest_02/shared_vest_02_dark_blue.mtl"/>
+			<Material Name="black" File="objects/characters/Vests/Tactical_Vest_02/shared_vest_02_black.mtl"/>
+			<Material Name="grey" File="objects/characters/Vests/Tactical_Vest_02/shared_vest_02_grey.mtl"/>
+		</Materials>
+		<Sockets>
+			<Socket name="pocket_4_01" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_4_02" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_4_03" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_01" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_02" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_03" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_04" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_05" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_06" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_07" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_08" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_09" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_2_10" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_01" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_02" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_03" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_04" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_05" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_06" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_07" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_08" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_09" edge="17" angle="10" damping="10"/>
+			<Socket name="pocket_1_10" edge="17" angle="10" damping="10"/>
+		</Sockets>
+	</Model>
+</CharacterPart>

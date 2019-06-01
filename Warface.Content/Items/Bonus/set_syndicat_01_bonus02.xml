@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<GameItem name="set_syndicat_01_bonus02" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_syndicat_01_bonus02_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="claymore_detector_radius" value="10.0"/>
+    </GameParams>
+</GameItem>

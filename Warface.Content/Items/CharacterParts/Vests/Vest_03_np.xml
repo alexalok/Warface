@@ -1,0 +1,22 @@
+<CharacterPart Name="vest_03_np" Slot="Vest" Template="Vest_Type1">
+	<Model File="objects/characters/shared/vests/shared_vest_03/shared_vest_03_np.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_03\shared_vest_03_desert_np.mtl"/>
+			<Material Name="digital" File="Objects\Characters\shared\vests\shared_vest_03\shared_vest_03_digital_np.mtl"/>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_03\shared_vest_03_green_np.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/shared/vests/shared_vest_03/shared_vest_03_np.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\shared\vests\shared_vest_03\shared_vest_03_desert_np.mtl"/>
+			<Material Name="digital" File="Objects\Characters\shared\vests\shared_vest_03\shared_vest_03_digital_np.mtl"/>
+			<Material Name="green" File="Objects\Characters\shared\vests\shared_vest_03\shared_vest_03_green_np.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

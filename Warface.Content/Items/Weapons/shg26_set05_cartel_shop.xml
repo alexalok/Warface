@@ -1,0 +1,22 @@
+<shop_item name="shg26_set05_cartel_shop" type="weapon">
+	<mmo_stats>
+		<param name="item_category" value="Shotgun"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="M"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="5400"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="category" value="shg"/>
+		<param name="name" value="@shg26_set05_cartel_shop_name"/>
+		<param name="description" value="@ui_weapons_shg26_set05_cartel"/>
+		<param name="icon" value="shg26_set05"/>
+	</UI_stats>
+	<content>
+		<item name="shg26_set05_cartel">
+			<item name="shg26_is_d"/>
+			<item name="shg26_sp_d"/>
+		</item>
+	</content>
+
+</shop_item>

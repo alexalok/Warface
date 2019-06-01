@@ -1,0 +1,24 @@
+<shop_item name="shg27_shop" type="weapon">
+	<mmo_stats>
+		<param name="item_category" value="Shotgun"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="M"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="6240"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="category" value="shg"/>
+		<param name="name" value="@shg27_shop_name"/>
+		<param name="description" value="@ui_weapons_shg27"/>
+		<param name="icon" value="shg27"/>
+	</UI_stats>
+	<content>
+		<item name="shg27">
+			<item name="shg27_is_d"/>
+		</item>
+	</content>
+	<skin_content>
+			<item name="shg27_camo03skin_shop"/>
+			<item name="shg27_camo06skin_shop"/>
+		</skin_content>
+</shop_item>

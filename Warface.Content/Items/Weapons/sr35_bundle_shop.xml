@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+	<shop_item name="sr35_bundle_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SniperRifle"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="7200"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="sr"/>
+			<param name="name" value="@sr35_shop_name"/>
+			<param name="description" value="@ui_weapons_sr35"/>
+			<param name="icon" value="sr35"/>
+		</UI_stats>
+		<content>
+			<item name="sr35">
+				<item name="sr35_sp_d"/>
+				<item name="ss06"/>
+				<item name="ss01"/>
+				<item name="ss04"/>
+				<item name="ss06"/>
+				<item name="ss02"/>
+				<item name="sp04"/>
+				<item name="sc02"/>
+				<item name="bp01"/>
+				<item name="bp03"/>
+			</item>
+		</content>
+		<skin_content>
+			<item name="sr35_set06skin_shop"/>
+			<item name="sr35_set07skin_shop"/>
+			<item name="sr35_set09skin_shop"/>
+			<item name="sr35_camo09skin_shop"/>			
+			<item name="sr35_camo08skin_shop"/>	
+			<item name="sr35_xmas03skin_shop"/>				
+		</skin_content>
+	</shop_item>

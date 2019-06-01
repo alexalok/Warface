@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item name="gl02_boss_ai" class="K01_Item" category="heavy" net_policy="weapon_ai" priority="41" view_settings="objects/weapons/mg03/mg03_zsd01_boss_ai.xml">
+  <description text="" />
+  <params>
+    <param name="giveable" value="1" />
+    <param name="selectable" value="1" />
+    <param name="ui_weapon" value="1" />
+    <param name="giveable" value="1" />
+  </params>
+  <ai_descriptor burstBulletCountMax="4" burstBulletCountMin="4" burstPauseTimeMax="10" burstPauseTimeMin="5" draw_time="1.0" singleFireTriggerTime="2" sweep_frequency="2.5" sweep_width="1.5" handler="instant" speed="30" />
+  <icons>
+    <combatlog icon="Mg03_zsd01_boss_combatLog" melee="Melee" />
+  </icons>
+  <settings archetype="Items/Weapons/Archetypes/MG_ai.xml">
+    <param name="ammo_amount" value="12" />
+    <param name="rpm" value="100" />
+    <param name="damage" value="100" />
+    <param name="damage_min" value="15" />
+    <param name="damage_mul" value="1" />
+    <param name="damage_drop_per_meter" value="1" />
+    <param name="damage_drop_min_distance" value="60" />
+    <param name="knock_back_chance" value="0.0" />
+    <param name="melee_damage" value="90" />
+    <param name="melee_range" value="3.7" />
+    <param name="melee_radius" value="0.7" />
+    <param name="melee_knock_back_chance" value="0.0" />
+    <param name="melee_duration" value="260" />
+    <param name="melee_out_duration" value="860" />
+    <param name="melee_knock_back_chance_mul" value="0" />
+    <param name="melee_knock_back_stamina_damage" value="0.0" />
+    <param name="melee_radius_mul" value="1.0" />
+    <param name="holster_in_duration" value="200" />
+    <param name="deselect_duration" value="300" />
+    <param name="reload_duration" value="3500" />
+    <param name="spread_min" value="5" />
+    <param name="spread_max" value="10" />
+    <param name="spread_min_mul" value="1" />
+    <param name="spread_max_mul" value="1" />
+    <param name="spread_att" value="15" />
+    <param name="spread_dec" value="30" />
+    <param name="spread_att_mul" value="1" />
+    <param name="spread_dec_mul" value="1" />
+    <param name="particle_scale" value="3" />
+  </settings>
+  <firemodes>
+    <firemode type="Rapid" name="Rapid" />
+  </firemodes>
+  <clipmode capacity="12" unlimited_inventory="1" auto_reload="0" />
+  <melee_params>
+    <param name="damage" value="300" />
+    <param name="impulse" value="20" />
+    <param name="range" value="0.75" />
+  </melee_params>
+  <sockets />
+  <ammos>
+    <ammo name="scargrenade03" />
+  </ammos>
+  <fireparams>
+    <fire>
+      <param name="ammo_type" value="scargrenade03" />
+      <param name="pellets" value="1" />
+      <param name="bullet_chamber" value="1" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="ai_muzzle_pos" value="0.3, 0.5, -0.6" />
+    </fire>
+    <recoil />
+  </fireparams>
+</item>

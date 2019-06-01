@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+	<shop_item name="smg04_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SMG"/>
+			<param name="shopcontent" value="0"/>
+			<param name="classes" value="E"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@smg04_shop_name"/>
+			<param name="description" value="@ui_weapons_smg04"/>
+			<param name="icon" value="smg04"/>
+		</UI_stats>
+		<content>
+			<item name="smg04">
+			</item>
+		</content>
+	</shop_item>

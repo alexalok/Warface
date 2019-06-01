@@ -1,0 +1,23 @@
+<CharacterPart Name="AI_Vest_sniper" Slot="AI_Vests" Template="AI_Vests">
+	<Model File="Objects\Characters\AI_Vests\vest_sniper\Jacket_sniper.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="vest_type3" Target="#jacket_vest10"/>
+			<Morph Switch="vest_type11" Target="#jacket_vest_11"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\AI_Vests\vest_sniper\jacket_sniper_desert.mtl"/>
+			<Material Name="grey" File="Objects\Characters\AI_Vests\vest_sniper\jacket_sniper_grey.mtl"/>
+			<Material Name="snow" File="Objects\Characters\AI_Vests\vest_sniper\jacket_sniper_snow.mtl"/>
+			<Material Name="digital" File="Objects\Characters\AI_Vests\vest_sniper\jacket_sniper_digital.mtl"/>
+			<Material Name="jungle" File="Objects\Characters\AI_Vests\vest_sniper\jacket_sniper_jungle.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials/>
+		<Sockets/>
+	</Model>
+</CharacterPart>

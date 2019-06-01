@@ -1,0 +1,21 @@
+<item class="K01_Item" name="sr13_sp_d" type="attachment" view_settings="objects/weapons/sr13/sr13_sp_d.xml">
+	<UI_stats>
+		<param name="name" value="@sp_default_name"/>
+		<param name="description" value="@ui_accessories_sp_default"/>
+		<param name="icon" value="ccs_nonitem"/>
+	</UI_stats>
+	<drop_params>
+		<item name="sr13_sp_d" type="attachment"/>
+	</drop_params>
+	<settings>
+	</settings>
+	<sockets>
+		<socket can_be_empty="1" name="effects">
+			<support helper="muzzle_flash_effect" name="muzzle_flash_effect"/>
+			<support helper="muzzle_flash_light" name="muzzle_flash_light"/>
+		</socket>
+	</sockets>
+	<types>
+		<type helper="suppressor" name="sr13_sp_d"/>
+	</types>
+</item>

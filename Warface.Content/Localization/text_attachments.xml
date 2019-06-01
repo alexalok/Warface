@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="sp_default_name">
+		<original value="Default Suppressor"/>
+		<translation value="Стандартный ствол"/>
+	</entry>
+	<entry key="ui_accessories_sp_default">
+		<original value="Default Suppressor"/>
+		<translation value="Стандартный ствол"/>
+	</entry>
+	<entry key="is_default_name">
+		<original value="Iron sight"/>
+		<translation value="Мушка"/>
+	</entry>
+	<entry key="ui_accessories_is_default">
+		<original value="Iron sight"/>
+		<translation value="Мушка"/>
+	</entry>
+	<entry key="ar02_gp_d_name">
+		<original value="Default Grip"/>
+		<translation value="Стандартное цевье"/>
+	</entry>
+	<entry key="ui_ar02_gp_d">
+		<original value="Default Grip"/>
+		<translation value="Стандартное цевье"/>
+	</entry>
+	<entry key="ui_accessories_ss06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 5.5x&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_ss08_ingame">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_gp04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces stamina consumption by 10% &lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Уменьшает расход выносливости во время бега на 10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Iincreases haste speed by 20%&lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Увеличивает скорость рывка на 20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Iincreases haste speed by 10%&lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Увеличивает скорость рывка на 10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;decreases spread in non-aiming mode by 20% &lt;/font&gt;at all stances"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Уменьшает разброс при беглом огне из любого положения на 20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp08">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_gp09">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_rds06">
+		<original/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_rds06_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Increase aim speed&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sp09_shop_name">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="sp10_shop_name">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_sp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces recoil and spread by 10%&lt;/font&gt; at all stance &lt;font color='#42ebf8'&gt;TBD_removes light&lt;/font&gt; at barrel"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Уменьшает разброс и отдачу при стрельбе из любого положения&lt;/font&gt; &lt;font color='#42ebf8'&gt;Убирает дульное пламя&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sp09">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_sp10">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_ugl02">
+		<original value="&lt;font size='14'&gt;allows player to throw grenade long distance but it &lt;font color='#42ebf8'&gt;increses stamina consumption by 5%&lt;/font&gt; and &lt;font color='#42ebf8'&gt;Sway by 50%.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Позволяет дальше бросать гранаты, но при этом повышает &lt;font color='#42ebf8'&gt;расход выносливости на 5%&lt;/font&gt; и уменьшает &lt;font color='#42ebf8'&gt;точность броска на 50%&lt;/font&gt;."/>
+	</entry>
+	<entry key="ui_accessories_ubrs01">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE1&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 1)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs02">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE2&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 2)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs03">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE3&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 3)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs04">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE4&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 4)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs05">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE5&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 5)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs06">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE6&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 6)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs07">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE7&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 7)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs08">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE8&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 8)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs09">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE9&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 9)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_ubrs10">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE10&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS (тип 10)&lt;/b&gt;&lt;/font&gt;\nМеняет цвет прицела на красный"/>
+	</entry>
+	<entry key="ui_accessories_bn04">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces spread by 20%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Уменьшает разброс на 20% при стрельбе из положения лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces sway by 15%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread by 15%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Уменьшает колебания ствола на 15%&lt;/font&gt; и &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;разброс на 15%&lt;/font&gt; при стрельбе из положения лежа"/>
+	</entry>
+	<entry key="ui_accessories_bp06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces recoil by 15%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread by 15%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Уменьшает отдачу на 15%&lt;/font&gt; и &lt;font size='14'&gt; &lt;font color='#42ebf8'&gt;разброс на 15%&lt;/font&gt; при стрельбе из положения лежа"/>
+	</entry>
+	<entry key="ui_accessories_bp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces sway by 15%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 15%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Уменьшает колебания ствола на 15%&lt;/font&gt; и &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу на 15%&lt;/font&gt; при стрельбе из положения лежа"/>
+	</entry>
+	<entry key="ui_bp04_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt; при стрельбе из положения лежа\n"/>
+	</entry>
+	<entry key="ui_bp05_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt; при стрельбе из положения лежа\n"/>
+	</entry>
+	<entry key="ui_bp06_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt; при стрельбе из положения лежа\n"/>
+	</entry>
+	<entry key="ui_bp07_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt; при стрельбе из положения лежа\n"/>
+	</entry>
+	<entry key="ui_gpp03_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_gpp04_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_gpp05_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_gpp06_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_psb01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#FF4400'&gt;decreases aiming speed by 30%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#FF4400'&gt;Уменьшает время на прицеливание на 30%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_pt24_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decreases &lt;/font&gt;damage"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Не уменьшает&lt;/font&gt; урон"/>
+	</entry>
+	<entry key="ui_accessories_bn01_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn02_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn03_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn05_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font color='#FF4400'&gt;Strongly decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#FF4400'&gt;Значительно уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc03_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc01_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;\nУвеличивает &lt;font size='14'&gt;&lt;font color='#ff4400'&gt;падение урона&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sc02_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Greatly decrease &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#FF4400'&gt;15%&lt;/font&gt;\nУвеличивает &lt;font size='14'&gt;&lt;font color='#ff4400'&gt;падение урона&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc03_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;15%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc04_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc05_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc06_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sp02_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp03_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp04_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp05_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp06_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp02_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n IImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp03_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp04_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp05_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp06_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_as01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;br&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; &lt;br&gt; &lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 2x&lt;/font&gt;]"/>
+	</entry>
+	<entry key="ui_accessories_as02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; &lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 2x&lt;/font&gt;]"/>
+	</entry>
+	<entry key="ui_accessories_as03_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; and &lt;font color='#42ebf8'&gt;spread by 10%&lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3-кратное&lt;/font&gt; увеличение и &lt;font color='#42ebf8'&gt;10% разброс&lt;/font&gt; в режиме прицеливания.\n&lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 3x&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_as04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; in aiming stance.\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3-кратное&lt;/font&gt; увеличение\n&lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 3x&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_as05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\n&lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 2x&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_as06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom &lt;/font&gt; and &lt;font color='#42ebf8'&gt;spread by 15%&lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3-кратное&lt;/font&gt; увеличение и &lt;font color='#42ebf8'&gt;10% разброс&lt;/font&gt; в режиме прицеливания.\n&lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 3x&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_as01_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Увеличение: &lt;font color='#42ebf8'&gt;2x&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as02_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Увеличение: &lt;font color='#42ebf8'&gt;2x&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as03_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Увеличение &lt;font color='#42ebf8'&gt;3x&lt;/font&gt;\nБыстрое &lt;font color='#42ebf8'&gt;увеличение&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as04_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Увеличение &lt;font color='#42ebf8'&gt;3x&lt;/font&gt;\nБыстрое &lt;font color='#42ebf8'&gt;увеличение&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as05_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Увеличение: &lt;font color='#42ebf8'&gt;2x&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as06_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n"/>
+		<translation value="Увеличение: &lt;font color='#42ebf8'&gt;3x&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_rds01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\n&lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 1.2x&lt;/font&gt;]"/>
+	</entry>
+	<entry key="ui_accessories_rds02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\n&lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 1.2x&lt;/font&gt;]"/>
+	</entry>
+	<entry key="ui_accessories_rds05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\n&lt;font color='#dddddd'&gt;[Увеличение:&lt;font color='#42ebf8'&gt; 1.2x&lt;/font&gt;]"/>
+	</entry>
+	<entry key="ui_accessories_rds04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ar41_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3.5X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3.5-кратное&lt;/font&gt; увеличение\n&lt;font color='#dddddd'&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;br&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение &lt;br&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_as03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; and &lt;font color='#42ebf8'&gt;spread by 10%&lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;3-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_as04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; in aiming stance.\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;3-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_as05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\nУвеличивает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt; в режиме прицеливания\n"/>
+	</entry>
+	<entry key="ui_accessories_as06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom &lt;/font&gt; and &lt;font color='#42ebf8'&gt;spread by 15%&lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_as04_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;3-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_ss02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_ss04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4,5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_gp01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy &lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy &lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly improves accuracy &lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly decrease recoil&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="Слегка повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nСлегка уменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_rds01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.4-кратное &lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_accessories_rds02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2-кратное &lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_accessories_rds03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2-кратное &lt;/font&gt;увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_rds04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font color='#FF4400'&gt;Strongly decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sp02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp03">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp04">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp05">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp06">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_ugl01">
+		<original value="&lt;font size='14'&gt;Grenade launcher &lt;/font&gt; Slightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Позволяет поражать цели, которые недоступны для стрелкового оружия&lt;/font&gt;\nСлегка увеличивает &lt;font color='#ff4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn03">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn05">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces recoil by 20%&lt;/font&gt; at prone stance"/>
+		<translation value="В прицеливании лежа:\nуменьшает &lt;font color='#42ebf8'&gt;увод ствола и отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bp02_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="В положении лежа:\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;увод ствола&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gpp02">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;увод ствола&lt;/font&gt; при стрельбе из положения лежа"/>
+	</entry>
+	<entry key="ui_gpp01_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;увод ствола&lt;/font&gt; при стрельбе из положения лежа"/>
+	</entry>
+	<entry key="ui_gpp02_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;увод ствола&lt;/font&gt; при стрельбе из положения лежа"/>
+	</entry>
+	<entry key="ui_accessories_ps01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.5X zoom&lt;/font&gt; at aiming stance &lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_ss06_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;5.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;5,5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_ss01">
+		<original value="&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5X&lt;/font&gt; ]"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_sp01">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_bn01">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp01">
+		<original value="Lightly improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway and recoil&lt;/font&gt; in &lt;font size='14'&gt;&lt;font color='#ff6660'&gt;prone&lt;/font&gt; stance"/>
+		<translation value="В прицеливании лежа:\nслегка уменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp02">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy, sway and recoil&lt;/font&gt; in &lt;font size='14'&gt;&lt;font color='#FF4400'&gt;prone &lt;/font&gt; stance"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность,&lt;/font&gt; уменьшает &lt;font color='#42ebf8'&gt;увод ствола и отдачу&lt;/font&gt; при стрельбе из положения &lt;font color='#FF4400'&gt;лежа &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gpp01">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;увод ствола&lt;/font&gt; при стрельбе из положения лежа"/>
+	</entry>
+	<entry key="ui_pt24_sc_d">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decreases &lt;/font&gt;damage"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной"/>
+	</entry>
+	<entry key="ui_sr09_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#ff4400'&gt;5%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_ss02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_ss04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4,5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_ss06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#42ebf8'&gt;5,5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_accessories_ss03_camo02">
+		<original value="&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5X&lt;/font&gt; ]"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_shg31_bn_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack range&lt;/font&gt;\n Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон&lt;/font&gt; в ближнем бою\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дальность поражения&lt;/font&gt; в ближнем бою"/>
+	</entry>
+	<entry key="ui_pt14_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.4-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_pt14_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font size='14'&gt;Imroves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n &lt;font color='#42ebf8'&gt;Do not decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nНе уменьшает &lt;font color='#42ebf8'&gt;урон&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_shg33_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.4-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_sr31_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4,5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_sr31_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decrease &lt;/font&gt;damage"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Не уменьшает&lt;/font&gt; урон"/>
+	</entry>
+	<entry key="as01_shop_name">
+		<original value="Advanced Assault Scope"/>
+		<translation value="Улучшенный штурмовой прицел"/>
+	</entry>
+	<entry key="as02_shop_name">
+		<original value="ELCAN SpecterOS"/>
+		<translation value="Стандартный штурмовой прицел"/>
+	</entry>
+	<entry key="as03_shop_name">
+		<original value="Ultra-rare SMG Scope"/>
+		<translation value="Раритетный прицел для ПП"/>
+	</entry>
+	<entry key="as04_shop_name">
+		<original value="Trijicon ACOG"/>
+		<translation value="Раритетный штурмовой прицел"/>
+	</entry>
+	<entry key="as05_shop_name">
+		<original value="Advanced SMG Scope"/>
+		<translation value="Улучшенный прицел для ПП"/>
+	</entry>
+	<entry key="as06_shop_name">
+		<original value="Basic SMG Scope"/>
+		<translation value="Стандартный прицел для ПП"/>
+	</entry>
+	<entry key="ui_as01_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_as02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_as03_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;3-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_as05_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\nУвеличивает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt; в режиме прицеливания\n"/>
+	</entry>
+	<entry key="ui_as06_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ss01_default_name">
+		<original value="Fast Mid Range Scope 5X"/>
+		<translation value="Легкий прицел (5-крат.)"/>
+	</entry>
+	<entry key="ss02_shop_name">
+		<original value="Short Range Sniper Scope 4X"/>
+		<translation value="Оптический прицел (4-крат.)"/>
+	</entry>
+	<entry key="ss04_shop_name">
+		<original value="Mid Range Sniper Scope 4.5X"/>
+		<translation value="Оптический прицел (4.5-крат.)"/>
+	</entry>
+	<entry key="ss06_shop_name">
+		<original value="Default Sniper Scope 5.5X"/>
+		<translation value="Стандартный прицел (5.5-крат.)"/>
+	</entry>
+	<entry key="ui_ss01_ingame">
+		<original value="Fast Zoom &lt;font color='#42ebf8'&gt;5X&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_ss02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_ss04_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4,5-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_ss06_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;5.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;5,5-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_ss07_ingame">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="gp01_shop_name">
+		<original value="SMG Grip"/>
+		<translation value="Рукоятка для ПП"/>
+	</entry>
+	<entry key="gp02_shop_name">
+		<original value="Assault Grip"/>
+		<translation value="Штурмовая рукоятка"/>
+	</entry>
+	<entry key="gp03_shop_name">
+		<original value="Shared Grip"/>
+		<translation value="Облегченная рукоятка"/>
+	</entry>
+	<entry key="gp04_shop_name">
+		<original value="Light Weight Grip"/>
+		<translation value="Облегченная рукоятка"/>
+	</entry>
+	<entry key="gp05_shop_name">
+		<original value="Haste Grip II"/>
+		<translation value="Маленькая рукоятка II"/>
+	</entry>
+	<entry key="gp06_shop_name">
+		<original value="Haste Grip"/>
+		<translation value="Маленькая рукоятка"/>
+	</entry>
+	<entry key="gp07_shop_name">
+		<original value="Spread Grip"/>
+		<translation value="Тяжелая рукоятка"/>
+	</entry>
+	<entry key="gp08_shop_name">
+		<original value="Crywar Grip"/>
+		<translation value="Рукоятка Crywar"/>
+	</entry>
+	<entry key="gp09_shop_name">
+		<original value="Crywar Grip II"/>
+		<translation value="Рукоятка Crywar II"/>
+	</entry>
+	<entry key="ui_gp01_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Not applied in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp02_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Not applied in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp03_ingame">
+		<original value="Lightly improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Lightly decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Not applied in prone"/>
+		<translation value="Слегка повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nСлегка уменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp04_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp05_ingame">
+		<original value="Haste Speed &lt;font color='#42ebf8'&gt;+20%&lt;/font&gt;"/>
+		<translation value="Скорость бега &lt;font color='#42ebf8'&gt;+20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp06_ingame">
+		<original value="Haste Speed &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+		<translation value="Скорость бега &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp07_ingame">
+		<original value="Spread in none aiming mode &lt;font color='#42ebf8'&gt;-20%&lt;/font&gt;"/>
+		<translation value="Рассеивание пуль при стрельбе без прицеливания &lt;font color='#42ebf8'&gt;-20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp08_ingame">
+		<original value="Reload &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Spread in none aiming mode &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;"/>
+		<translation value="Время перезарядки &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;\nРассеивание пуль при стрельбе без прицеливания &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp09_ingame">
+		<original value="Stamina Consumption &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Haste Speed &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+		<translation value="Расход энергии &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;\nСкорость бега &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="rds01_shop_name">
+		<original value="EOTech 553"/>
+		<translation value="Улучш. коллиматор EOTECH 553"/>
+	</entry>
+	<entry key="rds02_shop_name">
+		<original value="TRUGLO Red Dot Sight"/>
+		<translation value="Коллиматор Truglo rds"/>
+	</entry>
+	<entry key="rds03_shop_name">
+		<original value="Aimpoint CompM4s"/>
+		<translation value="Коллиматор Aimpoint Comp4s"/>
+	</entry>
+	<entry key="rds03_camo02_shop_name">
+		<original value="Aimpoint CompM4s Winter Camouflage"/>
+		<translation value="Коллиматор Aimpoint Comp4s Snow"/>
+	</entry>
+	<entry key="rds04_shop_name">
+		<original value="Mojji Zero"/>
+		<translation value="Коллиматор MojjiZero"/>
+	</entry>
+	<entry key="rds06_shop_name">
+		<original value="RDS06"/>
+		<translation value="Коллиматор Leupold Deltapoint MK1"/>
+	</entry>
+	<entry key="ui_rds01_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.4-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_rds02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_rds03_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds03_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_rds04_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Fast zoom \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="sc01_shop_name">
+		<original value="SMG Silencer"/>
+		<translation value="Глушитель для ПП"/>
+	</entry>
+	<entry key="sc02_shop_name">
+		<original value="Shared Silencer"/>
+		<translation value="Легкий глушитель"/>
+	</entry>
+	<entry key="sc03_shop_name">
+		<original value="Custom Pistol Silencer"/>
+		<translation value="Глушитель для пистолета"/>
+	</entry>
+	<entry key="sc04_shop_name">
+		<original value="SHOTGUN Silencer"/>
+		<translation value="Глушитель для дробовика"/>
+	</entry>
+	<entry key="sc05_shop_name">
+		<original value="Assault Silencer"/>
+		<translation value="Штурмовой глушитель"/>
+	</entry>
+	<entry key="sc06_shop_name">
+		<original value="Sniper rifle Silencer"/>
+		<translation value="Глушитель для снайп. винтовки"/>
+	</entry>
+	<entry key="ui_sc01_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;\nУвеличивает &lt;font size='14'&gt;&lt;font color='#ff4400'&gt;падение урона&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sc02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Greatly decrease &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#FF4400'&gt;15%&lt;/font&gt;\nУвеличивает &lt;font size='14'&gt;&lt;font color='#ff4400'&gt;падение урона&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc03_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc04_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc05_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc06_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sp01_shop_name">
+		<original value="Machinegun Suppressor"/>
+		<translation value="Пламегаситель для пулемета"/>
+	</entry>
+	<entry key="sp02_shop_name">
+		<original value="SMG Suppressor"/>
+		<translation value="Пламегаситель для ПП"/>
+	</entry>
+	<entry key="sp03_shop_name">
+		<original value="Assault Suppressor"/>
+		<translation value="Штурмовой пламегаситель"/>
+	</entry>
+	<entry key="sp04_shop_name">
+		<original value="Sniper Rifle Suppressor"/>
+		<translation value="Пламегаситель для снайп. винтовки"/>
+	</entry>
+	<entry key="sp05_shop_name">
+		<original value="Pistol Suppressor"/>
+		<translation value="Пламегаситель для пистолета"/>
+	</entry>
+	<entry key="sp06_shop_name">
+		<original value="SHOTGUN Suppressor"/>
+		<translation value="Пламегаситель для дробовика"/>
+	</entry>
+	<entry key="sp07_shop_name">
+		<original value="Crywar Suppressor I"/>
+		<translation value="Пламегаситель Crywar I"/>
+	</entry>
+	<entry key="ui_sp01_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp03_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp04_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp05_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp06_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp07_ingame">
+		<original value="Recoil &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Spread &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n TBD_Light Remove"/>
+		<translation value="Отдача &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;\nРассеивание пуль &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;\nTBD_Скрывает дульное пламя"/>
+	</entry>
+	<entry key="ui_sp09_ingame">
+		<original value="Recoil &lt;font color='#42ebf8'&gt;-15%&lt;/font&gt; \n Spread &lt;font color='#42ebf8'&gt;-5%&lt;/font&gt; \n TBD_Light Remove"/>
+		<translation value="Отдача &lt;font color='#42ebf8'&gt;-15%&lt;/font&gt;\nРассеивание пуль &lt;font color='#42ebf8'&gt;-5%&lt;/font&gt;\nTBD_Скрывает дульное пламя"/>
+	</entry>
+	<entry key="ui_sp10_ingame">
+		<original value="TBD_Light remove"/>
+		<translation value="TBD_Скрывает дульное пламя"/>
+	</entry>
+	<entry key="ugl02_shop_name">
+		<original value="UB Grenade Launcher"/>
+		<translation value="Подствольный гранатомет"/>
+	</entry>
+	<entry key="ui_ugl02_ingame">
+		<original value="Stamina consumption &lt;font color='#FF4400'&gt;+10%&lt;/font&gt; \n Sway &lt;font color='#FF4400'&gt;+50%&lt;/font&gt; \n"/>
+		<translation value="Затраты энергии &lt;font color='#FF4400'&gt;+10%&lt;/font&gt;\nУвод ствола &lt;font color='#FF4400'&gt;+50%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ugl01_shop_name">
+		<original value="UB Grenade Launcher"/>
+		<translation value="Подствольный гранатомет"/>
+	</entry>
+	<entry key="ui_ugl01_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; grenade launcher&lt;/font&gt; \nSlightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="Позволяет поражать цели, которые &lt;font color='#42ebf8'&gt;недоступны для стрелкового оружия&lt;/font&gt;\nУвеличивает &lt;font color='#ff4400'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#ff4400'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="gl_is_01_shop_name">
+		<original value="Grenade meter"/>
+		<translation value="Индикатор гранат"/>
+	</entry>
+	<entry key="ui_accessories_gl_is_01">
+		<original value="is working with Under Grenade Launcher but it &lt;font color='#42ebf8'&gt;decreases haste speed by 10%&lt;/font&gt; and &lt;font color='#42ebf8'&gt;Sway by 50%.&lt;/font&gt;"/>
+		<translation value="применяется с подствольным гранатометом, но &lt;font color='#42ebf8'&gt;уменьшает скорость бега на 10%&lt;/font&gt; и повышает &lt;font color='#42ebf8'&gt;увод ствола на 50%.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gl_is_01_ingame">
+		<original value="Haste speed &lt;font color='#FF4400'&gt;-10%&lt;/font&gt; \n Sway &lt;font color='#FF4400'&gt;+50%&lt;/font&gt;"/>
+		<translation value="Скорость бега &lt;font color='#FF4400'&gt;-10%&lt;/font&gt;\nУвод ствола &lt;font color='#FF4400'&gt;+50%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ubrs01_shop_name">
+		<original value="UBRS Type1"/>
+		<translation value="UBRS 1"/>
+	</entry>
+	<entry key="ubrs02_shop_name">
+		<original value="UBRS Type2"/>
+		<translation value="UBRS 2"/>
+	</entry>
+	<entry key="ubrs03_shop_name">
+		<original value="UBRS Type3"/>
+		<translation value="UBRS 3"/>
+	</entry>
+	<entry key="ubrs04_shop_name">
+		<original value="UBRS Type4"/>
+		<translation value="UBRS 4"/>
+	</entry>
+	<entry key="ubrs05_shop_name">
+		<original value="UBRS Type5"/>
+		<translation value="UBRS 5"/>
+	</entry>
+	<entry key="ubrs06_shop_name">
+		<original value="UBRS Type6"/>
+		<translation value="UBRS 6"/>
+	</entry>
+	<entry key="ubrs07_shop_name">
+		<original value="UBRS Type7"/>
+		<translation value="UBRS 7"/>
+	</entry>
+	<entry key="ubrs08_shop_name">
+		<original value="UBRS Type8"/>
+		<translation value="UBRS 8"/>
+	</entry>
+	<entry key="ubrs09_shop_name">
+		<original value="UBRS Type9"/>
+		<translation value="UBRS 9"/>
+	</entry>
+	<entry key="ubrs10_shop_name">
+		<original value="UBRS Type10"/>
+		<translation value="UBRS 10"/>
+	</entry>
+	<entry key="ui_ubrs01_ingame">
+		<original value="Crosshair type#1"/>
+		<translation value="Прицел #1"/>
+	</entry>
+	<entry key="ui_ubrs02_ingame">
+		<original value="Crosshair type#2"/>
+		<translation value="Прицел #2"/>
+	</entry>
+	<entry key="ui_ubrs03_ingame">
+		<original value="Crosshair type#3"/>
+		<translation value="Прицел #3"/>
+	</entry>
+	<entry key="ui_ubrs04_ingame">
+		<original value="Crosshair type#4"/>
+		<translation value="Прицел #4"/>
+	</entry>
+	<entry key="ui_ubrs05_ingame">
+		<original value="Crosshair type#5"/>
+		<translation value="Прицел #5"/>
+	</entry>
+	<entry key="ui_ubrs06_ingame">
+		<original value="Crosshair type#6"/>
+		<translation value="Прицел #6"/>
+	</entry>
+	<entry key="ui_ubrs07_ingame">
+		<original value="Crosshair type#7"/>
+		<translation value="Прицел #7"/>
+	</entry>
+	<entry key="ui_ubrs08_ingame">
+		<original value="Crosshair type#8"/>
+		<translation value="Прицел #8"/>
+	</entry>
+	<entry key="ui_ubrs09_ingame">
+		<original value="Crosshair type#9"/>
+		<translation value="Прицел #9"/>
+	</entry>
+	<entry key="ui_ubrs10_ingame">
+		<original value="Crosshair type#10"/>
+		<translation value="Прицел #10"/>
+	</entry>
+	<entry key="bn01_shop_name">
+		<original value="SHOTGUN Bayonet"/>
+		<translation value="Штык для дробовика"/>
+	</entry>
+	<entry key="bn02_shop_name">
+		<original value="Assault Bayonet"/>
+		<translation value="Штурмовой штык"/>
+	</entry>
+	<entry key="bn03_shop_name">
+		<original value="SMG Bayonet"/>
+		<translation value="Штык для ПП"/>
+	</entry>
+	<entry key="bn04_shop_name">
+		<original value="Machinegun Bayonet"/>
+		<translation value="Штык для пулемета"/>
+	</entry>
+	<entry key="bn05_shop_name">
+		<original value="Pistol Bayonet"/>
+		<translation value="Штык для пистолета"/>
+	</entry>
+	<entry key="ui_bn01_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn03_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn04_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn05_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;\nПовышает &lt;font color='#FF4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="bp01_shop_name">
+		<original value="Sniper Rifle Bipod"/>
+		<translation value="Сошки для снайп. винтовки"/>
+	</entry>
+	<entry key="bp02_shop_name">
+		<original value="Machinegun Bipod"/>
+		<translation value="Сошки для пулемета"/>
+	</entry>
+	<entry key="bp03_shop_name">
+		<original value="Special Sniper Bipod"/>
+		<translation value="Амортизирующие сошки"/>
+	</entry>
+	<entry key="bp04_shop_name">
+		<original value="Spread Bipod"/>
+		<translation value="Стабилизирующие сошки"/>
+	</entry>
+	<entry key="bp05_shop_name">
+		<original value="Cry Bipod I"/>
+		<translation value="Сошки Cry I"/>
+	</entry>
+	<entry key="bp06_shop_name">
+		<original value="Cry Bipod II"/>
+		<translation value="Сошки Cry II"/>
+	</entry>
+	<entry key="bp07_shop_name">
+		<original value="Cry Bipod III"/>
+		<translation value="Сошки Cry III"/>
+	</entry>
+	<entry key="ui_bp01_ingame">
+		<original value="Lightly: \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="В прицеливании лежа:\nСлегка уменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bp03_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="В прицеливании лежа:\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;увод ствола&lt;/font&gt;"/>
+	</entry>
+	<entry key="gpp01_shop_name">
+		<original value="Assault Grippod"/>
+		<translation value="Штурмовая рукоятка-сошки"/>
+	</entry>
+	<entry key="gpp02_shop_name">
+		<original value="SMG Grippod"/>
+		<translation value="Рукоятка-сошки для ПП"/>
+	</entry>
+	<entry key="gpp03_shop_name">
+		<original value="TBD_gpp03"/>
+		<translation value="TBD_gpp03"/>
+	</entry>
+	<entry key="gpp04_shop_name">
+		<original value="TBD_gpp04"/>
+		<translation value="TBD_gpp04"/>
+	</entry>
+	<entry key="gpp05_shop_name">
+		<original value="TBD_gpp05"/>
+		<translation value="TBD_gpp05"/>
+	</entry>
+	<entry key="gpp06_shop_name">
+		<original value="TBD_gpp06"/>
+		<translation value="TBD_gpp06"/>
+	</entry>
+	<entry key="ui_accessories_gpp03">
+		<original value="TBD \n Stamina consumption -10% \n Recoil in prone -10% \n Crosshair type#3"/>
+		<translation value="TBD\nРасход энергии -10%\nОтдача при стрельбе из положения лежа -10%\nПрицел #3"/>
+	</entry>
+	<entry key="ui_accessories_gpp04">
+		<original value="TBD \n Haste speed -10% \n Sway -25% \n Crosshair type#4"/>
+		<translation value="TBD\nСкорость бега -10%\nУвод ствола -25%\nПрицел #4"/>
+	</entry>
+	<entry key="ui_accessories_gpp05">
+		<original value="TBD \n Spread in none aiming mode -10% \n Spread in prone -10% \n Crosshair type#5"/>
+		<translation value="TBD\nРассеивание пуль при стрельбе без прицеливания -10%\nРассеивание пуль при стрельбе из положения лежа -10%\nПрицел #5"/>
+	</entry>
+	<entry key="ui_accessories_gpp06">
+		<original value="TBD \n Recoil in none aiming mode -10% \n Recoil in prone -10% \n Crosshair type#6"/>
+		<translation value="TBD\nОтдача при стрельбе без прицеливания -10%\nОтдача при стрельбе из положения лежа -10%\nПрицел #6"/>
+	</entry>
+	<entry key="ps01_shop_name">
+		<original value="Pistol Scope 1.5X"/>
+		<translation value="Прицел для пистолета (2-крат.)"/>
+	</entry>
+	<entry key="ps02_shop_name">
+		<original value="TBD_ps02"/>
+		<translation value="TBD_ps02"/>
+	</entry>
+	<entry key="ps03_shop_name">
+		<original value="TBD_ps03"/>
+		<translation value="TBD_ps03"/>
+	</entry>
+	<entry key="ui_accessories_ps02">
+		<original value="TBD \n 2X zoom range \n Aiming recoil -30%"/>
+		<translation value="TBD\n2-кратное увеличение\nОтдача при прицельной стрельбе -30%"/>
+	</entry>
+	<entry key="ui_accessories_ps03">
+		<original value="TBD \n 3X zoom range \n Aiming speed +30%"/>
+		<translation value="TBD\n3-кратное увеличение\nСкорость прицеливания +30%"/>
+	</entry>
+	<entry key="ui_ps01_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_ps02_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n Aiming recoil &lt;font color='#42ebf8'&gt;+30%&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2-кратное&lt;/font&gt; увеличение\nОтдача при стрельбе в режиме прицеливания &lt;font color='#42ebf8'&gt;+30%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ps03_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Aiming speed &lt;font color='#42ebf8'&gt;+15%&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;3-кратное&lt;/font&gt; увеличение\nСкорость прицеливания &lt;font color='#42ebf8'&gt;+15%&lt;/font&gt;"/>
+	</entry>
+	<entry key="psb01_shop_name">
+		<original value="Crywar Pistol bayobnet"/>
+		<translation value="Штык Crywar для пистолета"/>
+	</entry>
+	<entry key="psb02_shop_name">
+		<original value="TBD_psb02"/>
+		<translation value="TBD_psb02"/>
+	</entry>
+	<entry key="psb03_shop_name">
+		<original value="TBD_psb03"/>
+		<translation value="TBD_psb03"/>
+	</entry>
+	<entry key="ui_accessories_psb02">
+		<original value="TBD \n Aiming speed +15%"/>
+		<translation value="TBD\nСкорость прицеливания +15%"/>
+	</entry>
+	<entry key="ui_accessories_psb03">
+		<original value="TBD \n Reload +5% \n Aiming speed +10%"/>
+		<translation value="TBD\nСкорость перезарядки +5%\nСкорость прицеливания +10%"/>
+	</entry>
+	<entry key="ui_psb01_ingame">
+		<original value="Aiming speed &lt;font color='#FF4400'&gt;+30%&lt;/font&gt;"/>
+		<translation value="Скорость прицеливания &lt;font color='#FF4400'&gt;+30%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_psb02_ingame">
+		<original value="Aiming speed &lt;font color='#FF4400'&gt;+15%&lt;/font&gt;"/>
+		<translation value="Скорость прицеливания &lt;font color='#FF4400'&gt;+15%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_psb03_ingame">
+		<original value="Reload &lt;font color='#FF4400'&gt;+5%&lt;/font&gt; \n Aiming speed &lt;font color='#FF4400'&gt;+10%&lt;/font&gt;"/>
+		<translation value="Перезарядка &lt;font color='#FF4400'&gt;+5%&lt;/font&gt;\nСкорость прицеливания &lt;font color='#FF4400'&gt;+10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt24_sc_d_name">
+		<original value="BraMit silencer"/>
+		<translation value="Глушитель 'БраМит'"/>
+	</entry>
+	<entry key="sr09_sc_d_name">
+		<original value="McMillan CS5 Silencer"/>
+		<translation value="Глушитель McMillan CS5"/>
+	</entry>
+	<entry key="ui_sr09_sc_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ss02_camo02_shop_name">
+		<original value="Short Range Sniper Scope 4X Winter Camo"/>
+		<translation value="Зимний оптический прицел (4-крат.)"/>
+	</entry>
+	<entry key="ui_ss02_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ss04_camo02_shop_name">
+		<original value="Mid Range Sniper Scope 4.5X Winter Camo"/>
+		<translation value="Зимний оптический прицел (4.5-крат.)"/>
+	</entry>
+	<entry key="ui_ss04_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4,5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ss06_camo02_shop_name">
+		<original value="Default Sniper Scope 5.5X Winter Camo"/>
+		<translation value="Зимний стандартный прицел (5.5-крат.)"/>
+	</entry>
+	<entry key="ss03_camo02_shop_name">
+		<original value="Fast Mid Range Scope 5X Winter Camo"/>
+		<translation value="Зимний легкий прицел (5-крат.)"/>
+	</entry>
+	<entry key="ui_ss03_camo02_ingame">
+		<original value="Fast Zoom &lt;font color='#42ebf8'&gt;5X&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="bn01_camo02_shop_name">
+		<original value="Shotgun Bayonet Winter Camo"/>
+		<translation value="Штык для дробовика"/>
+	</entry>
+	<entry key="bn02_camo02_shop_name">
+		<original value="Assault Bayonet Winter Camo"/>
+		<translation value="Штык для автомата"/>
+	</entry>
+	<entry key="bn03_camo02_shop_name">
+		<original value="SMG Bayonet Winter Camo"/>
+		<translation value="Штык для ПП"/>
+	</entry>
+	<entry key="bn05_camo02_shop_name">
+		<original value="Pistol Bayonet Winter Camo"/>
+		<translation value="Штык для пистолета"/>
+	</entry>
+	<entry key="ui_bn01_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn02_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn03_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn05_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
+	</entry>
+	<entry key="sc01_camo02_shop_name">
+		<original value="SMG Silencer Winter Camo"/>
+		<translation value="Глушитель для ПП"/>
+	</entry>
+	<entry key="sc02_camo02_shop_name">
+		<original value="Shared Silencer Winter Camo"/>
+		<translation value="Универсальный глушитель"/>
+	</entry>
+	<entry key="sc03_camo02_shop_name">
+		<original value="Custom Pistol Silencer Winter Camo"/>
+		<translation value="Улучш. глушитель для пистолета"/>
+	</entry>
+	<entry key="sc04_camo02_shop_name">
+		<original value="Shotgun Silencer Winter Camo"/>
+		<translation value="Глушитель для дробовика"/>
+	</entry>
+	<entry key="sc05_camo02_shop_name">
+		<original value="Assault Silencer Winter Camo"/>
+		<translation value="Штурмовой глушитель"/>
+	</entry>
+	<entry key="sc06_camo02_shop_name">
+		<original value="Sniper rifle Silencer Winter Camo"/>
+		<translation value="Глушитель для снайп. винтовки"/>
+	</entry>
+	<entry key="sp02_camo02_shop_name">
+		<original value="SMG Suppressor Winter Camo"/>
+		<translation value="Пламегаситель для ПП"/>
+	</entry>
+	<entry key="sp03_camo02_shop_name">
+		<original value="Assault Suppressor Winter Camo"/>
+		<translation value="Пламегаситель для автомата"/>
+	</entry>
+	<entry key="sp04_camo02_shop_name">
+		<original value="Sniper Rifle Suppressor Winter Camo"/>
+		<translation value="Пламегаситель для снайп. винтовки"/>
+	</entry>
+	<entry key="sp05_camo02_shop_name">
+		<original value="Pistol Suppressor Winter Camo"/>
+		<translation value="Пламегаситель для пистолета"/>
+	</entry>
+	<entry key="sp06_camo02_shop_name">
+		<original value="Shotgun Suppressor Winter Camo"/>
+		<translation value="Пламегаситель для дробовика"/>
+	</entry>
+	<entry key="as01_camo02_shop_name">
+		<original value="Advanced Assault Scope Winter Camo"/>
+		<translation value="Зимний улучш. штурмовой прицел"/>
+	</entry>
+	<entry key="as02_camo02_shop_name">
+		<original value="ELCAN SpecterOS Winter Camo"/>
+		<translation value="Зимний станд. штурмовой прицел"/>
+	</entry>
+	<entry key="as03_camo02_shop_name">
+		<original value="Ultra-rare SMG Scope Winter Camo"/>
+		<translation value="Зимний раритетный прицел для ПП"/>
+	</entry>
+	<entry key="as04_camo02_shop_name">
+		<original value="Trijicon ACOG Winter Camo"/>
+		<translation value="Зимний штурмовой прицел"/>
+	</entry>
+	<entry key="as05_camo02_shop_name">
+		<original value="Advanced SMG Scope Winter Camo"/>
+		<translation value="Зимний улучш. прицел для ПП"/>
+	</entry>
+	<entry key="as06_camo02_shop_name">
+		<original value="Basic SMG Scope Winter Camo"/>
+		<translation value="Зимний прицел для ПП"/>
+	</entry>
+	<entry key="rds01_camo02_shop_name">
+		<original value="EOTech 553 Winter Camo"/>
+		<translation value="Коллиматор EOTECH 553"/>
+	</entry>
+	<entry key="rds02_camo02_shop_name">
+		<original value="TRUGLO Red Dot Sight Winter Camo"/>
+		<translation value="Коллиматор Truglo RDS"/>
+	</entry>
+	<entry key="rds05_camo02_shop_name">
+		<original value="Aimpoint CompM4s Winter Camo"/>
+		<translation value="Коллиматор Aimpoint Comp4s"/>
+	</entry>
+	<entry key="rds04_camo02_shop_name">
+		<original value="Mojji Zero Winter Camo"/>
+		<translation value="Коллиматор Mojji Zero"/>
+	</entry>
+	<entry key="ui_rds01_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.4-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_rds02_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_rds05_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="ui_rds04_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Fast zoom \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg31_bn_d_shop_name">
+		<original value="Trenchgun M97 Bayonet"/>
+		<translation value="Штык для Winchester M1897"/>
+	</entry>
+	<entry key="ar41_ss_d_shop_name">
+		<original value="ZF4 Scope"/>
+		<translation value="Прицел ZF4"/>
+	</entry>
+	<entry key="pt14_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Коллиматор Trijicon RMR"/>
+	</entry>
+	<entry key="pt14_sc_d_name">
+		<original value="Custom tactical silencer"/>
+		<translation value="Улучш. тактический глушитель"/>
+	</entry>
+	<entry key="shg33_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Коллиматор Trijicon RMR"/>
+	</entry>
+	<entry key="sr31_ss_d_shop_name">
+		<original value="Schmidt &amp; Bender Scope H2CMR"/>
+		<translation value="Прицел S&amp;B H2CMR (4.5-крат.)"/>
+	</entry>
+	<entry key="sr31_sc_d_name">
+		<original value="AX 308 Custom Tactical Silencer"/>
+		<translation value="Улучш. тактический глушитель AX 308"/>
+	</entry>
+	<entry key="smg31_gp_d_name">
+		<original value="SCAR-L PDW Tactical Grip"/>
+		<translation value="Тактическая рукоятка SCAR-L PDW"/>
+	</entry>
+	<entry key="ui_smg31_gp_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_smg31_gp_d_ingame">
+		<original value="Improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;Not applied in prone"/>
+		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУвеличивает &lt;font color='#42ebf8'&gt;скорость перезарядки&lt;/font&gt;\nCнижает &lt;font color='#42ebf8'&gt;увод ствола &lt;/font&gt;Не действует в положении лежа"/>
+	</entry>
+	<entry key="pt30_sp_d_name">
+		<original value="Silver suppressor"/>
+		<translation value="Серебряный пламегаситель"/>
+	</entry>
+	<entry key="ui_pt30_pink01_sp_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_pt30_pink01_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt30_pink01_sc_d_name">
+		<original value="Silver silencer"/>
+		<translation value="Серебряный глушитель"/>
+	</entry>
+	<entry key="ui_pt30_pink01_sc_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_pt30_pink01_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font size='14'&gt;Imroves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n &lt;font color='#42ebf8'&gt;Do not decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Не уменьшает урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr34_sp_d_name">
+		<original value="Steyr Scout Custom Silencer"/>
+		<translation value="Улучш. глушитель для Steyr Scout"/>
+	</entry>
+	<entry key="ui_sr34_sp_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font size='14'&gt;Decreases &lt;font color='#ff6660'&gt;range&lt;/font&gt;\n"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает &lt;font color='#ff6660'&gt;дальность стрельбы&lt;/font&gt;\nУменьшает урон на &lt;font color='#ff6660'&gt;18%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr34_bp_d_shop_name">
+		<original value="Steyr Scout Custom Bipod (Released)"/>
+		<translation value="Улучш. сошки для Steyr Scout (разложенные)"/>
+	</entry>
+	<entry key="ui_sr34_bp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt; в положении лежа\nУменьшает &lt;font color='#42ebf8'&gt;увод ствола&lt;/font&gt; в положении лежа\n"/>
+	</entry>
+	<entry key="sr34_gp_d_shop_name">
+		<original value="Steyr Scout Custom Bipod (Collapsed)"/>
+		<translation value="Улучш. сошки для Steyr Scout (сложенные)"/>
+	</entry>
+	<entry key="ui_sr34_gp_d_ingame">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость смены оружия&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg39_gp01_d_name">
+		<original value="Venom Wraptor Forend"/>
+		<translation value="Цевье Venom Wraptor"/>
+	</entry>
+	<entry key="ui_shg39_gp01_d_ingame">
+		<original value="Improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\n"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg39_gp02_d_name">
+		<original value="Venom Wraptor Grip"/>
+		<translation value="Рукоятка Venom Wraptor"/>
+	</entry>
+	<entry key="ui_shg39_gp02_d_ingame">
+		<original value="Increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; RPM&lt;/font&gt;\n"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;темп стрельбы&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr36_bp_d_shop_name">
+		<original value="Dragunov SVU Bipod (Released)"/>
+		<translation value="Сошки СВУ (разложенные)"/>
+	</entry>
+	<entry key="ui_sr36_bp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Уменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt; при стрельбе из положения лежа\n"/>
+	</entry>
+	<entry key="sr36_gp_d_shop_name">
+		<original value="Dragunov SVU Bipod (Collapsed)"/>
+		<translation value="Сошки СВУ (сложенные)"/>
+	</entry>
+	<entry key="ui_sr36_gp_d_ingame">
+		<original value="Slightly increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; HIP accuracy&lt;/font&gt;\n Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="Слегка повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность при стрельбе от бедра&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость смены оружия&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg36_is_d_name">
+		<original value="Magpul Iron Sight"/>
+		<translation value="Мушка FMG-9"/>
+	</entry>
+	<entry key="ui_smg36_is_d_ingame">
+		<original value="Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;увеличение&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="rds07_shop_name">
+		<original value="EOTech 553"/>
+		<translation value="Коллиматор EOTECH 553"/>
+	</entry>
+	<entry key="ui_accessories_rds07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_rds07_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="shg41_sc_d_name">
+		<original value="Custom tactical silencer"/>
+		<translation value="Особый тактический глушитель"/>
+	</entry>
+	<entry key="ui_shg41_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Imroves accuracy by 30%&lt;/font&gt; \n &lt;font color='#ff6660'&gt;Decreases damage by 30%&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;30%&lt;/font&gt;\nУменьшает урон на &lt;font color='#ff4400'&gt;30%&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr39_ss_d_shop_name">
+		<original value="Razor HD Gen II"/>
+		<translation value="Прицел Razor HD Gen II"/>
+	</entry>
+	<entry key="ui_sr39_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.7X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ar28_sp_d_name">
+		<original value="Jailbreak muzzle"/>
+		<translation value="Пламегаситель Jailbrake"/>
+	</entry>
+	<entry key="ui_ar28_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;accuracy by 25%&lt;/font&gt;\n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nПовышает &lt;font color='#42ebf8'&gt;точность на 25%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg39_rds_d_shop_name">
+		<original value="RAMBO SP-6"/>
+		<translation value="Коллиматор RAMBO SP-6"/>
+	</entry>
+	<entry key="ui_smg39_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.8X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ui_pt33_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="pt33_rds_d_shop_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Коллиматор Leupold DeltaPoint MK2"/>
+	</entry>
+	<entry key="ar15_rds_d_shop_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Коллиматор Leupold DeltaPoint MK3"/>
+	</entry>
+	<entry key="ui_ar15_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt; \n Greatly Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3-кратное&lt;/font&gt; увеличение\nЗначительно повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt34_sc_d_name">
+		<original value="Tactical Silencer"/>
+		<translation value="Тактический глушитель"/>
+	</entry>
+	<entry key="ui_pt34_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n Slightly increases &lt;font color='#ff6660'&gt;damage drop&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nСлегка увеличивает &lt;font size='14'&gt;&lt;font color='#ff4400'&gt;падение урона&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar29_rds_d_shop_name">
+		<original value="Hartman MH1"/>
+		<translation value="Коллиматор Hartman MH1"/>
+	</entry>
+	<entry key="ui_ar29_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.4-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ar29_as_d_shop_name">
+		<original value="Sig Sauer Romeo 4"/>
+		<translation value="Коллиматор Sig Sauer Romeo 4"/>
+	</entry>
+	<entry key="ui_ar29_as_d _ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; in aiming mode \nIncreases &lt;font color='#42ebf8'&gt;aiming speed&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.8-кратное &lt;/font&gt;увеличение\n"/>
+	</entry>
+	<entry key="ar29_sc_d_shop_name">
+		<original value="Tactical Silencer"/>
+		<translation value="Глушитель АК 'Альфа'"/>
+	</entry>
+	<entry key="ui_ar29_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n&lt;font size='14'&gt;Imroves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n&lt;font color='#42ebf8'&gt;Decreases &lt;font color='#ff6660'&gt;damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#42ebf8'&gt;&lt;font color='#ff6660'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar29_sp_d_shop_name">
+		<original value="AK-Alpha suppressor"/>
+		<translation value="Пламегаситель АК 'Альфа'"/>
+	</entry>
+	<entry key="ui_ar29_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar29_gp_d_shop_name">
+		<original value="Tactical grip"/>
+		<translation value="Тактическая рукоятка АК 'Альфа'"/>
+	</entry>
+	<entry key="ui_ar29_gp_d_ingame">
+		<original value="Slightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; Not applied in prone"/>
+		<translation value="Слегка уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;тряску прицела&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость перезарядки&lt;/font&gt;\nНе действует в положении лежа"/>
+	</entry>
+	<entry key="sr43_ss_d_shop_name">
+		<original value="Schmidt &amp; Bender Scope v2 4.6X"/>
+		<translation value="Прицел Schmidt &amp; Bender v2 (4.6-крат.)"/>
+	</entry>
+	<entry key="ui_sr43_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.6X zoom&lt;/font&gt; in aiming mode. \nIncreases &lt;font color='#42ebf8'&gt;aiming speed&lt;/font&gt;."/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;4.6-кратное &lt;/font&gt;увеличение\n"/>
+	</entry>
+	<entry key="ulb01_shop_name">
+		<original value="UB Laser Sight"/>
+		<translation value="Лазерный прицел"/>
+	</entry>
+	<entry key="ui_ulb01_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; laser sight&lt;/font&gt; \n"/>
+		<translation value="Подствольный &lt;font color='#42ebf8'&gt;лазерный прицел&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_accessories_ulb01">
+		<original value="&lt;font size='14'&gt;Laser sight &lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Лазерный прицел&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar30_gp_d_name">
+		<original value="FN FAL DSA-58 Tactical Grip"/>
+		<translation value="Тактическая рукоятка DSA-58"/>
+	</entry>
+	<entry key="ui_ar30_gp_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Значительно повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность при стрельбе от бедра&lt;/font&gt; \nCнижает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;тряску прицела&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg42_gp01_d_name">
+		<original value="Uzi Pro Standart Grip"/>
+		<translation value="Стандартная рукоятка Uzi Pro"/>
+	</entry>
+	<entry key="ui_smg42_gp01_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nNot applied in prone"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nСлегка повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg42_gp02_d_name">
+		<original value="Uzi Pro Special Grip"/>
+		<translation value="Тактическая рукоятка Uzi Pro"/>
+	</entry>
+	<entry key="ui_smg42_gp02_d_ingame">
+		<original value="Lightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nImproves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nNot applied in prone"/>
+		<translation value="Слегка уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg42_rds_d_shop_name">
+		<original value="MEPRO M21"/>
+		<translation value="Коллиматор MEPRO M21"/>
+	</entry>
+	<entry key="ui_smg42_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.3-кратное &lt;/font&gt;увеличение\n"/>
+	</entry>
+	<entry key="smg42_sp01_d_name">
+		<original value="Uzi Pro Suppressor"/>
+		<translation value="Пламегаситель Uzi Pro"/>
+	</entry>
+	<entry key="ui_smg42_sp01_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg42_sp02_d_name">
+		<original value="Uzi Pro Silencer"/>
+		<translation value="Глушитель Uzi Pro"/>
+	</entry>
+	<entry key="ui_smg42_sp02_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;20%&lt;/font&gt;\nУменьшает урон на &lt;font color='#42ebf8'&gt;&lt;font color='#ff6660'&gt;20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar31_default_name">
+		<original value="Special scope for VHS-2"/>
+		<translation value="Особый прицел VHS-2"/>
+	</entry>
+	<entry key="ar31_accessories_is_default">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ar31_sp_d_name">
+		<original value="Special suppressor for VHS-2"/>
+		<translation value="Пламегаситель для VHS-2"/>
+	</entry>
+	<entry key="ui_ar31_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_ar31_sp_d">
+		<original value="&lt;font size='14'&gt;Special suppressor for VHS-2 &lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Пламегаситель для VHS-2&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ar31_is_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3-кратное увеличение&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar31_ugl_d_shop_name">
+		<original value="VHS-2 Grenade Launcher"/>
+		<translation value="Подствольный гранатомет VHS-2"/>
+	</entry>
+	<entry key="ui_accessories_ar31_ugl_d">
+		<original value="&lt;font size='14'&gt;Grenade launcher &lt;/font&gt;Slightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Позволяет поражать цели, которые недоступны для стрелкового оружия&lt;/font&gt;\nУвеличивает &lt;font color='#ff4400'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#ff4400'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ar31_ugl_d_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; Grenade launcher&lt;/font&gt;\nSlightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="Позволяет поражать цели, которые &lt;font color='#42ebf8'&gt;недоступны для стрелкового оружия&lt;/font&gt;\nУвеличивает &lt;font color='#ff4400'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar31_gp_d_shop_name">
+		<original value="VHS-2 Grip"/>
+		<translation value="Рукоятка VHS-2"/>
+	</entry>
+	<entry key="ui_accessories_ar31_gp_d">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ar31_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr44_ss_d_shop_name">
+		<original value="Bushnell 4x scope"/>
+		<translation value="Прицел Bushnell (4-крат.)"/>
+	</entry>
+	<entry key="ui_sr44_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;4-кратное &lt;/font&gt;увеличение\n"/>
+	</entry>
+	<entry key="sr44_sp_d_shop_name">
+		<original value="Remignton MSR Suppressor"/>
+		<translation value="Пламегаситель Remington MSR"/>
+	</entry>
+	<entry key="ui_sr44_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;minimal damage&lt;/font&gt;"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;минимальный урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr41_sc_d_name">
+		<original value="BraMit silencer"/>
+		<translation value="Глушитель 'БраМит'"/>
+	</entry>
+	<entry key="ui_sr41_sc_d">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage &lt;/font&gt;damage"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#ff4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sr41_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage &lt;/font&gt;damage"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает &lt;font color='#ff4400'&gt;урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_gp_d_name">
+		<original value="Vector Tactical Grip"/>
+		<translation value="Тактическая рукоятка Vector"/>
+	</entry>
+	<entry key="ui_smg44_gp_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nImproves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость перезарядки&lt;/font&gt; \nКроме положения &lt;font color='#FF4400'&gt;лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_sc_d_name">
+		<original value="Vector Special Silencer"/>
+		<translation value="Глушитель Vector"/>
+	</entry>
+	<entry key="ui_smg44_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Lightly Decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;20%&lt;/font&gt;\nУменьшает урон на &lt;font color='#42ebf8'&gt;&lt;font color='#ff6660'&gt;5%&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_rds_d_name">
+		<original value="Redring MK2"/>
+		<translation value="Коллиматор Redring MK2"/>
+	</entry>
+	<entry key="ui_smg44_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3-кратное&lt;/font&gt; увеличение\nЗначительно уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;колебания ствола в режиме прицеливания&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_is_d_name">
+		<original value="Vector Iron Sight"/>
+		<translation value="Мушка Vector"/>
+	</entry>
+	<entry key="ui_smg44_is_d_ingame">
+		<original value="Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;увеличение&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="rds10_name">
+		<original value="RAMBO SP-6"/>
+		<translation value="Коллиматор RAMBO SP-6"/>
+	</entry>
+	<entry key="ui_rds10_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.8X zoom&lt;/font&gt; in aiming mode.&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="smg43_gp01_d_name">
+		<original value="Micro-Roni CAA Laser Sight Grip"/>
+		<translation value="Рукоятка с лазерным прицелом"/>
+	</entry>
+	<entry key="ui_smg43_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil shake&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Значительно повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность при стрельбе от бедра&lt;/font&gt;\nСлегка уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nСлегка уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;тряску прицела&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg43_gp02_d_name">
+		<original value="Micro-Roni CAA Special Grip"/>
+		<translation value="Особая рукоятка Micro-Roni"/>
+	</entry>
+	<entry key="ui_smg43_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil shake&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Слегка повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность при стрельбе от бедра&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу, тряску прицела&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="rds09_name">
+		<original value="Hartman MH1"/>
+		<translation value="Коллиматор Hartman MH1"/>
+	</entry>
+	<entry key="ui_rds09_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.4X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.4-кратное &lt;/font&gt;увеличение\n"/>
+	</entry>
+	<entry key="pt37_rds_d_name">
+		<original value="C-More red-dot sight"/>
+		<translation value="Коллиматор C-More"/>
+	</entry>
+	<entry key="ui_pt37_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.2X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное &lt;/font&gt;увеличение\n"/>
+	</entry>
+	<entry key="sp08_shop_name">
+		<original value="Special Shotgun Suppressor"/>
+		<translation value="Особый пламегаситель для дробовика"/>
+	</entry>
+	<entry key="ui_accessories_sp08">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp08_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sr46_bp_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \n"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость смены оружия&lt;/font&gt;\nВ прицеливании лежа:\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr46_bp_d_shop_name">
+		<original value="Defence Falcon Bipod"/>
+		<translation value="Сошки Cadex Defence Falcon"/>
+	</entry>
+	<entry key="sr46_sc_d_name">
+		<original value="Cadex Defence Precision Silencer"/>
+		<translation value="Глушитель Cadex Defence Precision"/>
+	</entry>
+	<entry key="ui_sr46_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;\n&lt;font size='14'&gt;Greatly decreases &lt;font color='#ff6660'&gt;range&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#ff6660'&gt;18%&lt;/font&gt;\nУменьшает &lt;font color='#ff6660'&gt;дальность стрельбы&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr46_sp_d_shop_name">
+		<original value="Kraken Special Suppressor"/>
+		<translation value="Особый пламегаситель CDX-MC Kraken"/>
+	</entry>
+	<entry key="ui_sr46_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nЗначительно улучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr46_ss_d_shop_name">
+		<original value="ATACR 4.5x scope"/>
+		<translation value="Прицел ATACR (4.5-крат.)"/>
+	</entry>
+	<entry key="ui_sr46_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;4.5-кратное &lt;/font&gt;увеличение\n"/>
+	</entry>
+	<entry key="shg49_xmas_rds_d_name">
+		<original value="Paper Cup Sight"/>
+		<translation value="Прицел-стаканчик"/>
+	</entry>
+	<entry key="ui_accessories_shg49_xmas_rds_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.1X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.1-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="sr45_gp_d_shop_name">
+		<original value="HK type Vertical Grip"/>
+		<translation value="Рукоятка H&amp;K G28"/>
+	</entry>
+	<entry key="ui_sr45_gp_d_ingame">
+		<original value="Lightly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\nNot applied in prone&lt;/font&gt;"/>
+		<translation value="Слегка уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость перезарядки&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость смены оружия&lt;/font&gt;\nКроме положения &lt;font color='#FF4400'&gt;лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr45_rds_d_shop_name">
+		<original value="Vector Optics Maverick Red Dot Sight"/>
+		<translation value="Коллиматор Vector Optics Maverick"/>
+	</entry>
+	<entry key="ui_sr45_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2.5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="sr45_ss_d_shop_name">
+		<original value="Schmidt Bender 3 Scope 4.5x"/>
+		<translation value="Прицел Schmidt Bender 3 (4.5-крат.)"/>
+	</entry>
+	<entry key="ui_sr45_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;4.5-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="sr45_sc_d_shop_name">
+		<original value="HK G28 Silencer"/>
+		<translation value="Глушитель H&amp;K G28"/>
+	</entry>
+	<entry key="ui_sr45_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#ff4400'&gt;50%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr45_sp_d_shop_name">
+		<original value="HK G28 suppressor"/>
+		<translation value="Пламегаситель H&amp;K G28"/>
+	</entry>
+	<entry key="ui_sr45_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration &lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly decrease recoil&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\nСлегка уменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg45_rds_d_shop_name">
+		<original value="LWRC SMG-45 RDS"/>
+		<translation value="Коллиматор Redring MK1"/>
+	</entry>
+	<entry key="ui_smg45_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.3-кратное &lt;/font&gt;увеличение\n"/>
+	</entry>
+	<entry key="smg45_gp_d_name">
+		<original value="LWRC SMG-45 Angled Fore Grip"/>
+		<translation value="Угловая рукоятка LWRC SMG-45"/>
+	</entry>
+	<entry key="ui_smg45_gp_d_ingame">
+		<original value="Slightly improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="Слегка повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nЗначительно уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость смены оружия&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg48_rds_d_name">
+		<original value="Railway Red Dot Sight"/>
+		<translation value="Коллиматор C-More"/>
+	</entry>
+	<entry key="ui_shg48_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\nFast zoom \nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n"/>
+		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3-кратное&lt;/font&gt; увеличение\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar32_sp_d_name">
+		<original value="Hera Arms CQR Supressor"/>
+		<translation value="Пламегаситель HArms CQR"/>
+	</entry>
+	<entry key="ui_ar32_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nSlightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nSlightly improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nСлегка уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nСлегка повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУлучшает &lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt38_sc01_d_name">
+		<original value="Maxim 9 Short Silencer"/>
+		<translation value="Короткий глушитель Maxim 9"/>
+	</entry>
+	<entry key="ui_pt38_sc01_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Don`t decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nНе уменьшает&lt;font color='#42ebf8'&gt; урон&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt38_sc02_d_name">
+		<original value="Maxim 9 Long Silencer"/>
+		<translation value="Длинный глушитель Maxim 9"/>
+	</entry>
+	<entry key="ui_pt38_sc02_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Imroves accuracy&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases recoil&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУвеличивает &lt;font color='#ff4400'&gt;падение урона&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt38_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Коллиматор Trijicon RMR"/>
+	</entry>
+	<entry key="ui_pt38_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение"/>
+	</entry>
+	<entry key="shg50_rds_d_name">
+		<original value="Viper MOA"/>
+		<translation value="Коллиматор Vortex Viper"/>
+	</entry>
+	<entry key="ui_shg50_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nImproves &lt;font color='#42ebf8'&gt;accuracy in aiming mode&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3-кратное&lt;/font&gt; увеличение\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность&lt;/font&gt;"/>
+	</entry>
+	<entry key="sc08_shop_name">
+		<original value="Osprey 9 Silencer"/>
+		<translation value="Глушитель Osprey 9"/>
+	</entry>
+	<entry key="ui_sc08_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#ff4400'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr09_sp_d_shop_name">
+		<original value="McMillan CS5 Suppressor"/>
+		<translation value="Пламегаситель McMillan CS5"/>
+	</entry>
+	<entry key="ui_sr09_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+</localization>

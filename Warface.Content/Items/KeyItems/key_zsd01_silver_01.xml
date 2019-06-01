@@ -1,0 +1,14 @@
+<shop_item name="key_zsd01_silver_01" type="key">
+	<mmo_stats>
+		<param name="item_category" value="Misc"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RESM"/>
+		<param name="max_buy_amount" value="32000"/>
+		<param name="stackable" value="1"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@key_zsd01_silver_01_item_shop_name"/>
+		<param name="description" value="@ui_key_zsd01_silver_01_item"/>
+		<param name="icon" value="key_zsd01_silver_01"/>
+	</UI_stats>
+</shop_item>

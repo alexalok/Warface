@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="sr42_gold01_bp_d" type="attachment" view_settings="objects/weapons/sr42/sr42_bp_d.xml">
+	    <skins>
+			<material name="gold01"/>
+		</skins>
+		<UI_stats>
+			<param name="name" value="@bp_default_name"/>
+			<param name="description" value="@ui_accessories_bp_default"/>
+			<param name="icon" value="ccs_nonitem"/>
+		</UI_stats>
+		<drop_params>
+			<item name="sr42_gold01_bp_d" type="attachment"/>
+		</drop_params>
+		<settings>
+
+		</settings>
+		<types>
+			<type helper="sr42_bp_d" name="sr42_gold01_bp_d"/>
+		</types>
+	</item>

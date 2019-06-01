@@ -1,0 +1,76 @@
+<ammo name="bullet_arl01" class="Projectile" require="arl01" type="grenade">
+	<mmo_stats>
+		<param name="category" value="explosive"/>
+		<param name="price" value="0"/>
+		<param name="shopcontent" value="0"/>
+		<param name="classes" value="SRME"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@arl01_game_name"/>
+		<param name="description" value="@ui_weapons_arl01"/>
+		<param name="icon" value="tbd_icon"/>
+	</UI_stats>
+	<icons>
+		<combatlog icon="Arl01_combatLog"/>
+	</icons>
+	<geometry>
+		<firstperson name="Objects\props\missile\stinger.cgf" angles="-90, 0, 0"/>
+	</geometry>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<trail>
+		<param name="effect" value="rocket_trails.trail_arl01_fp"/>
+		<param name="prime" value="false"/>
+	</trail>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="100"/>
+		<param name="speed" value="28"/>
+		<param name="radius" value="0.125"/>
+		<param name="air_resistance" value="0"/>
+		<param name="water_resistance" value="0.5"/>
+		<param name="gravity" value="0, 0, -2.0"/>
+		<param name="water_gravity" value="0, 0, -0.1"/>
+		<param name="thrust" value="20"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="8"/>
+		<param name="material" value="mat_metal"/>
+		<param name="spin_random" value="0, 0, 0"/>
+		<param name="single_contact" value="1"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<explosion>
+		<!--		<param name="effect" value="rocket_launcher_hits.arl01.explosion_helicopter_a"/> -->
+		<param name="pressure" value="100"/>
+		<param name="min_radius" value="4"/>
+		<param name="max_radius" value="8"/>
+		<param name="min_phys_radius" value="1.5"/>
+		<param name="max_phys_radius" value="2"/>
+		<param name="hole_size" value="2"/>
+		<param name="terrain_hole_size" value="3"/>
+		<param name="decal" value="textures/decal/explo_decal.dds"/>
+		<param name="effect_scale" value="1"/>
+		<param name="radialblurdist" value="5"/>
+		<param name="max_explode_on_impact_angle" value="180"/>
+		<param name="min_explode_on_impact_lifetime" value="0.0"/>
+		<param name="deactivated_effect_name" value="explosions.paper.melon"/>
+	</explosion>
+	<trailDeactivated>
+		<param name="effect" value="rocket_trails.trail_smoke_black_a"/>
+		<param name="prime" value="false"/>
+	</trailDeactivated>
+	<params>
+		<param name="lifetime" value="5"/>
+		<param name="hit_type" value="rocket"/>
+		<param name="showtime" value="0.09"/>
+		<param name="bulletType" value="2"/> <!-- Bullet Type 2 - Assault rifle bullet -->
+		<param name="giveable" value="1"/>
+		<param name="launch_type" value="0"/>
+		<param name="can_be_deactivated" value="true"/>
+	</params>
+</ammo>

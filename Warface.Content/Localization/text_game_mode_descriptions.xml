@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="tdm_game_mode_desc">
+		<original value="TEAM DEATHMATCH"/>
+		<translation value="КОМАНДНЫЙ БОЙ"/>
+	</entry>
+	<entry key="ctf_game_mode_desc">
+		<original value="CAPTURE"/>
+		<translation value="ЗАХВАТ"/>
+	</entry>
+	<entry key="ptb_game_mode_desc">
+		<original value="PLANT THE BOMB"/>
+		<translation value="ПОДРЫВ"/>
+	</entry>
+	<entry key="stm_game_mode_desc">
+		<original value="STORM"/>
+		<translation value="ШТУРМ"/>
+	</entry>
+	<entry key="pve_game_mode_desc">
+		<original value="COOPERATIVE"/>
+		<translation value="СОВМЕСТНАЯ ИГРА"/>
+	</entry>
+	<entry key="pvp_mode_all">
+		<original value="ALL GAME MODES"/>
+		<translation value="ВСЕ"/>
+	</entry>
+	<entry key="ui_lobby_mode_ptb">
+		<original value="PLANT THE BOMB"/>
+		<translation value="ПОДРЫВ"/>
+	</entry>
+	<entry key="ui_lobby_mode_tdm">
+		<original value="TEAM DEATHMATCH"/>
+		<translation value="КОМАНДНЫЙ БОЙ"/>
+	</entry>
+	<entry key="ui_lobby_mode_ctf">
+		<original value="CAPTURE"/>
+		<translation value="ЗАХВАТ"/>
+	</entry>
+	<entry key="ui_lobby_mode_pve">
+		<original value="COOPERATIVE"/>
+		<translation value="СОВМЕСТНАЯ ИГРА"/>
+	</entry>
+	<entry key="ui_lobby_mode_dst">
+		<original value="DESTRUCTION"/>
+		<translation value="УНИЧТОЖЕНИЕ"/>
+	</entry>
+	<entry key="ui_lobby_mode_stm">
+		<original value="STORM"/>
+		<translation value="ШТУРМ"/>
+	</entry>
+	<entry key="ui_lobby_mode_ffa">
+		<original value="FREE FOR ALL"/>
+		<translation value="МЯСОРУБКА"/>
+	</entry>
+	<entry key="ui_lobby_mode_dmn">
+		<original value="DOMINATION"/>
+		<translation value="ДОМИНАЦИЯ"/>
+	</entry>
+	<entry key="ui_lobby_mode_random">
+		<original value="RANDOM MAP"/>
+		<translation value="СЛУЧАЙНАЯ КАРТА"/>
+	</entry>
+	<entry key="pvp_rating_game_mode_desc">
+		<original value="RATING MATCH"/>
+		<translation value="РЕЙТИНГОВЫЙ МАТЧ"/>
+	</entry>
+</localization>

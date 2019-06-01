@@ -1,0 +1,11 @@
+<CharacterPart Name="shared_head_01" Slot="Heads" Template="Head">
+	<Model File="objects/characters/shared/heads/shared_head_01/shared_head_01.chr" FGTFile="DUMMY" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="shared_head_01" File="libs/face/defaultMale.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

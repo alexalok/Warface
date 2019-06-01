@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="heavy" class="K01_Item" name="ar04_lam_ai_h" priority="40" view_settings="objects/weapons/ar04/ar04_lam_ai.xml">
+  <description text="This legendary Soviet assault rifle has tremendous range and firepower at cost of accuracy, recoil and handling. This is one of the most powerful and most inaccurate assault rifles in the world. What makes it really valuable is the price. " />
+  <params>
+    <param name="giveable" value="1" />
+    <param name="selectable" value="1" />
+    <param name="ui_weapon" value="1" />
+    <param name="giveable" value="1" />
+    <param name="ai_weapon_type" value="Assault" />
+  </params>
+  <ai_descriptor burstBulletCountMax="12" burstBulletCountMin="3" burstPauseTimeMax="1.5" burstPauseTimeMin="0.8" draw_time="1.0" handler="instant" singleFireTriggerTime="-1" spreadRadius="2" sweep_frequency="2.5" sweep_width="1.5" />
+  <ammos>
+    <ammo name="bullet_ar" />
+  </ammos>
+  <icons>
+    <combatlog icon="Ar04_combatLog" melee="Melee" />
+  </icons>
+  <settings archetype="Items/Weapons/Archetypes/AR_ai.xml">
+    <param name="ammo_amount" value="50" />
+    <param name="rpm" value="500" />
+    <param name="damage" value="70" />
+    <param name="damage_min" value="40" />
+    <param name="damage_mul" value="1" />
+    <param name="damage_drop_per_meter" value="1.2" />
+    <param name="damage_drop_min_distance" value="15" />
+    <param name="spread_min" value="3" />
+    <param name="spread_min_mul" value="1">
+      <stance name="run" value="8" />
+    </param>
+    <param name="spread_max" value="9" />
+    <param name="spread_max_mul" value="1" />
+    <param name="spread_att" value="6" />
+    <param name="spread_att_mul" value="1" />
+    <param name="spread_dec" value="30" />
+    <param name="spread_dec_mul" value="1" />
+    <param name="reload_duration" value="2800" />
+    <param name="melee_duration" value="280" />
+    <param name="melee_range" value="1.5" />
+    <param name="melee_damage" value="25" />
+    <param name="melee_radius" value="0.5" />
+    <param name="melee_radius_mul" value="1.0" />
+    <param name="melee_out_duration" value="500" />
+    <param name="toss_duration" value="400" />
+    <param name="deselect_duration" value="300" />
+    <param name="holster_in_duration" value="120" />
+  </settings>
+  <firemodes>
+    <firemode name="Rapid" type="Rapid" />
+  </firemodes>
+  <clipmode auto_reload="0" capacity="30" />
+  <melee_params>
+    <param name="impulse" value="20" />
+    <param name="range" value="1" />
+    <param name="pierce" value="10" />
+  </melee_params>
+  <sockets>
+    <socket can_be_empty="0" name="butt">
+      <support helper="ar04_butt" name="ar04_butt" />
+    </socket>
+    <socket can_be_empty="0" name="barrel">
+      <support helper="ar04_barrel" name="ar04_barrel" />
+    </socket>
+    <socket can_be_empty="0" name="clip">
+      <support helper="ar04_clip" name="ar04_clip" />
+      <support helper="ar04_drum_clip" name="ar04_drum_clip" />
+    </socket>
+    <socket can_be_empty="1" name="scope" ui_helper="ui_scope">
+      <support helper="top_small" name="top_small" />
+      <support helper="top_middle" name="top_middle" />
+      <support helper="top_large" name="top_large" />
+    </socket>
+  </sockets>
+  <fireparams>
+    <fire>
+      <param name="ammo_type" value="bullet_ar" />
+      <param name="bullet_chamber" value="1" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+      <param name="ai_muzzle_pos" value="0.0, 0.3, 0.15" />
+    </fire>
+    <recoil>
+      <param name="hint_loop_start" value="10" />
+      <hints>
+        <hint x="-0.4" y="0.8" />
+        <hint x="-0.4" y="0.8" />
+        <hint x="-0.4" y="0.8" />
+        <hint x="-0.4" y="0.8" />
+        <hint x="-0.4" y="0.8" />
+        <hint x="-0.5" y="0.2" />
+        <hint x="-0.33" y="0.7" />
+        <hint x="-0.2" y="0.4" />
+        <hint x="-0.7" y="0.2" />
+        <hint x="-0.4" y="0.5" />
+        <hint x="-0.6" y="0.7" />
+        <hint x="-0.2" y="0.3" />
+        <hint x="-0.5" y="1" />
+        <hint x="-0.3" y="0.7" />
+        <hint x="-0.7" y="0.65" />
+        <hint x="-0.8" y="0.3" />
+        <hint x="-0.35" y="0.43" />
+        <hint x="-0.4" y="0.68" />
+        <hint x="-0.5" y="0.8" />
+        <hint x="-0.1" y="0.67" />
+        <hint x="-0.38" y="0.5" />
+      </hints>
+    </recoil>
+  </fireparams>
+</item>

@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<GameItem name="set_modernforce_01_bonus01" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_modernforce_01_bonus01_description"/>
+    </UI_stats>
+    <GameParams>
+        <param name="reload_duration_mul" value="0.9"/> 
+		<param name="select_duration_mul" value="0.8"/>
+		<param name="deselect_duration_mul" value="0.8"/>
+    </GameParams>
+</GameItem>

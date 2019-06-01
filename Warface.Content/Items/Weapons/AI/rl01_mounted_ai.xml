@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="heavy" class="K01_Item" name="rl01_mounted_ai" priority="64" view_settings="objects/weapons/RL01_ai/rl01_mounted_ai.xml">
+  <description text="" />
+  <params>
+    <param name="mountable" value="1" />
+    <param name="ai_weapon_type" value="Sniper" />
+  </params>
+  <ammos>
+    <ammo name="bullet_rl01_ai" />
+  </ammos>
+  <icons>
+    <combatlog icon="Rl01_combatLog" melee="Melee" />
+  </icons>
+  <ai_descriptor burstBulletCountMax="30" burstBulletCountMin="15" burstPauseTimeMax="2" burstPauseTimeMin="1" handler="instant" singleFireTriggerTime="-1" smartobject_class="MountedMG" spreadRadius="1" />
+  <settings archetype="Items/Weapons/Archetypes/MG_ai.xml">
+    <param name="ammo_amount" value="9000" />
+    <param name="rpm" value="40" />
+    <param name="damage" value="70" />
+    <param name="damage_min" value="70" />
+    <param name="damage_mul" value="1" />
+    <param name="spread_min" value="1" />
+    <param name="spread_max" value="1" />
+    <param name="spread_att" value="15" />
+    <param name="spread_dec" value="30" />
+    <param name="spread_min_mul" value="1" />
+    <param name="spread_max_mul" value="1" />
+    <param name="spread_att_mul" value="1" />
+    <param name="spread_dec_mul" value="1" />
+    <param name="melee_damage" value="100" />
+    <param name="melee_range" value="1" />
+    <param name="damage_drop_per_meter" value="1" />
+    <param name="damage_drop_min_distance" value="60" />
+    <param name="deselect_duration" value="450" />
+    <param name="reload_duration" value="9000" />
+    <param name="melee_duration" value="300" />
+    <param name="melee_out_duration" value="500" />
+    <param name="toss_duration" value="350" />
+    <param name="holster_in_duration" value="120" />
+  </settings>
+  <firemodes>
+    <firemode name="Rapid" type="Rapid" />
+  </firemodes>
+  <clipmode capacity="9000" />
+  <fireparams>
+    <fire>
+      <param name="ammo_type" value="bullet_rl01_ai" />
+      <param name="bullet_chamber" value="1" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="helper_fp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+      <param name="ai_muzzle_pos" value="0.0, 1.0, 0.15" />
+    </fire>
+  </fireparams>
+</item>

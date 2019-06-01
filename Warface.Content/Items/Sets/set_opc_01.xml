@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<set name="set_opc_01">
+    <UI_stats>
+        <param name="name" value="@ui_set_opc_01"/>
+        <param name="description" value="@ui_set_opc_01_description"/>
+        <param name="color" value="33cc99"/>
+    </UI_stats>
+    <set_items>
+		<item name="soldier_helmet_opc_01"/>
+		<item name="sniper_helmet_opc_01"/>
+		<item name="medic_helmet_opc_01"/>
+		<item name="engineer_helmet_opc_01"/>
+		<item name="sniper_shoes_03_opc01"/>
+		<item name="engineer_hands_02_opc01"/>
+		<item name="shared_vest_opc_01"/>	
+    </set_items>
+    <set_bonuses>
+		<bonus items_need="4" name="set_opc_01_bonus01"/>
+    </set_bonuses>
+</set>

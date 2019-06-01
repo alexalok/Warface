@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+	<shop_item name="shg15_camo02_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="Shotgun"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="6240"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="shg"/>
+			<param name="name" value="@shg15_camo02_shop_name"/>
+			<param name="description" value="@ui_weapons_shg15_camo02"/>
+			<param name="icon" value="shg15_camo02"/>
+		</UI_stats>
+		<content>
+			<item name="shg15_camo02"/>
+			<item name="rds01_camo02"/>
+			<item name="rds05_camo02"/>
+			<item name="rds04_camo02"/>
+			<item name="rds02_camo02"/>
+			<item name="sp06_camo02"/>
+			<item name="sc02_camo02"/>
+			<item name="sc04_camo02"/>
+			<item name="bn01_camo02"/>
+		</content>
+	</shop_item>

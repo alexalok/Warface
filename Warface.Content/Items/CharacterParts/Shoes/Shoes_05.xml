@@ -1,0 +1,19 @@
+<CharacterPart Name="Shoes_05" Slot="Shoes" Template="Shoes">
+	<Model File="Objects\Characters\Shoes\Shoes_05\shoes_05.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="Objects\Characters\Shoes\Shoes_05\shoes_05_black.mtl"/>
+			<Material Name="brown" File="Objects\Characters\Shoes\Shoes_05\shoes_05_brown.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Shoes\Shoes_05\shoes_05.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="green" File="Objects\Characters\Shoes\Shoes_05\shoes_05_black.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

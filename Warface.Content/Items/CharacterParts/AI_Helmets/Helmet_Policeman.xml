@@ -1,0 +1,12 @@
+<CharacterPart Name="AI_Helmet_Policeman" Slot="AI_Helmets" Template="AI_Helmets">
+	<Model File="Objects\Characters\AI_Helmets\helmet_policeman\helmet_policeman.chr" Gender="Male">
+		<Morphs>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Objects\Characters\AI_Helmets\helmet_policeman\helmet_policeman.mtl"/>
+			<Material Name="WarfaceTV" File="Objects\Characters\AI_Helmets\helmet_policeman\helmet_WF.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

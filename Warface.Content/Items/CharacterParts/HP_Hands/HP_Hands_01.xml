@@ -1,0 +1,24 @@
+<CharacterPart Name="HP_Hands_01" Slot="HP_Hands" Template="HP_Hands">
+	<Model File="objects/characters/hp_gloves/hp_gloves_01/male/hp_hands_01.chr" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#arms_fat"/>
+			<Morph Switch="thin" Target="#arms_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="Game\Objects\Characters\FP_Hands\male\fp_hands_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\HP_Gloves\HP_Gloves_01\Female\HP_Gloves_01.chr" Gender="Female">
+		<Morphs>
+			<Morph Switch="fat" Target="#fat"/>
+			<Morph Switch="thin" Target="#thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="Game\Objects\Characters\HP_Gloves\HP_Gloves_01\Female\hp_gloves_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

@@ -1,0 +1,10 @@
+<CharacterPart Name="medic_arms_01_hp" Slot="HP_Arms" Template="HP_Arms">
+	<Model File="objects/characters/medic/arms/medic_arms_01/medic_arms_01_hp.chr" FGTFile="" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="medic_arms_01" File="objects/characters/medic/arms/medic_arms_01/medic_arms_01_fp.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

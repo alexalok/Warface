@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="small" class="K01_Item" name="ml09_zsd_turtle_ai_h" net_policy="weapon_ai" priority="3" type="weapon" view_settings="objects/weapons/bh01/bh01_ai.xml">
+  <ai_descriptor burstBulletCountMax="1" burstBulletCountMin="1" burstPauseTimeMax="3.5" burstPauseTimeMin="0.8" coverFireTime="0" draw_time="1.0" handler="instant" signal_on_shoot="1" singleFireTriggerTime="-1" sweep_frequency="2.5" sweep_width="1.5" />
+  <icons>
+    <combatlog melee="Melee" />
+  </icons>
+  <settings>
+    <param name="melee_damage" value="200" />
+    <param name="melee_range" value="4.1" />
+    <param name="melee_radius" value="0.7" />
+    <param name="select_duration" value="150" />
+    <param name="deselect_duration" value="150" />
+    <param name="melee_out_duration" value="700" />
+    <param name="melee_duration" value="1300" />
+    <param name="melee_knock_back_chance" value="0" />
+    <param name="melee_knock_back_chance_mul" value="1" />
+    <param name="melee_knock_back_stamina_damage" value="1.0" />
+    <param name="melee_radius_mul" value="1.0" />
+  </settings>
+  <firemodes>
+    <firemode icon="FireModeMelee" type="Melee" />
+  </firemodes>
+  <melee_params>
+    <param name="impulse" value="80" />
+    <param name="no_ray_test" value="1" />
+  </melee_params>
+</item>

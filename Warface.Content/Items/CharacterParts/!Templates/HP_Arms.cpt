@@ -1,0 +1,42 @@
+<CharacterPartTemplate Name="HP_Arms">
+
+  <Morphs Gender="Male">
+    <Morph Switch="fat" Target="#arms_fat" />
+    <Morph Switch="thin" Target="#arms_thin" />
+
+    <Morph Switch="hp_shoulderpads_left" Target="#arms_shoulderpad_left" />
+    <Morph Switch="hp_elbow_left" Target="#arms_elbowpad_left" />
+    <Morph Switch="hp_wrist+elbow_left" Target="#arms_wrist+elbowarmor_left" />
+
+    <Morph Switch="hp_shoulderpads_right" Target="#arms_shoulderpad_right" />
+    <Morph Switch="hp_elbow_right" Target="#arms_elbowpad_right" />
+    <Morph Switch="hp_wrist+elbow_right" Target="#arms_wrist+elbowarmor_right" />
+
+    <Morph Switch="HP_Hands_01" Target="#hands_type1"/>
+  </Morphs>
+
+  <Morphs Gender="Female">
+    <Morph Switch="fat" Target="#arms_fat" />
+    <Morph Switch="thin" Target="#arms_thin" />
+
+    <Morph Switch="hp_shoulderpads_left" Target="#arms_shoulderpad_left" />
+    <Morph Switch="hp_elbow_left" Target="#arms_elbowpad_left" />
+    <Morph Switch="hp_wrist+elbow_left" Target="#arms_wrist+elbowarmor_left" />
+
+    <Morph Switch="hp_shoulderpads_right" Target="#arms_shoulderpad_right" />
+    <Morph Switch="hp_elbow_right" Target="#arms_elbowpad_right" />
+    <Morph Switch="hp_wrist+elbow_right" Target="#arms_wrist+elbowarmor_right" />
+  </Morphs>
+
+  <Switches Gender="Male">
+    <Switch Value="hp_arms" />
+  </Switches>
+  <Switches Gender="Female">
+    <Switch Value="hp_arms" />
+  </Switches>
+  
+  <VisibilityMasks>
+    <Mask Name="VISIBLE_HIGHQUALITY_THIRD_PERSON" />
+  </VisibilityMasks>
+
+</CharacterPartTemplate>

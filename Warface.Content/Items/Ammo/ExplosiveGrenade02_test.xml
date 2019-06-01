@@ -1,0 +1,81 @@
+<ammo name="explosivegrenade02_test" type="grenade" class="Projectile" require="fg02_test">
+	<mmo_stats>
+		<param name="item_category" value="Grenade"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="EMRS"/>
+		<param name="max_buy_amount" value="32000"/>
+		<param name="stackable" value="1"/>
+		<param name="testcontent" value="1"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@fg02_test_shop_name"/>
+		<param name="description" value="@ui_fg02_test"/>
+		<param name="icon" value="test_item_icon"/>
+	</UI_stats>
+	<content>
+		<item name="explosivegrenade02_test"/>
+	</content>
+	<icons>
+		<combatlog icon="Fg01_combatLog" melee="Melee"/>
+	</icons>
+	<settings>
+		<param name="amount" value="5"/>
+	</settings>
+	<geometry>
+		<firstperson name="objects/Weapons/Grenades/fg02/fg02_exp.cgf" scale = "1"/>
+		<thirdperson name="objects/weapons/Grenades/fg02/fg02_exp.cgf" scale = "1"/>
+	</geometry>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="0.5"/>
+		<param name="speed" value="17"/>
+		<param name="radius" value="0.05"/>
+		<param name="air_resistance" value="0.1"/>
+		<param name="water_resistance" value="0.5"/>
+		<param name="gravity" value="0, 0, -9.8"/>
+		<param name="water_gravity" value="0, 0, -9.8"/>
+		<param name="thrust" value="0"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="1"/>
+		<param name="material" value="mat_grenade"/>
+		<param name="spin_random" value="360, 360, 360"/>
+		<param name="single_contact" value="0"/>
+		<param name="traceable" value="1"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<explosion>
+		<param name="pressure" value="1500"/>
+		<param name="min_radius" value="3"/>
+		<param name="max_radius" value="8"/>
+		<param name="min_phys_radius" value="2"/>
+		<param name="max_phys_radius" value="4"/>
+		<param name="hole_size" value="2"/>
+		<param name="terrain_hole_size" value="3"/>
+		<param name="decal" value="textures/decal/explo_decal.dds"/>
+		<param name="effect_scale" value="1"/>
+		<param name="radialblurdist" value="25"/>
+		<param name="shake_min_r" value="3"/>
+		<param name="shake_max_r" value="5"/>
+		<param name="shake_scale" value="2"/>
+		<param name="shake_rnd" value="1.5"/>
+		<param name="effect_class" value="explosivegrenade"/>
+	</explosion>
+	<trail>
+		<param name="effect" value="weapon_fx.tracer.grenade_trail"/>
+		<param name="prime" value="false"/>
+	</trail>
+	<params>
+		<param name="lifetime" 		value="3"/>
+		<param name="showtime" 		value="0.05"/>
+		<param name="aitype"		value="grenade"/>
+		<param name="can_toss" 		value="1"/>
+		<param name="toss_priority" 	value="1"/>
+		<param name="ammo_kind"	value="explosivegrenade"/>
+		<param name="hit_type" value="frag"/>
+		<param name="launch_type" value="0"/>
+		<param name="net_policy" value="projectile"/>
+	</params>
+</ammo>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="medium" class="K01_Item" name="mg02_cb_heli_h" net_policy="weapon_ai" priority="40" view_settings="objects/weapons/ar01/ib_bw_mg.xml">
+  <params>
+    <param name="giveable" value="1" />
+    <param name="selectable" value="1" />
+    <param name="ui_weapon" value="1" />
+  </params>
+  <ai_descriptor burstBulletCountMax="20" burstBulletCountMin="30" burstPauseTimeMax="0.6" burstPauseTimeMin="1.4" handler="instant" singleFireTriggerTime="-1"></ai_descriptor>
+  <ammos>
+    <ammo name="bullet_heavy_mg_turret_ai" />
+  </ammos>
+  <icons>
+    <combatlog icon="Black_Wolf_combatLog" melee="Black_Wolf_combatLog" />
+  </icons>
+  <settings archetype="Items/Weapons/Archetypes/MG_ai.xml">
+    <param name="ammo_amount" value="6000" />
+    <param name="rpm" value="500" />
+    <param name="damage" value="130" />
+    <param name="damage_min" value="70" />
+    <param name="damage_mul" value="1" />
+    <param name="damage_drop_per_meter" value="1" />
+    <param name="damage_drop_min_distance" value="100" />
+    <param name="spread_min" value="3" />
+    <param name="spread_min_mul" value="1" />
+    <param name="spread_max" value="7" />
+    <param name="spread_max_mul" value="1" />
+    <param name="spread_att" value="6" />
+    <param name="spread_att_mul" value="1" />
+    <param name="spread_dec" value="30" />
+    <param name="spread_dec_mul" value="1" />
+    <param name="reload_duration" value="2600" />
+    <param name="melee_duration" value="280" />
+    <param name="melee_range" value="0" />
+    <param name="melee_damage" value="0" />
+    <param name="melee_radius" value="0" />
+    <param name="melee_radius_mul" value="0" />
+    <param name="melee_out_duration" value="500" />
+    <param name="toss_duration" value="400" />
+    <param name="deselect_duration" value="300" />
+    <param name="holster_in_duration" value="120" />
+  </settings>
+  <firemodes>
+    <firemode name="Rapid" type="Rapid" />
+  </firemodes>
+  <clipmode auto_reload="0" capacity="6000" unlimited="0" />
+  <fireparams>
+    <fire>
+      <param name="ammo_type" value="bullet_heavy_mg_turret_ai" />
+      <param name="bullet_chamber" value="0" />
+      <param name="helper_tp" value="weapon_term" />
+      <param name="nearmiss_signal" value="OnNearMiss" />
+    </fire>
+  </fireparams>
+</item>

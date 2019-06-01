@@ -1,0 +1,23 @@
+<CharacterPart Name="custom_head" Slot="Head" Template="Head">
+	<Model File="objects/characters/heads/custom_head_male.chr" FGTFile="DUMMY" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="libs/face/defaultMale.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="objects/characters/heads/custom_head_female.chr" FGTFile="DUMMY" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="default" File="libs/face/defaultFemale.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Lods>
+		<Lod lodIndex="1" lodRatio="0.3"/>
+		<Lod lodIndex="2" lodRatio="0.5"/>
+		<Lod lodIndex="3" lodRatio="0.5"/>
+	</Lods>
+</CharacterPart>

@@ -1,5 +1,8 @@
-﻿namespace Warface.Enums
+﻿using System;
+
+namespace Warface.Enums
 {
+    [Flags]
     public enum NotifType
     {
         MissionPerf      = 1 << 1,

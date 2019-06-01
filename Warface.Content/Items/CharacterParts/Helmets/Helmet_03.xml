@@ -1,0 +1,34 @@
+<CharacterPart Name="Helmet_03" Slot="Helmet" Template="Helmet">
+	<Model File="Game\Objects\Characters\Helmets\Helmet_03\male\Helmet_03.chr" Gender="Male">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="jungle" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_jungle.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_desert.mtl"/>
+			<Material Name="urban" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_urban.mtl"/>
+			<Material Name="snow" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_snow.mtl"/>
+			<Material Name="digital" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_digital.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_black.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_dark_blue.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_green.mtl"/>
+			<Material Name="grey" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_grey.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Helmets\Helmet_03\Female\Helmet_03.chr" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="jungle" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_jungle.mtl"/>
+			<Material Name="desert" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_desert.mtl"/>
+			<Material Name="urban" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_urban.mtl"/>
+			<Material Name="snow" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_snow.mtl"/>
+			<Material Name="digital" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_digital.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_black.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_dark_blue.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_green.mtl"/>
+			<Material Name="grey" File="Game\Objects\Characters\Helmets\Helmet_03\helmet_03_grey.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

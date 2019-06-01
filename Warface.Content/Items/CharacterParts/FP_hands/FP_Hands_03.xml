@@ -1,0 +1,12 @@
+<CharacterPart Name="FP_Hands_03" Slot="FP_Hands" Template="FP_Hands">
+	<Model File="Objects/Characters/medic/gloves/medic_gloves_01/medic_gloves_01_fp.chr" Gender="Male">
+		<Morphs>
+			<Morph Switch="thin" Target="#hand_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="medic_gloves_03" File="Objects/Characters/medic/gloves/medic_gloves_01/medic_gloves_01_fp.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

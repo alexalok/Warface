@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+	<shop_item name="ar28_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="AssaultRifle"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="7200"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="au"/>
+			<param name="name" value="@ar28_shop_name"/>
+			<param name="description" value="@ui_weapons_ar28"/>
+			<param name="icon" value="ar28"/>
+		</UI_stats>
+		<content>
+			<item name="ar28">
+			<item name="ar28_is_d"/>
+			<item name="ar28_sp_d"/>
+			</item>
+		</content>
+		<skin_content>
+			<item name="ar28_set10skin_shop"/>
+			<item name="ar28_an05skin_shop"/>
+			<item name="ar28_an06skin_shop"/>
+			<item name="ar28_bp05skin_shop"/>
+			<item name="ar28_ps4_01skin_shop"/>
+			<item name="ar28_mars01skin_shop"/>
+		</skin_content>
+	</shop_item>

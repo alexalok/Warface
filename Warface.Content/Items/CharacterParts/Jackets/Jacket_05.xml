@@ -1,0 +1,34 @@
+<CharacterPart Name="Jacket_05" Slot="Jacket" Template="Jacket">
+	<Model File="Game\Objects\Characters\Jacket\Jacket_05\Male\Jacket_05.chr" Gender="Male">
+		<Morphs>
+			<Morph Switch="vest_type1" Target="#jacket_vest01"/>
+			<Morph Switch="vest_type2" Target="#jacket_vest02"/>
+			<Morph Switch="vest_type3" Target="#jacket_vest03"/>
+			<Morph Switch="vest_type11" Target="#jacket_vest11"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Game\Objects\Characters\Jacket\jacket_05\jacket_05_desert.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Jacket\jacket_05\jacket_05_blue.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\Jacket\jacket_05\jacket_05_black.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Jacket\jacket_05\jacket_05_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Jacket\jacket_05\Female\jacket_05.chr" Gender="Female">
+		<Morphs>
+			<Morph Switch="vest_type1" Target="#jacket_vest01"/>
+			<Morph Switch="vest_type2" Target="#jacket_vest02"/>
+			<Morph Switch="vest_type3" Target="#jacket_vest03"/>
+			<Morph Switch="vest_type11" Target="#jacket_vest11"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="desert" File="Game\Objects\Characters\Jacket\jacket_05\jacket_05_desert.mtl"/>
+			<Material Name="blue" File="Game\Objects\Characters\Jacket\jacket_05\jacket_05_blue.mtl"/>
+			<Material Name="black" File="Game\Objects\Characters\Jacket\jacket_05\jacket_05_black.mtl"/>
+			<Material Name="green" File="Game\Objects\Characters\Jacket\jacket_05\jacket_05_green.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

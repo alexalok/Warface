@@ -1,0 +1,1939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="tutorial_welcome">
+		<original value="Welcome to the training center, warrior!"/>
+		<translation value="Добро пожаловать в центр подготовки!"/>
+	</entry>
+	<entry key="tutorial_move_start">
+		<original value="Press &quot;W&quot;,&quot;S&quot;,&quot;A&quot;,&quot;D&quot; to move."/>
+		<translation value="Перемещайтесь с помощью кнопок 'W','A','S','D'."/>
+	</entry>
+	<entry key="tutorial_move_end">
+		<original value="Good job! Now proceed to the corridor."/>
+		<translation value="Теперь идите в коридор впереди."/>
+	</entry>
+	<entry key="tutorial_sprint_start">
+		<original value="Press &quot;SHIFT&quot; once while moving to toggle sprint mode."/>
+		<translation value="Нажмите 'SHIFT' во время движения, чтобы сделать рывок."/>
+	</entry>
+	<entry key="tutorial_sprint_end">
+		<original value="Excellent!"/>
+		<translation value="Превосходно!"/>
+	</entry>
+	<entry key="tutorial_crouch_start">
+		<original value="Pess and hold &quot;CTRL&quot; to crouch."/>
+		<translation value="Нажмите и удерживайте 'CTRL', чтобы присесть."/>
+	</entry>
+	<entry key="tutorial_climb_start">
+		<original value="Press &quot;SPACE&quot; while holding &quot;W&quot; near the climb zone."/>
+		<translation value="Удерживайте кнопку W и нажмите 'Пробел' рядом с препятствием, помеченным зеленой стрелкой, чтобы забраться на него."/>
+	</entry>
+	<entry key="tutorial_climb_end">
+		<original value="Great! Continue moving until you get to the ventilation shaft."/>
+		<translation value="Так держать! Идите дальше, пока не увидите вентиляционную шахту."/>
+	</entry>
+	<entry key="tutorial_prone_start">
+		<original value="Press &quot;X&quot; to toggle the prone mode and proceed to the shaft."/>
+		<translation value="Нажмите 'X', чтобы принять положение лежа и попасть в шахту."/>
+	</entry>
+	<entry key="tutorial_hole_start">
+		<original value="Find a way to get into the ventilation shaft."/>
+		<translation value="Проберитесь в вентиляционную шахту."/>
+	</entry>
+	<entry key="tutorial_hole_end">
+		<original value="Good job! Press &quot;X&quot; again or &quot;CTRL&quot; or &quot;SPACE&quot; to stand up."/>
+		<translation value="Отлично! Нажмите 'X' , 'CTRL' или 'Пробел', чтобы подняться."/>
+	</entry>
+	<entry key="tutorial_weapon_start">
+		<original value="Now you are in the armory. Pick up your weapon."/>
+		<translation value="Вы находитесь в арсенале. Возьмите оружие."/>
+	</entry>
+	<entry key="tutorial_weapon_end">
+		<original value="Now plant C4 on the doors to blow them up."/>
+		<translation value="Чтобы взорвать двери, установите на них взрывчатку C4."/>
+	</entry>
+	<entry key="tutorial_door_start">
+		<original value="Step aside. The Explosion could wound you."/>
+		<translation value="Отойдите, чтобы вас не задело взрывом."/>
+	</entry>
+	<entry key="tutorial_door_end">
+		<original value="Now you can meet enemies. Press &quot;LMB&quot; to shoot."/>
+		<translation value="Пора попробовать оружие в деле! Стреляйте с помощью левой кнопки мыши."/>
+	</entry>
+	<entry key="tutorial_reload">
+		<original value="Press &quot;R&quot; to reload your weapon."/>
+		<translation value="Нажмите 'R', чтобы перезарядить оружие."/>
+	</entry>
+	<entry key="tutorial_zoomin">
+		<original value="Press &quot;RMB&quot; to enter zoom mode."/>
+		<translation value="Нажмите правую кнопку мыши, чтобы войти в режим прицеливания."/>
+	</entry>
+	<entry key="tutorial_section2_start">
+		<original value="Get to the safe zone."/>
+		<translation value="Доберитесь до безопасного места."/>
+	</entry>
+	<entry key="tutorial_customization_start">
+		<original value="You can use attachements on your weapon. To enter the weapon customization menu press &quot;C&quot;."/>
+		<translation value="На оружие можно устанавливать дополнительное оборудование (прицелы, рукоятки и др.). Чтобы приступить к модификации оружия, нажмите 'C'."/>
+	</entry>
+	<entry key="tutorial_customization_end">
+		<original value="Attach the bayonette to your rifle."/>
+		<translation value="Прикрепите к оружию штык."/>
+	</entry>
+	<entry key="tutorial_melee_start">
+		<original value="Press &quot;E&quot; to perform a melee strike."/>
+		<translation value="Нажмите 'E', чтобы нанести удар прикладом."/>
+	</entry>
+	<entry key="tutorial_melee_end">
+		<original value="You can use the melee attack with any weapon, even without special attachements."/>
+		<translation value="В ближнем бою можно драться любым оружием, даже если на нем нет штыка."/>
+	</entry>
+	<entry key="tutorial_knockback_start">
+		<original value="You were knocked down. To stand up you'll need a certain amount of stamina."/>
+		<translation value="Вас сбили с ног. Чтобы встать, потребуется некоторое количество энергии."/>
+	</entry>
+	<entry key="tutorial_knockback_and">
+		<original value="Now you have enough stamina to get back on your feet. Press &quot;SPACE&quot; to stand up."/>
+		<translation value="У вас достаточно энергии, чтобы встать. Нажмите 'Пробел'."/>
+	</entry>
+	<entry key="tutorial_push_start">
+		<original value="You will encounter obstacles that can be moved. Press and hold &quot;F&quot; to push an object."/>
+		<translation value="Некоторые объекты можно передвигать. Чтобы толкнуть объект, нажмите и удерживайте 'F'."/>
+	</entry>
+	<entry key="tutorial_push_end">
+		<original value="Remember - you can use moveable objects to help you reach higher areas and more."/>
+		<translation value="Вы можете здорово облегчить себе жизнь благодаря передвижению объектов. Например, это поможет вам взобраться на некоторые препятствия."/>
+	</entry>
+	<entry key="arena_activate">
+		<original value="Welcome to the arena!"/>
+		<translation value="Добро пожаловать на арену!"/>
+	</entry>
+	<entry key="arena_wavestart_5sec">
+		<original value="5.."/>
+		<translation value="5..."/>
+	</entry>
+	<entry key="arena_wavestart_4sec">
+		<original value="4.."/>
+		<translation value="4..."/>
+	</entry>
+	<entry key="arena_wavestart_3sec">
+		<original value="3.."/>
+		<translation value="3..."/>
+	</entry>
+	<entry key="arena_wavestart_2sec">
+		<original value="2.."/>
+		<translation value="2..."/>
+	</entry>
+	<entry key="arena_wavestart_1sec">
+		<original value="1.."/>
+		<translation value="1..."/>
+	</entry>
+	<entry key="arena_start1">
+		<original value="Here they come!"/>
+		<translation value="А вот и гости!"/>
+	</entry>
+	<entry key="arena_start2">
+		<original value="Look alive! They're close!"/>
+		<translation value="Осторожнее, они близко!"/>
+	</entry>
+	<entry key="arena_start3">
+		<original value="Keep out!"/>
+		<translation value="Приготовиться!"/>
+	</entry>
+	<entry key="arena_start4">
+		<original value="Regroup, the enemy is approaching!"/>
+		<translation value="Готовьтесь, враг на подходе!"/>
+	</entry>
+	<entry key="mission_time_of_day">
+		<original value="Local time: %time_of_day% AM"/>
+		<translation value="Местное время: %time_of_day% AM"/>
+	</entry>
+	<entry key="Afghanistan_Stage1">
+		<original value="Capture the building protected by a security system."/>
+		<translation value="Захватите здание с системой безопасности"/>
+	</entry>
+	<entry key="Afghan_Stage1_exp_doors">
+		<original value="Blow up the door."/>
+		<translation value="Взорвите дверь"/>
+	</entry>
+	<entry key="Afghan_Stage2_opne_gate">
+		<original value="Open the gate."/>
+		<translation value="Откройте ворота"/>
+	</entry>
+	<entry key="path01_mission_start1">
+		<original value="Location: Middle East"/>
+		<translation value="Место действия: Ближний Восток"/>
+	</entry>
+	<entry key="path01_mission_start2">
+		<original value="Local time: 09:22 AM"/>
+		<translation value="Местное время: 09:22 AM"/>
+	</entry>
+	<entry key="path01_mission_start3">
+		<original value="Code name: “INFILTRATION”"/>
+		<translation value="Кодовое название: 'Вторжение'"/>
+	</entry>
+	<entry key="junction01_mission_start1">
+		<original value="Code name: &quot;EXTERMINATION&quot;"/>
+		<translation value="Кодовое название: 'Зачистка'"/>
+	</entry>
+	<entry key="checkpoint_done">
+		<original value="CHECKPOINT: Resurrection and gear restoring done!"/>
+		<translation value="КОНТРОЛЬНАЯ ТОЧКА!"/>
+	</entry>
+	<entry key="refill_done">
+		<original value="CHECKPOINT: Resurrection and gear restoring done!"/>
+		<translation value="КОНТРОЛЬНАЯ ТОЧКА"/>
+	</entry>
+	<entry key="pve_convoy_under_attack">
+		<original value="Convoy under attack!"/>
+		<translation value="Конвой атакуют!"/>
+	</entry>
+	<entry key="next_wave">
+		<original value="NEXT WAVE"/>
+		<translation value="СЛЕДУЮЩАЯ ВОЛНА"/>
+	</entry>
+	<entry key="proceed_message">
+		<original value="Proceed!"/>
+		<translation value="Вперед!"/>
+	</entry>
+	<entry key="evacuation_available">
+		<original value="Proceed to the evacuation zone."/>
+		<translation value="Двигайтесь к зоне эвакуации."/>
+	</entry>
+	<entry key="checkpoint_subtitle_type01">
+		<original value="Checkpoint reached, all expendables restored."/>
+		<translation value="Достигнута контрольная точка!"/>
+	</entry>
+	<entry key="attack_direction">
+		<original value="danger"/>
+		<translation value="опасность"/>
+	</entry>
+	<entry key="boss_target">
+		<original value="main target"/>
+		<translation value="главная цель"/>
+	</entry>
+	<entry key="explosive_doors_marker">
+		<original value="destructible doors"/>
+		<translation value="уничтожаемые двери"/>
+	</entry>
+	<entry key="clear_sector_marker">
+		<original value="clear this sector"/>
+		<translation value="зачистите этот сектор"/>
+	</entry>
+	<entry key="call_heli_marker">
+		<original value="evacuation"/>
+		<translation value="эвакуация"/>
+	</entry>
+	<entry key="checkpoint_marker_text">
+		<original value="CHECKPOINT"/>
+		<translation value="КОНТРОЛЬНАЯ ТОЧКА"/>
+	</entry>
+	<entry key="evacuation_marker_text">
+		<original value="EVACUATION"/>
+		<translation value="ЭВАКУАЦИЯ"/>
+	</entry>
+	<entry key="danger_marker_text">
+		<original value="DANGER"/>
+		<translation value="ОПАСНОСТЬ"/>
+	</entry>
+	<entry key="slide_marker_text">
+		<original value="SHOOT WHILE SLIDE"/>
+		<translation value="СТРЕЛЯЙТЕ В ПОДКАТЕ"/>
+	</entry>
+	<entry key="aim_marker_text">
+		<original value="SHOOT WHILE AIMING"/>
+		<translation value="ПРИЦЕЛЬТЕСЬ И СТРЕЛЯЙТЕ"/>
+	</entry>
+	<entry key="pistol_marker_text">
+		<original value="SHOOT WITH PISTOL"/>
+		<translation value="СТРЕЛЯЙТЕ ИЗ ПИСТОЛЕТА"/>
+	</entry>
+	<entry key="knife_marker_text">
+		<original value="HIT WITH KNIFE"/>
+		<translation value="УДАРЬТЕ НОЖОМ"/>
+	</entry>
+	<entry key="knife_strong_marker_text">
+		<original value="STRONG HIT WITH KNIFE"/>
+		<translation value="НАНЕСИТЕ МОЩНЫЙ УДАР НОЖОМ"/>
+	</entry>
+	<entry key="melee_marker_text">
+		<original value="MELEE HIT WITH PRIMARY WEAPON"/>
+		<translation value="УДАРЬТЕ ПРИКЛАДОМ ОСНОВНОГО ОРУЖИЯ"/>
+	</entry>
+	<entry key="grenade_marker_text">
+		<original value="THROW GRENADE"/>
+		<translation value="БРОСЬТЕ ГРАНАТУ"/>
+	</entry>
+	<entry key="rl_marker_text">
+		<original value="SHOOT WITH ROCKET LAUNCHER"/>
+		<translation value="СТРЕЛЯЙТЕ ИЗ ГРАНАТОМЕТА"/>
+	</entry>
+	<entry key="download_marker_text">
+		<original value="DOWNLOAD"/>
+		<translation value="ЗАГРУЗИТЬ ДАННЫЕ"/>
+	</entry>
+	<entry key="detonate_marker_text">
+		<original value="DETONATE"/>
+		<translation value="ВЗОРВАТЬ"/>
+	</entry>
+	<entry key="protect_marker_text">
+		<original value="PROTECT"/>
+		<translation value="ЗАЩИЩАТЬ"/>
+	</entry>
+	<entry key="take_marker_text">
+		<original value="PICK UP"/>
+		<translation value="ПОДНЯТЬ"/>
+	</entry>
+	<entry key="activate_marker_text">
+		<original value="ACTIVATE"/>
+		<translation value="АКТИВИРОВАТЬ"/>
+	</entry>
+	<entry key="regroup_marker_text">
+		<original value="REGROUP"/>
+		<translation value="СБОР"/>
+	</entry>
+	<entry key="shootingtarget_marker_text">
+		<original value="TARGET"/>
+		<translation value="ЦЕЛЬ"/>
+	</entry>
+	<entry key="clear_sector_start">
+		<original value="Eliminate enemy reinforcements."/>
+		<translation value="Уничтожьте подкрепление врага."/>
+	</entry>
+	<entry key="clear_sector_end">
+		<original value="Sector is clear!"/>
+		<translation value="Сектор чист!"/>
+	</entry>
+	<entry key="pickup_c4_start">
+		<original value="Find and take C4 pack."/>
+		<translation value="Найдите и заберите взрывчатку C4."/>
+	</entry>
+	<entry key="pickup_c4_end">
+		<original value="Proceed!"/>
+		<translation value="Вперед!"/>
+	</entry>
+	<entry key="call_heli_start">
+		<original value="Call for evacuation."/>
+		<translation value="Запросите эвакуацию."/>
+	</entry>
+	<entry key="call_heli_end">
+		<original value="The helicopter is on the way. Secure the landing zone."/>
+		<translation value="Вертолет в пути. Обеспечьте безопасность зоны посадки."/>
+	</entry>
+	<entry key="path06_m01_start">
+		<original value="Find and terminate the enemy group on the high ground."/>
+		<translation value="Найдите и уничтожьте вражеский отряд на возвышенности."/>
+	</entry>
+	<entry key="path06_mo1_end">
+		<original value="Excellent job! Proceed to the nearest checkpoint."/>
+		<translation value="Прекрасная работа! Двигайтесь к ближайшей контрольной точке."/>
+	</entry>
+	<entry key="path06_mo4_start">
+		<original value="Detonate minefield to clear the road of mines!"/>
+		<translation value="Взорвите минное поле, чтобы очистить дорогу!"/>
+	</entry>
+	<entry key="resupply_marker_text">
+		<original value="RESUPPLY"/>
+		<translation value="ПОПОЛНЕНИЕ ЗАПАСОВ"/>
+	</entry>
+	<entry key="use_rocket_text">
+		<original value="Use rocket launchers to eliminate the mech."/>
+		<translation value="Уничтожьте ПБМ 'Гром' из гранатомета."/>
+	</entry>
+	<entry key="incoming_reinforcement">
+		<original value="Incoming enemy reinforcements!"/>
+		<translation value="К врагу идет подкрепление!"/>
+	</entry>
+	<entry key="path06_minefield_danger_warning">
+		<original value="Get out of the minefiled! The mines are about to explode!"/>
+		<translation value="Быстро уходите с минного поля! Взрыв может произойти в любую секунду!"/>
+	</entry>
+	<entry key="path06bwd_startText_activate">
+		<original value="There are a lot of hostile forces around the small village nearby."/>
+		<translation value="Окрестности близлежащей деревеньки кишат вражескими бойцами."/>
+	</entry>
+	<entry key="path06bwd_airstrike_activate">
+		<original value="Download coodinates for airstrike."/>
+		<translation value="Загрузите координаты для удара с воздуха."/>
+	</entry>
+	<entry key="path06bwd_airstrike_complete">
+		<original value="Proceed immediately after the airtrike!"/>
+		<translation value="Выдвигайтесь сразу после удара с воздуха!"/>
+	</entry>
+	<entry key="path06_ironmandangertext">
+		<original value="Two armored soldiers spotted around the swarm! Eliminate them!"/>
+		<translation value="Обнаружены два джаггернаута. Уничтожьте их!"/>
+	</entry>
+	<entry key="path07_starting_message">
+		<original value="Suppress enemy activity in the village."/>
+		<translation value="Остановите продвижение врага вглубь деревни."/>
+	</entry>
+	<entry key="path07_callforevac_activate">
+		<original value="Download evacuation coordinates."/>
+		<translation value="Загрузите координаты эвакуации."/>
+	</entry>
+	<entry key="path07_callforevac_complete">
+		<original value="Secure landing zone!"/>
+		<translation value="Обеспечьте безопасность зоны посадки!"/>
+	</entry>
+	<entry key="path07_c4_activate">
+		<original value="Find and take C4 pack."/>
+		<translation value="Найдите и подберите взрывчатку C4."/>
+	</entry>
+	<entry key="path07bwd_ironmandangertext">
+		<original value="Eliminate the heavily armored soldier."/>
+		<translation value="Уничтожьте джаггернаута."/>
+	</entry>
+	<entry key="path05_enter_town">
+		<original value="Infiltrate the town entrance."/>
+		<translation value="Проникните в город."/>
+	</entry>
+	<entry key="junction03_tank_destroyed">
+		<original value="Tank destroyed. Mission failed."/>
+		<translation value="Танк уничтожен. Миссия провалена."/>
+	</entry>
+	<entry key="junction03_tank_damaged">
+		<original value="Vehicle is under fire!"/>
+		<translation value="Технику атакуют!"/>
+	</entry>
+	<entry key="junction03_wait_evac">
+		<original value="Vehicle is in secure. Wait for evacuation!"/>
+		<translation value="Техника в безопасности. Ожидайте эвакуации."/>
+	</entry>
+	<entry key="junction03_tank_activate">
+		<original value="Activate vehicle."/>
+		<translation value="Активируйте технику."/>
+	</entry>
+	<entry key="bas_tutorial_message2">
+		<original value="1. Press &quot;%[player:moveforward]&quot;,&quot;%[player:moveback]&quot;,&quot;%[player:moveleft]&quot;,&quot;%[player:moveright]&quot; keys to move\n2. Follow the checkpoint marker."/>
+		<translation value="1. Для перемещения используйте кнопки '%[player:moveforward]','%[player:moveback]','%[player:moveleft]','%[player:moveright]'\n2. Доберитесь до контрольной точки"/>
+	</entry>
+	<entry key="bas_tutorial_message3">
+		<original value="1. Aim at the target by moving the Crosshair with your mouse\n 2.Press &quot;%[default:attack1]&quot; to shoot from the hip and hit the targets."/>
+		<translation value="1. Наведите перекрестье прицела на объект\n 2. Чтобы выстрелить, нажмите '%[default:attack1]'\n3. Попадите в цель"/>
+	</entry>
+	<entry key="bas_tutorial_message4">
+		<original value="Press &quot;%[player:reload]&quot; to reload your weapon"/>
+		<translation value="1. Чтобы перезарядить оружие, нажмите '%[player:reload]'"/>
+	</entry>
+	<entry key="bas_tutorial_message5">
+		<original value="1. Press &quot;%[default:zoom]&quot; to enter zoom mode\n2. Press &quot;%[default:attack1]&quot; to shoot and hit the targets"/>
+		<translation value="1. Чтобы войти в режим прицеливания, нажмите '%[default:zoom]'\n2. Попадите в цель"/>
+	</entry>
+	<entry key="bas_tutorial_message5_1">
+		<original value="Click on scope attachment to equip it on your primary weapon"/>
+		<translation value="1. Чтобы открыть окно модификации оружия, выберите основное оружие и нажмите '%[player:hud_weapon_mod]'"/>
+	</entry>
+	<entry key="bas_tutorial_message5_11">
+		<original value="Use your shotgun to blow these targets apart. Are you having fun yet, recruit?"/>
+		<translation value="1. Выберите подствольный гранатомет, чтобы прикрепить его к основному оружию"/>
+	</entry>
+	<entry key="bas_tutorial_message5_111">
+		<original value="Press &quot;%[player:hud_weapon_mod]&quot; again to close customization menu"/>
+		<translation value="1. Чтобы закрыть окно модификации оружия, снова нажмите '%[player:hud_weapon_mod]'"/>
+	</entry>
+	<entry key="bas_tutorial_message5_2">
+		<original value="Proceed towards the village and locate the Medic."/>
+		<translation value="1. Чтобы выбрать подствольный гранатомет, нажмите '%[player:heavy]'\n 2. Для стрельбы из подствольного гранатомета нажмите '%[default:attack1]'"/>
+	</entry>
+	<entry key="bas_tutorial_message6">
+		<original value="1. Press &quot;%[player:medium]&quot; to select pistol directly or &quot;Mouse wheel up&quot; / &quot;Mouse wheel down&quot; to cycle through items\n2. Hit the targets with pistol"/>
+		<translation value="1. Для быстрого переключения на пистолет нажмите '%[player:medium]'. Чтобы менять оружие и снаряжение по порядку, крутите колесо мыши вверх или вниз\n2. Попадите в цель из пистолета"/>
+	</entry>
+	<entry key="bas_tutorial_message7">
+		<original value="1. Press &quot;%[player:class_specific2]&quot; to select your explosive Grenades.\n2. Throw a grenade by pressing &quot;%[default:attack1]&quot; to hit group of targets."/>
+		<translation value="1. Для выбора гранаты нажмите '%[player:class_specific2]'\n2. Чтобы бросить гранату в группу целей, нажмите '%[default:attack1]'"/>
+	</entry>
+	<entry key="bas_tutorial_message8">
+		<original value="Use &quot;Mouse&quot; to look around"/>
+		<translation value="1. Наведите прицел на оружие, которое хотите поднять\n2. Чтобы взять это оружие, нажмите '%[default:use]'"/>
+	</entry>
+	<entry key="bas_tutorial_message9">
+		<original value="1. Press &quot;%[player:heavy]&quot; to select underbarred grenade launcher\n 2. Shoot from underbarrel grenade launcher into targets by pressing &quot;%[default:attack1]&quot;"/>
+		<translation value="1. Попадите во все поднимающиеся мишени из основного оружия"/>
+	</entry>
+	<entry key="bas_tutorial_message9_1">
+		<original value="Press &quot;%[player:hud_weapon_mod]&quot; with Assault Rifle to open Weapon customization menu."/>
+		<translation value="1. Чтобы открыть окно модификации, выберите основное оружие и нажмите '%[player:hud_weapon_mod]'"/>
+	</entry>
+	<entry key="bas_tutorial_message9_11">
+		<original value="1. Press &quot;%[player:prone]&quot; to get into the prone stance.\n2. Crawl under the obstacle and press &quot;%[player:prone]&quot; or &quot;%[player:jump]&quot; to stand up"/>
+		<translation value="1. Выберите прицел, чтобы установить его на основное оружие"/>
+	</entry>
+	<entry key="bas_tutorial_message9_111">
+		<original value="Press &quot;%[player:jump]&quot; and &quot;%[player:moveforward]&quot; buttons to vault over obstacles."/>
+		<translation value="1. Чтобы закрыть окно модификации, нажмите '%[player:hud_weapon_mod]' еще раз"/>
+	</entry>
+	<entry key="bas_tutorial_message9_2w">
+		<original value="1. Press &quot;%[default:zoom]&quot; to use your Scope. \n2.Hit the rising target by using your Scope."/>
+		<translation value="1. Поразите все поднимающиеся мишени в режиме прицеливания"/>
+	</entry>
+	<entry key="bas_tutorial_message10">
+		<original value="Rendezvous with the medic. Go through the devastated house."/>
+		<translation value="1. Доберитесь до контрольной точки"/>
+	</entry>
+	<entry key="bas_tutorial_message11">
+		<original value="1. Toggle &quot;%[player:haste]&quot; key to enter sprint mode and hold &quot;%[player:moveforward]&quot; to run forward\n2. Follow the checkpoint marker."/>
+		<translation value="1. Чтобы сделать рывок, нажмите клавишу '%[player:haste]', удерживая '%[player:moveforward]'\n2. Доберитесь до контрольной точки"/>
+	</entry>
+	<entry key="bas_tutorial_message12">
+		<original value="1. Use &quot;%[player:crouch]&quot; key to crouch \n2. Press movement buttons while using &quot;%[player:crouch]&quot; to move in crouch."/>
+		<translation value="1. Чтобы присесть, нажмите клавишу '%[player:crouch]' \n2. Чтобы двигаться пригнувшись, удерживайте '%[player:crouch]' и нажимайте клавиши перемещения.\n3. Доберитесь до контрольной точки"/>
+	</entry>
+	<entry key="bas_tutorial_message13">
+		<original value="1. Toggle &quot;%[player:haste]&quot; key to enter sprint mode\n2. Press &quot;%[player:slide]&quot; during sprint to perform slide."/>
+		<translation value="1. Чтобы сделать рывок, нажмите '%[player:haste]'\n2. Чтобы сделать подкат, нажмите '%[player:slide]' во время рывка\n3. Доберитесь до контрольной точки"/>
+	</entry>
+	<entry key="bas_tutorial_message14">
+		<original value="1. Press &quot;%[player:jump]&quot; and &quot;%[player:moveforward]&quot; buttons near obstacle to climb up on it \n2. Press &quot;%[player:jump]&quot; to jump."/>
+		<translation value="1. Нажмите '%[player:jump]', чтобы подпрыгнуть \n2. Если нажать '%[player:jump]' и '%[player:moveforward]' рядом с препятствием, вы заберетесь на него"/>
+	</entry>
+	<entry key="bas_tutorial_message15">
+		<original value="1. Approach the Van near the blinking marker\n2.Press and hold &quot;%[default:use]&quot; key to push the road blocker."/>
+		<translation value="1. Подойдите к мигающей метке рядом с автобусом\n2.Чтобы передвигать объект, нажмите и удерживайте '%[default:use]'"/>
+	</entry>
+	<entry key="bas_tutorial_message16">
+		<original value="1. Approach the bomb.\n2. Bomb will acquire automatically."/>
+		<translation value="1. Подойдите к бомбе\n2. Вы поднимете бомбу автоматически"/>
+	</entry>
+	<entry key="bas_tutorial_message17">
+		<original value="1. Press and hold &quot;%[default:use]&quot; button within the plant site\n2. Step aside after triggering, to avoid explosion damage"/>
+		<translation value="1. Добравшись до места установки, нажмите и удерживайте клавишу '%[default:use]'\n2. Отойдите подальше, чтобы вас не задело взрывом"/>
+	</entry>
+	<entry key="bas_tutorial_message18">
+		<original value="Welcome Soldier!"/>
+		<translation value="Добро пожаловать, боец!"/>
+	</entry>
+	<entry key="adv_tutorial_message1">
+		<original value="Take out these targets with your sub-machine gun."/>
+		<translation value="Порази эти мишени из пистолета-пулемета."/>
+	</entry>
+	<entry key="adv_tutorial_message2">
+		<original value="1. Press &quot;%[default:escape]&quot; to access in game menu\n2. &quot;%[default:attack1]&quot; click on Medic tab in menu to switch class"/>
+		<translation value="1. Чтобы открыть меню игры, нажмите '%[default:escape]'\n 2. Выберите пункт 'Медик' и нажмите '%[default:attack1]' для смены класса"/>
+	</entry>
+	<entry key="adv_tutorial_message3">
+		<original value="Move to the Checkpoint"/>
+		<translation value="Двигайся к контрольной точке."/>
+	</entry>
+	<entry key="adv_tutorial_message4">
+		<original value="1. Press &quot;%[player:class_specific]&quot; to select medic's kit\n2. Hold &quot;%[default:zoom]&quot; to heal yourself"/>
+		<translation value="1. Нажмите '%[player:class_specific]', чтобы выбрать аптечку\n1. Чтобы вылечить себя, нажмите и удерживайте '%[default:zoom]'"/>
+	</entry>
+	<entry key="adv_tutorial_message5">
+		<original value="1. Press &quot;%[default:use]&quot; near the wall to enter climb assist mode\n 2. Press &quot;%[default:use]&quot; again to perform a single coop climb."/>
+		<translation value="1. Подойдите к значку, появившемуся на экране. Он показывает напарника, который находится при смерти."/>
+	</entry>
+	<entry key="adv_tutorial_message7">
+		<original value="1. Your teammate got killed, be fast and press &quot;%[player:class_specific]&quot; twice to select defibrillator\n2. Approach the body with coma icon over it until you see special crosshair\n3. Press &quot;%[default:attack1]&quot; while aiming the body to resurrect. You have only limited time to resurrect your teammate"/>
+		<translation value="1. Чтобы выбрать дефибриллятор, еще раз нажмите '%[player:class_specific]'\n2. Наведите прицел на тело, и он примет характерную форму\n3. Нажмите '%[default:attack1]', чтобы реанимировать напарника"/>
+	</entry>
+	<entry key="adv_tutorial_message8">
+		<original value="1. Summon help or urge your team to regroup by calling for assistance \n2.&quot;%[multiplayer:say_need_medic]&quot; for Medic, &quot;%[multiplayer:say_need_ammo]&quot; for Ammunition, &quot;%[multiplayer:say_need_armor]&quot; for Armor and &quot;%[multiplayer:say_over_here]&quot; call for Regroup."/>
+		<translation value="1. Значок над головой напарника показывает, что у него мало очков здоровья (ОЗ)"/>
+	</entry>
+	<entry key="adv_tutorial_message9">
+		<original value="1. Press &quot;%[player:heavy]&quot; to select your Primary Weapon."/>
+		<translation value="1. Нажмите &quot;%[player:heavy]&quot;, чтобы выбрать основное оружие."/>
+	</entry>
+	<entry key="adv_tutorial_message10">
+		<original value="1. Press &quot;%[player:class_specific]&quot; to switch between defibrillator and medkit\n2. Approach and aim at teammate with selected med kit until you see special crosshair\n3. Press and hold &quot;%[default:attack1]&quot; to heal your teammate"/>
+		<translation value="1. Переключитесь с дефибриллятора на аптечку с помощью клавиши '%[player:class_specific]'\n2. Наведите перекрестье прицела на напарника, и оно примет характерную форму\n3. Чтобы вылечить соратника, нажмите и удерживайте '%[default:attack1]'"/>
+	</entry>
+	<entry key="adv_tutorial_message11_goto">
+		<original value="Escort the Medic to your wounded allies in need of assistance."/>
+		<translation value="1. Следуйте к контрольной точке"/>
+	</entry>
+	<entry key="adv_tutorial_message11">
+		<original value="Look alive, recruit, there's a Blackwood helicopter overhead. Take cover until it passes. When Blackwood forces catch sight of you, they won't hold back."/>
+		<translation value="1. Для того, чтобы выбрать дробовик нажмите '%[player:heavy]'\n 2. Поразите цели из дробовика"/>
+	</entry>
+	<entry key="adv_tutorial_message12">
+		<original value="1. Press &quot;%[default:escape]&quot; to access in game menu\n 2. &quot;%[default:attack1]&quot; click on Engineer tab in menu to switch class"/>
+		<translation value="1. Чтобы открыть меню игры, нажмите '%[default:escape]'\n 2. Выберите пункт 'Инженер' и нажмите '%[default:attack1]' для смены класса"/>
+	</entry>
+	<entry key="adv_tutorial_message14">
+		<original value="1. Press &quot;%[player:class_specific]&quot; to select armor repair kit\n2. Press and hold &quot;%[default:zoom]&quot; to restore your armor"/>
+		<translation value="1. Нажмите '%[player:class_specific]', чтобы выбрать ремонтный комплект\n2. Нажмите и удерживайте '%[default:zoom]' для восстановления брони"/>
+	</entry>
+	<entry key="adv_tutorial_message15">
+		<original value="1. Press &quot;%[default:zoom]&quot; for powerfull melee attacks."/>
+		<translation value="1. Значок над головой напарника показывает, что у него мало очков брони (ОБ)"/>
+	</entry>
+	<entry key="adv_tutorial_message16">
+		<original value="1. Press &quot;%[player:class_specific]&quot; to select armor repair kit\n2. Approach and aim at teammate with selected armor kit until you see the special crosshair\n3. Press and hold &quot;%[default:attack1]&quot; to restore teammate's armor"/>
+		<translation value="1. Наведите перекрестье прицела на напарника, и оно примет характерную форму\n 2. Нажмите и удерживайте '%[default:attack1]', чтобы починить броню напарника"/>
+	</entry>
+	<entry key="adv_tutorial_message17">
+		<original value="1. Press &quot;%[player:class_specific2]&quot; to select claymore mine\n 2. Aim at the ground or any flat object where you want to plant the mine\n 3. Press &quot;%[default:attack1]&quot; with selected claymore to plant it"/>
+		<translation value="1. Для выбора противопехотной мины дважды нажмите '%[player:class_specific2]'\n 2. Наведите прицел на землю или любую плоскую поверхность\n 3. Нажмите '%[default:attack1]', чтобы поставить мину"/>
+	</entry>
+	<entry key="adv_tutorial_message18">
+		<original value="1. Step back from claymore and aim at it\n 2. Shoot the claymore to detonate explosion"/>
+		<translation value="1. Отойдите от мины\n 2. Выстрелите в мину, чтобы взорвать ее"/>
+	</entry>
+	<entry key="adv_tutorial_message19">
+		<original value="1. Press &quot;%[player:small]&quot; to select the knife.\n 2. Hit several targets with knife pressing &quot;%[default:attack1]&quot; or &quot;%[player:melee]&quot;."/>
+		<translation value="1. Подойдите к стрельбищу\n 2. Поразите цели из пистолета-пулемета"/>
+	</entry>
+	<entry key="adv_tutorial_message20">
+		<original value="1. Press &quot;%[default:escape]&quot; to access in game menu\n 2. &quot;%[default:attack1]&quot; click on Rifleman tab in menu to switch class"/>
+		<translation value="1. Чтобы открыть меню игры, нажмите '%[default:escape]'\n 2. Выберите пункт 'Штурмовик' и нажмите '%[default:attack1]' для смены класса"/>
+	</entry>
+	<entry key="adv_tutorial_message22">
+		<original value="1. Press &quot;%[player:class_specific]&quot; to select ammo pack\n2. Press and hold &quot;%[default:zoom]&quot; to replenish your ammo"/>
+		<translation value="1. Нажмите '%[player:class_specific]', чтобы выбрать ящик с боеприпасами\n2. Чтобы пополнить свой боезапас, нажмите '%[default:zoom]'"/>
+	</entry>
+	<entry key="adv_tutorial_message23">
+		<original value="1. Press &quot;%[multiplayer:say_over_here]&quot; call your teammate."/>
+		<translation value="0"/>
+	</entry>
+	<entry key="adv_tutorial_message24">
+		<original value="1. Approach and aim at a teammate with your selected ammo pack until you see the special crosshair\n 2. Press and hold &quot;%[default:attack1]&quot; to restore teammate's ammo"/>
+		<translation value="1. Наведите перекрестье прицела на напарника, и оно примет характерную форму\n 2. Чтобы пополнить боезапас напарника, нажмите '%[default:attack1]'"/>
+	</entry>
+	<entry key="adv_tutorial_message25">
+		<original value="1. Approach closer to the Gate. \n2.Press and hold &quot;%[default:use]&quot; key to place a C4."/>
+		<translation value="1. Подойдите к стрельбищу\n 2. Нажмите '1', чтобы выбрать штурмовую винтовку\n 3. Поразите цели из штурмовой винтовки"/>
+	</entry>
+	<entry key="adv_tutorial_message26">
+		<original value="1. Press &quot;%[default:escape]&quot; to access in game menu\n 2. &quot;%[default:attack1]&quot; click on Sniper tab in menu to switch class"/>
+		<translation value="1. Чтобы открыть меню игры, нажмите '%[default:escape]' \n 2. Выберите пункт 'Снайпер' и нажмите '%[default:attack1]' для смены класса"/>
+	</entry>
+	<entry key="adv_tutorial_message27">
+		<original value="Keep your distant soldier, avoid to get explosion damage."/>
+		<translation value="0"/>
+	</entry>
+	<entry key="adv_tutorial_message28">
+		<original value="Show your skills as a marksman by hitting the targets in the distance."/>
+		<translation value="1. Подойдите к стрельбищу\n 2. Нажмите '%[default:zoom]', чтобы войти в режим прицеливания\n 3. Поразите цели из снайперской винтовки"/>
+	</entry>
+	<entry key="adv_tutorial_message29">
+		<original value="Now press &quot;%[player:moveforward]&quot; to leave the climb mode."/>
+		<translation value="0"/>
+	</entry>
+	<entry key="adv_tutorial_message30">
+		<original value="1. Approach teammate\n 2. Press &quot;%[default:use]&quot; to raise teammate up"/>
+		<translation value="1. Наведите прицел на напарника\n 2. Чтобы помочь ему подняться, нажмите '%[default:use]'"/>
+	</entry>
+	<entry key="adv_tutorial_message31">
+		<original value="Take out the targets as fast as possible"/>
+		<translation value="0"/>
+	</entry>
+	<entry key="adv_tutorial_message32">
+		<original value="1. Approach teammate until you see special text on the screen\n2. Aim assisting teammate\n3. Press &quot;%[default:use]&quot; to climb"/>
+		<translation value="1. Подойдите к напарнику, и на экране появится текст подсказки\n 2. Наведите прицел на напарника\n 3. Чтобы помочь ему залезть на препятствие, нажмите '%[default:use]'"/>
+	</entry>
+	<entry key="adv_tutorial_message33">
+		<original value="1. Go to the wall with the special marker\n 2. Press &quot;%[default:use]&quot; near the wall to enter climb assist mode\n"/>
+		<translation value="1. Подойдите к стене с мигающей меткой\n 2. Нажмите '%[default:use]', чтобы включить режим помощи напарнику и залезть на стену\n"/>
+	</entry>
+	<entry key="adv_tutorial_message34">
+		<original value="1. Press &quot;%[player:heavy]&quot; to select your primary Weapon. \n2. Press &quot;%[player:melee]&quot; to peform a weapon melee attack."/>
+		<translation value="1. Нажмите &quot;%[player:heavy]&quot;, чтобы выбрать основное оружие. \n2. Нажмите &quot;%[player:melee]&quot;, чтобы нанести удар прикладом."/>
+	</entry>
+	<entry key="adv_tutorial_message35">
+		<original value="Step aside soldier, avoid explosion damage."/>
+		<translation value="Назад, боец! Смотри, чтобы не задело взрывом."/>
+	</entry>
+	<entry key="adv_tutorial_message36">
+		<original value="1. Press &quot;%[player:heavy]&quot; to switch back to your Assault Rifle Bullet"/>
+		<translation value="1. Нажмите &quot;%[player:heavy]&quot;, чтобы переключиться на обычный режим стрельбы."/>
+	</entry>
+	<entry key="adv_tutorial_message37">
+		<original value="1. Press &quot;%[player:hud_weapon_mod]&quot; to open Weapon customization. \n2. Attach the second Sniper scope to get better range. \n3. Press &quot;%[player:hud_weapon_mod]&quot; to close Weapon customization."/>
+		<translation value="1. Нажмите &quot;%[player:hud_weapon_mod]&quot;, чтобы открыть меню модификации. \n2. Установите второй снайперский прицел для более точной стрельбы. \n3. Нажмите &quot;%[player:hud_weapon_mod]&quot;, чтобы закрыть меню."/>
+	</entry>
+	<entry key="adv_tutorial_message38">
+		<original value="1. Press &quot;%[player:class_specific2]&quot; to select the Smoke Grenade.\n2. Throw it by pressing &quot;%[default:attack1]&quot; to the ground to block the enemy view."/>
+		<translation value="1. Нажмите &quot;%[player:class_specific2]&quot;, чтобы выбрать дымовую гранату.\n2. Бросьте гранату, нажав &quot;%[default:attack1]&quot;, чтобы скрыть себя от противника дымовой завесой."/>
+	</entry>
+	<entry key="adv_tutorial_message_end">
+		<original value="Now you will be moved to the reward screen where you can see how much EXP and money you receive for the mission."/>
+		<translation value="Сейчас откроется страница награждения, на которой указывается количество заработанных вами денег и опыта."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command1">
+		<original value="Welcome, recruit! This training camp will transform you into a war machine."/>
+		<translation value="Смирно, новобранец!"/>
+	</entry>
+	<entry key="bas_tutorial_hq_command2">
+		<original value="Move to the shooting range."/>
+		<translation value="Давай на стрельбище. Посмотрим, что ты умеешь."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command3">
+		<original value="Now you will learn how to operate your weapon. Try to hit the targets that appear in front of you."/>
+		<translation value="Начнем с огневой подготовки. Попробуй попасть в мишени."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command4">
+		<original value="Mind your ammo during combat. Now reload your weapon."/>
+		<translation value="Неплохо. Теперь перезаряди оружие. Ты же не хочешь остаться с пустым магазином в разгар боя?"/>
+	</entry>
+	<entry key="bas_tutorial_hq_command5">
+		<original value="Now its time to try a more precise way of shooting. Switch to aimed mode."/>
+		<translation value="Перейдем к прицельной стрельбе. Войди в режим прицеливания."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command6">
+		<original value="Now select you pistol. Switching to your pistol is much faster than reloading. Remember that in combat!"/>
+		<translation value="Так держать! Теперь выбери пистолет. Это гораздо быстрее, чем перезаряжать основное оружие под огнем противника."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command7">
+		<original value="Grenades have a large damage radius and are really effective against a group of enemies."/>
+		<translation value="Гранаты обладают большим радиусом поражения и незаменимы в бою против нескольких врагов."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command8">
+		<original value="Pick up another weapon, soldier!"/>
+		<translation value="Возьми пулемет. Надеюсь, ты сможешь удержать его в руках."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command9">
+		<original value="And now enjoy the firepower! But try to at least hit something."/>
+		<translation value="А теперь наслаждайся огневой мощью! И постарайся хотя бы во что-нибудь попасть."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command10">
+		<original value="Great job, soldier. Now proceed to the obstacle course."/>
+		<translation value="Отлично. А теперь давай на полосу препятствий."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command11">
+		<original value="Well done! Proceed to the checkpoint indicator. Faster, recruit!"/>
+		<translation value="Теперь иди к контрольной точке. Пошевеливайся!"/>
+	</entry>
+	<entry key="bas_tutorial_hq_command12">
+		<original value="You are able to crouch under obstacles."/>
+		<translation value="Проберись под препятствием."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command13">
+		<original value="Also you can slide instead of crouching."/>
+		<translation value="Ты также можешь преодолеть его в подкате."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command14">
+		<original value="You can jump and climb over obstacles."/>
+		<translation value="Ты можешь перепрыгивать через преграды и забираться на небольшие препятствия."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command15">
+		<original value="When you push the road blockers, they will also act as cover."/>
+		<translation value="Некоторые предметы можно передвигать. Используй их в качестве укрытия от пуль."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command16">
+		<original value="Sometimes you will have to work with explosives. Let's try taking a bomb and arming it for a timed explosion."/>
+		<translation value="Каждый солдат должен уметь обращаться со взрывчаткой. Возьми бомбу."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command17">
+		<original value="Set up the C4 charge and stand back!"/>
+		<translation value="Установи заряд и отойди подальше, чтобы не задело взрывом."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command18">
+		<original value="Great job, soldier."/>
+		<translation value="Отлично сработано, боец."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_Wcustomization1">
+		<original value="With a scope attached, any weapon becomes more accurate."/>
+		<translation value="Оружие с установленным прицелом позволяет вести стрельбу гораздо точнее."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_Wcustomization2">
+		<original value="You are able to attach an underbarrel grenade launcher to your assault rifle."/>
+		<translation value="Ты можешь установить на свою штурмовую винтовку подствольный гранатомет."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_Wcustomization3">
+		<original value="Underbarrel grenade launchers have a low ammo count but deal great damage."/>
+		<translation value="У гранатомета мало зарядов, зато он наносит врагу значительный урон."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command1">
+		<original value="Now it's time to learn more advanced combat moves."/>
+		<translation value="Теперь перейдем к изучению различных классов."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command2">
+		<original value="Change your class to Medic via the in-game menu."/>
+		<translation value="Открой меню и выбери медика."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command4">
+		<original value="Your health is low. Use the med kit to heal yourself."/>
+		<translation value="Что-то ты неважно выглядишь. Используй аптечку, чтобы привести себя в норму."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command5">
+		<original value="Follow the coma icon to find a teammate who needs resurrected."/>
+		<translation value="Видишь значок на экране? Он показывает местоположение напарника по команде, который находится при смерти."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command7">
+		<original value="The Medic has a defibrillator. Use it to ressurect a teammate."/>
+		<translation value="Молодец. У медика всегда с собой дефибриллятор, используй его, чтобы реанимировать этого бедолагу."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command8">
+		<original value="This icon shows that your team mate is low on health."/>
+		<translation value="Этот значок показывает, что у твоего напарника осталось мало очков здоровья."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command10">
+		<original value="The Medic can use the medkit on others as well as on himself. Heal your teammate."/>
+		<translation value="Медик может вылечить себя или товарища по команде, использовав аптечку. Попробуй вылечить напарника."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command11_goto">
+		<original value="Proceed to the shooting range."/>
+		<translation value="Иди на стрельбище."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command11">
+		<original value="Shotguns are not accurate, but are very powerful at close range. Have a quick practice on the shooting range."/>
+		<translation value="Дробовики неэффективны на дальней дистанции, зато в ближнем бою им нет равных."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command12">
+		<original value="Use the in-game menu to change your class to Engineer. This is a support class, which can restore armor. Engineers can also operate bombs faster than others."/>
+		<translation value="Снова открой меню и выбери инженера. Это вспомогательный класс, который умеет чинить броню. Кроме того, инженеры гораздо быстрее работают с бомбами."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command14">
+		<original value="Select your armor pack. It will help you to restore damaged armor."/>
+		<translation value="Выбери ремонтный комплект. С его помощью можно восстановить поврежденную броню."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command15">
+		<original value="Engineers can see if their teammates have low armor status."/>
+		<translation value="Инженеры видят специальные значки, когда броня их напарников нуждается в починке."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command16">
+		<original value="Now restore your teammate's armour."/>
+		<translation value="Почини броню этого солдата."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command17">
+		<original value="The Engineer is the only class which can use claymores and land mines. They are activated by hostile movement and deal a lot of damage to enemies when detonated."/>
+		<translation value="Продолжим. Инженеры - это единственный класс, который может ставить мины. Мина активируется, когда враг входит в зону ее действия, и наносит ему большой урон."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command18">
+		<original value="You can destoy a claymore by shooting it; but make sure you're standing well back."/>
+		<translation value="Ты можешь уничтожить мину, выстрелив в нее, но сначала не забудь отойти подальше."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command19">
+		<original value="The SMG is a short-range, rapid fire weapon. It's very easy to handle but loses power over distance."/>
+		<translation value="Отлично. Пистолеты-пулеметы инженеров подходят для ведения боя на ближней и средней дистанции, но малоэффективны, если враг далеко."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command20">
+		<original value="Change your class to Rifleman."/>
+		<translation value="Смени свой класс на штурмовика."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command22">
+		<original value="You can replenish bullets when playing as a Rifleman. Switch to the ammo pack and use it to restore your own ammunition."/>
+		<translation value="Штурмовик всегда носит с собой запасные патроны. Переключись на них и пополни свой боезапас."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command23">
+		<original value="When your teammates need ammunition, you will see an ammo icon."/>
+		<translation value="Хорошо. Когда твоим напарникам понадобятся патроны, ты увидишь рядом с ними соответствующий значок."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command24">
+		<original value="Provide your teammate with ammo."/>
+		<translation value="Пополни боезапас напарника."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command25">
+		<original value="Assault rifles are universal short-to-long range weapons, and form the primary firepower of your squad. Unfortunately, these weapons are not easy to handle."/>
+		<translation value="Штурмовые винтовки - универсальное оружие, эффективное на любой дистанции. Это главная огневая сила отряда. Но не забывай, что метко стрелять из винтовок под силу далеко не каждому."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command26">
+		<original value="Change your class to Sniper. Snipers are extremely dangerous at long range, and some of the weapons they handle can pierce through metal plates."/>
+		<translation value="Теперь выбери снайпера. У этого класса нет уникальных способностей, однако он чрезвычайно опасен на расстоянии. Некоторые снайперские винтовки могут пробивать даже металлические пластины."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command27">
+		<original value="You can customize any weapon in several ways. Each weapon has its own amount of attachments. Try customizing your weapon now."/>
+		<translation value="Ты можешь устанавливать на оружие дополнительное оборудование. Каждое оружие обладает своим набором доступных модулей. Открой меню модификации."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command28">
+		<original value="The sniper rifle is a great weapon for long distances, but is very limited in close combat."/>
+		<translation value="Снайперская винтовка позволяет поражать цели на очень большой дистанции, но она бесполезна в ближнем бою."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command29">
+		<original value="Follow the icon to find a fallen teammate."/>
+		<translation value="Подойди к напарнику, сбитому с ног. Рядом с ним отображается соответствующий значок."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command30">
+		<original value="A knocked-down teammate will not able to stand up by himself for a certain period of time, but you can help him up."/>
+		<translation value="Сбитый с ног игрок некоторое время не может подняться сам. Но ты можешь ему в этом помочь."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command31">
+		<original value="Follow the icon to find a teammate who wants to climb a high wall."/>
+		<translation value="Отлично, теперь иди к следующему значку."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command32">
+		<original value="You can climb some high walls with the help of a teammate."/>
+		<translation value="Забирайся на высокие препятствия с помощью товарищей по команде."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command33">
+		<original value="The soldier who initiates the cooperation can choose a climbing mode. You can assist without climbing up yourself, or climb together."/>
+		<translation value="Ты можешь выбрать одно из двух действий: залезть на препятствие вслед за напарником или помочь ему, но остаться внизу."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command34">
+		<original value="Training is complete, soldier. You are ready for battle. Now let me see your Warface!"/>
+		<translation value="На этом твое обучение закончено, боец. Добро пожаловать в отряд Warface!"/>
+	</entry>
+	<entry key="adv_tutorial_hq_command35">
+		<original value="Soldier they are coming place a claymore in front of the gate."/>
+		<translation value="Солдат, враг приближается! Установи мину перед воротами."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command36">
+		<original value="Arrrgh, this way down come on!"/>
+		<translation value="Срочно сюда!"/>
+	</entry>
+	<entry key="adv_tutorial_hq_command37">
+		<original value="Now prone under obstacle!"/>
+		<translation value="Проползи под препятствием!"/>
+	</entry>
+	<entry key="adv_tutorial_hq_command38">
+		<original value="You can melee enemies and objects!"/>
+		<translation value="Вы можете бить врукопашную врагов и даже предметы."/>
+	</entry>
+	<entry key="adv_tutorial_hq_command39">
+		<original value="Shit the helicopter is completelly destroyed head to the village soldier!"/>
+		<translation value="Вертолет разрушен! Отправляйся в расположение"/>
+	</entry>
+	<entry key="tutorial_repeat_hitWithScope">
+		<original value="Shoot the target while zoomed in with your scope."/>
+		<translation value="Войди в режим прицеливания и порази цель."/>
+	</entry>
+	<entry key="tutorial_repeat_atachGL">
+		<original value="Attach grenade launcher to your assault rifle."/>
+		<translation value="Установи на оружие подствольный гранатомет."/>
+	</entry>
+	<entry key="tutorial_repeat_hitWithGL">
+		<original value="Shot the group of targets with your underbarrel grenade launcher."/>
+		<translation value="Переключись на подствольный гранатомет и порази цели."/>
+	</entry>
+	<entry key="tutorial_repeat_vault">
+		<original value="Vault over obstacle soldier"/>
+		<translation value="Перепрыгни препятствие"/>
+	</entry>
+	<entry key="arena_killzone_warning">
+		<original value="Return to the safe area."/>
+		<translation value="Возвращайся в безопасную зону!"/>
+	</entry>
+	<entry key="fd_junction03_vehicle_name">
+		<original value="Gurkha"/>
+		<translation value="Гуркх"/>
+	</entry>
+	<entry key="plant_pve_marker_text">
+		<original value="PLANT AN EXPLOSIVE"/>
+		<translation value="УСТАНОВИТЕ ЗАРЯД"/>
+	</entry>
+	<entry key="shootingtarget_aug_marker_text">
+		<original value="HIT WITH AUG"/>
+		<translation value="ПОРАЗИТЕ ЦЕЛЬ"/>
+	</entry>
+	<entry key="shootingtarget_zoomed_aug_marker_text">
+		<original value="AIM &amp; HIT WITH AUG"/>
+		<translation value="ПРИЦЕЛЬТЕСЬ И ПОРАЗИТЕ"/>
+	</entry>
+	<entry key="shootingtarget_pistol_marker_text">
+		<original value="HIT WITH PISTOL"/>
+		<translation value="ПОРАЗИТЕ ИЗ ПИСТОЛЕТА"/>
+	</entry>
+	<entry key="shootingtarget_gl_marker_text">
+		<original value="HIT WITH UNDERBARREL GL"/>
+		<translation value="ПОРАЗИТЕ ИЗ ГРАНАТОМЕТА"/>
+	</entry>
+	<entry key="shootingtarget_grenade_marker_text">
+		<original value="THROW GRENADE"/>
+		<translation value="БРОСЬТЕ ГРАНАТУ"/>
+	</entry>
+	<entry key="shootingtarget_mg_marker_text">
+		<original value="HIT ALL WITH MACHINE GUN"/>
+		<translation value="ПОРАЗИТЕ ИЗ ПУЛЕМЕТА"/>
+	</entry>
+	<entry key="shootingtarget_butt_marker_text">
+		<original value="HIT WITH MG BUTT"/>
+		<translation value="УДАРЬТЕ ПРИКЛАДОМ"/>
+	</entry>
+	<entry key="shootingtarget_knife_marker_text">
+		<original value="HIT WITH KNIFE"/>
+		<translation value="УДАРЬТЕ НОЖОМ"/>
+	</entry>
+	<entry key="checkpoint_goto_marker_text">
+		<original value="MOVE TO LOCATION"/>
+		<translation value="КОНТРОЛЬНАЯ ТОЧКА"/>
+	</entry>
+	<entry key="checkpoint_sprint_marker_text">
+		<original value="SPRINT TO LOCATION"/>
+		<translation value="ДОБЕГИТЕ ДО ЦЕЛИ"/>
+	</entry>
+	<entry key="checkpoint_crouch_marker_text">
+		<original value="CROUCH UNDER OBSTACLE"/>
+		<translation value="ПРОБЕРИТЕСЬ ПОД БАЛКОЙ"/>
+	</entry>
+	<entry key="checkpoint_prone_marker_text">
+		<original value="PRONE UNDER OBSTACLE"/>
+		<translation value="ПРОБЕРИТЕСЬ ПОД ПРЕПЯТСТВИЕМ"/>
+	</entry>
+	<entry key="checkpoint_jump_marker_text">
+		<original value="JUMP OVER THIS OBSTACLE"/>
+		<translation value="ЗАПРЫГНИТЕ НА ПРЕПЯТСТВИЕ"/>
+	</entry>
+	<entry key="checkpoint_slide_marker_text">
+		<original value="SLIDE UNDER OBSTACLE"/>
+		<translation value="СДЕЛАЙТЕ ПОДКАТ"/>
+	</entry>
+	<entry key="checkpoint_push_marker_text">
+		<original value="PUSH"/>
+		<translation value="ПЕРЕДВИНЬТЕ ОБЪЕКТ"/>
+	</entry>
+	<entry key="checkpoint_climb_marker_text">
+		<original value="ASSIST YOUR TEAMMATE"/>
+		<translation value="ПОМОГИТЕ НАПАРНИКУ"/>
+	</entry>
+	<entry key="pickup_mg_marker_text">
+		<original value="PICK UP MACHINE GUN"/>
+		<translation value="ПОДНИМИТЕ ПУЛЕМЕТ"/>
+	</entry>
+	<entry key="pickup_rl_marker_text">
+		<original value="PICK UP ROCKET LAUNCHER"/>
+		<translation value="ПОДБЕРИТЕ ГРАНАТОМЕТ"/>
+	</entry>
+	<entry key="tutorial_badge1">
+		<original value="TUTORIAL 1/43\nStart"/>
+		<translation value="ОБУЧЕНИЕ 1/43\nНачало"/>
+	</entry>
+	<entry key="tutorial_badge2">
+		<original value="TUTORIAL 2/43\nMovement"/>
+		<translation value="ОБУЧЕНИЕ 2/43\nПередвижение I"/>
+	</entry>
+	<entry key="tutorial_badge3">
+		<original value="TUTORIAL 3/43\nShooting"/>
+		<translation value="ОБУЧЕНИЕ 3/43\nСтрельба"/>
+	</entry>
+	<entry key="tutorial_badge4">
+		<original value="TUTORIAL 4/43\nWeapon reload"/>
+		<translation value="ОБУЧЕНИЕ 4/43\nПерезарядка оружия"/>
+	</entry>
+	<entry key="tutorial_badge5">
+		<original value="TUTORIAL 5/43\nAiming"/>
+		<translation value="ОБУЧЕНИЕ 5/43\nПрицеливание"/>
+	</entry>
+	<entry key="tutorial_badge9_w">
+		<original value="TUTORIAL 6/43\nWeapon customization"/>
+		<translation value="ОБУЧЕНИЕ 6/43\nМодификация оружия"/>
+	</entry>
+	<entry key="tutorial_badge5_1">
+		<original value="TUTORIAL 7/43\nGrenade launcher"/>
+		<translation value="ОБУЧЕНИЕ 7/43\nПодствольный гранатомет"/>
+	</entry>
+	<entry key="tutorial_badge6">
+		<original value="TUTORIAL 8/43\nWeapon switch"/>
+		<translation value="ОБУЧЕНИЕ 8/43\nСмена оружия"/>
+	</entry>
+	<entry key="tutorial_badge7">
+		<original value="TUTORIAL 9/43\nGrenade usage"/>
+		<translation value="ОБУЧЕНИЕ 9/43\nИспользование гранат"/>
+	</entry>
+	<entry key="tutorial_badge8">
+		<original value="TUTORIAL 10/43\nWeapon pick up"/>
+		<translation value="ОБУЧЕНИЕ 10/43\nПодбор оружия"/>
+	</entry>
+	<entry key="tutorial_badge9">
+		<original value="TUTORIAL 11/43\nShooting"/>
+		<translation value="ОБУЧЕНИЕ 11/43\nСтрельба из пулемета"/>
+	</entry>
+	<entry key="tutorial_badge91">
+		<original value="TUTORIAL 12/43\nMovement"/>
+		<translation value="ОБУЧЕНИЕ 12/43\nПередвижение II"/>
+	</entry>
+	<entry key="tutorial_badge92">
+		<original value="TUTORIAL 13/43\nMelee: weapon butt"/>
+		<translation value="ОБУЧЕНИЕ 13/43\nУдары прикладом"/>
+	</entry>
+	<entry key="tutorial_badge93">
+		<original value="TUTORIAL 14/43\nMelee: knife"/>
+		<translation value="ОБУЧЕНИЕ 14/43\nУдары ножом I"/>
+	</entry>
+	<entry key="tutorial_badge94">
+		<original value="TUTORIAL 15/43\nMelee: knife"/>
+		<translation value="ОБУЧЕНИЕ 15/43\nУдары ножом II"/>
+	</entry>
+	<entry key="tutorial_badge10">
+		<original value="TUTORIAL 16/43\nMovement"/>
+		<translation value="ОБУЧЕНИЕ 16/43\nПередвижение III"/>
+	</entry>
+	<entry key="tutorial_badge11">
+		<original value="TUTORIAL 17/43\nSprinting"/>
+		<translation value="ОБУЧЕНИЕ 17/43\nРывок"/>
+	</entry>
+	<entry key="tutorial_badge12">
+		<original value="TUTORIAL 18/43\nCrouching"/>
+		<translation value="ОБУЧЕНИЕ 18/43\nПриседание"/>
+	</entry>
+	<entry key="tutorial_badge95">
+		<original value="TUTORIAL 19/43\nProning"/>
+		<translation value="ОБУЧЕНИЕ 19/43\nПоложение лежа"/>
+	</entry>
+	<entry key="tutorial_badge96">
+		<original value="TUTORIAL 20/43\nProne shooting"/>
+		<translation value="ОБУЧЕНИЕ 20/43\nСтрельба из положения лежа"/>
+	</entry>
+	<entry key="tutorial_badge14">
+		<original value="TUTORIAL 21/43\nClimbing and vaulting"/>
+		<translation value="ОБУЧЕНИЕ 21/43\nПреодоление препятствий"/>
+	</entry>
+	<entry key="tutorial_badge13">
+		<original value="TUTORIAL 22/43\nSliding"/>
+		<translation value="ОБУЧЕНИЕ 22/43\nПодкат"/>
+	</entry>
+	<entry key="tutorial_badge15">
+		<original value="TUTORIAL 23/43\nPushing"/>
+		<translation value="ОБУЧЕНИЕ 23/43\nПередвижение объектов"/>
+	</entry>
+	<entry key="tutorial_badge16">
+		<original value="TUTORIAL 24/43\nPlant the bomb"/>
+		<translation value="ОБУЧЕНИЕ 24/43\nУстановка бомбы"/>
+	</entry>
+	<entry key="tutorial_badge17">
+		<original value="TUTORIAL 25/43\nMedic: class change"/>
+		<translation value="ОБУЧЕНИЕ 25/43\nМедик: смена класса"/>
+	</entry>
+	<entry key="tutorial_badge18">
+		<original value="TUTORIAL 26/43\nMedic: self heal"/>
+		<translation value="ОБУЧЕНИЕ 26/43\nМедик: лечение I"/>
+	</entry>
+	<entry key="tutorial_badge19">
+		<original value="TUTORIAL 27/43\nMedic: resurrection"/>
+		<translation value="ОБУЧЕНИЕ 27/43\nМедик: реанимация"/>
+	</entry>
+	<entry key="tutorial_badge20">
+		<original value="TUTORIAL 28/43\nMedic: teammate healing"/>
+		<translation value="ОБУЧЕНИЕ 28/43\nМедик: лечение II"/>
+	</entry>
+	<entry key="tutorial_badge21">
+		<original value="TUTORIAL 29/43\nMedic: shotgun practice"/>
+		<translation value="ОБУЧЕНИЕ 29/43\nМедик: стрельба из дробовика"/>
+	</entry>
+	<entry key="tutorial_badge22">
+		<original value="TUTORIAL 30/43\nEngineer: class change"/>
+		<translation value="ОБУЧЕНИЕ 30/43\nИнженер: смена класса"/>
+	</entry>
+	<entry key="tutorial_badge23">
+		<original value="TUTORIAL 31/43\nEngineer: self armor restoring"/>
+		<translation value="ОБУЧЕНИЕ 31/43\nИнженер: восстановление брони I"/>
+	</entry>
+	<entry key="tutorial_badge24">
+		<original value="TUTORIAL 32/43\nEngineer: armor restoring"/>
+		<translation value="ОБУЧЕНИЕ 32/43\nИнженер: восстановление брони II"/>
+	</entry>
+	<entry key="tutorial_badge25">
+		<original value="TUTORIAL 33/43\nEngineer: claymore"/>
+		<translation value="ОБУЧЕНИЕ 33/43\nИнженер: противопехотные мины"/>
+	</entry>
+	<entry key="tutorial_badge26">
+		<original value="TUTORIAL 34/43\nEngineer: SMG practice"/>
+		<translation value="ОБУЧЕНИЕ 34/43\nИнженер: пистолеты-пулеметы"/>
+	</entry>
+	<entry key="tutorial_badge27">
+		<original value="TUTORIAL 35/43\nRifleman: class change"/>
+		<translation value="ОБУЧЕНИЕ 35/43\nШтурмовик: смена класса"/>
+	</entry>
+	<entry key="tutorial_badge28">
+		<original value="TUTORIAL 36/43\nRifleman: self ammo restoring"/>
+		<translation value="ОБУЧЕНИЕ 36/43\nШтурмовик: пополнение боезапаса I"/>
+	</entry>
+	<entry key="tutorial_badge29">
+		<original value="TUTORIAL 37/43\nRifleman: ammo restoring"/>
+		<translation value="ОБУЧЕНИЕ 37/43\nШтурмовик: пополнение боезапаса II"/>
+	</entry>
+	<entry key="tutorial_badge30">
+		<original value="TUTORIAL 38/43\nRifleman: assault rifle practice"/>
+		<translation value="ОБУЧЕНИЕ 38/43\nШтурмовик: стрельба из винтовки"/>
+	</entry>
+	<entry key="tutorial_badge31">
+		<original value="TUTORIAL 39/43\nSniper: class change"/>
+		<translation value="ОБУЧЕНИЕ 39/43\nСнайпер: смена класса"/>
+	</entry>
+	<entry key="tutorial_badge32">
+		<original value="TUTORIAL 40/43\nSniper: sniper rifle practice"/>
+		<translation value="ОБУЧЕНИЕ 40/43\nСнайпер: снайперские винтовки"/>
+	</entry>
+	<entry key="tutorial_badge33">
+		<original value="TUTORIAL 41/43\nCoop: knockback"/>
+		<translation value="ОБУЧЕНИЕ 41/43\nСовместная игра: помощь напарнику I"/>
+	</entry>
+	<entry key="tutorial_badge34">
+		<original value="TUTORIAL 42/43\nCoop: double climb"/>
+		<translation value="ОБУЧЕНИЕ 42/43\nСовместная игра: препятствия"/>
+	</entry>
+	<entry key="tutorial_badge35">
+		<original value="TUTORIAL 43/43\nCoop: double climb assist"/>
+		<translation value="ОБУЧЕНИЕ 43/43\nСовместная игра: помощь напарнику II"/>
+	</entry>
+	<entry key="bas_tutorial_message_melee2">
+		<original value="1. Press &quot;%[player:melee]&quot; with primary weapon selected to perform melee strike.\n 2.Try to smash a vegetable with weapon butt."/>
+		<translation value="1. Выберите основное оружие и нажмите '%[player:melee]', чтобы нанести удар прикладом.\n 2. Ударьте овощ прикладом."/>
+	</entry>
+	<entry key="bas_tutorial_message_melee3_1">
+		<original value="1. Click on bayonet attachment to equip it on your primary weapon"/>
+		<translation value="1. Выберите штык, чтобы установить его на основное оружие."/>
+	</entry>
+	<entry key="bas_tutorial_message_melee3_2">
+		<original value="1. Press &quot;%[player:melee]&quot; with primary weapon selected with attached bayonet to perform melee strike.\n 2. Smash couple vegetables with bayonet."/>
+		<translation value="1. Выберите основное оружие со штыком и нажмите '%[player:melee]', чтобы нанести удар.\n 2. Ударьте несколько овощей штыком."/>
+	</entry>
+	<entry key="bas_tutorial_message_melee5">
+		<original value="1. Press &quot;%[player:small]&quot; to select the knife.\n 2. Hit several vegetables with knife pressing &quot;%[default:attack1]&quot; ."/>
+		<translation value="1. Нажмите '%[player:small]', чтобы выбрать нож.\n 2. Ударьте несколько овощей с помощью '%[default:attack1]'."/>
+	</entry>
+	<entry key="bas_tutorial_message_melee5_1">
+		<original value="1. Press &quot;%[default:zoom]&quot; for powerfull attacks."/>
+		<translation value="1. Нажмите '%[default:zoom]', чтобы нанести сильный удар."/>
+	</entry>
+	<entry key="bas_tutorial_message_melee6">
+		<original value="1. Press &quot;%[player:prone]&quot; to get into the prone stance.\n 2. Crawl under the obstacle."/>
+		<translation value="1. Нажмите '%[player:prone]', чтобы лечь.\n 2. Проползите под препятствием."/>
+	</entry>
+	<entry key="bas_tutorial_message_melee7">
+		<original value="1. Weapons have less recoil and sway when in prone. \n 2. Try to shoot the targets."/>
+		<translation value="1. При стрельбе из положения лежа отдача и увод ствола уменьшаются. \n 2. Попробуйте попасть в мишени."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_melee1">
+		<original value="Now move to the melee training course"/>
+		<translation value="Перейдем к тренировке рукопашного боя."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_melee2">
+		<original value="Select your primary weapon and hit couple of targets with weapon butt. Butt hit is not powerful but might help you in close combat."/>
+		<translation value="Выбери основное оружие и ударь несколько мишеней прикладом. Удар прикладом наносит не слишком много урона, но может спасти тебя в ближнем бою."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_melee3">
+		<original value="Weapon with attached bayonet has a great melee damage and increased melee attack radius. Now attach the bayonet to your primary weapon"/>
+		<translation value="Оружие со штыком наносит большой урон в ближнем бою и обладает увеличенным радиусом действия. Установи штык на основное оружие."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_melee4">
+		<original value="Hit some targets with bayonet."/>
+		<translation value="Ударь несколько целей штыком."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_melee5">
+		<original value="Each soldier has a knife. It's powerful and deadly at closerange. Select your knife and hit several targets with it."/>
+		<translation value="У каждого солдата есть нож. Это надежное и смертоносное оружие ближнего боя. Выбери нож и порази им несколько целей."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_melee6">
+		<original value="You can prone to get through small holes. Now crawl under the obstacle."/>
+		<translation value="Так, теперь проползи под препятствием."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_melee7">
+		<original value="When in prone your weapon has a smaller recoil and sway so shooting from this position is really effective especially for heavy rifles."/>
+		<translation value="При стрельбе из положения лежа отдача и увод ствола снижаются, что очень полезно в случае использования тяжелых винтовок."/>
+	</entry>
+	<entry key="tutorial_repeat_message_melee08">
+		<original value="Use alternative attack for a more powerfull knife strike"/>
+		<translation value="Теперь нанеси сильный удар ножом."/>
+	</entry>
+	<entry key="bas_tutorial_hq_command_melee8">
+		<original value="Now try an alternative knife attack"/>
+		<translation value="Нанеси сильный удар ножом."/>
+	</entry>
+	<entry key="m_step_02">
+		<original value="Approach your teammate"/>
+		<translation value="Подойдите к напарнику"/>
+	</entry>
+	<entry key="m_step_03">
+		<original value="1. Continue pressing &lt;font color='#ffc800'&gt;%[player:class_specific]&lt;/font&gt; until the defibrillator is selected. \n2. Approach your teammate \n3. Aim at him, and press the &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;"/>
+		<translation value="1. Нажимайте &lt;font color='#ffc800'&gt;%[player:class_specific]&lt;/font&gt;, пока не будет выбран дефибриллятор. \n2. Подойдите к напарнику. \n3. Направьте прицел на него и нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;."/>
+	</entry>
+	<entry key="m_step_04">
+		<original value="Approach the gates. When you are close enough you will see the instructions."/>
+		<translation value="Подойдите к воротам поближе, чтобы увидеть подсказку"/>
+	</entry>
+	<entry key="m_step_05">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; to heal yourself"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, чтобы вылечить себя."/>
+	</entry>
+	<entry key="m_step_06">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:class_specific]&lt;/font&gt; untill the med-kit is selected \n2. While aiming at your teammate, press and hold &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to heal him"/>
+		<translation value="1. Нажимайте &lt;font color='#ffc800'&gt;%[player:class_specific]&lt;/font&gt;, пока не будет выбрана аптечка. \n2. Направьте прицел на напарника и нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы вылечить его."/>
+	</entry>
+	<entry key="m_step_07">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:heavy]&lt;/font&gt; to select your shotgun \n2. Try it on the targets, and proceed down the street."/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[player:heavy]&lt;/font&gt;, чтобы переключиться на дробовик. \n2. Поразите мишени и продолжайте выполнение тренировочного курса."/>
+	</entry>
+	<entry key="m_step_08">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:slide]&lt;/font&gt; while sprinting (toggle &lt;font color='#ffc800'&gt;%[player:moveforward]+%[player:haste]&lt;/font&gt;) to perform a slide"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[player:slide]&lt;/font&gt; во время рывка (активируется нажатием &lt;font color='#ffc800'&gt;%[player:moveforward]+%[player:haste]&lt;/font&gt;), чтобы сделать подкат."/>
+	</entry>
+	<entry key="m_step_09">
+		<original value="Shoot the target with your shotgun while sliding"/>
+		<translation value="Поразите цель из дробовика во время подката"/>
+	</entry>
+	<entry key="m_step_10">
+		<original value="Try to hit a distant target with the shotgun"/>
+		<translation value="Постарайтесь поразить дальнюю цель из дробовика"/>
+	</entry>
+	<entry key="m_step_11">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; to aim \n2. Try to use the aiming mode to hit the distant target"/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, чтобы прицелиться. \n2. Используйте режим прицеливания, чтобы поразить дальнюю цель."/>
+	</entry>
+	<entry key="m_step_12">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:medium]&lt;/font&gt; to select your secondary weapon \n2. Hit distant targets with the pistol"/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[player:medium]&lt;/font&gt;, чтобы выбрать дополнительное оружие. \n2. Поразите дальние цели из пистолета."/>
+	</entry>
+	<entry key="m_step_13">
+		<original value="Proceed to the evacuation point"/>
+		<translation value="Доберитесь до точки эвакуации"/>
+	</entry>
+	<entry key="m_step_14">
+		<original value="Congratulations soldier, you are now ready for battle. Your teammates are waiting for you!"/>
+		<translation value="Поздравляем, теперь вы готовы присоединиться к отряду Warface. Удачи в бою!"/>
+	</entry>
+	<entry key="m_badge_01">
+		<original value="MEDIC 1/13 \n Welcome"/>
+		<translation value="МЕДИК 1/13 \n Введение"/>
+	</entry>
+	<entry key="m_badge_02">
+		<original value="MEDIC 2/13 \n Move"/>
+		<translation value="МЕДИК 2/13 \n Движение"/>
+	</entry>
+	<entry key="m_badge_03">
+		<original value="MEDIC 3/13 \n Resurrection"/>
+		<translation value="МЕДИК 3/13 \n Воскрешение"/>
+	</entry>
+	<entry key="m_badge_04">
+		<original value="MEDIC 4/13 \n Trigger usage"/>
+		<translation value="МЕДИК 4/13 \n Действия"/>
+	</entry>
+	<entry key="m_badge_05">
+		<original value="MEDIC 6/13 \n Self healing"/>
+		<translation value="МЕДИК 6/13 \n Лечение I"/>
+	</entry>
+	<entry key="m_badge_06">
+		<original value="MEDIC 5/13 \n Healing the teammate"/>
+		<translation value="МЕДИК 5/13 \n Лечение II"/>
+	</entry>
+	<entry key="m_badge_07">
+		<original value="MEDIC 7/13 \n Shooting"/>
+		<translation value="МЕДИК 7/13 \n Стрельба"/>
+	</entry>
+	<entry key="m_badge_08">
+		<original value="MEDIC 8/13 \n Slide"/>
+		<translation value="МЕДИК 8/13 \n Подкат"/>
+	</entry>
+	<entry key="m_badge_09">
+		<original value="MEDIC 9/13 \n Slide shooting"/>
+		<translation value="МЕДИК 9/13 \n Стрельба в подкате"/>
+	</entry>
+	<entry key="m_badge_10">
+		<original value="MEDIC 10/13 \n Range shooting with shotgun"/>
+		<translation value="МЕДИК 10/13 \n Стрельба по дальним целям"/>
+	</entry>
+	<entry key="m_badge_11">
+		<original value="MEDIC 11/13 \n Zoomed shooting"/>
+		<translation value="МЕДИК 11/13 \n Режим прицеливания"/>
+	</entry>
+	<entry key="m_badge_12">
+		<original value="MEDIC 12/13 \n Secondary weapon"/>
+		<translation value="МЕДИК 12/13 \n Дополнительное оружие"/>
+	</entry>
+	<entry key="m_badge_13">
+		<original value="MEDIC 13/13 \n Evacuation"/>
+		<translation value="МЕДИК 13/13 \n Эвакуация"/>
+	</entry>
+	<entry key="s_badge_01">
+		<original value="SOLDIER 1/22 \n Welcome"/>
+		<translation value="ШТУРМОВИК 1/22 \n Введение"/>
+	</entry>
+	<entry key="s_badge_02">
+		<original value="SOLDIER 2/22 \n Movement"/>
+		<translation value="ШТУРМОВИК 2/22 \n Движение"/>
+	</entry>
+	<entry key="s_badge_03">
+		<original value="SOLDIER 3/22 \n Sprint"/>
+		<translation value="ШТУРМОВИК 3/22 \n Рывок"/>
+	</entry>
+	<entry key="s_badge_04">
+		<original value="SOLDIER 4/22 \n Jump"/>
+		<translation value="ШТУРМОВИК 4/22 \n Прыжок"/>
+	</entry>
+	<entry key="s_badge_05">
+		<original value="SOLDIER 5/22 \n Climb"/>
+		<translation value="ШТУРМОВИК 5/22 \n Препятствия I"/>
+	</entry>
+	<entry key="s_badge_06">
+		<original value="SOLDIER 6/22 \n Crouch"/>
+		<translation value="ШТУРМОВИК 6/22 \n Препятствия II"/>
+	</entry>
+	<entry key="s_badge_07">
+		<original value="SOLDIER 7/22 \n Vault"/>
+		<translation value="ШТУРМОВИК 7/22 \n Препятствия III"/>
+	</entry>
+	<entry key="s_badge_08">
+		<original value="SOLDIER 8/22 \n Hip shooting"/>
+		<translation value="ШТУРМОВИК 8/22 \n Стрельба с бедра"/>
+	</entry>
+	<entry key="s_badge_09">
+		<original value="SOLDIER 9/22 \n Reload"/>
+		<translation value="ШТУРМОВИК 9/22 \n Перезарядка"/>
+	</entry>
+	<entry key="s_badge_11">
+		<original value="SOLDIER 10/22 \n Zoomed shooting"/>
+		<translation value="ШТУРМОВИК 10/22 \n Прицеливание I"/>
+	</entry>
+	<entry key="s_badge_12">
+		<original value="SOLDIER 11/22 \n Customization"/>
+		<translation value="ШТУРМОВИК 11/22 \n Модификация"/>
+	</entry>
+	<entry key="s_badge_15">
+		<original value="SOLDIER 12/22 \n Scope zooming"/>
+		<translation value="ШТУРМОВИК 12/22 \n Прицеливание II"/>
+	</entry>
+	<entry key="s_badge_16">
+		<original value="SOLDIER 14/22 \n Go to the gates"/>
+		<translation value="ШТУРМОВИК 14/22 Путь к воротам"/>
+	</entry>
+	<entry key="s_badge_17">
+		<original value="SOLDIER 15/22 \n Teammate ammo replanishment"/>
+		<translation value="ШТУРМОВИК 15/22 \n Пополнение боезапаса I"/>
+	</entry>
+	<entry key="s_badge_18">
+		<original value="SOLDIER 16/22 \n Self ammo replanishment"/>
+		<translation value="ШТУРМОВИК 16/22 \n Пополнение боезапаса I"/>
+	</entry>
+	<entry key="s_badge_19">
+		<original value="SOLDIER 13/22 \n Grenade throwing"/>
+		<translation value="ШТУРМОВИК 13/22 \n Метание гранат"/>
+	</entry>
+	<entry key="s_badge_20">
+		<original value="SOLDIER 17/22 \n empty prone"/>
+		<translation value="ШТУРМОВИК 17/22 \n Положение лежа"/>
+	</entry>
+	<entry key="s_badge_21">
+		<original value="SOLDIER 17/22 \n Double climb"/>
+		<translation value="ШТУРМОВИК 17/22 \n Совместные действия I"/>
+	</entry>
+	<entry key="s_badge_22">
+		<original value="SOLDIER 18/22 \n Coop assist"/>
+		<translation value="ШТУРМОВИК 18/22 \n Совместные действия II"/>
+	</entry>
+	<entry key="s_badge_23">
+		<original value="SOLDIER 19/22 \n Class switching"/>
+		<translation value="ШТУРМОВИК 19/22 \n Смена класса"/>
+	</entry>
+	<entry key="s_badge_24">
+		<original value="SNIPER 20/22 \n Sniper rifle shooting"/>
+		<translation value="СНАЙПЕР 20/22 \n Снайперская винтовка"/>
+	</entry>
+	<entry key="s_badge_25">
+		<original value="SNIPER 21/22 \n Weapon pick up"/>
+		<translation value="СНАЙПЕР 21/22 \n Подбор оружия"/>
+	</entry>
+	<entry key="s_badge_26">
+		<original value="SNIPER 22/22 \n Rocket launcher shooting"/>
+		<translation value="СНАЙПЕР 22/22 \n Стрельба из гранатомета"/>
+	</entry>
+	<entry key="s_step_02">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveback]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveleft]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveright]&lt;/font&gt; to move."/>
+		<translation value="Используйте кнопки &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveback]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveleft]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveright]&lt;/font&gt; для передвижения."/>
+	</entry>
+	<entry key="s_step_03">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:haste]&lt;/font&gt; once while moving forward (&lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;) to toggle the sprint mode."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[player:haste]&lt;/font&gt; во время движения вперед (&lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;), чтобы сделать рывок."/>
+	</entry>
+	<entry key="s_step_04">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;+&lt;font color='#ffc800'&gt;%[player:jump]&lt;/font&gt; while moving towards the obstacle to jump over it."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;+&lt;font color='#ffc800'&gt;%[player:jump]&lt;/font&gt; во время движения в сторону препятствия, чтобы перепрыгнуть через него."/>
+	</entry>
+	<entry key="s_step_05">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;+&lt;font color='#ffc800'&gt;%[player:jump]&lt;/font&gt; in front of the wall to scale it."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;+&lt;font color='#ffc800'&gt;%[player:jump]&lt;/font&gt; перед стеной, чтобы забраться на нее."/>
+	</entry>
+	<entry key="s_step_06">
+		<original value="Hold &lt;font color='#ffc800'&gt;%[player:crouch]&lt;/font&gt;+&lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt; to move in crouch under obstacle."/>
+		<translation value="Удерживайте &lt;font color='#ffc800'&gt;%[player:crouch]&lt;/font&gt;+&lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;, чтобы пробраться под препятствием."/>
+	</entry>
+	<entry key="s_step_07">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;+&lt;font color='#ffc800'&gt;%[player:jump]&lt;/font&gt; in front of the obstacle to vault over it."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;+&lt;font color='#ffc800'&gt;%[player:jump]&lt;/font&gt; перед препятствием, чтобы перебраться через него."/>
+	</entry>
+	<entry key="s_step_08">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; with selected weapon to shoot. \n2. Aim with your crosschair."/>
+		<translation value="1. Выберите оружие и нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы открыть огонь. \n2. Используйте мышь для наведения на цель."/>
+	</entry>
+	<entry key="s_step_09">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:reload]&lt;/font&gt; to reload your weapon."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[player:reload]&lt;/font&gt;, чтобы перезарядить оружие."/>
+	</entry>
+	<entry key="s_step_10">
+		<original value="Approach to the checkpoint.\nAll checkpoints are marked with special icon."/>
+		<translation value="Доберитесь до цели.\nВсе контрольные точки отмечены специальным значком."/>
+	</entry>
+	<entry key="s_step_11">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; to aim \n2. Shoot the targets with &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; while aiming."/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, чтобы прицелиться. \n2. Поразите цели с помощью &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, находясь в режиме прицеливания."/>
+	</entry>
+	<entry key="s_step_12">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:hud_weapon_mod]&lt;/font&gt; with selected rifle to open the customization menu."/>
+		<translation value="Выберите винтовку и нажмите &lt;font color='#ffc800'&gt;%[player:hud_weapon_mod]&lt;/font&gt;, чтобы открыть меню модификации оружия."/>
+	</entry>
+	<entry key="s_step_13">
+		<original value="Click on the scope with &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to attach it to your rifle."/>
+		<translation value="Выберите прицел и нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы установить его на винтовку."/>
+	</entry>
+	<entry key="s_step_14">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:hud_weapon_mod]&lt;/font&gt; again to exit the customization menu."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[player:hud_weapon_mod]&lt;/font&gt; еще раз, чтобы закрыть меню модификации."/>
+	</entry>
+	<entry key="s_step_15">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; to aim \n2. Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to shoot from your rifle and hit distant targets with the rifle while in aim mode."/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, чтобы прицелиться. \n2. Откройте огонь из винтовки с помощью &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; и поразите дальние мишени в режиме прицеливания."/>
+	</entry>
+	<entry key="s_step_16">
+		<original value="Move to the checkpoint with &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveback]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveleft]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveright]&lt;/font&gt;."/>
+		<translation value="Доберитесь до контрольной точки с помощью &lt;font color='#ffc800'&gt;%[player:moveforward]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveback]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveleft]&lt;/font&gt;, &lt;font color='#ffc800'&gt;%[player:moveright]&lt;/font&gt;."/>
+	</entry>
+	<entry key="s_step_17">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:class_specific]&lt;/font&gt; to select the ammo pack. \n2. Come closer to your teammate. \n3. Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to replenish teammate's ammo while aiming him from the close distance."/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[player:class_specific]&lt;/font&gt;, чтобы выбрать ящик с патронами. \n2. Подойдите к напарнику по команде. \n3. Нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы пополнить боезапас напарника."/>
+	</entry>
+	<entry key="s_step_18">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; with selected ammo pack to replenish your ammo."/>
+		<translation value="Выберите ящик с патронами и нажмите &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, чтобы пополнить свой боезапас."/>
+	</entry>
+	<entry key="s_step_19">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:class_specific2]&lt;/font&gt; to select the grenade. \n2. Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to throw the grenade."/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[player:class_specific2]&lt;/font&gt;, чтобы выбрать гранату. \n2. Нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы бросить ее."/>
+	</entry>
+	<entry key="s_step_20">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:prone]&lt;/font&gt; to change your stance to prone \n2. Press &lt;font color='#ffc800'&gt;%[player:heavy]&lt;/font&gt; to select your primary weapon \n3. Shoot by pressing &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to hit targets while proning."/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[player:prone]&lt;/font&gt;, чтобы принять положение лежа. \n2. Нажмите &lt;font color='#ffc800'&gt;%[player:heavy]&lt;/font&gt;, чтобы выбрать основное оружие. \n3. Поразите цели с помощью &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, лежа на земле."/>
+	</entry>
+	<entry key="s_step_20a">
+		<original value="Press &lt;font color='#ffc800'&gt;%[player:prone]&lt;/font&gt; again or &lt;font color='#ffc800'&gt;%[player:jump]&lt;/font&gt; to stand up."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[player:prone]&lt;/font&gt; еще раз, чтобы встать на ноги. Также для этого можно использовать кнопку &lt;font color='#ffc800'&gt;%[player:jump]&lt;/font&gt;."/>
+	</entry>
+	<entry key="s_step_21">
+		<original value="1. Get closer to your teammate. \n 2. Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; while aiming the teammate in the special position to perform double climb."/>
+		<translation value="1. Подойдите к напарнику. \n 2. Наведите на него прицел и нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы залезть на препятствие."/>
+	</entry>
+	<entry key="s_step_22">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; near the wall with special indicator to be ready for climb assist. \n2. Wait your teammate performing double climb."/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; возле стены с особым значком, чтобы приготовиться к совместному действию. \n2. Дождитесь напарника по команде и с его помощью заберитесь на стену."/>
+	</entry>
+	<entry key="s_step_23">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[default:escape]&lt;/font&gt; to enter into the in-game menu \n2. Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; on the sniper icon to switch your class to sniper."/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[default:escape]&lt;/font&gt;, чтобы открыть внутриигровое меню. \n2. Щелкните &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; по значку снайпера для смены класса."/>
+	</entry>
+	<entry key="s_step_24">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; to aim and &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to shoot and hit targets with the sniper rifle."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, чтобы перейти в режим прицеливания. После этого поразите цели из снайперской винтовки с помощью &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;."/>
+	</entry>
+	<entry key="s_step_25">
+		<original value="Pick up the weapon by pressing &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; while aiming it from close distance."/>
+		<translation value="Подберите оружие, наведя на него прицел и нажав &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;."/>
+	</entry>
+	<entry key="s_step_26">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to shoot and hit a target with the rocket launcher."/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы поразить цель из гранатомета."/>
+	</entry>
+	<entry key="s_step_27">
+		<original value="Great job, soldier! I think you're ready for a real fight!"/>
+		<translation value="Отличный результат, боец! Теперь ты готов к настоящей битве!"/>
+	</entry>
+	<entry key="e_badge_01">
+		<original value="ENGINEER 1/11 \n Welcome"/>
+		<translation value="ИНЖЕНЕР 1/11 \n Введение"/>
+	</entry>
+	<entry key="e_badge_02">
+		<original value="ENGINEER 2/11 \n Sub-machine gun shooting"/>
+		<translation value="ИНЖЕНЕР 2/11 \n Пистолет-пулемет"/>
+	</entry>
+	<entry key="e_badge_03">
+		<original value="ENGINEER 3/11 \n Claymore"/>
+		<translation value="ИНЖЕНЕР 3/11 \n Мины"/>
+	</entry>
+	<entry key="e_badge_04">
+		<original value="ENGINEER 4/11 \n Self armor restore"/>
+		<translation value="ИНЖЕНЕР 4/11 \n Ремонт брони I"/>
+	</entry>
+	<entry key="e_badge_05">
+		<original value="ENGINEER 5/11 \n Teammate's armor restore"/>
+		<translation value="ИНЖЕНЕР 5/11 \n Ремонт брони II"/>
+	</entry>
+	<entry key="e_badge_06">
+		<original value="ENGINEER 6/11 \n Regular melee attack"/>
+		<translation value="ИНЖЕНЕР 6/11 \n Ближний бой I"/>
+	</entry>
+	<entry key="e_badge_07">
+		<original value="ENGINEER 7/11 \n Powerful melee attack"/>
+		<translation value="ИНЖЕНЕР 7/11 \n Ближний бой II"/>
+	</entry>
+	<entry key="e_badge_08">
+		<original value="ENGINEER 8/11 \n Butt melee attack"/>
+		<translation value="ИНЖЕНЕР 8/11 \n Ближний бой III"/>
+	</entry>
+	<entry key="e_badge_09">
+		<original value="ENGINEER 9/11 \n Bomb pick up"/>
+		<translation value="ИНЖЕНЕР 9/11 \n Подбор бомбы"/>
+	</entry>
+	<entry key="e_badge_10">
+		<original value="ENGINEER 10/11 \n Plant the bomb"/>
+		<translation value="ИНЖЕНЕР 10/11 \n Установка бомбы"/>
+	</entry>
+	<entry key="e_badge_11">
+		<original value="ENGINEER 11/11 \n Evacuation"/>
+		<translation value="ИНЖЕНЕР 11/11 \n Эвакуация"/>
+	</entry>
+	<entry key="e_badge_12">
+		<original value="ENGINEER 11/11 \n Evacuation"/>
+		<translation value="ИНЖЕНЕР 11/11 \n Эвакуация"/>
+	</entry>
+	<entry key="e_step_02">
+		<original value="Use your SMG to hit down targets along the street"/>
+		<translation value="Поразите цели из пистолета-пулемета"/>
+	</entry>
+	<entry key="e_step_03">
+		<original value="1. Continue pressing &lt;font color='#ffc800'&gt;%[player:class_specific2]&lt;/font&gt; until the claymore selected \n2. Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; with claymore selected to plant it on the ground"/>
+		<translation value="1. Нажимайте &lt;font color='#ffc800'&gt;%[player:class_specific2]&lt;/font&gt;, пока не будет выбрана мина. \n2. Нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы установить мину на ровную поверхность."/>
+	</entry>
+	<entry key="e_step_04">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:class_specific]&lt;/font&gt; to select armor-kit \n2. Press and hold &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; with selected armor-kit to restore your armor"/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[player:class_specific]&lt;/font&gt;, чтобы выбрать ремонтный комплект. \n2. Нажмите &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, чтобы починить свою броню."/>
+	</entry>
+	<entry key="e_step_05">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; while aiming your teammate to restore his armor"/>
+		<translation value="Наведите прицел на напарника и нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы починить его броню."/>
+	</entry>
+	<entry key="e_step_06">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:small]&lt;/font&gt; to select your knife \n2. Press &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt; to hit the target with knife"/>
+		<translation value="1. Нажмите &lt;font color='#ffc800'&gt;%[player:small]&lt;/font&gt;, чтобы выбрать нож. \n2. Нажмите &lt;font color='#ffc800'&gt;%[default:attack1]&lt;/font&gt;, чтобы ударить цель ножом."/>
+	</entry>
+	<entry key="e_step_07">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt; to hit the target with powerful knife attack"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:zoom]&lt;/font&gt;, чтобы нанести сильный удар ножом."/>
+	</entry>
+	<entry key="e_step_08">
+		<original value="1. Press &lt;font color='#ffc800'&gt;%[player:heavy]&lt;/font&gt; to select your primary weapon \n2. Press &lt;font color='#ffc800'&gt;%[player:melee]&lt;/font&gt; to hit the tagret with butt attack"/>
+		<translation value="1. Выберите основное оружие с помощью &lt;font color='#ffc800'&gt;%[player:heavy]&lt;/font&gt;. \n2. Нажмите &lt;font color='#ffc800'&gt;%[player:melee]&lt;/font&gt;, чтобы ударить цель прикладом."/>
+	</entry>
+	<entry key="e_step_09">
+		<original value="Approach to the bomb to pick it up"/>
+		<translation value="Подойдите к бомбе и подберите ее"/>
+	</entry>
+	<entry key="e_step_10">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; while beaing within bomb site to plant the bomb"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы установить бомбу."/>
+	</entry>
+	<entry key="e_step_11">
+		<original value="Go to the helicopter"/>
+		<translation value="Садитесь в вертолет"/>
+	</entry>
+	<entry key="e_step_12">
+		<original value="Great job, soldier! You succeed all trainings and become a part of the Warface team!"/>
+		<translation value="Обучение закончено! Добро пожаловать в отряд Warface!"/>
+	</entry>
+	<entry key="goto_airfield_marker_text">
+		<original value="Airfield"/>
+		<translation value="Взлетная полоса"/>
+	</entry>
+	<entry key="goto_convoy_marker_text">
+		<original value="Convoy"/>
+		<translation value="Конвой"/>
+	</entry>
+	<entry key="goto_village_marker_text">
+		<original value="Village"/>
+		<translation value="Деревня"/>
+	</entry>
+	<entry key="goto_poppy_field_marker_text">
+		<original value="Poppy Field"/>
+		<translation value="Маковое поле"/>
+	</entry>
+	<entry key="reload_marker_text">
+		<original value="Reload"/>
+		<translation value="Перезарядка"/>
+	</entry>
+	<entry key="next_floor">
+		<original value="Lift is ready! Proceed to the next floor"/>
+		<translation value="Лифт готов к отправке!"/>
+	</entry>
+	<entry key="nm_get_device_marker_text">
+		<original value="DOWNLOAD"/>
+		<translation value="СКАЧАТЬ"/>
+	</entry>
+	<entry key="nm_upload_marker_text">
+		<original value="UPLOAD"/>
+		<translation value="ЗАГРУЗИТЬ"/>
+	</entry>
+	<entry key="sniper_marker_text">
+		<original value="Sniper"/>
+		<translation value="Снайпер"/>
+	</entry>
+	<entry key="specops_marker_text">
+		<original value="Specops"/>
+		<translation value="Боец спецназа"/>
+	</entry>
+	<entry key="demoman_marker_text">
+		<original value="Demoman"/>
+		<translation value="Гранатометчик"/>
+	</entry>
+	<entry key="shield_marker_text">
+		<original value="Shield Bearer"/>
+		<translation value="Щитоносец"/>
+	</entry>
+	<entry key="machine_gun_marker_text">
+		<original value="Machine Gun"/>
+		<translation value="Пулемет"/>
+	</entry>
+	<entry key="lift_marker_text">
+		<original value="Move lift"/>
+		<translation value="Используйте лифт"/>
+	</entry>
+	<entry key="Africa_mission_start_location1">
+		<original value="Location: East Africa"/>
+		<translation value="Место действия: Африка"/>
+	</entry>
+	<entry key="Africa_mission_start_time_1000">
+		<original value="Local time: 10:00"/>
+		<translation value="Местное время: 10:00"/>
+	</entry>
+	<entry key="Africa_mission_start_time_1630">
+		<original value="Local time: 16:30"/>
+		<translation value="Местное время: 16:30"/>
+	</entry>
+	<entry key="Resultat0">
+		<original value="You hit the 0 targets at 30 sec"/>
+		<translation value="Вы поразили 0 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat1">
+		<original value="You hit the 1 targets at 30 sec"/>
+		<translation value="Вы поразили 1 цель за 30 сек."/>
+	</entry>
+	<entry key="Resultat2">
+		<original value="You hit the 2 targets at 30 sec"/>
+		<translation value="Вы поразили 2 цели за 30 сек."/>
+	</entry>
+	<entry key="Resultat3">
+		<original value="You hit the 3 targets at 30 sec"/>
+		<translation value="Вы поразили 3 цели за 30 сек."/>
+	</entry>
+	<entry key="Resultat4">
+		<original value="You hit the 4 targets at 30 sec"/>
+		<translation value="Вы поразили 4 цели за 30 сек."/>
+	</entry>
+	<entry key="Resultat5">
+		<original value="You hit the 5 targets at 30 sec"/>
+		<translation value="Вы поразили 5 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat6">
+		<original value="You hit the 6 targets at 30 sec"/>
+		<translation value="Вы поразили 6 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat7">
+		<original value="You hit the 7 targets at 30 sec"/>
+		<translation value="Вы поразили 7 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat8">
+		<original value="You hit the 8 targets at 30 sec"/>
+		<translation value="Вы поразили 8 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat9">
+		<original value="You hit the 9 targets at 30 sec"/>
+		<translation value="Вы поразили 9 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat10">
+		<original value="You hit the 10 targets at 30 sec"/>
+		<translation value="Вы поразили 10 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat11">
+		<original value="You hit the 11 targets at 30 sec"/>
+		<translation value="Вы поразили 11 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat12">
+		<original value="You hit the 12 targets at 30 sec"/>
+		<translation value="Вы поразили 12 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat13">
+		<original value="You hit the 13 targets at 30 sec"/>
+		<translation value="Вы поразили 13 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat14">
+		<original value="You hit the 14 targets at 30 sec"/>
+		<translation value="Вы поразили 14 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat15">
+		<original value="You hit the 15 targets at 30 sec"/>
+		<translation value="Вы поразили 15 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat16">
+		<original value="You hit the 16 targets at 30 sec"/>
+		<translation value="Вы поразили 16 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat17">
+		<original value="You hit the 17 targets at 30 sec"/>
+		<translation value="Вы поразили 17 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat18">
+		<original value="You hit the 18 targets at 30 sec"/>
+		<translation value="Вы поразили 18 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat19">
+		<original value="You hit the 19 targets at 30 sec"/>
+		<translation value="Вы поразили 19 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat20">
+		<original value="You hit the 20 targets at 30 sec"/>
+		<translation value="Вы поразили 20 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat21">
+		<original value="You hit the 21 targets at 30 sec"/>
+		<translation value="Вы поразили 21 цель за 30 сек."/>
+	</entry>
+	<entry key="Resultat22">
+		<original value="You hit the 22 targets at 30 sec"/>
+		<translation value="Вы поразили 22 цели за 30 сек."/>
+	</entry>
+	<entry key="Resultat23">
+		<original value="You hit the 23 targets at 30 sec"/>
+		<translation value="Вы поразили 23 цели за 30 сек."/>
+	</entry>
+	<entry key="Resultat24">
+		<original value="You hit the 24 targets at 30 sec"/>
+		<translation value="Вы поразили 24 цели за 30 сек."/>
+	</entry>
+	<entry key="Resultat25">
+		<original value="You hit the 25 targets at 30 sec"/>
+		<translation value="Вы поразили 25 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat26">
+		<original value="You hit the 26 targets at 30 sec"/>
+		<translation value="Вы поразили 26 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat27">
+		<original value="You hit the 27 targets at 30 sec"/>
+		<translation value="Вы поразили 27 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat28">
+		<original value="You hit the 28 targets at 30 sec"/>
+		<translation value="Вы поразили 28 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat29">
+		<original value="You hit the 29 targets at 30 sec"/>
+		<translation value="Вы поразили 29 целей за 30 сек."/>
+	</entry>
+	<entry key="Resultat30">
+		<original value="You hit the 30 targets at 30 sec"/>
+		<translation value="Вы поразили 30 целей за 30 сек."/>
+	</entry>
+	<entry key="start_training">
+		<original value="Kill 30 targets in 30 seconds!"/>
+		<translation value="Уничтожьте максимальное количество мишеней за отведенное время"/>
+	</entry>
+	<entry key="GetReady">
+		<original value="Get Ready!"/>
+		<translation value="Приготовьтесь!"/>
+	</entry>
+	<entry key="push_marker_text">
+		<original value="PUSH"/>
+		<translation/>
+	</entry>
+	<entry key="pve_generic_teleport_timeout_start">
+		<original value="On your marks! It's time to move team."/>
+		<translation value="Все по местам! Выдвигаемся, бойцы."/>
+	</entry>
+	<entry key="pve_generic_teleport_timeout_cancelled_inside">
+		<original value="Not the whole team assembled!"/>
+		<translation value="Собралась не вся команда!"/>
+	</entry>
+	<entry key="pve_generic_teleport_timeout_cancelled_outside">
+		<original value="You've left your position, regroup with the team!"/>
+		<translation value="Вы покинули позицию. Вернитесь к команде!"/>
+	</entry>
+	<entry key="radar_marker_text">
+		<original value="Start scanning"/>
+		<translation value="Начать сканирование"/>
+	</entry>
+	<entry key="ib_tutorial_01">
+		<original value="Remaining targets: 5/6"/>
+		<translation value="Осталось целей: 5/6"/>
+	</entry>
+	<entry key="ib_tutorial_02">
+		<original value="Remaining targets: 4/6"/>
+		<translation value="Осталось целей: 4/6"/>
+	</entry>
+	<entry key="ib_tutorial_03">
+		<original value="Remaining targets: 3/6"/>
+		<translation value="Осталось целей: 3/6"/>
+	</entry>
+	<entry key="ib_tutorial_04">
+		<original value="Remaining targets: 2/6"/>
+		<translation value="Осталось целей: 2/6"/>
+	</entry>
+	<entry key="ib_tutorial_05">
+		<original value="Remaining targets: 1/6"/>
+		<translation value="Осталось целей: 1/6"/>
+	</entry>
+	<entry key="1_done">
+		<original value="1st done!"/>
+		<translation value="Первый этап пройден!"/>
+	</entry>
+	<entry key="2_done">
+		<original value="2nd done!"/>
+		<translation value="Второй этап пройден!"/>
+	</entry>
+	<entry key="3_done">
+		<original value="3rd done!"/>
+		<translation value="Третий этап пройден!"/>
+	</entry>
+	<entry key="4_done">
+		<original value="4th done!"/>
+		<translation value="Четвертый этап пройден!"/>
+	</entry>
+	<entry key="5_done">
+		<original value="5th done!"/>
+		<translation value="Пятый этап пройден!"/>
+	</entry>
+	<entry key="6_done">
+		<original value="6th done!"/>
+		<translation value="Шестой этап пройден!"/>
+	</entry>
+	<entry key="7_done">
+		<original value="7th done!"/>
+		<translation value="Седьмой этап пройден!"/>
+	</entry>
+	<entry key="8_done">
+		<original value="8th done!"/>
+		<translation value="Восьмой этап пройден!"/>
+	</entry>
+	<entry key="9_done">
+		<original value="9th done!"/>
+		<translation value="Девятый этап пройден!"/>
+	</entry>
+	<entry key="All_done">
+		<original value="All done, good job!"/>
+		<translation value="Отлично! Курс завершен."/>
+	</entry>
+	<entry key="cheater">
+		<original value="Cheating is bad, you know?"/>
+		<translation value="Вы знаете, что жульничать нехорошо?"/>
+	</entry>
+	<entry key="gym_start">
+		<original value="Course started!"/>
+		<translation value="Тренировка началась!"/>
+	</entry>
+	<entry key="gym_try_again">
+		<original value="The floor is lava, try again!"/>
+		<translation value="Пол - это лава! Попробуйте снова."/>
+	</entry>
+	<entry key="air_drop">
+		<original value="Air Drop! Take it!"/>
+		<translation value="Груз сброшен!"/>
+	</entry>
+	<entry key="killzone_activated">
+		<original value="Area began shrinking!"/>
+		<translation value="Зона начинает сужаться!"/>
+	</entry>
+	<entry key="Chernobyl_mission_start_location">
+		<original value="Eastern Europe"/>
+		<translation value="Восточная Европа"/>
+	</entry>
+	<entry key="lms_10_players">
+		<original value="10 fighters left!"/>
+		<translation value="Осталось 10 бойцов!"/>
+	</entry>
+	<entry key="lms_5_players">
+		<original value="5 fighters left!"/>
+		<translation value="Осталось 5 бойцов!"/>
+	</entry>
+	<entry key="lms_3_players">
+		<original value="3 fighters left!"/>
+		<translation value="Осталось 3 бойца!"/>
+	</entry>
+	<entry key="lms_2_players">
+		<original value="Final duel!"/>
+		<translation value="Финальная дуэль!"/>
+	</entry>
+	<entry key="lms_round_over">
+		<original value="The Battle Royale is over!"/>
+		<translation value="Королевская битва окончена!"/>
+	</entry>
+</localization>

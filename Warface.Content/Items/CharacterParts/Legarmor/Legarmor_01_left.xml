@@ -1,0 +1,25 @@
+<CharacterPart Name="Legarmor_01_left" Slot="Leg_left" Template="KneePads+LegArmor_Left">
+	<Model File="objects/characters/legarmor/legarmor_01/male/legarmor_01_left.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#legarmor_fat"/>
+			<Morph Switch="thin" Target="#legarmor_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_black.mtl"/>
+			<Material Name="green" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_green.mtl"/>
+			<Material Name="desert" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Objects\Characters\Legarmor\Legarmor_01\Female\Legarmor_01_left.chr" FGTFile="" Gender="Female">
+		<Morphs/>
+		<Switches/>
+		<Materials>
+			<Material Name="black" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_black.mtl"/>
+			<Material Name="green" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_green.mtl"/>
+			<Material Name="desert" File="objects/characters/wristarmor/wristarmor_01/wristarmor_01_desert.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

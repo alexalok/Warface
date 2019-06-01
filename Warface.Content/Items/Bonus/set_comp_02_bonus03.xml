@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<GameItem name="set_comp_02_bonus03" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_comp_02_bonus03_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="hp_regeneration_hps" value="2"/>
+		<param name="hp_regeneration_timeout" value="5"/>
+    </GameParams>
+</GameItem>

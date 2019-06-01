@@ -1,0 +1,24 @@
+<CharacterPart Name="Hands_01_optim" Slot="Hands" Template="Hands">
+	<Model File="objects/characters/gloves/gloves_01/male/gloves01_optim.chr" FGTFile="" Gender="Male">
+		<Morphs>
+			<Morph Switch="fat" Target="#hand_fat"/>
+			<Morph Switch="thin" Target="#hand_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="Default" File="Game\Objects\Characters\Hands\Hands_01\Male\hands_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+	<Model File="Game\Objects\Characters\Jacket\Jacket_20\female\Jacket_20.chr" FGTFile="" Gender="Female">
+		<Morphs>
+			<Morph Switch="fat" Target="#jacket_fat"/>
+			<Morph Switch="thin" Target="#jacket_thin"/>
+		</Morphs>
+		<Switches/>
+		<Materials>
+			<Material Name="Default" File="Objects\Characters\Gloves\Gloves_01\Female\gloves_01.mtl"/>
+		</Materials>
+		<Sockets/>
+	</Model>
+</CharacterPart>

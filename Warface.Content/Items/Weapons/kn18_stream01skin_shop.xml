@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<shop_item name="kn18_stream01skin_shop" type="weapon_skin">
+		<mmo_stats>
+			<param name="item_category" value="meleeSkin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="RESM"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@kn18_stream01skin_shop_name"/>
+			<param name="description" value="@kn18_stream01"/>
+			<param name="icon" value="kn18_stream01"/>
+		</UI_stats>
+		<skin>
+			<param name="thumbnail_icon" value="kn18_stream01_thumbnail"/>
+			<param name="material" value="stream01"/>
+		</skin>
+	</shop_item>
