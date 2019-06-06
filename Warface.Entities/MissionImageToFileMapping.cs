@@ -100,6 +100,7 @@ namespace Warface.Entities
             {"HQ5", "HQ5"},
             {"HQ6", "HQ6"},
             {"HQ7", "HQ7"},
+            {"mapImgffa_widestreet_up", "ffa_widestreet_up"},
 
             #endregion
 
