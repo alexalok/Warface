@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item category="small" class="K01_Item" name="kn05" priority="3" type="weapon" view_settings="objects/weapons/kn05/kn05.xml">
+	<skins>
+		<material name="default"/>	
+		<material name="mars02"/>	
+	</skins>
   <mmo_stats>
     <param name="item_category" value="Melee" />
     <param name="shopcontent" value="1" />
@@ -15,6 +19,9 @@
   <content>
     <item name="kn05" />
   </content>
+  <skin_content>		
+	<item name="kn05_mars02skin_shop" />			
+  </skin_content>
   <icons>
     <combatlog melee="Kn05_combatLog" />
     <weaponpanel icon="Kn05_combatLog" />

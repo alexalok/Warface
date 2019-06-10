@@ -6810,7 +6810,7 @@
 	</entry>
 	<entry key="options_desktop_area">
 		<original value="Desktop Area"/>
-		<translation value="Область рабочего стола"/>
+		<translation value="Рабочий стол"/>
 	</entry>
 	<entry key="ui_autostart_room_enough_players">
 		<original value="Please wait"/>
@@ -7458,7 +7458,7 @@
 	</entry>
 	<entry key="ui_button_battle_pass">
 		<original value="BATTLE PASS"/>
-		<translation value="СИНДИКАТ"/>
+		<translation value="АРМАГЕДДОН"/>
 	</entry>
 	<entry key="ui_shop_consumable">
 		<original value="CONSUMABLE"/>
@@ -7530,7 +7530,7 @@
 	</entry>
 	<entry key="ui_inventory_num_item_set_bonus">
 		<original value="Bonus %1 items: &lt;br&gt;"/>
-		<translation value="Бонус %1 предметов: &lt;br&gt;"/>
+		<translation value="Бонус %1 предметов набора: &lt;br&gt;"/>
 	</entry>
 	<entry key="ui_inventory_title_item_set_bonus">
 		<original value="&lt;font size='18' color='#%1'&gt;%2 %3/%4&lt;/font&gt;"/>
@@ -8024,10 +8024,6 @@
 		<original value="You're banned since you left the match"/>
 		<translation value="На вас наложены штрафные санкции за выход из матча."/>
 	</entry>
-	<entry key="ui_button_services">
-		<original value="SERVICES"/>
-		<translation value="СЕРВИСЫ"/>
-	</entry>
 	<entry key="ui_comics_skip">
 		<original value="SKIP"/>
 		<translation value="ПРОПУСТИТЬ"/>
@@ -8108,8 +8104,20 @@
 		<original value="Room has been closed due to insufficient players."/>
 		<translation value="Комната закрыта из-за нехватки игроков."/>
 	</entry>
-	<entry key="messagebox_group_disbanded_restricted_equipment">
-		<original value="Group disbanded. Following players use restricted items:"/>
-		<translation value="Группа расформирована. Игроки используют запрещенные предметы:"/>
+	<entry key="marseasy">
+		<original value="Mars easy"/>
+		<translation value="Легко"/>
+	</entry>
+	<entry key="marsnormal">
+		<original value="Mars normal"/>
+		<translation value="Сложно"/>
+	</entry>
+	<entry key="marshard">
+		<original value="Mars hard"/>
+		<translation value="Профи"/>
+	</entry>
+	<entry key="mission_type_marshard_unlocked">
+		<original value="&lt;font color=&quot;#ff4400&quot; size='40'&gt;CONGRATULATIONS!&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; size='20'&gt;&lt;br&gt;You have unlocked new SURVIVAL Mars mission's difficulty&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;img://Libs/Icons/hardMission.dds&quot; vspace=&quot;7&quot;&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; size='20'&gt;HARDCORE&lt;/font&gt;"/>
+		<translation value="&lt;font color=&quot;#ff4400&quot; size='40'&gt;ПОЗДРАВЛЯЕМ!&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; size='20'&gt;&lt;br&gt; Вы открыли новый уровень сложности для миссии 'Марс':&lt;/font&gt;&lt;br&gt;&lt;br&gt; &lt;img src=&quot;img://Libs/Icons/hardMission.dds&quot; vspace=&quot;7&quot;&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; size='20'&gt;ПРОФИ&lt;/font&gt;"/>
 	</entry>
 </localization>

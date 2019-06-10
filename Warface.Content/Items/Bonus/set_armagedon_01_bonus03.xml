@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<GameItem name="set_armagedon_01_bonus03" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_armagedon_01_bonus03_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="sprint_time_mul" value="1.5"/>
+		<param name="absorption" value="15"/> 
+        <param name="splash_res" value="0.30"/>		
+    </GameParams>
+</GameItem>

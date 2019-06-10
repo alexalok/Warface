@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 	<shop_item name="mg12_zsd01_shop" type="weapon">
 		<mmo_stats>
-			<param name="item_category" value="PveOnlyShared"/>
+			<param name="item_category" value="Machinegun"/>
 			<param name="shopcontent" value="1"/>
-			<param name="classes" value="MERS"/>
+			<param name="classes" value="R"/>
 			<param name="durability" value="36000"/>
 			<param name="repair_cost" value="6240"/>
 		</mmo_stats>
@@ -15,16 +15,7 @@
 		</UI_stats>
 		<content>
 			<item name="mg12_zsd01">
-				<item name="mg12_sp_d"/>
 				<item name="mg12_sa01"/>
-				<item name="as01_pve01"/>
-				<item name="as02_pve01"/>
-				<item name="as04_pve01"/>
-				<item name="rds01_pve01"/>
-				<item name="rds02_pve01"/>
-				<item name="sc02_pve01"/>
-				<item name="sc05_pve01"/>
-				<item name="sp03_pve01"/>
-			</item>
+			</item>	
 		</content>
 	</shop_item>

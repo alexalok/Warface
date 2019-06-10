@@ -5,6 +5,7 @@
     <material name="viet01" />
     <material name="ec02" />
 	<material name="lava01"/>	
+	<material name="bp06"/>	
   </skins>
   <icons>
     <ui_icon name="sr09" />

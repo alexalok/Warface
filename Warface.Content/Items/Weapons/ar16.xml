@@ -4,6 +4,7 @@
     <material name="default" />
     <material name="camo06" />
 	<material name="lava01" />
+	<material name="bp06" />
   </skins>
   <icons>
     <ui_icon name="ar16" />

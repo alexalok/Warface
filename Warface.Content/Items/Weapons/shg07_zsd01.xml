@@ -10,10 +10,10 @@
   <drop_params>
     <item name="shg07_zsd01" type="weapon" />
   </drop_params>
-  <settings archetype="Items/Weapons/Archetypes/sg.xml">
-    <param name="ammo_amount" value="12" />
-    <param name="rpm" value="195" />
-    <param name="damage" value="66" />
+  <settings archetype="Items/Weapons/Archetypes/SHG_07_ZSD.xml">
+    <param name="ammo_amount" value="10" />
+    <param name="rpm" value="210" />
+    <param name="damage" value="67" />
     <param name="damage_min" value="30" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="8" />
@@ -56,7 +56,7 @@
       <stance name="zoomed_walk" value="0.6" />
       <stance name="zoomed_jump" value="0.8" />
     </param>
-    <param name="spread_max" value="19.5" />
+    <param name="spread_max" value="22" />
     <param name="spread_max_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.9" />
@@ -126,8 +126,9 @@
     <param name="bayonet_melee_out_duration" value="500" />
     <param name="ai_sound_radius" value="250" />
     <param name="ai_light_radius" value="2.5" />
-    <param name="zoom_in_duration" value="200" />
-    <param name="zoom_out_duration" value="200" />
+    <param name="zoom_in_duration" value="180" />
+    <param name="zoom_out_duration" value="180" />
+    <param name="cyborg_damage_buff" value="0.5" />
   </settings>
   <firemodes>
     <firemode icon="FireModeSingle" type="SingleSmoothed" />

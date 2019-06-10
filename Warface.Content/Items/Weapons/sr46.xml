@@ -3,6 +3,7 @@
 		<material name="default" />	
         <material name="desert01" />			
         <material name="bp05" />			
+        <material name="bp06" />			
 	</skins>
 	<icons>
 		<ui_icon name="sr46" />

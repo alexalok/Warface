@@ -15,6 +15,7 @@
 		<material name="rank03"/>
 		<material name="rank04"/>
 		<material name="carbon01"/>			
+		<material name="bp06"/>			
 	</skins>
 	<icons>
 		<ui_icon name="sr37"/>

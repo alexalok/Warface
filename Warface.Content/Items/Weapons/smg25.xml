@@ -10,6 +10,7 @@
 		<material name="cny01"/>
 	    <material name="carbon01"/>		
         <material name="lava01"/>		
+        <material name="bp06"/>		
 	</skins>
 	<drop_params>
 		<item name="smg25" type="weapon"/>
@@ -17,7 +18,7 @@
 	<settings archetype="Items/Weapons/Archetypes/SMG_25_crown02.xml">
 		<param name="ammo_amount" value="30"/>
 		<param name="rpm" value="840"/>
-		<param name="damage" value="75"/>
+		<param name="damage" value="78"/>
 		<param name="damage_min" value="32"/>
 		<param name="damage_mul" value="1"/>
 		<param name="damage_drop_per_meter" value="2.5"/>

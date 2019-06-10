@@ -18,4 +18,7 @@
 				<item name="mg01_sp_d"/>
 			</item>
 		</content>
+		<skin_content>
+			<item name="mg01_bp06skin_shop"/>
+		</skin_content>
 	</shop_item>

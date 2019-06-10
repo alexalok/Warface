@@ -7,6 +7,10 @@
     <param name="durability" value="36000" />
     <param name="repair_cost" value="900" />
   </mmo_stats>
+  <skins>
+    <material name="default" />
+	<material name="bp06"/>
+  </skins>
   <UI_stats>
     <param name="name" value="@kn14_shop_name" />
     <param name="description" value="@ui_weapons_kn14" />
@@ -19,6 +23,9 @@
     <combatlog melee="Kn14_combatLog" />
     <weaponpanel icon="Kn14_combatLog" />
   </icons>
+  <skin_content>
+    <item name="kn14_bp06skin_shop" />
+  </skin_content>
   <settings>
     <param name="rpm" value="80" />
     <param name="melee_damage" value="65" />

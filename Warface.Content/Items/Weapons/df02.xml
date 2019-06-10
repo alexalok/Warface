@@ -41,6 +41,7 @@
     <param name="melee_duration" value="300" />
     <param name="holster_in_duration" value="200" />
   </settings>
+  <clipmode manual_reload="0" />
   <firemodes>
     <firemode effect="mfResurrect" icon="FireModeDefibrillator" type="Resurrect" />
     <firemode effect="mfDefibrillator" icon="FireModeDefibrillator" type="Defibrillator" />
@@ -64,6 +65,7 @@
   </defibrillator_params>
   <recharge_params>
     <param name="recharge_duration" value="10" />
+	<param name="type" value="resurrect" />
   </recharge_params>
   <interaction_params>
     <param name="crosshair_id" value="16" />

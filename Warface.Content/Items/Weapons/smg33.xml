@@ -6,6 +6,8 @@
     <material name="oc02" />
     <material name="rad01" />
 	<material name="ice01"/>
+	<material name="mars02"/>
+	<material name="ec03"/>
   </skins>
   <icons>
     <ui_icon name="smg33" />

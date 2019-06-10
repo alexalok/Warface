@@ -396,4 +396,68 @@
 		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to kick the gate"/>
 		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы распахнуть ворота ударом"/>
 	</entry>
+	<entry key="mars_turn_back">
+		<original value="Low signal! Turn back!"/>
+		<translation value="Низкий уровень сигнала! Вернитесь в зону уверенного приема!"/>
+	</entry>
+	<entry key="mars_bossfight_stage1">
+		<original value="TERRAFORMER-1: Lasers generator"/>
+		<translation value="Терраформер-1: лазерные генераторы"/>
+	</entry>
+	<entry key="mars_bossfight_stage3">
+		<original value="TERRAFORMER-1: Legs"/>
+		<translation value="Терраформер-1: ноги"/>
+	</entry>
+	<entry key="mars_bossfight_stage4">
+		<original value="TERRAFORMER-1: Core"/>
+		<translation value="Терраформер-1: ядро"/>
+	</entry>
+	<entry key="mars_open_door_in_colony">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to activate gateway"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы открыть шлюз"/>
+	</entry>
+	<entry key="mars_use_panel_in_colony">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to land Mothership"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы посадить транспорт"/>
+	</entry>
+	<entry key="mars_drop_coins">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to activate Arcade Machine"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы начать игру"/>
+	</entry>
+	<entry key="mars_shoot_arcade_duck">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to shoot"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы выстрелить"/>
+	</entry>
+	<entry key="mars_bossfight_disable_killzone">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to disable electric generators"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы отключить генератор"/>
+	</entry>
+	<entry key="mars_bossfight_electricity">
+		<original value="Electricity"/>
+		<translation value="Электроток"/>
+	</entry>
+	<entry key="mars_bossfight_boss_leg">
+		<original value="TERRAFORMER-1"/>
+		<translation value="Терраформер-1"/>
+	</entry>
+	<entry key="mars_bossfight_aoe">
+		<original value="TERRAFORMER-1"/>
+		<translation value="Терраформер-1"/>
+	</entry>
+	<entry key="mars_boss_laser">
+		<original value="TERRAFORMER-1"/>
+		<translation value="Терраформер-1"/>
+	</entry>
+	<entry key="death_lasers_killzone">
+		<original value="Lasers"/>
+		<translation value="Лазер"/>
+	</entry>
+	<entry key="mars_bossfight_aoe_core1">
+		<original value="AOE Core"/>
+		<translation value="Ядро"/>
+	</entry>
+	<entry key="mars_low_signal">
+		<original value="Connection lost"/>
+		<translation value="Потеряно соединение…"/>
+	</entry>
 </localization>

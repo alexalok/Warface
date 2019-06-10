@@ -1,0 +1,18 @@
+<item class="K01_Item" name="smg35_bp06_gp_d" type="attachment" view_settings="objects/weapons/smg35/smg35_gp_d.xml">
+	<skins>
+		<material name="bp06"/>
+	</skins>
+		<UI_stats>
+			<param name="name" value="@sp_default_name"/>
+			<param name="description" value="@ui_accessories_sp_default"/>
+			<param name="icon" value="ccs_nonitem"/>
+		</UI_stats>
+		<drop_params>
+			<item name="smg35_bp06_gp_d" type="attachment"/>
+		</drop_params>
+	<settings>
+	</settings>
+		<types>
+			<type helper="smg35_gp_d" name="smg35_bp06_gp_d"/>
+		</types>
+	</item>

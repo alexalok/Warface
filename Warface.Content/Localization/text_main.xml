@@ -1,43 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
 	<entry key="lp_label1">
-		<original value="FFA Widestreet"/>
-		<translation value="Обновление 'Пригорода'"/>
+		<original value="Special Operation &quot;MARS&quot;"/>
+		<translation value="Спецоперация 'Марс'"/>
 	</entry>
 	<entry key="lp_description1">
-		<original value="Widestreet reworked PvP map"/>
-		<translation value="Новая версия карты 'Пригород' для режима 'Мясорубка'."/>
+		<original value="Warface takes control over SEDs on Mars and explore new types of enemies there"/>
+		<translation value="Отряд Warface берет под контроль СЭДов на Марсе, чтобы сразиться с врагами за пределами Земли."/>
 	</entry>
 	<entry key="lp_label2">
-		<original value="FFA Widestreet"/>
-		<translation value="Обновление 'Пригорода'"/>
+		<original value="Special Operation &quot;MARS&quot;"/>
+		<translation value="Спецоперация 'Марс'"/>
 	</entry>
 	<entry key="lp_description2">
-		<original value="Widestreet reworked PvP map"/>
-		<translation value="Новая версия карты 'Пригород' для режима 'Мясорубка'."/>
+		<original value="Players come to assistance to the Martian colonists and destroy the main Blackwood forces."/>
+		<translation value="Спасите марсианских колонистов и остановите силы Blackwood!"/>
 	</entry>
 	<entry key="lp_label3">
-		<original value="SIG MPX SBR Custom"/>
-		<translation value="SIG MPX SBR Custom"/>
+		<original value="Stoner LMG A1"/>
+		<translation value="Stoner LMG A1"/>
 	</entry>
 	<entry key="lp_description3">
-		<original value="SMG SiG MPX SBR with Burst Fire 4 rounds"/>
-		<translation value="Новый пистолет-пулемет, позволяющий вести огонь очередями с осечкой по четыре патрона."/>
+		<original value="Light machine gunmanufactured by the Knight's Armament Company."/>
+		<translation value="Ручной пулемет с футуристическим дизайном и вместительным магазином."/>
 	</entry>
-	<entry>
-		<original/>
-		<translation/>
+	<entry key="lp_label4">
+		<original value="Typhoon F12"/>
+		<translation value="Typhoon F12"/>
 	</entry>
-	<entry>
-		<original/>
-		<translation/>
-	</entry>
-	<entry>
-		<original/>
-		<translation/>
-	</entry>
-	<entry>
-		<original/>
-		<translation/>
+	<entry key="lp_description4">
+		<original value="Typhoon F12 may be one of the best magazine fed tactical shotguns ever made"/>
+		<translation value="Полуавтоматическое ружье 12-го калибра, разработанное на базе AR-15."/>
 	</entry>
 </localization>

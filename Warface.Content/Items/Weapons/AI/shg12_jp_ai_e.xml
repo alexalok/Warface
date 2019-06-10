@@ -16,8 +16,8 @@
 	<settings archetype="Items/Weapons/Archetypes/SG_ai.xml">
 		<param name="ammo_amount" value="8"/>
 		<param name="rpm" value="35"/>
-		<param name="damage" value="15"/>
-		<param name="damage_min" value="2"/>
+		<param name="damage" value="16"/>
+		<param name="damage_min" value="16"/>
 		<param name="damage_mul" value="1"/>
 		<param name="damage_drop_per_meter" value="1.5"/>
 		<param name="damage_drop_min_distance" value="7"/>

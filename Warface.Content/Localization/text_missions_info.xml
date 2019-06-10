@@ -1576,4 +1576,12 @@
 		<original value="Blackwood stronghold is at siege. Destroy the defence system, and find out their plans."/>
 		<translation value="Цитадель Blackwood в осаде. Уничтожьте систему безопасности и разузнайте планы врага."/>
 	</entry>
+	<entry key="mission_mars_name">
+		<original value="Mars"/>
+		<translation value="Марс"/>
+	</entry>
+	<entry key="mission_mars_desc_01">
+		<original value="How do you like this, Elon Musk?"/>
+		<translation value="Марсианская колония в опасности! Остановите Blackwood и спасите колонистов."/>
+	</entry>
 </localization>

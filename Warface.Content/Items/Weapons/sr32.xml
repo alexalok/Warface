@@ -7,6 +7,7 @@
   <skins>
     <material name="default" />
     <material name="ps4_01" />
+    <material name="mars02" />
   </skins>
   <drop_params>
     <item name="sr32" type="weapon" />

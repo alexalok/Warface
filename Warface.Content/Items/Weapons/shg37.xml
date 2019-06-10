@@ -8,6 +8,7 @@
 		<material name="default"/>
 		<material name="cny01"/>
 		<material name="ice01"/>
+		<material name="ec03"/>
 	</skins>
   <drop_params>
     <item name="shg37" type="weapon" />

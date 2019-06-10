@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<item category="pve_only" class="K01_Item" name="mg12_zsd01" net_policy="weapon" priority="64" view_settings="objects/weapons/mg12/mg12.xml">
+<item category="heavy" class="K01_Item" name="mg12_zsd01" net_policy="weapon" priority="64" view_settings="objects/weapons/mg12/mg12.xml">
   <icons>
     <ui_icon name="mg12_zsd01" />
     <combatlog icon="Mg12_zsd01_combatLog" melee="Melee" />
@@ -7,19 +7,19 @@
   <drop_params>
     <item name="mg12_zsd01" type="weapon" />
   </drop_params>
-  <settings archetype="Items/Weapons/Archetypes/MG.xml">
+  <settings archetype="Items/Weapons/Archetypes/MG_12_ZSD.xml">
     <param name="ammo_amount" value="200" />
-    <param name="rpm" value="500" />
-    <param name="damage" value="80" />
+    <param name="rpm" value="600" />
+    <param name="damage" value="82" />
     <param name="damage_min" value="40" />
     <param name="damage_mul" value="1" />
     <param name="melee_damage" value="65" />
     <param name="melee_range" value="1.3" />
     <param name="melee_radius" value="0.2" />
-    <param name="damage_drop_per_meter" value="2.2" />
-    <param name="damage_drop_min_distance" value="13" />
-    <param name="recoil_max" value="960" />
-    <param name="recoil_att" value="98" />
+    <param name="damage_drop_per_meter" value="2" />
+    <param name="damage_drop_min_distance" value="15" />
+    <param name="recoil_max" value="800" />
+    <param name="recoil_att" value="75" />
     <param name="recoil_att_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.88" />
@@ -34,10 +34,10 @@
       <stance name="zoomed_jump" value="1" />
     </param>
     <param name="recoil_dec_delay" value="80" />
-    <param name="recoil_dec" value="110" />
+    <param name="recoil_dec" value="120" />
     <param name="recoil_dec_mul" value="1" />
     <param name="recoil_rnd" value="0" />
-    <param name="recoil_smth" value="22" />
+    <param name="recoil_smth" value="20" />
     <param name="recoil_smth_mul" value="1" />
     <param name="spread_min" value="4.7" />
     <param name="spread_min_mul" value="1">
@@ -53,7 +53,7 @@
       <stance name="zoomed_walk" value="0.05" />
       <stance name="zoomed_jump" value="0.75" />
     </param>
-    <param name="spread_max" value="9" />
+    <param name="spread_max" value="12" />
     <param name="spread_max_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.88" />
@@ -123,6 +123,7 @@
     <param name="zoom_out_duration" value="200" />
     <param name="ai_sound_radius" value="250" />
     <param name="ai_light_radius" value="2.3" />
+    <param name="cyborg_damage_buff" value="0.5" />
   </settings>
   <firemodes>
     <firemode icon="FireModeRapid" type="Rapid" />
@@ -134,17 +135,12 @@
   </melee_params>
   <sockets>
     <socket can_be_empty="1" name="scope" ui_helper="ui_scope">
-      <support helper="top_small" name="as02_pve01" />
-      <support helper="top_small" name="as01_pve01" />
-      <support helper="top_small" name="as04_pve01" />
-      <support helper="top_small" name="rds01_pve01" />
-      <support helper="top_small" name="rds02_pve01" />
-    </socket>
-    <socket can_be_empty="0" name="muzzle" ui_helper="ui_muzzle">
-      <support helper="mg12_sp_d" name="mg12_sp_d" />
-      <support helper="suppressor" name="sp03_pve01" />
-      <support helper="silencer" name="sc02_pve01" />
-      <support helper="silencer" name="sc05_pve01" />
+      <support helper="top_small" name="as02" />
+      <support helper="top_small" name="as01" />
+      <support helper="top_small" name="as04" />
+      <support helper="top_small" name="rds01" />
+      <support helper="top_small" name="rds07" />
+      <support helper="top_small" name="rds02" />
     </socket>
     <socket can_be_empty="0" name="underbarrel" ui_helper="ui_muzzle">
       <support helper="mg12_sa01" name="mg12_sa01" />
@@ -157,7 +153,7 @@
   <fireparams>
     <fire>
       <param name="extra_ammo" value="600" />
-      <param name="ammo_type" value="bullet_mg_pve01" />
+      <param name="ammo_type" value="bullet_mg" />
       <param name="bullet_chamber" value="1" />
       <param name="helper_tp" value="weapon_term" />
       <param name="helper_fp" value="weapon_term" />
@@ -166,31 +162,28 @@
     <recoil>
       <param name="hint_loop_start" value="1" />
       <hints>
-        <hint x="0.15" y="0.2" />
-        <hint x="0.17" y="0.25" />
-        <hint x="0.19" y="-0.10" />
-        <hint x="0.11" y="0.28" />
-        <hint x="0.13" y="0.35" />
-        <hint x="-0.15" y="0.45" />
-        <hint x="0.17" y="0.30" />
-        <hint x="-0.19" y="-0.15" />
-        <hint x="0.11" y="-0.35" />
-        <hint x="0.13" y="0.27" />
-        <hint x="-0.25" y="0.35" />
-        <hint x="0.13" y="0.42" />
-        <hint x="0.14" y="0.45" />
-        <hint x="-0.14" y="0.45" />
-        <hint x="0.14" y="0.44" />
-        <hint x="-0.14" y="0.45" />
-        <hint x="0.22" y="0.44" />
-        <hint x="-0.25" y="0.44" />
-        <hint x="-0.23" y="0.45" />
-        <hint x="0.21" y="0.45" />
-        <hint x="0.22" y="0.46" />
-        <hint x="-0.21" y="0.46" />
-        <hint x="-0.2" y="0.46" />
-        <hint x="0.21" y="0.46" />
-        <hint x="0.22" y="0.47" />
+        <hint x="-0.02" y="0.19" />
+        <hint x="0.04" y="0.23" />
+        <hint x="-0.05" y="0.25" />
+        <hint x="0.07" y="0.24" />
+        <hint x="-0.14" y="0.25" />
+        <hint x="0.15" y="0.25" />
+        <hint x="0.16" y="0.23" />
+        <hint x="-0.25" y="0.20" />
+        <hint x="0.25" y="0.25" />
+        <hint x="-0.2" y="0.25" />
+        <hint x="0.15" y="0.25" />
+        <hint x="-0.25" y="0.25" />
+        <hint x="0.125" y="0.25" />
+        <hint x="-0.21" y="0.15" />
+        <hint x="0.25" y="0.2" />
+        <hint x="-0.25" y="0.2" />
+        <hint x="0.25" y="0.2" />
+        <hint x="-0.25" y="0.2" />
+        <hint x="0.25" y="0.2" />
+        <hint x="-0.125" y="0.2" />
+        <hint x="0.125" y="0.2" />
+        <hint x="-0.125" y="0.2" />
       </hints>
     </recoil>
   </fireparams>

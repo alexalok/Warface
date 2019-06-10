@@ -27,6 +27,7 @@
 			<item name="sr37_rank02skin_shop"/>
 			<item name="sr37_rank03skin_shop"/>
 			<item name="sr37_rank04skin_shop"/>
-			<item name="sr37_carbon01skin_shop"/>		
+			<item name="sr37_carbon01skin_shop"/>						
+            <item name="sr37_bp06skin_shop"/>		
 		</skin_content>
 	</shop_item>

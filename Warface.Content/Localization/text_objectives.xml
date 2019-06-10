@@ -1814,7 +1814,7 @@
 	</entry>
 	<entry key="push_marker_text">
 		<original value="PUSH"/>
-		<translation/>
+		<translation value="ПЕРЕДВИНЬТЕ ОБЪЕКТ"/>
 	</entry>
 	<entry key="pve_generic_teleport_timeout_start">
 		<original value="On your marks! It's time to move team."/>
@@ -1935,5 +1935,33 @@
 	<entry key="lms_round_over">
 		<original value="The Battle Royale is over!"/>
 		<translation value="Королевская битва окончена!"/>
+	</entry>
+	<entry key="stage1-1_lasers">
+		<original value="Lasers are moving!"/>
+		<translation value="Лазеры пришли в движение!"/>
+	</entry>
+	<entry key="stage1-1_weakpoints">
+		<original value="Weakpoints are open!"/>
+		<translation value="Атакуйте уязвимые места!"/>
+	</entry>
+	<entry key="stage2_intro">
+		<original value="Stay together and destroy one leg at a time!"/>
+		<translation value="Атакуйте ноги. Уничтожьте их одну за другой."/>
+	</entry>
+	<entry key="stage2_danger">
+		<original value="Stay away from its leg!"/>
+		<translation value="Держитесь дальше от ног!"/>
+	</entry>
+	<entry key="stage2_weakpoints">
+		<original value="Shoot weakpoints!"/>
+		<translation value="Огонь по уязвимым местам!"/>
+	</entry>
+	<entry key="stage2_aoe">
+		<original value="It's launching AOE attack, shoot the core!"/>
+		<translation value="Угроза ЭМИ удара! Атакуйте ядро!"/>
+	</entry>
+	<entry key="stage3_intro">
+		<original value="Shoot the core!"/>
+		<translation value="Огонь по ядру!"/>
 	</entry>
 </localization>

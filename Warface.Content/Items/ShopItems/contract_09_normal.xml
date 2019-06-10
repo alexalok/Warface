@@ -96,7 +96,8 @@
 			<Filter kind="weapon" param="smg25_gold01_shop"/>
 			<Filter kind="weapon" param="smg25_jp01_shop"/>
 			<Filter kind="weapon" param="smg25_cny01_shop"/>
-			<Filter kind="weapon" param="smg25_carbon01_shop"/>				
+			<Filter kind="weapon" param="smg25_carbon01_shop"/>	
+			<Filter kind="weapon" param="smg25_bp06_shop"/>				
 			<Filter kind="weapon" param="smg26_shop"/>
 			<Filter kind="weapon" param="smg26_set05_cartel_shop"/>
 			<Filter kind="weapon" param="smg26_joker01_shop"/>
@@ -118,13 +119,16 @@
 			<Filter kind="weapon" param="smg33_shop"/>
 			<Filter kind="weapon" param="smg33_gold01_shop"/>
 			<Filter kind="weapon" param="smg33_ec01_shop"/>
+			<Filter kind="weapon" param="smg33_ec03_shop"/>
 			<Filter kind="weapon" param="smg33_ice01_shop"/>
 			<Filter kind="weapon" param="smg33_rad01_shop"/>
+			<Filter kind="weapon" param="smg33_mars02_shop"/>
 			<Filter kind="weapon" param="smg35_shop"/>
 			<Filter kind="weapon" param="smg35_bundle_shop"/>
 			<Filter kind="weapon" param="smg35_anubis_shop"/>
 			<Filter kind="weapon" param="smg35_xmas03_shop"/>
-			<Filter kind="weapon" param="smg35_carbon01_shop"/>				
+			<Filter kind="weapon" param="smg35_carbon01_shop"/>
+			<Filter kind="weapon" param="smg35_bp06_shop"/>				
 			<Filter kind="weapon" param="smg36_shop"/>
 			<Filter kind="weapon" param="smg36_set09_shop"/>
 			<Filter kind="weapon" param="smg36_gold01_shop"/>
@@ -152,17 +156,20 @@
 			<Filter kind="weapon" param="smg42_shop"/>
 			<Filter kind="weapon" param="smg40_set12_shop"/>
             <Filter kind="weapon" param="smg42_set12_shop"/>
+            <Filter kind="weapon" param="smg42_mars02_shop"/>
 			<Filter kind="weapon" param="smg43_shop"/>
 			<Filter kind="weapon" param="smg43_gold01_shop"/>
 			<Filter kind="weapon" param="smg43_mars01_shop"/>
 			<Filter kind="weapon" param="smg44_shop"/>
 			<Filter kind="weapon" param="smg44_set12_shop"/>
 			<Filter kind="weapon" param="smg44_desert01_shop"/>
+			<Filter kind="weapon" param="smg44_bp06_shop"/>
 			<Filter kind="weapon" param="smg39_bp05_shop"/>
 			<Filter kind="weapon" param="smg43_bp05_shop"/>
 			<Filter kind="weapon" param="smg44_bp05_shop"/>
 			<Filter kind="weapon" param="smg45_shop"/>
 			<Filter kind="weapon" param="smg45_gold01_shop"/>
+			<Filter kind="weapon" param="smg45_mars02_shop"/>
 			<Filter kind="weapon" param="smg42_xmas04_shop"/>
 			<Filter kind="weapon" param="smg46_shop"/>	
             <Filter kind="weapon" param="smg46_gold01_shop"/> 

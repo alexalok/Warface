@@ -41,4 +41,7 @@
 	<access mission_type="japaneasy"/>
 	<access mission_type="japannormal"/>
 	<access mission_type="japanhard"/>
+	<access mission_type="marseasy"/>
+	<access mission_type="marsnormal"/>
+	<access mission_type="marshard"/>
 </shop_item>

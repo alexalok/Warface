@@ -12,6 +12,7 @@
 		<material name="rank04"/>
 		<material name="xmas03"/>
 	    <material name="carbon01"/>				
+	    <material name="bp06"/>				
 	</skins>
 	<icons>
 		<ui_icon name="smg35"/>

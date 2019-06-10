@@ -1,0 +1,45 @@
+<ammo name="flame_bullet_ft01_ai_h" class="FlameProjectile">
+	<icons>
+		<combatlog icon="Ft01_combatLog"/>
+	</icons>
+	<!--geometry>
+		<firstperson name="Objects\props\missile\stinger.cgf" angles="-90, 0, 0"/>
+	</geometry-->
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="0"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="0.1"/>
+		<param name="speed" value="30"/>
+		<param name="radius" value="0.25"/>
+		<param name="air_resistance" value="0"/>
+		<param name="water_resistance" value="1.5"/>
+		<param name="gravity" value="0, 0, -9.8"/>
+		<param name="water_gravity" value="0, 0, 0"/>
+		<param name="thrust" value="0"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="0.1"/>
+		<param name="material" value="mat_grenade"/>
+		<param name="single_contact" value="0"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<params>
+		<param name="lifetime" value="2"/>
+		<param name="showtime" value="0.05"/>
+		<param name="bulletType" value="2"/>
+		<param name="hit_type" value="fire"/>
+		<param name="giveable" value="1"/>
+		<param name="launch_type" value="0"/>
+	</params>
+	<killzone>
+		<param name="radius" value="2.5"/>
+		<param name="lifetime" value="8"/>
+		<param name="delay" value="0.2"/>
+		<param name="damage" value="15"/>
+		<param name="effect" value="flamethrower.fire_on_ground"/>
+		<param name="wall_effect" value="flamethrower.fire_on_wall"/>
+		<param name="attenuation_time" value="1.5"/>
+		<param name="wall_attenuation_time" value="0"/>
+	</killzone>
+</ammo>

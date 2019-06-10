@@ -6,6 +6,7 @@
     <material name="viet01" />
     <material name="set10" />
 	<material name="lava01" />
+	<material name="mars02" />
   </skins>
   <icons>
     <ui_icon name="pt21" />

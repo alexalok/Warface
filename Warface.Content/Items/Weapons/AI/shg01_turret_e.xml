@@ -17,7 +17,7 @@
     <param name="ammo_amount" value="3" />
     <param name="rpm" value="300" />
     <param name="damage" value="70" />
-    <param name="damage_min" value="10" />
+    <param name="damage_min" value="16" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="16" />
     <param name="damage_drop_min_distance" value="1.5" />

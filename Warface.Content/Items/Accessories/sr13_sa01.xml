@@ -8,6 +8,8 @@
 		<item name="sr13_sa01" type="attachment"/>
 	</drop_params>
 	<settings>
+		<param name="damage_drop_per_meter_mul" value="0.8"/>
+		<param name="bullet_pierceability" value="3"/>
 	</settings>
 	<sockets>
 		<socket can_be_empty="1" name="effects">

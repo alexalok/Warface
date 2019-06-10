@@ -750,7 +750,7 @@
 	</entry>
 	<entry key="rds02_shop_name">
 		<original value="TRUGLO Red Dot Sight"/>
-		<translation value="Коллиматор Truglo rds"/>
+		<translation value="Коллиматор Truglo"/>
 	</entry>
 	<entry key="rds03_shop_name">
 		<original value="Aimpoint CompM4s"/>
@@ -1330,7 +1330,7 @@
 	</entry>
 	<entry key="rds02_camo02_shop_name">
 		<original value="TRUGLO Red Dot Sight Winter Camo"/>
-		<translation value="Коллиматор Truglo RDS"/>
+		<translation value="Коллиматор Truglo"/>
 	</entry>
 	<entry key="rds05_camo02_shop_name">
 		<original value="Aimpoint CompM4s Winter Camo"/>
@@ -1979,5 +1979,53 @@
 	<entry key="ui_sr09_sp_d_ingame">
 		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
 		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_sc_d_name">
+		<original value="Typhoon F12 Special Silencer"/>
+		<translation value="Глушитель Typhoon F12"/>
+	</entry>
+	<entry key="ui_shg51_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;\n&lt;font size='14'&gt;Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#ff4400'&gt;10%&lt;/font&gt;\nСлегка повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность при стрельбе от бедра&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg51_sp_d_name">
+		<original value="Typhoon F12 Special Suppressor"/>
+		<translation value="Пламегаситель Typhoon F12"/>
+	</entry>
+	<entry key="ui_shg51_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу, тряску прицела&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg51_gp02_d_name">
+		<original value="Typhoon F12 Special Grip"/>
+		<translation value="Особая рукоятка Typhoon F12"/>
+	</entry>
+	<entry key="ui_shg51_gp02_d_ingame">
+		<original value="Greatly decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Значительно уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nНе действует в положении лежа"/>
+	</entry>
+	<entry key="shg51_gp01_d_name">
+		<original value="Typhoon F12 Tactical Grip"/>
+		<translation value="Тактическая рукоятка Typhoon F12"/>
+	</entry>
+	<entry key="ui_shg51_gp01_d_ingame">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость смены оружия&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость перезарядки&lt;/font&gt;\nНе действует в положении лежа"/>
+	</entry>
+	<entry key="shg51_rds_d_name">
+		<original value="Romeo 3 Sight"/>
+		<translation value="Коллиматор Romeo 3"/>
+	</entry>
+	<entry key="ui_shg51_rds_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.3-кратное &lt;/font&gt;увеличение\nПовышает точность на &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;20%&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;."/>
+	</entry>
+	<entry key="pt30_bp06_sp_d_name">
+		<original value="Black suppressor"/>
+		<translation value="Черный пламегаситель"/>
+	</entry>
+	<entry key="pt30_bp06_pink01_sc_d_name">
+		<original value="Black silencer"/>
+		<translation value="Черный глушитель"/>
 	</entry>
 </localization>

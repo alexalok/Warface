@@ -10,9 +10,9 @@
   <drop_params>
     <item name="sr39_set10" type="weapon" />
   </drop_params>
-  <settings archetype="Items/Weapons/Archetypes/SR_2.xml">
+  <settings archetype="Items/Weapons/Archetypes/SR_39.xml">
     <param name="ammo_amount" value="10" />
-    <param name="rpm" value="200" />
+    <param name="rpm" value="340" />
     <param name="damage" value="350" />
     <param name="damage_min" value="75" />
     <param name="damage_mul" value="1" />

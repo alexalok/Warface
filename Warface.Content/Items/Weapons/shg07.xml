@@ -6,6 +6,7 @@
   <skins>
     <material name="default" />
     <material name="viet01" />
+    <material name="mars02" />
   </skins>
   <icons>
     <ui_icon name="shg07" />

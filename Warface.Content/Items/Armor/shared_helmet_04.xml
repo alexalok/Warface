@@ -4,6 +4,8 @@
 			<param name="item_category" value="Helmet"/>
 			<param name="shopcontent" value="1"/>
 			<param name="classes" value="MERS"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="1430"/>
 		</mmo_stats>
 		<UI_stats>
 			<param name="name" value="@ui_armor_shared_helmet_04_name"/>

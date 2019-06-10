@@ -60,6 +60,7 @@
 			<Filter kind="weapon" param="ar11_rua01_shop"/>
 			<Filter kind="weapon" param="ar11_zsd02_shop"/>
 			<Filter kind="weapon" param="ar12_shop"/>
+			<Filter kind="weapon" param="ar12_ec03_shop"/>
 			<Filter kind="weapon" param="ar12_ice01_shop"/>
 			<Filter kind="weapon" param="ar12_gold01_shop"/>
 			<Filter kind="weapon" param="ar12_crown02_shop"/>
@@ -69,6 +70,7 @@
 			<Filter kind="weapon" param="ar16_crown02_shop"/>
 			<Filter kind="weapon" param="ar16_camo06_shop"/>
 			<Filter kind="weapon" param="ar16_lava01_shop"/>
+			<Filter kind="weapon" param="ar16_bp06_shop"/>
 			<Filter kind="weapon" param="ar17_shop"/>
 			<Filter kind="weapon" param="ar20_shop"/>
 			<Filter kind="weapon" param="ar20_lava01_shop"/>
@@ -111,7 +113,8 @@
 			<Filter kind="weapon" param="ar28_mars01_shop"/>	
 			<Filter kind="weapon" param="ar29_shop"/>
 			<Filter kind="weapon" param="ar29_gold01_shop"/>
-			<Filter kind="weapon" param="ar29_set10_shop"/>				
+			<Filter kind="weapon" param="ar29_set10_shop"/>	
+			<Filter kind="weapon" param="ar29_bp06_shop"/>			
 			<Filter kind="weapon" param="ar30_shop"/>
 			<Filter kind="weapon" param="ar30_gold01_shop"/>
 			<Filter kind="weapon" param="ar31_set12_shop"/> 
@@ -137,6 +140,7 @@
 			<Filter kind="weapon" param="mg01_xmas_shop"/>
 			<Filter kind="weapon" param="mg01_crown_shop"/>
 			<Filter kind="weapon" param="mg01_crown02_shop"/>
+			<Filter kind="weapon" param="mg01_bp06_shop"/>
 			<Filter kind="weapon" param="mg02_default"/>
 			<Filter kind="weapon" param="mg02_shop"/>
 			<Filter kind="weapon" param="mg03_shop"/>
@@ -154,6 +158,8 @@
 			<Filter kind="weapon" param="mg08_camo02_shop"/>
 			<Filter kind="weapon" param="mg09_shop"/>
 			<Filter kind="weapon" param="mg12_shop"/>
+			<Filter kind="weapon" param="mg12_bp06_shop"/>
+			<Filter kind="weapon" param="mg12_zsd01_shop"/>
 			<Filter kind="weapon" param="mg21_shop"/>
 			<Filter kind="weapon" param="mg22_shop"/>
 			<Filter kind="weapon" param="mg22_gold01_shop"/>
@@ -167,6 +173,8 @@
 			<Filter kind="weapon" param="mg23_carbon01_shop"/>				
 			<Filter kind="weapon" param="mg24_shop"/>
 			<Filter kind="weapon" param="mg24_gold01_shop"/>
+			<Filter kind="weapon" param="mg25_shop"/>
+			<Filter kind="weapon" param="mg25_gold01_shop"/>
 		</Filters>
 		<Reward name="game_money_item_01" amount="1000"/>
 	</contract>

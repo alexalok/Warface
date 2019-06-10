@@ -16,7 +16,7 @@
     <param name="damage" value="84" />
     <param name="damage_min" value="56" />
     <param name="damage_mul" value="1" />
-    <param name="damage_drop_per_meter" value="1.1" />
+    <param name="damage_drop_per_meter" value="1.5" />
     <param name="damage_drop_min_distance" value="15" />
     <param name="melee_damage" value="65" />
     <param name="melee_range" value="1.3" />
@@ -42,7 +42,7 @@
     <param name="recoil_rnd" value="0" />
     <param name="recoil_smth" value="19" />
     <param name="recoil_smth_mul" value="1" />
-    <param name="spread_min" value="5" />
+    <param name="spread_min" value="6" />
     <param name="spread_min_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.95" />
@@ -56,7 +56,7 @@
       <stance name="zoomed_walk" value="0.05" />
       <stance name="zoomed_jump" value="0.75" />
     </param>
-    <param name="spread_max" value="10" />
+    <param name="spread_max" value="11" />
     <param name="spread_max_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.9" />

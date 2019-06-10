@@ -149,7 +149,7 @@
 		<translation value="Резиновые сапоги"/>
 	</entry>
 	<entry key="ui_armor_medic_vest_01">
-		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Vest &quot;Arma-II&quot;&lt;/b&gt;&lt;/font&gt; \n Prorotects from &lt;font size='16' color='#42ebf8'&gt;sniper bullet&lt;/font&gt; \n Decrease damage by &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; points per hit\n"/>
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Vest &quot;Arma-II&quot;&lt;/b&gt;&lt;/font&gt; \n Protects from &lt;font size='16' color='#42ebf8'&gt;sniper bullet&lt;/font&gt; \n Decrease damage by &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; points per hit\n"/>
 		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Бронежилет 'Арма-II'&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;100&lt;/font&gt;\nЗащищает от &lt;font size='16' color='#42ebf8'&gt;одного попадания в тело&lt;/font&gt; из большинства оружия\nОсобенно эффективен против снайперских винтовок\nСнижает урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание\n"/>
 	</entry>
 	<entry key="ui_armor_medic_vest_01_name">
@@ -2224,18 +2224,6 @@
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Modern Force&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition sniper gloves&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases reload speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; \nIncrease melee radius by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nImproves accuracy by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
 		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель перчаток 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивают защиту рук на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nУвеличивают скорость перезарядки на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nУвеличивают область атаки ближнего боя на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nУвеличивают точность на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;"/>
 	</entry>
-	<entry key="ui_set_modernforce_04">
-		<original value="Spectresniper set bonus"/>
-		<translation value="Набор 'Спектр' для снайпера"/>
-	</entry>
-	<entry key="ui_set_modernforce_04_description">
-		<original value="&lt;font color='#dcffd8'&gt;Set bonuses grant you an increase of certain item attributes. The first set bonus will be unlocked as soon as you equip at least 2 items of a set.&lt;/font&gt;"/>
-		<translation value="&lt;br&gt;"/>
-	</entry>
-	<entry key="ui_set_modernforce_04_bonus01_description">
-		<original value="Increases reload speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt;\n"/>
-		<translation value="Дополнительно увеличивает скорость перезарядки на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nДополнительно увеличивает скорость смены оружия на &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt;"/>
-	</entry>
 	<entry key="ui_set_modernforce_01_bonus02_description">
 		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;1 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;1 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nDecrease damage by &lt;font size='16' color='#42ebf8'&gt;10"/>
 		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
@@ -2281,7 +2269,7 @@
 		<translation value="Жилет снайпера 'Спектр' (Гамма)"/>
 	</entry>
 	<entry key="ui_armor_sniper_vest_legend_01">
-		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProvides &lt;font size='16' color='#42ebf8'&gt;30&lt;/font&gt; additional armor points\nDecreases incoming melee damage by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nIncrease primary and secondary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;150%&lt;/font&gt;\n"/>
+		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProvides &lt;font size='16' color='#42ebf8'&gt;30&lt;/font&gt; additional armor points\nDecreases incoming melee damage by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nIncrease primary and secondary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;\n"/>
 		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; снижает входящий урон от атак ближнего боя\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; повышает количество патронов для основного и дополнительного оружия\n"/>
 	</entry>
 	<entry key="ui_armor_medic_shoes_legend_01_02_name">
@@ -2345,7 +2333,107 @@
 		<translation value="Перчатки штурмовика 'Спектр' (Дельта)"/>
 	</entry>
 	<entry key="ui_armor_soldier_hands_legend_01_03">
-		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases reload speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nDecrease recoil force by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nDecrease secondary melee duration by&lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
+		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases reload speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nDecrease recoil force by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nDecrease secondary melee duration by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
 		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Дельта' модель перчаток 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают скорость перезарядки\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; снижают силу отдачи\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышают скорость дополнительной атаки\n"/>
+	</entry>
+	<entry key="ui_armor_engineer_helmet_armagedon_name">
+		<original value="Armagedon engineer helmet"/>
+		<translation value="Шлем инженера 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_engineer_helmet_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для инженера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+	</entry>
+	<entry key="ui_armor_sniper_helmet_armagedon_name">
+		<original value="Armagedon sniper helmet"/>
+		<translation value="Шлем снайпера 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_sniper_helmet_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+	</entry>
+	<entry key="ui_armor_medic_helmet_armagedon_name">
+		<original value="Armagedon medic helmet"/>
+		<translation value="Шлем медика 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_medic_helmet_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для медика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+	</entry>
+	<entry key="ui_armor_soldier_helmet_armagedon_name">
+		<original value="Armagedon soldier helmet"/>
+		<translation value="Шлем штурмовика 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_soldier_helmet_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для штурмовика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+	</entry>
+	<entry key="ui_armor_soldier_vest_armagedon_name">
+		<original value="Armagedon soldier vest"/>
+		<translation value="Жилет штурмовика 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_soldier_vest_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \nProvides &lt;font size='16' color='#42ebf8'&gt;55&lt;/font&gt; additional armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для штурмовика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+	</entry>
+	<entry key="ui_armor_medic_vest_armagedon_name">
+		<original value="Armagedon medic vest"/>
+		<translation value="Жилет медика 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_medic_vest_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \nProvides &lt;font size='16' color='#42ebf8'&gt;55&lt;/font&gt; additional armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для медика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+	</entry>
+	<entry key="ui_armor_sniper_vest_armagedon_name">
+		<original value="Armagedon sniper vest"/>
+		<translation value="Жилет снайпера 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_sniper_vest_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \nProvides &lt;font size='16' color='#42ebf8'&gt;25&lt;/font&gt; additional armor points\nIncrease primary and secondary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;150%&lt;/font&gt;\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для снайпера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;125&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; повышает количество патронов для основного и дополнительного оружия\nНа &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+	</entry>
+	<entry key="ui_armor_engineer_vest_armagedon_name">
+		<original value="Armagedon engineer vest"/>
+		<translation value="Жилет инженера 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_engineer_vest_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \nProvides &lt;font size='16' color='#42ebf8'&gt;45&lt;/font&gt; additional armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;145&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+	</entry>
+	<entry key="ui_armor_shared_hands_armagedon_name">
+		<original value="Armagedon shared gloves"/>
+		<translation value="Перчатки 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_shared_hands_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nDecrease recoil force by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Армагеддон'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; снижают силу отдачи\n"/>
+	</entry>
+	<entry key="ui_armor_shared_shoes_armagedon_name">
+		<original value="Armagedon shared boots"/>
+		<translation value="Ботинки 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_armor_shared_shoes_armagedon">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;3%&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Армагеддон'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;8%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают скорость движения пригнувшись\n"/>
+	</entry>
+	<entry key="ui_set_armagedon_01">
+		<original value="Armagedon set bonus"/>
+		<translation value="Набор 'Армагеддон'"/>
+	</entry>
+	<entry key="ui_set_armagedon_01_description">
+		<original value="&lt;font color='#dcffd8'&gt;Set bonuses grant you an increase of certain item attributes. The first set bonus will be unlocked as soon as you equip at least 2 items of a set, while 4 items are available for the set.&lt;/font&gt;"/>
+		<translation value="&lt;br&gt;"/>
+	</entry>
+	<entry key="ui_set_armagedon_01_bonus01_description">
+		<original value="Increases reload speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
+		<translation value="Дополнительно увеличивает скорость перезарядки на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_set_armagedon_01_bonus02_description">
+		<original value="Detects enemy's claymores&lt;/font&gt;"/>
+		<translation value="Позволяет обнаружить &lt;font size='16' color='#42ebf8'&gt;противопехотные мины&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_set_armagedon_01_bonus03_description">
+		<original value="Decrease damage by &lt;font size='16' color='#42ebf8'&gt;15&lt;/font&gt; points per hit&lt;/font&gt;\nProtection from explosives by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;"/>
+		<translation value="Дополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;15&lt;/font&gt; единиц за попадание\nДополнительно увеличивает защиту от взрывчатки на &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; Дополнительно увеличивает длительность рывка на &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;"/>
 	</entry>
 </localization>

@@ -8,6 +8,7 @@
     <material name="default" />
     <material name="rad01" />
     <material name="ps4_01" />
+    <material name="ec03" />
   </skins>
   <drop_params>
     <item name="sr33" type="weapon" />

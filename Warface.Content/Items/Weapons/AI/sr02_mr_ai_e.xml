@@ -1,0 +1,54 @@
+<item category="medium" class="K01_Item" name="sr02_mr_ai_e" net_policy="weapon_ai" priority="40" view_settings="objects/weapons/sentry_asr_turret/sentry_asr_turret.xml">
+	<params>
+		<param name="giveable" value="1"/>
+		<param name="selectable" value="1"/>
+		<param name="ui_weapon" value="1"/>
+	</params>
+		<ai_descriptor burstBulletCountMax="3" burstBulletCountMin="3" burstPauseTimeMax="0.8" burstPauseTimeMin="0.8" handler="instant" singleFireTriggerTime="-1">
+	</ai_descriptor>
+	<ammos>
+		<ammo name="bullet_sr"/>
+	</ammos>
+	<icons>
+		<combatlog icon="BTR_combatLog" melee="Melee"/>
+	</icons>
+	<settings archetype="Items/Weapons/Archetypes/SR_ai.xml">
+		<param name="ammo_amount" value="3"/>
+		<param name="rpm" value="180"/>
+		<param name="damage" value="60"/>
+		<param name="damage_min" value="50"/>
+		<param name="damage_mul" value="1"/>
+		<param name="damage_drop_per_meter" value="0.5"/>
+		<param name="damage_drop_min_distance" value="60"/>
+		<param name="spread_min" value="1"/>
+		<param name="spread_min_mul" value="1"/>
+		<param name="spread_max" value="1.7"/>
+		<param name="spread_max_mul" value="1"/>
+		<param name="spread_att" value="0"/>
+		<param name="spread_att_mul" value="1"/>
+		<param name="spread_dec" value="0"/>
+		<param name="spread_dec_mul" value="1"/>
+		<param name="reload_duration" value="800"/>
+		<param name="melee_duration" value="280"/>
+		<param name="melee_range" value="0"/>
+		<param name="melee_damage" value="0"/>
+		<param name="melee_radius" value="0"/>
+		<param name="melee_radius_mul" value="0"/>
+		<param name="melee_out_duration" value="500"/>
+		<param name="toss_duration" value="400"/>
+		<param name="deselect_duration" value="300"/>
+		<param name="holster_in_duration" value="120"/>
+	</settings>
+	<firemodes>
+		<firemode name="Single" type="Single"/>
+	</firemodes>
+	<clipmode unlimited_inventory="1"/>
+	<fireparams>
+		<fire>
+			<param name="ammo_type" value="bullet_sr"/>
+			<param name="bullet_chamber" value="1"/>
+			<param name="helper_tp" value="weapon_term"/>
+			<param name="nearmiss_signal" value="OnNearMiss"/>
+		</fire>
+	</fireparams>
+</item>

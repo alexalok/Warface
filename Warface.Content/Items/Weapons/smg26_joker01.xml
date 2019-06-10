@@ -10,10 +10,10 @@
   <drop_params>
     <item name="smg26_joker01" type="weapon" />
   </drop_params>
-  <settings archetype="Items/Weapons/Archetypes/SMG.xml">
+  <settings archetype="Items/Weapons/Archetypes/SMG_26.xml">
     <param name="ammo_amount" value="30" />
-    <param name="rpm" value="805" />
-    <param name="damage" value="65" />
+    <param name="rpm" value="810" />
+    <param name="damage" value="70" />
     <param name="damage_min" value="35" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="1.4" />

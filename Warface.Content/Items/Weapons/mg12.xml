@@ -4,6 +4,10 @@
     <ui_icon name="mg12" />
     <combatlog icon="Mg12_combatLog" melee="Melee" />
   </icons>
+  <skins>
+    <material name="default" />
+    <material name="bp06" />
+  </skins>
   <drop_params>
     <item name="mg12" type="weapon" />
   </drop_params>

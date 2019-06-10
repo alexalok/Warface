@@ -10,11 +10,11 @@
   <drop_params>
     <item name="ar04_rstest" type="weapon" />
   </drop_params>
-  <settings archetype="Items/Weapons/Archetypes/AR.xml">
+  <settings archetype="Items/Weapons/Archetypes/AR_04.xml">
     <param name="ammo_amount" value="30" />
     <param name="rpm" value="600" />
     <param name="damage" value="80" />
-    <param name="damage_min" value="45" />
+    <param name="damage_min" value="50" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="1" />
     <param name="damage_drop_min_distance" value="14" />

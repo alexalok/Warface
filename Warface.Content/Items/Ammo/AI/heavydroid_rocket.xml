@@ -1,0 +1,68 @@
+<ammo name="heavydroid_rocket" class="SplineRocket">
+    <icons>
+        <combatlog icon="Rocket_mars_combatLog" />
+    </icons>
+    <geometry>
+        <firstperson name="Objects\Characters\ai\droids\heavy_droid_mars_01\heavy_droid_rocket_mars_01.cga" angles="-90, 180, 0" scale="1" />
+    </geometry>
+    <trail>
+        <!-- <param name="effect" value="rocket_trails.trail_arl01_fp"/> -->
+        <param name="effect" value="weapon_fx.mars.heavy_droid_rocket_trail" />
+        <param name="prime" value="false" />
+    </trail>
+    <flags>
+        <param name="serverspawn" value="1" />
+        <param name="predictspawn" value="0" />
+        <param name="IsAnimated" value="1" />
+    </flags>
+    <physics type="rigid">
+        <param name="material" value="mat_metal" />
+        <param name="mass" value="1" />
+        <param name="speed" value="1" />
+        <param name="radius" value="1.125" />
+        <param name="air_resistance" value="0" />
+        <param name="water_gravity" value="0, 0, -0.1" />
+        <param name="thrust" value="0" />
+        <param name="lift" value="0" />
+        <param name="min_bounce_speed" value="8" />
+        <param name="spin_random" value="0, 0, 0" />
+        <param name="single_contact" value="0" />
+        <param name="pierceability" value="14" />
+    </physics>
+    <explosion>
+        <param name="pressure" value="100" />
+        <param name="min_radius" value="10" />
+        <param name="max_radius" value="10" />
+        <param name="min_phys_radius" value="6" />
+        <param name="max_phys_radius" value="8" />
+        <param name="hole_size" value="2" />
+        <param name="terrain_hole_size" value="3" />
+        <param name="decal" value="textures/decal/explo_decal.dds" />
+        <param name="effect_scale" value="1" />
+        <param name="radialblurdist" value="5" />
+        <param name="effect_class" value="heavydroid_rocket" />
+        <param name="max_explode_on_impact_angle" value="360" />
+        <param name="min_explode_on_impact_lifetime" value="1.1" />
+    </explosion>
+    <params>
+        <param name="lifetime" value="15" />
+        <param name="showtime" value="0.00" />
+        <param name="bulletType" value="2" /> <!-- Bullet Type 2 - Assault rifle bullet  -->
+        <param name="hit_type" value="heavydroid_rocket" />
+        <param name="giveable" value="1" />
+        <param name="launch_type" value="0" />
+        <param name="hitPoints" value="10" />
+        <param name="conusHeight" value="1.7" />
+        <param name="conusMinHeight" value="1.4" />
+        <param name="conusRadius" value="3" />
+
+        <param name="damage" value="100" />
+
+        <param name="raiseTime" value="1.5" />
+        <param name="attackTime" value="0.5" />
+        <param name="startVel" value="2" />
+        <param name="raiseVel" value="3" />
+        <param name="attackVel" value="80" />
+
+    </params>
+</ammo>

@@ -19,7 +19,7 @@
     <param name="rpm" value="100" />
     <param name="damage" value="50" />
     <param name="damage_mul" value="1" />
-    <param name="damage_min" value="15" />
+    <param name="damage_min" value="16" />
     <param name="melee_damage" value="40" />
     <param name="melee_range" value="1" />
     <param name="damage_drop_per_meter" value="20" />

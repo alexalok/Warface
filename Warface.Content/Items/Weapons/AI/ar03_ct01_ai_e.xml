@@ -15,7 +15,7 @@
     <param name="ammo_amount" value="30" />
     <param name="rpm" value="90" />
     <param name="damage" value="20" />
-    <param name="damage_min" value="10" />
+    <param name="damage_min" value="16" />
     <param name="damage_mul" value="1" />
     <param name="melee_damage" value="25" />
     <param name="melee_range" value="2" />

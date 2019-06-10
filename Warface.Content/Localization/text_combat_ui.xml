@@ -1488,4 +1488,24 @@
 		<original value="SED Mk.2"/>
 		<translation value="СЭД-2"/>
 	</entry>
+	<entry key="heavydroid_name">
+		<original value="ANTHEUS-6"/>
+		<translation value="Антей-6"/>
+	</entry>
+	<entry key="sedassault_rg_name">
+		<original value="SED Mk.2 Elite"/>
+		<translation value="Элитный СЭД-2"/>
+	</entry>
+	<entry key="sedassault_sr_name">
+		<original value="SED Mk.2 Sniper"/>
+		<translation value="Снайперский СЭД-2"/>
+	</entry>
+	<entry key="sedassault_smg_name">
+		<original value="SED Mk.2 Assault"/>
+		<translation value="Штурмовой СЭД-2"/>
+	</entry>
+	<entry key="mars_melee_name">
+		<original value="Security Guard"/>
+		<translation value="Сотрудник охраны"/>
+	</entry>
 </localization>

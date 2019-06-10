@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<item category="heavy" class="K01_Item" name="smg30_zsd01" net_policy="weapon" priority="26" view_settings="objects/weapons/smg30/smg30.xml">
+<item category="heavy" class="K01_Item" name="smg30_zsd01" net_policy="weapon" priority="26" view_settings="objects/weapons/smg30/smg30_mars.xml">
   <icons>
     <ui_icon name="smg30_zsd01" />
     <combatlog icon="Smg30_zsd01_combatLog" melee="Melee" />
@@ -7,19 +7,19 @@
   <drop_params>
     <item name="smg30_zsd01" type="weapon" />
   </drop_params>
-  <settings archetype="Items/Weapons/Archetypes/SMG.xml">
-    <param name="ammo_amount" value="45" />
-    <param name="rpm" value="800" />
-    <param name="damage" value="62" />
+  <settings archetype="Items/Weapons/Archetypes/SMG_30_ZSD.xml">
+    <param name="ammo_amount" value="33" />
+    <param name="rpm" value="820" />
+    <param name="damage" value="70" />
     <param name="damage_min" value="32" />
     <param name="damage_mul" value="1" />
-    <param name="damage_drop_per_meter" value="2.6" />
-    <param name="damage_drop_min_distance" value="11" />
+    <param name="damage_drop_per_meter" value="2.1" />
+    <param name="damage_drop_min_distance" value="12" />
     <param name="melee_damage" value="65" />
     <param name="melee_range" value="1.3" />
     <param name="melee_radius" value="0.2" />
-    <param name="recoil_max" value="790" />
-    <param name="recoil_att" value="80" />
+    <param name="recoil_max" value="690" />
+    <param name="recoil_att" value="85" />
     <param name="recoil_att_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
@@ -37,7 +37,7 @@
     <param name="recoil_dec_mul" value="1" />
     <param name="recoil_dec_delay" value="60" />
     <param name="recoil_rnd" value="0" />
-    <param name="recoil_smth" value="15" />
+    <param name="recoil_smth" value="20" />
     <param name="recoil_smth_mul" value="1" />
     <param name="spread_min" value="3.2" />
     <param name="spread_min_mul" value="1">
@@ -53,7 +53,7 @@
       <stance name="zoomed_walk" value="0.05" />
       <stance name="zoomed_jump" value="0.75" />
     </param>
-    <param name="spread_max" value="7.5" />
+    <param name="spread_max" value="8.5" />
     <param name="spread_max_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
@@ -61,10 +61,10 @@
       <stance name="run" value="1.2" />
       <stance name="haste" value="1.3" />
       <stance name="jump" value="1.3" />
-      <stance name="zoomed_stand" value="0.17" />
-      <stance name="zoomed_crouch" value="0.17" />
-      <stance name="zoomed_prone" value="0.17" />
-      <stance name="zoomed_walk" value="0.17" />
+      <stance name="zoomed_stand" value="0.1" />
+      <stance name="zoomed_crouch" value="0.1" />
+      <stance name="zoomed_prone" value="0.1" />
+      <stance name="zoomed_walk" value="0.1" />
       <stance name="zoomed_jump" value="0.75" />
     </param>
     <param name="spread_att" value="1.3" />
@@ -121,10 +121,11 @@
     <param name="melee_duration" value="400" />
     <param name="melee_out_duration" value="200" />
     <param name="holster_in_duration" value="200" />
-    <param name="zoom_in_duration" value="200" />
-    <param name="zoom_out_duration" value="200" />
+    <param name="zoom_in_duration" value="160" />
+    <param name="zoom_out_duration" value="160" />
     <param name="ai_sound_radius" value="250" />
     <param name="ai_light_radius" value="2.3" />
+    <param name="cyborg_damage_buff" value="0.5" />
   </settings>
   <firemodes>
     <firemode icon="FireModeRapid" type="Rapid" />
@@ -137,9 +138,9 @@
   <sockets>
     <socket can_be_empty="0" name="scope" ui_helper="ui_scope">
       <support helper="smg30_is_d" name="smg30_is_d" />
-      <support helper="top_small" name="as06" />
-      <support helper="top_small" name="as05" />
       <support helper="top_small" name="as03" />
+      <support helper="top_small" name="as05" />
+      <support helper="top_small" name="as06" />
       <support helper="top_small" name="rds01" />
       <support helper="top_small" name="rds07" />
       <support helper="top_small" name="rds02" />
@@ -151,6 +152,7 @@
       <support helper="suppressor" name="sp02" />
       <support helper="silencer" name="sc02" />
       <support helper="silencer" name="sc01" />
+      <support helper="silencer" name="bn03" />
     </socket>
     <socket can_be_empty="1" name="effects">
       <support helper="muzzle_flash_effect" name="muzzle_flash_effect" />
@@ -159,7 +161,7 @@
   </sockets>
   <fireparams>
     <fire>
-      <param name="extra_ammo" value="270" />
+      <param name="extra_ammo" value="198" />
       <param name="ammo_type" value="bullet_smg" />
       <param name="bullet_chamber" value="1" />
       <param name="helper_tp" value="weapon_term" />
@@ -169,27 +171,27 @@
     <recoil>
       <param name="hint_loop_start" value="1" />
       <hints>
-        <hint x="-0.1" y="0.1" />
-        <hint x="-0.14" y="0.13" />
-        <hint x="0.14" y="0.13" />
-        <hint x="0.13" y="0.13" />
-        <hint x="-0.16" y="0.14" />
-        <hint x="0.15" y="0.18" />
-        <hint x="-0.15" y="-0.15" />
-        <hint x="0.15" y="-0.15" />
-        <hint x="0.13" y="0.15" />
-        <hint x="-0.15" y="-0.15" />
-        <hint x="0.15" y="0.15" />
-        <hint x="-0.15" y="-0.15" />
-        <hint x="0.15" y="-0.15" />
-        <hint x="-0.14" y="0.15" />
-        <hint x="0.15" y="0.15" />
-        <hint x="-0.15" y="-0.15" />
-        <hint x="0.16" y="0.15" />
-        <hint x="0.13" y="-0.15" />
-        <hint x="-0.16" y="-0.15" />
-        <hint x="0.17" y="0.15" />
-        <hint x="0.2" y="-0.15" />
+        <hint x="-0.012" y="0.1" />
+        <hint x="0.09" y="0.13" />
+        <hint x="-0.017" y="0.13" />
+        <hint x="0.09" y="0.13" />
+        <hint x="-0.02" y="0.14" />
+        <hint x="0.09" y="0.18" />
+        <hint x="-0.02" y="0.15" />
+        <hint x="0.1" y="0.15" />
+        <hint x="-0.017" y="0.15" />
+        <hint x="0.1" y="0.15" />
+        <hint x="-0.019" y="0.15" />
+        <hint x="0.1" y="0.15" />
+        <hint x="-0.019" y="0.15" />
+        <hint x="0.1" y="0.15" />
+        <hint x="-0.019" y="0.15" />
+        <hint x="0.1" y="0.15" />
+        <hint x="-0.019" y="0.15" />
+        <hint x="0.11" y="0.15" />
+        <hint x="-0.019" y="0.15" />
+        <hint x="0.011" y="0.15" />
+        <hint x="-0.022" y="0.15" />
       </hints>
     </recoil>
   </fireparams>

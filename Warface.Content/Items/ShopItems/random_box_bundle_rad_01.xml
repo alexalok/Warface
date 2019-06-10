@@ -5,7 +5,7 @@
 		<param name="classes" value="MERS"/>
 	</mmo_stats>
 	<UI_stats>
-		<param name="name" value="@kn16_rad01_shop_name"/>
+		<param name="name" value="@kn16_rad01skin_shop_name"/>
 		<param name="description" value="@ui_weapons_kn16_rad01skin"/>
 		<param name="icon" value="kn16_rad01"/>
 	</UI_stats>

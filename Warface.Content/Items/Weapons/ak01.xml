@@ -42,11 +42,14 @@
     <param name="melee_duration" value="300" />
     <param name="holster_in_duration" value="200" />
   </settings>
+  <clipmode manual_reload="0" />
   <firemodes>
     <firemode icon="FireModeArmorKit" type="Restore" />
   </firemodes>
   <recharge_params>
     <param name="recharge_duration" value="10" />
+	<param name="use_cost" value="5" />
+	<param name="type" value="repair" />
   </recharge_params>
   <interaction_params>
     <param name="crosshair_id" value="15" />
@@ -59,9 +62,7 @@
     <param name="restore_amount" value="7" />
     <param name="initial_distance" value="5" />
     <param name="distance" value="8" />
-    <param name="restore_coop_duration" value="3000" />
-    <param name="type" value="repair" />
-    <param name="charge_cost" value="5" />
+    <param name="restore_coop_duration" value="3000" />    
     <param name="hit_type" value="repair" />
   </restore_params>
 </item>

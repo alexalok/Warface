@@ -16,7 +16,7 @@
     <param name="ammo_amount" value="150" />
     <param name="rpm" value="350" />
     <param name="damage" value="20" />
-    <param name="damage_min" value="15" />
+    <param name="damage_min" value="16" />
     <param name="damage_mul" value="1" />
     <param name="spread_min" value="6" />
     <param name="spread_max" value="10" />

@@ -46,11 +46,14 @@
     <param name="holster_in_duration" value="200" />
     <param name="ai_sound_radius" value="0" />
   </settings>
+  <clipmode manual_reload="0" />
   <firemodes>
     <firemode icon="FireModeMedkit" type="Restore" />
   </firemodes>
   <recharge_params>
     <param name="recharge_duration" value="10" />
+	<param name="use_cost" value="5" />
+	<param name="type" value="heal" />
   </recharge_params>
   <interaction_params>
     <param name="crosshair_id" value="14" />
@@ -63,9 +66,7 @@
     <param name="restore_amount" value="8" />
     <param name="initial_distance" value="6" />
     <param name="distance" value="8" />
-    <param name="restore_coop_duration" value="3000" />
-    <param name="type" value="heal" />
-    <param name="charge_cost" value="5" />
+    <param name="restore_coop_duration" value="3000" />    
     <param name="hit_type" value="healing" />
   </restore_params>
 </item>

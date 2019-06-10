@@ -142,6 +142,7 @@
     <param name="zoom_out_duration" value="100" />
     <param name="ai_sound_radius" value="250" />
     <param name="ai_light_radius" value="2.3" />
+    <param name="cyborg_damage_buff" value="0.5" />	
   </settings>
   <firemodes>
     <firemode icon="FireModeRapid" type="Rapid" />

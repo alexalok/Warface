@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="ui_booster_ic">
 		<original value="Temporary curency Boost"/>
 		<translation value="Ускоритель ресурсов спецопераций"/>
@@ -3269,7 +3273,7 @@
 		<translation value="Специальный комплект с пистолетом-пулеметом Beretta MX4 Storm и другими предметами."/>
 	</entry>
 	<entry key="bundle_ps4_15">
-		<original value="PS4 SR-2 Veresk Bundle"/>
+		<original value="PS4 SR-2 Veresk Bundle "/>
 		<translation value="Комплект СР-2 'Вереск'"/>
 	</entry>
 	<entry key="bundle_ps4_15_description">
@@ -3293,15 +3297,15 @@
 		<translation value="Специальный комплект с винтовкой CheyTac M200 и другими предметами."/>
 	</entry>
 	<entry key="box_ar33_shop_name">
-		<original value="HCAR Random Box"/>
+		<original value="HCAR Random Box "/>
 		<translation value="Коробка с HCAR"/>
 	</entry>
 	<entry key="ui_box_ar33_description">
-		<original value="This box allows to win 3 random items for rifleman"/>
+		<original value="This box allows to win 3 random items for rifleman "/>
 		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="ui_key_box_ar33">
-		<original value="Provides you with a HCAR for a limited time and an offer for its direct purchase"/>
+		<original value="Provides you with a HCAR for a limited time and an offer for its direct purchase "/>
 		<translation value="Дает возможность купить HCAR навсегда."/>
 	</entry>
 	<entry key="box_crown_ar33_shop_name">
@@ -3919,5 +3923,45 @@
 	<entry key="ui_key_box_smg47">
 		<original value="Provides you with a Tommy Gun M1928 for a limited time and an offer for its direct purchase"/>
 		<translation value="Дает возможность купить Thompson M1928 навсегда."/>
+	</entry>
+	<entry key="box_mg25_shop_name">
+		<original value="Stoner LMG A1 Random Box"/>
+		<translation value="Коробка со Stoner LMG A1"/>
+	</entry>
+	<entry key="ui_box_mg25_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="box_crown_mg25_shop_name">
+		<original value="Stoner LMG A1 Crown Random Box"/>
+		<translation value="Коробка со Stoner LMG A1 (короны)"/>
+	</entry>
+	<entry key="ui_key_box_mg25">
+		<original value="Provides you with a Stoner LMG A1 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Stoner LMG A1 навсегда."/>
+	</entry>
+	<entry key="random_box_mars_01_shop_name">
+		<original value="Special Mars Mission Reward"/>
+		<translation value="Особая награда за миссию 'Марс'"/>
+	</entry>
+	<entry key="ui_random_box_mars_01_description">
+		<original value="Reward for completing the Mars easy mission."/>
+		<translation value="Награда за прохождение миссии 'Марс' на легком уровне."/>
+	</entry>
+	<entry key="random_box_mars_02_shop_name">
+		<original value="Special Mars Mission Reward"/>
+		<translation value="Особая награда за миссию 'Марс'"/>
+	</entry>
+	<entry key="ui_random_box_mars_02_description">
+		<original value="Reward for completing the Mars normal mission."/>
+		<translation value="Награда за прохождение миссии 'Марс' на сложном уровне."/>
+	</entry>
+	<entry key="random_box_mars_03_shop_name">
+		<original value="Special Mars Mission Reward"/>
+		<translation value="Особая награда за миссию 'Марс'"/>
+	</entry>
+	<entry key="ui_random_box_mars_03_description">
+		<original value="Reward for completing the Mars hard mission."/>
+		<translation value="Награда за прохождение миссии 'Марс' на уровне 'Профи'."/>
 	</entry>
 </localization>

@@ -20,7 +20,7 @@
     <param name="ammo_amount" value="1" />
     <param name="rpm" value="300" />
     <param name="damage" value="15" />
-    <param name="damage_min" value="5" />
+    <param name="damage_min" value="16" />
     <param name="damage_mul" value="1" />
     <param name="recoil_max" value="0.1" />
     <param name="recoil_max_mul" value="1" />

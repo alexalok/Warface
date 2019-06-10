@@ -2,6 +2,7 @@
 <item category="medium" class="K01_Item" name="pt30_pink01" net_policy="weapon" priority="22" view_settings="objects/weapons/pt30/pt30.xml">
   <skins>
     <material name="pink01" />
+    <material name="bp06" />
   </skins>
   <icons>
     <ui_icon name="pt30" />

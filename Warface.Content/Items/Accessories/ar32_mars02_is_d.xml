@@ -1,0 +1,22 @@
+<item class="K01_Item" name="ar32_mars02_is_d" type="attachment" view_settings="objects/weapons/ar32/ar32_is_d.xml">
+ <description_ingame text="@ui_accessories_is_default"/>
+	<skins>
+		<material name="mars02"/>
+	</skins>
+		<UI_stats>
+		<param name="name" value="@is_default_name"/>
+		<param name="description" value="@ui_accessories_is_default"/>
+		<param name="icon" value="ccs_nonitem"/>
+	</UI_stats>
+		<drop_params>
+			<item name="ar32_mars02_is_d" type="attachment"/>
+		</drop_params>
+		<settings>
+		<param name="fov_mul" value="0"/>
+		<param name="zoom_factor" value="2.5"/>
+		<param name="zoom_in_duration_mul" value="0.8"/>
+	</settings>
+		<types>
+			<type helper="ar32_is_d" name="ar32_mars02_is_d"/>
+		</types>
+	</item>

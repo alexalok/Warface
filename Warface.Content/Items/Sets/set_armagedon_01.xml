@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<set name="set_armagedon_01">
+    <UI_stats>
+        <param name="name" value="@ui_set_armagedon_01"/>
+        <param name="description" value="@ui_set_armagedon_01_description"/>
+        <param name="color" value="33cc99"/>
+    </UI_stats>
+    <set_items>
+        <item name="soldier_helmet_armagedon"/>
+		<item name="sniper_helmet_armagedon"/>
+		<item name="medic_helmet_armagedon"/>
+		<item name="engineer_helmet_armagedon"/>
+		<item name="soldier_vest_armagedon"/>
+		<item name="sniper_vest_armagedon"/>
+		<item name="medic_vest_armagedon"/>
+		<item name="engineer_vest_armagedon"/>
+		<item name="shared_hands_armagedon"/>
+		<item name="shared_shoes_armagedon"/>
+    </set_items>
+    <set_bonuses>
+	    <bonus items_need="2" name="set_armagedon_01_bonus01"/>
+        <bonus items_need="3" name="set_armagedon_01_bonus02"/>
+		<bonus items_need="4" name="set_armagedon_01_bonus03"/>
+    </set_bonuses>
+</set>

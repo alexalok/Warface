@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="achievement_headshots_made">
 		<original value="Oversized Head"/>
 		<translation value="Большая голова"/>
@@ -2942,7 +2946,7 @@
 	</entry>
 	<entry key="dragon01Kill_desc">
 		<original value="Kill 1000 enemies from 'Dragon' set of weapons"/>
-		<translation value="Убить 1000 врагов из оружия с камуфляжем 'Дракон'"/>
+		<translation value="Убить 1000 врагов из оружия серии 'Дракон'"/>
 	</entry>
 	<entry key="dragon02Kill">
 		<original value="Fighting Dragon"/>
@@ -2950,7 +2954,7 @@
 	</entry>
 	<entry key="dragon02Kill_desc">
 		<original value="Kill 5000 enemies from 'Dragon' set of weapons"/>
-		<translation value="Убить 5000 врагов из оружия с камуфляжем 'Дракон'"/>
+		<translation value="Убить 5000 врагов из оружия серии 'Дракон'"/>
 	</entry>
 	<entry key="dragon03Kill">
 		<original value="Fire-breathing Dragon"/>
@@ -2958,7 +2962,7 @@
 	</entry>
 	<entry key="dragon03Kill_desc">
 		<original value="Kill 10000 enemies from 'Dragon' set of weapons"/>
-		<translation value="Убить 10 000 врагов из оружия с камуфляжем 'Дракон'"/>
+		<translation value="Убить 10 000 врагов из оружия серии 'Дракон'"/>
 	</entry>
 	<entry key="winDMN1">
 		<original value="Enemy Submission"/>
@@ -3790,7 +3794,7 @@
 	</entry>
 	<entry key="winTDMShuttle1_desc">
 		<original value="Win 10 Shuttle TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Терминал' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Терминале' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMShuttle2">
 		<original value="Terminal to paradise"/>
@@ -3798,7 +3802,7 @@
 	</entry>
 	<entry key="winTDMShuttle2_desc">
 		<original value="Win 25 Shuttle TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Терминал' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Терминале' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMShuttle3">
 		<original value="Train does not forgive"/>
@@ -3806,7 +3810,7 @@
 	</entry>
 	<entry key="winTDMShuttle3_desc">
 		<original value="Win 50 Shuttle TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Терминал' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Терминале' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winPTBPalace1">
 		<original value="Best place in the palace"/>
@@ -3814,7 +3818,7 @@
 	</entry>
 	<entry key="winPTBPalace1_desc">
 		<original value="Win 10 Palace PTB matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Дворец' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 10 матчей на 'Дворце' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBPalace2">
 		<original value="Palace of my dreams"/>
@@ -3822,7 +3826,7 @@
 	</entry>
 	<entry key="winPTBPalace2_desc">
 		<original value="Win 25 Palace PTB matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Дворец' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 25 матчей на 'Дворце' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBPalace3">
 		<original value="If I was a sultan…"/>
@@ -3830,7 +3834,7 @@
 	</entry>
 	<entry key="winPTBPalace3_desc">
 		<original value="Win 50 Palace PTB matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Дворец' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 50 матчей на 'Дворце' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winCTFDeposit1">
 		<original value="Keeping money in the bank is safe?"/>
@@ -3838,7 +3842,7 @@
 	</entry>
 	<entry key="winCTFDeposit1_desc">
 		<original value="Win 10 Deposit CTF matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Депозит' в режиме 'Захват'"/>
+		<translation value="Выиграть 10 матчей на 'Депозите' в режиме 'Захват'"/>
 	</entry>
 	<entry key="winCTFDeposit2">
 		<original value="Crack the safe"/>
@@ -3846,7 +3850,7 @@
 	</entry>
 	<entry key="winCTFDeposit2_desc">
 		<original value="Win 25 Deposit CTF matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Депозит' в режиме 'Захват'"/>
+		<translation value="Выиграть 25 матчей на 'Депозите' в режиме 'Захват'"/>
 	</entry>
 	<entry key="winCTFDeposit3">
 		<original value="Make a million"/>
@@ -3854,7 +3858,7 @@
 	</entry>
 	<entry key="winCTFDeposit3_desc">
 		<original value="Win 50 Deposit CTF matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Депозит' в режиме 'Захват'"/>
+		<translation value="Выиграть 50 матчей на 'Депозите' в режиме 'Захват'"/>
 	</entry>
 	<entry key="firstPlaceTDMShuttle1">
 		<original value="Baron of Shuttle"/>
@@ -3862,7 +3866,7 @@
 	</entry>
 	<entry key="firstPlaceTDMShuttle1_desc">
 		<original value="Take the 1st place in Shuttle TDM 25 times"/>
-		<translation value="Занять первое место на карте 'Терминал' в режиме 'Командный бой' 25 раз"/>
+		<translation value="Занять первое место на 'Терминале' в режиме 'Командный бой' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMShuttle2">
 		<original value="Duke of Shuttle"/>
@@ -3870,7 +3874,7 @@
 	</entry>
 	<entry key="firstPlaceTDMShuttle2_desc">
 		<original value="Take the 1st place in Shuttle TDM 50 times"/>
-		<translation value="Занять первое место на карте 'Терминал' в режиме 'Командный бой' 50 раз"/>
+		<translation value="Занять первое место на 'Терминале' в режиме 'Командный бой' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMShuttle3">
 		<original value="King of Shuttle"/>
@@ -3878,7 +3882,7 @@
 	</entry>
 	<entry key="firstPlaceTDMShuttle3_desc">
 		<original value="Take the 1st place in Shuttle TDM 100 times"/>
-		<translation value="Занять первое место на карте 'Терминал' в режиме 'Командный бой' 100 раз"/>
+		<translation value="Занять первое место на 'Терминале' в режиме 'Командный бой' 100 раз"/>
 	</entry>
 	<entry key="firstPlacePTBPalace1">
 		<original value="Baron of Palace"/>
@@ -3886,7 +3890,7 @@
 	</entry>
 	<entry key="firstPlacePTBPalace1_desc">
 		<original value="Take the 1st place in Palace PTB 25 times"/>
-		<translation value="Занять первое место на карте 'Дворец' в режиме 'Подрыв' 25 раз"/>
+		<translation value="Занять первое место на 'Дворце' в режиме 'Подрыв' 25 раз"/>
 	</entry>
 	<entry key="firstPlacePTBPalace2">
 		<original value="Duke of Palace"/>
@@ -3894,7 +3898,7 @@
 	</entry>
 	<entry key="firstPlacePTBPalace2_desc">
 		<original value="Take the 1st place in Palace PTB 50 times"/>
-		<translation value="Занять первое место на карте 'Дворец' в режиме 'Подрыв' 50 раз"/>
+		<translation value="Занять первое место на 'Дворце' в режиме 'Подрыв' 50 раз"/>
 	</entry>
 	<entry key="firstPlacePTBPalace3">
 		<original value="King of Palace"/>
@@ -3902,7 +3906,7 @@
 	</entry>
 	<entry key="firstPlacePTBPalace3_desc">
 		<original value="Take the 1st place in Palace PTB 100 times"/>
-		<translation value="Занять первое место на карте 'Дворец' в режиме 'Подрыв' 100 раз"/>
+		<translation value="Занять первое место на 'Дворце' в режиме 'Подрыв' 100 раз"/>
 	</entry>
 	<entry key="firstPlaceCTFDeposit1">
 		<original value="Baron of Deposit"/>
@@ -3910,7 +3914,7 @@
 	</entry>
 	<entry key="firstPlaceCTFDeposit1_desc">
 		<original value="Take the 1st place in Deposit CTF 25 times"/>
-		<translation value="Занять первое место на карте 'Депозит' в режиме 'Захват' 25 раз"/>
+		<translation value="Занять первое место на 'Депозите' в режиме 'Захват' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceCTFDeposit2">
 		<original value="Duke of Deposit"/>
@@ -3918,7 +3922,7 @@
 	</entry>
 	<entry key="firstPlaceCTFDeposit2_desc">
 		<original value="Take the 1st place in Deposit CTF 50 times"/>
-		<translation value="Занять первое место на карте 'Депозит' в режиме 'Захват' 50 раз"/>
+		<translation value="Занять первое место на 'Депозите' в режиме 'Захват' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceCTFDeposit3">
 		<original value="King of Deposit"/>
@@ -3926,7 +3930,7 @@
 	</entry>
 	<entry key="firstPlaceCTFDeposit3_desc">
 		<original value="Take the 1st place in Deposit CTF 100 times"/>
-		<translation value="Занять первое место на карте 'Депозит' в режиме 'Захват' 100 раз"/>
+		<translation value="Занять первое место на 'Депозите' в режиме 'Захват' 100 раз"/>
 	</entry>
 	<entry key="fastcup_03">
 		<original value="Fast Cup: Participant"/>
@@ -6098,11 +6102,11 @@
 	</entry>
 	<entry key="ar23Kill25_desc">
 		<original value="Kill 25000 enemies with AS 'VAL'"/>
-		<translation value="Убить 25 000 врагов из АС 'Вал'"/>
+		<translation value="Свинцовый град II"/>
 	</entry>
 	<entry key="mg01Kill25">
 		<original value="Advanced Tank Gunner"/>
-		<translation value="Свинцовый град II"/>
+		<translation/>
 	</entry>
 	<entry key="mg01Kill25_desc">
 		<original value="Kill 25 000 enemies with M240B"/>
@@ -6434,7 +6438,7 @@
 	</entry>
 	<entry key="ec_win_02_desc">
 		<original value="Perform 25 victories on TDM Oil Depot Euro 2016 or WC 2018 edition"/>
-		<translation value="Одержать 25 побед на карте 'Нефтебаза (Евро-2016 или Триумф)'"/>
+		<translation value="Одержать 25 побед на 'Нефтебазе (Евро-2016 или Триумф)'"/>
 	</entry>
 	<entry key="afro_survivor1">
 		<original value="Pyramid Stalker (Rifleman)"/>
@@ -7250,7 +7254,7 @@
 	</entry>
 	<entry key="winTDMOildepot1_desc">
 		<original value="Win 10 Oil Depot TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Нефтебаза' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Нефтебазе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMOildepot2">
 		<original value="Oil Tycoon"/>
@@ -7258,7 +7262,7 @@
 	</entry>
 	<entry key="winTDMOildepot2_desc">
 		<original value="Win 25 Oil Depot TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Нефтебаза' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Нефтебазе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMOildepot3">
 		<original value="Oil Magnate"/>
@@ -7266,7 +7270,7 @@
 	</entry>
 	<entry key="winTDMOildepot3_desc">
 		<original value="Win 50 Oil Depot TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Нефтебаза' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Нефтебазе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winPTBD171">
 		<original value="Refinery Expert"/>
@@ -7274,7 +7278,7 @@
 	</entry>
 	<entry key="winPTBD171_desc">
 		<original value="Win 10 D17 PTB matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Объект Д17' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 10 матчей на 'Объекте Д17' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBD172">
 		<original value="Refinery Dominator"/>
@@ -7282,7 +7286,7 @@
 	</entry>
 	<entry key="winPTBD172_desc">
 		<original value="Win 25 D17 PTB matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Объект Д17' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 25 матчей на 'Объекте Д17' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBD173">
 		<original value="Refinery Destroyer"/>
@@ -7290,7 +7294,7 @@
 	</entry>
 	<entry key="winPTBD173_desc">
 		<original value="Win 50 D17 PTB matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Объект Д17' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 50 матчей на 'Объекте Д17' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winSTMBlackgold1">
 		<original value="Oil Derrick"/>
@@ -7298,7 +7302,7 @@
 	</entry>
 	<entry key="winSTMBlackgold1_desc">
 		<original value="Win 10 Blackgold STM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Черное золото' в режиме 'Штурм'"/>
+		<translation value="Выиграть 10 матчей на 'Черном золоте' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMBlackgold2">
 		<original value="Pumping Oil"/>
@@ -7306,7 +7310,7 @@
 	</entry>
 	<entry key="winSTMBlackgold2_desc">
 		<original value="Win 25 Blackgold STM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Черное золото' в режиме 'Штурм'"/>
+		<translation value="Выиграть 25 матчей на 'Черном золоте' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMBlackgold3">
 		<original value="Pumpjack"/>
@@ -7314,7 +7318,7 @@
 	</entry>
 	<entry key="winSTMBlackgold3_desc">
 		<original value="Win 50 Blackgold STM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Черное золото' в режиме 'Штурм'"/>
+		<translation value="Выиграть 50 матчей на 'Черном золоте' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winTDMStreetwars1">
 		<original value="Streets On Fire"/>
@@ -7322,7 +7326,7 @@
 	</entry>
 	<entry key="winTDMStreetwars1_desc">
 		<original value="Win 10 Street Wars TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Квартал' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Квартале' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMStreetwars2">
 		<original value="Rage on the Street"/>
@@ -7330,7 +7334,7 @@
 	</entry>
 	<entry key="winTDMStreetwars2_desc">
 		<original value="Win 25 Street Wars TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Квартал' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Квартале' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMStreetwars3">
 		<original value="Street Wars Winner"/>
@@ -7338,7 +7342,7 @@
 	</entry>
 	<entry key="winTDMStreetwars3_desc">
 		<original value="Win 50 Street Wars TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Квартал' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Квартале' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMHangar1">
 		<original value="Hangar Hardworker"/>
@@ -7346,7 +7350,7 @@
 	</entry>
 	<entry key="winTDMHangar1_desc">
 		<original value="Win 10 Hangar TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Ангар' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Ангаре' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMHangar2">
 		<original value="Hangar Loader"/>
@@ -7354,7 +7358,7 @@
 	</entry>
 	<entry key="winTDMHangar2_desc">
 		<original value="Win 25 Hangar TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Ангар' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Ангаре' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMHangar3">
 		<original value="Mr. Hook"/>
@@ -7362,7 +7366,7 @@
 	</entry>
 	<entry key="winTDMHangar3_desc">
 		<original value="Win 50 Hangar TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Ангар' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Ангаре' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="ru_collect_anubis01">
 		<original value="Member of 'Retribution' season"/>
@@ -7394,7 +7398,7 @@
 	</entry>
 	<entry key="firstPlacePTBAfghan1_desc">
 		<original value="Take the 1st place in Yard PTB 25 times"/>
-		<translation value="Занять первое место на карте 'Переулки' в режиме 'Подрыв' 25 раз"/>
+		<translation value="Занять первое место на 'Переулках' в режиме 'Подрыв' 25 раз"/>
 	</entry>
 	<entry key="firstPlacePTBAfghan2">
 		<original value="Duke of Yard"/>
@@ -7402,7 +7406,7 @@
 	</entry>
 	<entry key="firstPlacePTBAfghan2_desc">
 		<original value="Take the 1st place in Yard PTB 50 times"/>
-		<translation value="Занять первое место на карте 'Переулки' в режиме 'Подрыв' 50 раз"/>
+		<translation value="Занять первое место на 'Переулках' в режиме 'Подрыв' 50 раз"/>
 	</entry>
 	<entry key="firstPlacePTBAfghan3">
 		<original value="King of Yard"/>
@@ -7410,7 +7414,7 @@
 	</entry>
 	<entry key="firstPlacePTBAfghan3_desc">
 		<original value="Take the 1st place in Yard PTB 100 times"/>
-		<translation value="Занять первое место на карте 'Переулки' в режиме 'Подрыв' 100 раз"/>
+		<translation value="Занять первое место на 'Переулках' в режиме 'Подрыв' 100 раз"/>
 	</entry>
 	<entry key="winPTBAfghan1">
 		<original value="Yard Expert"/>
@@ -7418,7 +7422,7 @@
 	</entry>
 	<entry key="winPTBAfghan1_desc">
 		<original value="Win 10 Yard PTB matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Переулки' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 10 матчей на 'Переулках' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBAfghan2">
 		<original value="Yard Dominator"/>
@@ -7426,7 +7430,7 @@
 	</entry>
 	<entry key="winPTBAfghan2_desc">
 		<original value="Win 25 Yard PTB matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Переулки' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 25 матчей на 'Переулках' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBAfghan3">
 		<original value="Yard Destroyer"/>
@@ -7434,7 +7438,7 @@
 	</entry>
 	<entry key="winPTBAfghan3_desc">
 		<original value="Win 50 Yard PTB matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Переулки' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 50 матчей на 'Переулках' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="firstPlaceDSTTowers1">
 		<original value="Baron of Towers"/>
@@ -7442,7 +7446,7 @@
 	</entry>
 	<entry key="firstPlaceDSTTowers1_desc">
 		<original value="Take the 1st place in Towers DST 25 times"/>
-		<translation value="Занять первое место на карте 'Башни' в режиме 'Уничтожение' 25 раз"/>
+		<translation value="Занять первое место на 'Башнях' в режиме 'Уничтожение' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceDSTTowers2">
 		<original value="Duke of Towers"/>
@@ -7450,7 +7454,7 @@
 	</entry>
 	<entry key="firstPlaceDSTTowers2_desc">
 		<original value="Take the 1st place in Towers DST 50 times"/>
-		<translation value="Занять первое место на карте 'Башни' в режиме 'Уничтожение' 50 раз"/>
+		<translation value="Занять первое место на 'Башнях' в режиме 'Уничтожение' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceDSTTowers3">
 		<original value="King of Towers"/>
@@ -7458,7 +7462,7 @@
 	</entry>
 	<entry key="firstPlaceDSTTowers3_desc">
 		<original value="Take the 1st place in Towers DST 100 times"/>
-		<translation value="Занять первое место на карте 'Башни' в режиме 'Уничтожение' 100 раз"/>
+		<translation value="Занять первое место на 'Башнях' в режиме 'Уничтожение' 100 раз"/>
 	</entry>
 	<entry key="winDSTTowers1">
 		<original value="Towers Expert"/>
@@ -7466,7 +7470,7 @@
 	</entry>
 	<entry key="winDSTTowers1_desc">
 		<original value="Win 10 Towers DST matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Башни' в режиме 'Уничтожение'"/>
+		<translation value="Выиграть 10 матчей на 'Башнях' в режиме 'Уничтожение'"/>
 	</entry>
 	<entry key="winDSTTowers2">
 		<original value="Towers Dominator"/>
@@ -7474,7 +7478,7 @@
 	</entry>
 	<entry key="winDSTTowers2_desc">
 		<original value="Win 25 Towers DST matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Башни' в режиме 'Уничтожение'"/>
+		<translation value="Выиграть 25 матчей на 'Башнях' в режиме 'Уничтожение'"/>
 	</entry>
 	<entry key="winDSTTowers3">
 		<original value="Towers Destroyer"/>
@@ -7482,7 +7486,7 @@
 	</entry>
 	<entry key="winDSTTowers3_desc">
 		<original value="Win 50 Towers DST matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Башни' в режиме 'Уничтожение'"/>
+		<translation value="Выиграть 50 матчей на 'Башнях' в режиме 'Уничтожение'"/>
 	</entry>
 	<entry key="firstPlaceTDMAul1">
 		<original value="Baron of Aul"/>
@@ -7490,7 +7494,7 @@
 	</entry>
 	<entry key="firstPlaceTDMAul1_desc">
 		<original value="Take the 1st place in Aul TDM 25 times"/>
-		<translation value="Занять первое место на карте 'Поселок' в режиме 'Командный бой' 25 раз"/>
+		<translation value="Занять первое место на 'Поселке' в режиме 'Командный бой' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMAul2">
 		<original value="Duke of Aul"/>
@@ -7498,7 +7502,7 @@
 	</entry>
 	<entry key="firstPlaceTDMAul2_desc">
 		<original value="Take the 1st place in Aul TDM 50 times"/>
-		<translation value="Занять первое место на карте 'Поселок' в режиме 'Командный бой' 50 раз"/>
+		<translation value="Занять первое место на 'Поселке' в режиме 'Командный бой' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMAul3">
 		<original value="King of Aul"/>
@@ -7506,7 +7510,7 @@
 	</entry>
 	<entry key="firstPlaceTDMAul3_desc">
 		<original value="Take the 1st place in Aul TDM 100 times"/>
-		<translation value="Занять первое место на карте 'Поселок' в режиме 'Командный бой' 100 раз"/>
+		<translation value="Занять первое место на 'Поселке' в режиме 'Командный бой' 100 раз"/>
 	</entry>
 	<entry key="winTDMAul1">
 		<original value="Prime Camel"/>
@@ -7514,7 +7518,7 @@
 	</entry>
 	<entry key="winTDMAul1_desc">
 		<original value="Win 10 Aul TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Поселок' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Поселке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMAul2">
 		<original value="Superior Camel"/>
@@ -7522,7 +7526,7 @@
 	</entry>
 	<entry key="winTDMAul2_desc">
 		<original value="Win 25 Aul TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Поселок' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Поселке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMAul3">
 		<original value="Elite Camel"/>
@@ -7530,7 +7534,7 @@
 	</entry>
 	<entry key="winTDMAul3_desc">
 		<original value="Win 50 Aul TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Поселок' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Поселке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="firstPlaceTDMCrossriver1">
 		<original value="Baron of Crossing"/>
@@ -7538,7 +7542,7 @@
 	</entry>
 	<entry key="firstPlaceTDMCrossriver1_desc">
 		<original value="Take the 1st place in Crossing TDM 25 times"/>
-		<translation value="Занять первое место на карте 'Переправа' в режиме 'Командный бой' 25 раз"/>
+		<translation value="Занять первое место на 'Переправе' в режиме 'Командный бой' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMCrossriver2">
 		<original value="Duke of Crossing"/>
@@ -7546,7 +7550,7 @@
 	</entry>
 	<entry key="firstPlaceTDMCrossriver2_desc">
 		<original value="Take the 1st place in Crossing TDM 50 times"/>
-		<translation value="Занять первое место на карте 'Переправа' в режиме 'Командный бой' 50 раз"/>
+		<translation value="Занять первое место на 'Переправе' в режиме 'Командный бой' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMCrossriver3">
 		<original value="King of Crossing"/>
@@ -7554,7 +7558,7 @@
 	</entry>
 	<entry key="firstPlaceTDMCrossriver3_desc">
 		<original value="Take the 1st place in Crossing TDM 100 times"/>
-		<translation value="Занять первое место на карте 'Переправа' в режиме 'Командный бой' 100 раз"/>
+		<translation value="Занять первое место на 'Переправе' в режиме 'Командный бой' 100 раз"/>
 	</entry>
 	<entry key="winTDMCrossriver1">
 		<original value="Jungle Spirit"/>
@@ -7562,7 +7566,7 @@
 	</entry>
 	<entry key="winTDMCrossriver1_desc">
 		<original value="Win 10 Crossing TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Переправа' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Переправе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMCrossriver2">
 		<original value="Jungle Hunt"/>
@@ -7570,7 +7574,7 @@
 	</entry>
 	<entry key="winTDMCrossriver2_desc">
 		<original value="Win 25 Crossing TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Переправа' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Переправе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMCrossriver3">
 		<original value="King of a Jungle"/>
@@ -7578,7 +7582,7 @@
 	</entry>
 	<entry key="winTDMCrossriver3_desc">
 		<original value="Win 50 Crossing TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Переправа' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Переправе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="firstPlaceTDMFarm1">
 		<original value="Baron of Farm"/>
@@ -7586,7 +7590,7 @@
 	</entry>
 	<entry key="firstPlaceTDMFarm1_desc">
 		<original value="Take the 1st place in Farm TDM 25 times"/>
-		<translation value="Занять первое место на карте 'Ферма' в режиме 'Командный бой' 25 раз"/>
+		<translation value="Занять первое место на 'Ферме' в режиме 'Командный бой' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMFarm2">
 		<original value="Duke of Farm"/>
@@ -7594,7 +7598,7 @@
 	</entry>
 	<entry key="firstPlaceTDMFarm2_desc">
 		<original value="Take the 1st place in Farm TDM 50 times"/>
-		<translation value="Занять первое место на карте 'Ферма' в режиме 'Командный бой' 50 раз"/>
+		<translation value="Занять первое место на 'Ферме' в режиме 'Командный бой' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMFarm3">
 		<original value="King of Farm"/>
@@ -7602,7 +7606,7 @@
 	</entry>
 	<entry key="firstPlaceTDMFarm3_desc">
 		<original value="Take the 1st place in Farm TDM 100 times"/>
-		<translation value="Занять первое место на карте 'Ферма' в режиме 'Командный бой' 100 раз"/>
+		<translation value="Занять первое место на 'Ферме' в режиме 'Командный бой' 100 раз"/>
 	</entry>
 	<entry key="winTDMFarm1">
 		<original value="Giant Crop"/>
@@ -7610,7 +7614,7 @@
 	</entry>
 	<entry key="winTDMFarm1_desc">
 		<original value="Win 10 Farm TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Ферма' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Ферме' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMFarm2">
 		<original value="Awesome Crop"/>
@@ -7618,7 +7622,7 @@
 	</entry>
 	<entry key="winTDMFarm2_desc">
 		<original value="Win 25 Farm TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Ферма' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Ферме' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMFarm3">
 		<original value="The Best Farmer"/>
@@ -7626,7 +7630,7 @@
 	</entry>
 	<entry key="winTDMFarm3_desc">
 		<original value="Win 50 Farm TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Ферма' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Ферме' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="firstPlaceTDMAirbase1">
 		<original value="Baron of Airbase"/>
@@ -7634,7 +7638,7 @@
 	</entry>
 	<entry key="firstPlaceTDMAirbase1_desc">
 		<original value="Take the 1st place in Airbase TDM 25 times"/>
-		<translation value="Занять первое место на карте 'Авиабаза' в режиме 'Командный бой' 25 раз"/>
+		<translation value="Занять первое место на 'Авиабазе' в режиме 'Командный бой' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMAirbase2">
 		<original value="Duke of Airbase"/>
@@ -7642,7 +7646,7 @@
 	</entry>
 	<entry key="firstPlaceTDMAirbase2_desc">
 		<original value="Take the 1st place in Airbase TDM 50 times"/>
-		<translation value="Занять первое место на карте 'Авиабаза' в режиме 'Командный бой' 50 раз"/>
+		<translation value="Занять первое место на 'Авиабазе' в режиме 'Командный бой' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMAirbase3">
 		<original value="King of Airbase"/>
@@ -7650,7 +7654,7 @@
 	</entry>
 	<entry key="firstPlaceTDMAirbase3_desc">
 		<original value="Take the 1st place in Airbase TDM 100 times"/>
-		<translation value="Занять первое место на карте 'Авиабаза' в режиме 'Командный бой' 100 раз"/>
+		<translation value="Занять первое место на 'Авиабазе' в режиме 'Командный бой' 100 раз"/>
 	</entry>
 	<entry key="winTDMAirbase1">
 		<original value="Where is a pilot"/>
@@ -7658,7 +7662,7 @@
 	</entry>
 	<entry key="winTDMAirbase1_desc">
 		<original value="Win 10 Airbase TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Авиабаза' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Авиабазе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMAirbase2">
 		<original value="On A Plain"/>
@@ -7666,7 +7670,7 @@
 	</entry>
 	<entry key="winTDMAirbase2_desc">
 		<original value="Win 25 Airbase TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Авиабаза' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Авиабазе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMAirbase3">
 		<original value="Turbine Rider"/>
@@ -7674,7 +7678,7 @@
 	</entry>
 	<entry key="winTDMAirbase3_desc">
 		<original value="Win 50 Airbase TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Авиабаза' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Авиабазе' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="smg35_Kill">
 		<original value="Russian Self Defense"/>
@@ -8410,7 +8414,7 @@
 	</entry>
 	<entry key="tbsHawkrockFirstPlace01_desc">
 		<original value="Take the 1st place in Hawkrock TBS 10 times"/>
-		<translation value="Занять 1-е место в выигравшей команде на карте 'Вилла' 10 раз"/>
+		<translation value="Занять 1-е место в выигравшей команде на 'Вилле' 10 раз"/>
 	</entry>
 	<entry key="tbsHawkrockFirstPlace02">
 		<original value="Blitz Doctrine: Pursuit"/>
@@ -8418,7 +8422,7 @@
 	</entry>
 	<entry key="tbsHawkrockFirstPlace02_desc">
 		<original value="Take the 1st place in Hawkrock TBS 25 times"/>
-		<translation value="Занять 1-е место в выигравшей команде на карте 'Вилла' 25 раз"/>
+		<translation value="Занять 1-е место в выигравшей команде на 'Вилле' 25 раз"/>
 	</entry>
 	<entry key="tbsHawkrockFirstPlace03">
 		<original value="Blitz Doctrine: Mopping-up"/>
@@ -8426,7 +8430,7 @@
 	</entry>
 	<entry key="tbsHawkrockFirstPlace03_desc">
 		<original value="Take the 1st place in Hawkrock TBS 50 times"/>
-		<translation value="Занять 1-е место в выигравшей команде на карте 'Вилла' 50 раз"/>
+		<translation value="Занять 1-е место в выигравшей команде на 'Вилле' 50 раз"/>
 	</entry>
 	<entry key="tbsHawkrockDoubleKill01">
 		<original value="Fully Mobilized"/>
@@ -8450,7 +8454,7 @@
 	</entry>
 	<entry key="tbsHawkrockWinnerNoDeath01_desc">
 		<original value="Took 1st, 2nd or 3rd place in winning team at Hawkrock TBS without death"/>
-		<translation value="Занять 1-3 место в выигравшей команде на карте 'Вилла', ни разу не умерев"/>
+		<translation value="Занять 1-3 место в выигравшей команде на 'Вилле', ни разу не умерев"/>
 	</entry>
 	<entry key="secret01">
 		<original value="Something Went Wrong"/>
@@ -8842,7 +8846,7 @@
 	</entry>
 	<entry key="ice_survivor3_desc">
 		<original value="Complete Hardcore as a Rifleman"/>
-		<translation value="Пройти миссию 'Ледокол' ('Профи') за штурмовика"/>
+		<translation value="Пройти миссию 'Ледокол' ('Профи') за штурмовика "/>
 	</entry>
 	<entry key="ice_survivor4">
 		<original value="Ice-Breaker (Medic)"/>
@@ -10550,7 +10554,7 @@
 	</entry>
 	<entry key="firstPlaceTDMNightFarm1_desc">
 		<original value="Take the 1st place in Farm Sunset TDM 25 times"/>
-		<translation value="Занять первое место на карте 'Ферма (закат)' в режиме 'Командный бой' 25 раз"/>
+		<translation value="Занять первое место на 'Ферме (закат)' в режиме 'Командный бой' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMNightFarm2">
 		<original value="Duke of Farm Sunset"/>
@@ -10558,7 +10562,7 @@
 	</entry>
 	<entry key="firstPlaceTDMNightFarm2_desc">
 		<original value="Take the 1st place in Farm Sunset TDM 50 times"/>
-		<translation value="Занять первое место на карте 'Ферма (закат)' в режиме 'Командный бой' 50 раз"/>
+		<translation value="Занять первое место на 'Ферме (закат)' в режиме 'Командный бой' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMNightFarm3">
 		<original value="King of Farm Sunset"/>
@@ -10566,7 +10570,7 @@
 	</entry>
 	<entry key="firstPlaceTDMNightFarm3_desc">
 		<original value="Take the 1st place in Farm Sunset TDM 100 times"/>
-		<translation value="Занять первое место на карте 'Ферма (закат)' в режиме 'Командный бой' 100 раз"/>
+		<translation value="Занять первое место на 'Ферме (закат)' в режиме 'Командный бой' 100 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMDock1">
 		<original value="Baron of Dock"/>
@@ -10574,7 +10578,7 @@
 	</entry>
 	<entry key="firstPlaceTDMDock1_desc">
 		<original value="Take the 1st place in Dock TDM 25 times"/>
-		<translation value="Занять первое место на карте 'Док' в режиме 'Командный бой' 25 раз"/>
+		<translation value="Занять первое место на 'Доке' в режиме 'Командный бой' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMDock2">
 		<original value="Duke of Dock"/>
@@ -10582,7 +10586,7 @@
 	</entry>
 	<entry key="firstPlaceTDMDock2_desc">
 		<original value="Take the 1st place in Dock TDM 50 times"/>
-		<translation value="Занять первое место на карте 'Док' в режиме 'Командный бой' 50 раз"/>
+		<translation value="Занять первое место на 'Доке' в режиме 'Командный бой' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMDock3">
 		<original value="King of Dock"/>
@@ -10590,7 +10594,7 @@
 	</entry>
 	<entry key="firstPlaceTDMDock3_desc">
 		<original value="Take the 1st place in Dock TDM 100 times"/>
-		<translation value="Занять первое место на карте 'Док' в режиме 'Командный бой' 100 раз"/>
+		<translation value="Занять первое место на 'Доке' в режиме 'Командный бой' 100 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMMotel1">
 		<original value="Baron of Motel"/>
@@ -10598,7 +10602,7 @@
 	</entry>
 	<entry key="firstPlaceTDMMotel1_desc">
 		<original value="Take the 1st place in Motel TDM 25 times"/>
-		<translation value="Занять первое место на карте 'Мотель' в режиме 'Командный бой' 25 раз"/>
+		<translation value="Занять первое место на 'Мотеле' в режиме 'Командный бой' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMMotel2">
 		<original value="Duke of Motel"/>
@@ -10606,7 +10610,7 @@
 	</entry>
 	<entry key="firstPlaceTDMMotel2_desc">
 		<original value="Take the 1st place in Motel TDM 50 times"/>
-		<translation value="Занять первое место на карте 'Мотель' в режиме 'Командный бой' 50 раз"/>
+		<translation value="Занять первое место на 'Мотеле' в режиме 'Командный бой' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceTDMMotel3">
 		<original value="King of Motel"/>
@@ -10614,7 +10618,7 @@
 	</entry>
 	<entry key="firstPlaceTDMMotel3_desc">
 		<original value="Take the 1st place in Motel TDM 100 times"/>
-		<translation value="Занять первое место на карте 'Мотель' в режиме 'Командный бой' 100 раз"/>
+		<translation value="Занять первое место на 'Мотеле' в режиме 'Командный бой' 100 раз"/>
 	</entry>
 	<entry key="firstPlacePTBMine1">
 		<original value="Baron of Mine"/>
@@ -10622,7 +10626,7 @@
 	</entry>
 	<entry key="firstPlacePTBMine1_desc">
 		<original value="Take the 1st place in Mine PTB 25 times"/>
-		<translation value="Занять первое место на карте 'Штольня' в режиме 'Подрыв' 25 раз"/>
+		<translation value="Занять первое место на 'Штольне' в режиме 'Подрыв' 25 раз"/>
 	</entry>
 	<entry key="firstPlacePTBMine2">
 		<original value="Duke of Mine"/>
@@ -10630,7 +10634,7 @@
 	</entry>
 	<entry key="firstPlacePTBMine2_desc">
 		<original value="Take the 1st place in Mine PTB 50 times"/>
-		<translation value="Занять первое место на карте 'Штольня' в режиме 'Подрыв' 50 раз"/>
+		<translation value="Занять первое место на 'Штольне' в режиме 'Подрыв' 50 раз"/>
 	</entry>
 	<entry key="firstPlacePTBMine3">
 		<original value="King of Mine"/>
@@ -10638,7 +10642,7 @@
 	</entry>
 	<entry key="firstPlacePTBMine3_desc">
 		<original value="Take the 1st place in Mine PTB 100 times"/>
-		<translation value="Занять первое место на карте 'Штольня' в режиме 'Подрыв' 100 раз"/>
+		<translation value="Занять первое место на 'Штольне' в режиме 'Подрыв' 100 раз"/>
 	</entry>
 	<entry key="firstPlacePTBDestination1">
 		<original value="Baron of Destination"/>
@@ -10646,7 +10650,7 @@
 	</entry>
 	<entry key="firstPlacePTBDestination1_desc">
 		<original value="Take the 1st place in Destination PTB 25 times"/>
-		<translation value="Занять первое место на карте 'Пункт назначения' в режиме 'Подрыв' 25 раз"/>
+		<translation value="Занять первое место на 'Пункте назначения' в режиме 'Подрыв' 25 раз"/>
 	</entry>
 	<entry key="firstPlacePTBDestination2">
 		<original value="Duke of Destination"/>
@@ -10654,7 +10658,7 @@
 	</entry>
 	<entry key="firstPlacePTBDestination2_desc">
 		<original value="Take the 1st place in Destination PTB 50 times"/>
-		<translation value="Занять первое место на карте 'Пункт назначения' в режиме 'Подрыв' 50 раз"/>
+		<translation value="Занять первое место на 'Пункте назначения' в режиме 'Подрыв' 50 раз"/>
 	</entry>
 	<entry key="firstPlacePTBDestination3">
 		<original value="King of Destination"/>
@@ -10662,7 +10666,7 @@
 	</entry>
 	<entry key="firstPlacePTBDestination3_desc">
 		<original value="Take the 1st place in Destination PTB 100 times"/>
-		<translation value="Занять первое место на карте 'Пункт назначения' в режиме 'Подрыв' 100 раз"/>
+		<translation value="Занять первое место на 'Пункте назначения' в режиме 'Подрыв' 100 раз"/>
 	</entry>
 	<entry key="firstPlaceSTMHighhill1">
 		<original value="Baron of Highhill"/>
@@ -10670,7 +10674,7 @@
 	</entry>
 	<entry key="firstPlaceSTMHighhill1_desc">
 		<original value="Take the 1st place in Highhill STM 25 times"/>
-		<translation value="Занять первое место на карте 'Холмы' в режиме 'Штурм' 25 раз"/>
+		<translation value="Занять первое место на 'Холмах' в режиме 'Штурм' 25 раз"/>
 	</entry>
 	<entry key="firstPlaceSTMHighhill2">
 		<original value="Duke of Highhill"/>
@@ -10678,7 +10682,7 @@
 	</entry>
 	<entry key="firstPlaceSTMHighhill2_desc">
 		<original value="Take the 1st place in Highhill STM 50 times"/>
-		<translation value="Занять первое место на карте 'Холмы' в режиме 'Штурм' 50 раз"/>
+		<translation value="Занять первое место на 'Холмах' в режиме 'Штурм' 50 раз"/>
 	</entry>
 	<entry key="firstPlaceSTMHighhill3">
 		<original value="King of Highhill"/>
@@ -10686,7 +10690,7 @@
 	</entry>
 	<entry key="firstPlaceSTMHighhill3_desc">
 		<original value="Take the 1st place in Highhill STM 100 times"/>
-		<translation value="Занять первое место на карте 'Холмы' в режиме 'Штурм' 100 раз"/>
+		<translation value="Занять первое место на 'Холмах' в режиме 'Штурм' 100 раз"/>
 	</entry>
 	<entry key="winTDMNightFarm1">
 		<original value="Cropping out"/>
@@ -10694,7 +10698,7 @@
 	</entry>
 	<entry key="winTDMNightFarm1_desc">
 		<original value="Win 10 Farm Sunset TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Ферма (закат)' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Ферме (закат)' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMNightFarm2">
 		<original value="Night harvest"/>
@@ -10702,7 +10706,7 @@
 	</entry>
 	<entry key="winTDMNightFarm2_desc">
 		<original value="Win 25 Farm Sunset TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Ферма (закат)' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Ферме (закат)' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMNightFarm3">
 		<original value="Cream of the crop"/>
@@ -10710,7 +10714,7 @@
 	</entry>
 	<entry key="winTDMNightFarm3_desc">
 		<original value="Win 50 Farm Sunset TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Ферма (закат)' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Ферме (закат)' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMDock1">
 		<original value="First shipment"/>
@@ -10718,7 +10722,7 @@
 	</entry>
 	<entry key="winTDMDock1_desc">
 		<original value="Win 10 Dock TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Док' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Доке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMDock2">
 		<original value="Port authority"/>
@@ -10726,7 +10730,7 @@
 	</entry>
 	<entry key="winTDMDock2_desc">
 		<original value="Win 25 Dock TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Док' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Доке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMDock3">
 		<original value="Shipping mogul"/>
@@ -10734,7 +10738,7 @@
 	</entry>
 	<entry key="winTDMDock3_desc">
 		<original value="Win 50 Dock TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Док' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Доке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMMotel1">
 		<original value="One night stay"/>
@@ -10742,7 +10746,7 @@
 	</entry>
 	<entry key="winTDMMotel1_desc">
 		<original value="Win 10 Motel TDM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Мотель' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 10 матчей на 'Мотеле' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMMotel2">
 		<original value="Returning guest"/>
@@ -10750,7 +10754,7 @@
 	</entry>
 	<entry key="winTDMMotel2_desc">
 		<original value="Win 25 Motel TDM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Мотель' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 25 матчей на 'Мотеле' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMMotel3">
 		<original value="Personal suite"/>
@@ -10758,7 +10762,7 @@
 	</entry>
 	<entry key="winTDMMotel3_desc">
 		<original value="Win 50 Motel TDM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Мотель' в режиме 'Командный бой'"/>
+		<translation value="Выиграть 50 матчей на 'Мотеле' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winPTBMine1">
 		<original value="Canary watching"/>
@@ -10766,7 +10770,7 @@
 	</entry>
 	<entry key="winPTBMine1_desc">
 		<original value="Win 10 Mine PTB matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Штольня' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 10 матчей на 'Штольне' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBMine2">
 		<original value="Hard quarry"/>
@@ -10774,7 +10778,7 @@
 	</entry>
 	<entry key="winPTBMine2_desc">
 		<original value="Win 25 Mine PTB matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Штольня' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 25 матчей на 'Штольне' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBMine3">
 		<original value="Dwarf fortress"/>
@@ -10782,7 +10786,7 @@
 	</entry>
 	<entry key="winPTBMine3_desc">
 		<original value="Win 50 Mine PTB matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Штольня' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 50 матчей на 'Штольне' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBDestination1">
 		<original value="Raise the roof"/>
@@ -10790,7 +10794,7 @@
 	</entry>
 	<entry key="winPTBDestination1_desc">
 		<original value="Win 10 Destination PTB matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Пункт назначения' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 10 матчей на 'Пункте назначения' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBDestination2">
 		<original value="Cat on the roof"/>
@@ -10798,7 +10802,7 @@
 	</entry>
 	<entry key="winPTBDestination2_desc">
 		<original value="Win 25 Destination PTB matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Пункт назначения' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 25 матчей на 'Пункте назначения' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBDestination3">
 		<original value="The roof is on fire"/>
@@ -10806,7 +10810,7 @@
 	</entry>
 	<entry key="winPTBDestination3_desc">
 		<original value="Win 50 Destination PTB matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Пункт назначения' в режиме 'Подрыв'"/>
+		<translation value="Выиграть 50 матчей на 'Пункте назначения' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winSTMHighhill1">
 		<original value="Lone flag"/>
@@ -10814,7 +10818,7 @@
 	</entry>
 	<entry key="winSTMHighhill1_desc">
 		<original value="Win 10 Highhill STM matches"/>
-		<translation value="Выиграть 10 матчей на карте 'Холмы' в режиме 'Штурм'"/>
+		<translation value="Выиграть 10 матчей на 'Холмах' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMHighhill2">
 		<original value="Flying proud"/>
@@ -10822,7 +10826,7 @@
 	</entry>
 	<entry key="winSTMHighhill2_desc">
 		<original value="Win 25 Highhill STM matches"/>
-		<translation value="Выиграть 25 матчей на карте 'Холмы' в режиме 'Штурм'"/>
+		<translation value="Выиграть 25 матчей на 'Холмах' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMHighhill3">
 		<original value="Flag on the hill"/>
@@ -10830,7 +10834,7 @@
 	</entry>
 	<entry key="winSTMHighhill3_desc">
 		<original value="Win 50 Highhill STM matches"/>
-		<translation value="Выиграть 50 матчей на карте 'Холмы' в режиме 'Штурм'"/>
+		<translation value="Выиграть 50 матчей на 'Холмах' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="Mech_Kill01">
 		<original value="Scrap Metal Collector"/>
@@ -12486,7 +12490,7 @@
 	</entry>
 	<entry key="winCTFLongway1_desc">
 		<original value="Win 10 Longway CTF mathes"/>
-		<translation value="Одержать 10 побед на карте 'Крепость' в режиме 'Захват'"/>
+		<translation value="Одержать 10 побед на 'Крепости' в режиме 'Захват'"/>
 	</entry>
 	<entry key="winCTFLongway2">
 		<original value="Defender of the village"/>
@@ -12494,7 +12498,7 @@
 	</entry>
 	<entry key="winCTFLongway2_desc">
 		<original value="Win 25 Longway CTF mathes"/>
-		<translation value="Одержать 25 побед на карте 'Крепость' в режиме 'Захват'"/>
+		<translation value="Одержать 25 побед на 'Крепости' в режиме 'Захват'"/>
 	</entry>
 	<entry key="winCTFLongway3">
 		<original value="Lord of the Citadel"/>
@@ -12502,7 +12506,7 @@
 	</entry>
 	<entry key="winCTFLongway3_desc">
 		<original value="Win 50 Longway CTF mathes"/>
-		<translation value="Одержать 50 побед на карте 'Крепость' в режиме 'Захват'"/>
+		<translation value="Одержать 50 побед на 'Крепости' в режиме 'Захват'"/>
 	</entry>
 	<entry key="winCTFVault1">
 		<original value="Peace of cake..."/>
@@ -12510,7 +12514,7 @@
 	</entry>
 	<entry key="winCTFVault1_desc">
 		<original value="Win 10 Vault CTF mathes"/>
-		<translation value="Одержать 10 побед на карте 'Убежище' в режиме 'Захват'"/>
+		<translation value="Одержать 10 побед на 'Убежище' в режиме 'Захват'"/>
 	</entry>
 	<entry key="winCTFVault2">
 		<original value="You can not hide!"/>
@@ -12518,7 +12522,7 @@
 	</entry>
 	<entry key="winCTFVault2_desc">
 		<original value="Win 25 Vault CTF mathes"/>
-		<translation value="Одержать 25 побед на карте 'Убежище' в режиме 'Захват'"/>
+		<translation value="Одержать 25 побед на 'Убежище' в режиме 'Захват'"/>
 	</entry>
 	<entry key="winCTFVault3">
 		<original value="I'm the king of this district!"/>
@@ -12526,7 +12530,7 @@
 	</entry>
 	<entry key="winCTFVault3_desc">
 		<original value="Win 50 Vault CTF mathes"/>
-		<translation value="Одержать 50 побед на карте 'Убежище' в режиме 'Захват'"/>
+		<translation value="Одержать 50 побед на 'Убежище' в режиме 'Захват'"/>
 	</entry>
 	<entry key="winDMNSirius1">
 		<original value="Decent Fighter"/>
@@ -12534,7 +12538,7 @@
 	</entry>
 	<entry key="winDMNSirius1_desc">
 		<original value="Win 10 Sirius DMN mathes"/>
-		<translation value="Одержать 10 побед на карте 'Запуск' в режиме 'Доминация'"/>
+		<translation value="Одержать 10 побед на 'Запуске' в режиме 'Доминация'"/>
 	</entry>
 	<entry key="winDMNSirius2">
 		<original value="Unconquerable Soldier"/>
@@ -12542,7 +12546,7 @@
 	</entry>
 	<entry key="winDMNSirius2_desc">
 		<original value="Win 25 Sirius DMN mathes"/>
-		<translation value="Одержать 25 побед на карте 'Запуск' в режиме 'Доминация'"/>
+		<translation value="Одержать 25 побед на 'Запуске' в режиме 'Доминация'"/>
 	</entry>
 	<entry key="winDMNSirius3">
 		<original value="Walking Death"/>
@@ -12550,7 +12554,7 @@
 	</entry>
 	<entry key="winDMNSirius3_desc">
 		<original value="Win 50 Sirius DMN mathes"/>
-		<translation value="Одержать 50 побед на карте 'Запуск' в режиме 'Доминация'"/>
+		<translation value="Одержать 50 побед на 'Запуске' в режиме 'Доминация'"/>
 	</entry>
 	<entry key="winPTBBridgesup1">
 		<original value="Area Defender"/>
@@ -12558,7 +12562,7 @@
 	</entry>
 	<entry key="winPTBBridgesup1_desc">
 		<original value="Win 10 Bridges Up PTB mathes"/>
-		<translation value="Одержать 10 побед на карте 'Мосты' в режиме 'Подрыв'"/>
+		<translation value="Одержать 10 побед на 'Мостах' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBBridgesup2">
 		<original value="Dangerous Bridge"/>
@@ -12566,7 +12570,7 @@
 	</entry>
 	<entry key="winPTBBridgesup2_desc">
 		<original value="Win 25 Bridges Up PTB mathes"/>
-		<translation value="Одержать 25 побед на карте 'Мосты' в режиме 'Подрыв'"/>
+		<translation value="Одержать 25 побед на 'Мостах' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBBridgesup3">
 		<original value="Bridge of Death"/>
@@ -12574,7 +12578,7 @@
 	</entry>
 	<entry key="winPTBBridgesup3_desc">
 		<original value="Win 50 Bridges Up PTB mathes"/>
-		<translation value="Одержать 50 побед на карте 'Мосты' в режиме 'Подрыв'"/>
+		<translation value="Одержать 50 побед на 'Мостах' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBPyramid1">
 		<original value="Pharaoh's Servant"/>
@@ -12582,7 +12586,7 @@
 	</entry>
 	<entry key="winPTBPyramid1_desc">
 		<original value="Win 10 Pyramid PTB mathes"/>
-		<translation value="Одержать 10 побед на карте 'Пирамида' в режиме 'Подрыв'"/>
+		<translation value="Одержать 10 побед на 'Пирамиде' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBPyramid2">
 		<original value="Pharaoh's Bodyguard"/>
@@ -12590,7 +12594,7 @@
 	</entry>
 	<entry key="winPTBPyramid2_desc">
 		<original value="Win 25 Pyramid PTB mathes"/>
-		<translation value="Одержать 25 побед на карте 'Пирамида' в режиме 'Подрыв'"/>
+		<translation value="Одержать 25 побед на 'Пирамиде' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winPTBPyramid3">
 		<original value="True Pharaoh"/>
@@ -12598,7 +12602,7 @@
 	</entry>
 	<entry key="winPTBPyramid3_desc">
 		<original value="Win 50 Pyramid PTB mathes"/>
-		<translation value="Одержать 50 побед на карте 'Пирамида' в режиме 'Подрыв'"/>
+		<translation value="Одержать 50 побед на 'Пирамиде' в режиме 'Подрыв'"/>
 	</entry>
 	<entry key="winSTMBlackmamba1">
 		<original value="Snake's Bite"/>
@@ -12606,7 +12610,7 @@
 	</entry>
 	<entry key="winSTMBlackmamba1_desc">
 		<original value="Win 10 Blackmamba STM mathes"/>
-		<translation value="Одержать 10 побед на карте 'Черная мамба' в режиме 'Штурм'"/>
+		<translation value="Одержать 10 побед на 'Черной мамбе' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMBlackmamba2">
 		<original value="Deadly Snake"/>
@@ -12614,7 +12618,7 @@
 	</entry>
 	<entry key="winSTMBlackmamba2_desc">
 		<original value="Win 25 Blackmamba STM mathes"/>
-		<translation value="Одержать 25 побед на карте 'Черная мамба' в режиме 'Штурм'"/>
+		<translation value="Одержать 25 побед на 'Черной мамбе' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMBlackmamba3">
 		<original value="Snake Eater"/>
@@ -12622,7 +12626,7 @@
 	</entry>
 	<entry key="winSTMBlackmamba3_desc">
 		<original value="Win 50 Blackmamba STM mathes"/>
-		<translation value="Одержать 50 побед на карте 'Черная мамба' в режиме 'Штурм'"/>
+		<translation value="Одержать 50 побед на 'Черной мамбе' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMWarf1">
 		<original value="Superb Shooter"/>
@@ -12630,7 +12634,7 @@
 	</entry>
 	<entry key="winSTMWarf1_desc">
 		<original value="Win 10 Warf STM mathes"/>
-		<translation value="Одержать 10 побед на карте 'Верфь' в режиме 'Штурм'"/>
+		<translation value="Одержать 10 побед на 'Верфи' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMWarf2">
 		<original value="Shooting Master"/>
@@ -12638,7 +12642,7 @@
 	</entry>
 	<entry key="winSTMWarf2_desc">
 		<original value="Win 25 Warf STM mathes"/>
-		<translation value="Одержать 25 побед на карте 'Верфь' в режиме 'Штурм'"/>
+		<translation value="Одержать 25 побед на 'Верфи' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winSTMWarf3">
 		<original value="King of Battles"/>
@@ -12646,7 +12650,7 @@
 	</entry>
 	<entry key="winSTMWarf3_desc">
 		<original value="Win 50 Warf STM mathes"/>
-		<translation value="Одержать 50 побед на карте 'Верфь' в режиме 'Штурм'"/>
+		<translation value="Одержать 50 побед на 'Верфи' в режиме 'Штурм'"/>
 	</entry>
 	<entry key="winTBSWaterfalling1">
 		<original value="I warn you i'm armed!"/>
@@ -12654,7 +12658,7 @@
 	</entry>
 	<entry key="winTBSWaterfalling1_desc">
 		<original value="Win 10 Waterfalling TBS mathes"/>
-		<translation value="Одержать 10 побед на карте 'Резиденция' в режиме 'Блиц'"/>
+		<translation value="Одержать 10 побед на 'Резиденции' в режиме 'Блиц'"/>
 	</entry>
 	<entry key="winTBSWaterfalling2">
 		<original value="Get out of my house!"/>
@@ -12662,7 +12666,7 @@
 	</entry>
 	<entry key="winTBSWaterfalling2_desc">
 		<original value="Win 25 Waterfalling TBS mathes"/>
-		<translation value="Одержать 25 побед на карте 'Резиденция' в режиме 'Блиц'"/>
+		<translation value="Одержать 25 побед на 'Резиденции' в режиме 'Блиц'"/>
 	</entry>
 	<entry key="winTBSWaterfalling3">
 		<original value="Who's your daddy!"/>
@@ -12670,7 +12674,7 @@
 	</entry>
 	<entry key="winTBSWaterfalling3_desc">
 		<original value="Win 50 Waterfalling TBS mathes"/>
-		<translation value="Одержать 50 побед на карте 'Резиденция' в режиме 'Блиц'"/>
+		<translation value="Одержать 50 побед на 'Резиденции' в режиме 'Блиц'"/>
 	</entry>
 	<entry key="winTDMCodenamed181">
 		<original value="I'll get you!"/>
@@ -12678,7 +12682,7 @@
 	</entry>
 	<entry key="winTDMCodenamed181_desc">
 		<original value="Win 10 CodenameD18 TDM mathes"/>
-		<translation value="Одержать 10 побед на карте 'Объект Д18' в режиме 'Командный бой'"/>
+		<translation value="Одержать 10 побед на 'Объекте Д18' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMCodenamed182">
 		<original value="Try to overpower me!"/>
@@ -12686,7 +12690,7 @@
 	</entry>
 	<entry key="winTDMCodenamed182_desc">
 		<original value="Win 25 CodenameD18 TDM mathes"/>
-		<translation value="Одержать 25 побед на карте 'Объект Д18' в режиме 'Командный бой'"/>
+		<translation value="Одержать 25 побед на 'Объекте Д18' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMCodenamed183">
 		<original value="Mess with the best die like the rest!"/>
@@ -12694,7 +12698,7 @@
 	</entry>
 	<entry key="winTDMCodenamed183_desc">
 		<original value="Win 50 CodenameD18 TDM mathes"/>
-		<translation value="Одержать 50 побед на карте 'Объект Д18' в режиме 'Командный бой'"/>
+		<translation value="Одержать 50 побед на 'Объекте Д18' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMGrandbazaar1">
 		<original value="Keep the Change!"/>
@@ -12702,7 +12706,7 @@
 	</entry>
 	<entry key="winTDMGrandbazaar1_desc">
 		<original value="Win 10 Grand Bazaar TDM mathes"/>
-		<translation value="Одержать 10 побед на карте 'Рынок' в режиме 'Командный бой'"/>
+		<translation value="Одержать 10 побед на 'Рынке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMGrandbazaar2">
 		<original value="I outwitted you!"/>
@@ -12710,7 +12714,7 @@
 	</entry>
 	<entry key="winTDMGrandbazaar2_desc">
 		<original value="Win 25 Grand Bazaar TDM mathes"/>
-		<translation value="Одержать 25 побед на карте 'Рынок' в режиме 'Командный бой'"/>
+		<translation value="Одержать 25 побед на 'Рынке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="winTDMGrandbazaar3">
 		<original value="Nothing personal, it's just business"/>
@@ -12718,7 +12722,7 @@
 	</entry>
 	<entry key="winTDMGrandbazaar3_desc">
 		<original value="Win 50 Grand Bazaar TDM mathes"/>
-		<translation value="Одержать 50 побед на карте 'Рынок' в режиме 'Командный бой'"/>
+		<translation value="Одержать 50 побед на 'Рынке' в режиме 'Командный бой'"/>
 	</entry>
 	<entry key="firstPlaceTDMCodenameD181">
 		<original value="Baron of CodenameD18"/>
@@ -13774,7 +13778,7 @@
 	</entry>
 	<entry key="lms_1th_place_05_desc">
 		<original value="1000 times Took 1st place in Last Man Standing mode"/>
-		<translation value="Занять первое место в 'Королевской битве' 1000 раз"/>
+		<translation value="Занять первое место в 'Королевской битве' 1000 раз&#xA;"/>
 	</entry>
 	<entry key="lmsp_slidekill_01">
 		<original value="Bumper car"/>
@@ -13934,7 +13938,7 @@
 	</entry>
 	<entry key="winTBSDeepwater1_desc">
 		<original value="Win 10 Deepwater TBS matches"/>
-		<translation value="Одержать 10 побед на карте 'Платформа' в режиме 'Блиц'"/>
+		<translation value="Одержать 10 побед на 'Платформе' в режиме 'Блиц'"/>
 	</entry>
 	<entry key="winTBSDeepwater2">
 		<original value="Open Seas"/>
@@ -13942,7 +13946,7 @@
 	</entry>
 	<entry key="winTBSDeepwater2_desc">
 		<original value="Win 25 Deepwater TBS matches"/>
-		<translation value="Одержать 25 побед на карте 'Платформа' в режиме 'Блиц'"/>
+		<translation value="Одержать 25 побед на 'Платформе' в режиме 'Блиц'"/>
 	</entry>
 	<entry key="winTBSDeepwater3">
 		<original value="Mother Base"/>
@@ -13950,7 +13954,7 @@
 	</entry>
 	<entry key="winTBSDeepwater3_desc">
 		<original value="Win 50 Deepwater TBS matches"/>
-		<translation value="Одержать 50 побед на карте 'Платформа' в режиме 'Блиц'"/>
+		<translation value="Одержать 50 побед на 'Платформе' в режиме 'Блиц'"/>
 	</entry>
 	<entry key="firstPlaceTBSDeepwater1">
 		<original value="Apprentice Driller"/>
@@ -14305,27 +14309,27 @@
 		<translation value="Получить все трофеи в Warface"/>
 	</entry>
 	<entry key="ar33_Kill">
-		<original value="Great War Veteran"/>
+		<original value="Great War Veteran "/>
 		<translation value="Ветеран Первой мировой I"/>
 	</entry>
 	<entry key="ar33_Kill_desc">
-		<original value="Kill 10,000 enemies with HCAR or its gold version"/>
+		<original value="Kill 10,000 enemies with HCAR or its gold version "/>
 		<translation value="Убить 10 000 врагов из обычной или золотой HCAR"/>
 	</entry>
 	<entry key="ar33Kill25">
-		<original value="Advanced Great War Veteran"/>
+		<original value="Advanced Great War Veteran "/>
 		<translation value="Ветеран Первой мировой II"/>
 	</entry>
 	<entry key="ar33Kill25_desc">
-		<original value="Kill 25,000 enemies with HCAR or its gold version"/>
+		<original value="Kill 25,000 enemies with HCAR or its gold version "/>
 		<translation value="Убить 25 000 врагов из обычной или золотой HCAR"/>
 	</entry>
 	<entry key="ar33_gold_kill_01">
-		<original value="Gold Great War Veteran"/>
+		<original value="Gold Great War Veteran "/>
 		<translation value="Золотой орден"/>
 	</entry>
 	<entry key="ar33_gold_kill_01_desc">
-		<original value="Make 999 kills with gold HCAR"/>
+		<original value="Make 999 kills with gold HCAR "/>
 		<translation value="Убить 999 врагов из золотой HCAR"/>
 	</entry>
 	<entry key="shg47Kill">
@@ -15802,43 +15806,43 @@
 	</entry>
 	<entry key="clan_years1_stripe_01">
 		<original value="Battle friend"/>
-		<translation value="Соратники в бою"/>
+		<translation value="Кредо победителя"/>
 	</entry>
 	<entry key="clan_years1_stripe_01_desc">
 		<original value="1st year clan in the game"/>
-		<translation value="Провести год в одном клане"/>
+		<translation value="Занять первое место по итогам специального события "/>
 	</entry>
 	<entry key="clan_years2_stripe_01">
 		<original value="Back to back"/>
-		<translation value="Спиной к спине"/>
+		<translation value="Стремление к вершинам"/>
 	</entry>
 	<entry key="clan_years2_stripe_01_desc">
 		<original value="2nd year clan in the game"/>
-		<translation value="Провести два года в одном клане"/>
+		<translation value="Занять второе место по итогам специального события "/>
 	</entry>
 	<entry key="clan_years3_stripe_01">
 		<original value="Loyal in battle"/>
-		<translation value="Проверенные временем"/>
+		<translation value="В числе лучших"/>
 	</entry>
 	<entry key="clan_years3_stripe_01_desc">
 		<original value="3rd year clan in the game"/>
-		<translation value="Провести три года в одном клане"/>
+		<translation value="Занять третье место по итогам специального события "/>
 	</entry>
 	<entry key="clan_years4_stripe_01">
 		<original value="Brother in arms"/>
-		<translation value="Братья по оружию"/>
+		<translation value="Набирая обороты"/>
 	</entry>
 	<entry key="clan_years4_stripe_01_desc">
 		<original value="4th year clan in the game"/>
-		<translation value="Провести четыре года в одном клане"/>
+		<translation value="Занять четвертое место по итогам специального события "/>
 	</entry>
 	<entry key="clan_years5_stripe_01">
 		<original value="Together and forever"/>
-		<translation value="Вместе навсегда"/>
+		<translation value="Попытка — не пытка! "/>
 	</entry>
 	<entry key="clan_years5_stripe_01_desc">
 		<original value="5th year clan in the game"/>
-		<translation value="Провести пять лет в одном клане"/>
+		<translation value="Занять пятое место по итогам специального события "/>
 	</entry>
 	<entry key="ru_bonus_mark_01">
 		<original value="Regular Player"/>
@@ -15905,8 +15909,8 @@
 		<translation value="Убить 25 000 врагов из обычного или золотого Thompson M1928"/>
 	</entry>
 	<entry key="smg47_gold_kill_01">
-		<original value="Poison Spider"/>
-		<translation value="Ядовитый паук"/>
+		<original value="Mafia is immortal"/>
+		<translation value="Мафия бессмертна"/>
 	</entry>
 	<entry key="smg47_gold_kill_01_desc">
 		<original value="Kill 999 enemies with gold Tommy Gun M1928"/>
@@ -15918,7 +15922,7 @@
 	</entry>
 	<entry key="9may_badge_01_desc">
 		<original value="kill 1000 enemies with any Soviet WW2 weapons in PvP mode"/>
-		<translation value="Убить 10 000 врагов из советского оружия Второй мировой в PvP-режиме"/>
+		<translation value="Убить 1000 врагов из советского оружия Второй мировой в PvP-режиме"/>
 	</entry>
 	<entry key="9may_mark_01">
 		<original value="Battle Trophies"/>
@@ -15935,5 +15939,781 @@
 	<entry key="9may_stripe_01_desc">
 		<original value="Inflict 10 000 000 damage to enemies using any WW2 weapons"/>
 		<translation value="Нанести 10 000 000 единиц урона из оружия Второй мировой"/>
+	</entry>
+	<entry key="ar31_mars02Kill">
+		<original value="Deimos VHS-2"/>
+		<translation value="Знаток VHS-2 'Деймос'"/>
+	</entry>
+	<entry key="ar31_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos VHS-2"/>
+		<translation value="Убить 10 000 врагов из VHS-2 'Деймос'"/>
+	</entry>
+	<entry key="ar32_mars02Kill">
+		<original value="Deimos HArms CQR"/>
+		<translation value="Знаток HArms CQR 'Деймос'"/>
+	</entry>
+	<entry key="ar32_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos HArms CQR"/>
+		<translation value="Убить 10 000 врагов из HArms CQR 'Деймос'"/>
+	</entry>
+	<entry key="mg07_mars02Kill">
+		<original value="Deimos M249"/>
+		<translation value="Знаток M249 Para 'Деймос'"/>
+	</entry>
+	<entry key="mg07_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos M249"/>
+		<translation value="Убить 10 000 врагов из M249 Para 'Деймос'"/>
+	</entry>
+	<entry key="smg33_mars02Kill">
+		<original value="Deimos Honey Badger"/>
+		<translation value="Знаток Honey Badger 'Деймос'"/>
+	</entry>
+	<entry key="smg33_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos Honey Badger"/>
+		<translation value="Убить 10 000 врагов из Honey Badger 'Деймос'"/>
+	</entry>
+	<entry key="smg42_mars02Kill">
+		<original value="Deimos UZI Pro"/>
+		<translation value="Знаток Uzi Pro 'Деймос'"/>
+	</entry>
+	<entry key="smg42_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos UZI Pro"/>
+		<translation value="Убить 10 000 врагов из Uzi Pro 'Деймос'"/>
+	</entry>
+	<entry key="smg45_mars02Kill">
+		<original value="Deimos LWRC SMG-45"/>
+		<translation value="Знаток LWRC SMG-45 'Деймос'"/>
+	</entry>
+	<entry key="smg45_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos LWRC SMG-45"/>
+		<translation value="Убить 10 000 врагов из LWRC SMG-45 'Деймос'"/>
+	</entry>
+	<entry key="shg07_mars02Kill">
+		<original value="Deimos Saiga Bullpup"/>
+		<translation value="Знаток Сайга-12С 'Деймос'"/>
+	</entry>
+	<entry key="shg07_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos Saiga Bullpup"/>
+		<translation value="Убить 10 000 врагов из Сайга-12С 'Деймос'"/>
+	</entry>
+	<entry key="shg47_mars02Kill">
+		<original value="Deimos Uzkon UNG-12"/>
+		<translation value="Знаток Uzkon UNG-12 'Деймос'"/>
+	</entry>
+	<entry key="shg47_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos Uzkon UNG-12"/>
+		<translation value="Убить 10 000 врагов из Uzkon UNG-12 'Деймос'"/>
+	</entry>
+	<entry key="shg48_mars02Kill">
+		<original value="Deimos SAP-6"/>
+		<translation value="Знаток SAP6 'Деймос'"/>
+	</entry>
+	<entry key="shg48_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos SAP-6"/>
+		<translation value="Убить 10 000 врагов из SAP6 'Деймос'"/>
+	</entry>
+	<entry key="sr14_mars02Kill">
+		<original value="Deimos AWM"/>
+		<translation value="Знаток AWM 'Деймос'"/>
+	</entry>
+	<entry key="sr14_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos AWM"/>
+		<translation value="Убить 10 000 врагов из AWM 'Деймос'"/>
+	</entry>
+	<entry key="sr32_mars02Kill">
+		<original value="Deimos DSA sa58spr"/>
+		<translation value="Знаток DSA SA58 SPR 'Деймос'"/>
+	</entry>
+	<entry key="sr32_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos DSA sa58spr"/>
+		<translation value="Убить 10 000 врагов из DSA SA58 SPR 'Деймос'"/>
+	</entry>
+	<entry key="sr39_mars02Kill">
+		<original value="Deimos AT-308"/>
+		<translation value="Знаток AT308 'Деймос'"/>
+	</entry>
+	<entry key="sr39_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos AT-308"/>
+		<translation value="Убить 10 000 врагов из AT308 'Деймос'"/>
+	</entry>
+	<entry key="sr45_mars02Kill">
+		<original value="Deimos HK G28"/>
+		<translation value="Знаток H&amp;K G28 'Деймос'"/>
+	</entry>
+	<entry key="sr45_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos HK G28"/>
+		<translation value="Убить 10 000 врагов из H&amp;K G28 'Деймос'"/>
+	</entry>
+	<entry key="pt21_mars02Kill">
+		<original value="Deimos Glock 17c"/>
+		<translation value="Знаток Glock 18C 'Деймос'"/>
+	</entry>
+	<entry key="pt21_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos Glock 17c"/>
+		<translation value="Убить 10 000 врагов из Glock 18C 'Деймос'"/>
+	</entry>
+	<entry key="pt34_mars02Kill">
+		<original value="Deimos MPA 930DMG"/>
+		<translation value="Знаток MPA 930DMG 'Деймос'"/>
+	</entry>
+	<entry key="pt34_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos MPA 930DMG"/>
+		<translation value="Убить 10 000 врагов из MPA 930DMG 'Деймос'"/>
+	</entry>
+	<entry key="pt37_mars02Kill">
+		<original value="Deimos CZ75 Parrot"/>
+		<translation value="Знаток CZ 75 Czechmate Parrot 'Деймос'"/>
+	</entry>
+	<entry key="pt37_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos CZ75 Parrot"/>
+		<translation value="Убить 10 000 врагов из CZ 75 Czechmate Parrot 'Деймос'"/>
+	</entry>
+	<entry key="kn05_mars02Kill">
+		<original value="Deimos Sapper Shovel"/>
+		<translation value="Знаток саперной лопатки 'Деймос'"/>
+	</entry>
+	<entry key="kn05_mars02Kill_desc">
+		<original value="Kill 10,000 enemies with Deimos Sapper Shovel"/>
+		<translation value="Убить 10 000 врагов саперной лопаткой 'Деймос'"/>
+	</entry>
+	<entry key="mg25Kill">
+		<original value="Hail of Bullets"/>
+		<translation value="Свинцовый дождь I"/>
+	</entry>
+	<entry key="mg25Kill_desc">
+		<original value="Kill 10000 enemies with Stoner LMG A1 or its gold version"/>
+		<translation value="Убить 10 000 врагов из обычного или золотого Stoner LMG A1"/>
+	</entry>
+	<entry key="mg25Kill25">
+		<original value="Advanced Hail of Bullets"/>
+		<translation value="Свинцовый дождь II"/>
+	</entry>
+	<entry key="mg25Kill25_desc">
+		<original value="Kill 25 000 enemies with Stoner LMG A1 or its gold version"/>
+		<translation value="Убить 25 000 врагов из обычного или золотого Stoner LMG A1"/>
+	</entry>
+	<entry key="mg25_gold_kill_01">
+		<original value="Poison Spider"/>
+		<translation value="Ядовитый паук"/>
+	</entry>
+	<entry key="mg25_gold_kill_01_desc">
+		<original value="Kill 999 enemies with Gold Stoner LMG A1"/>
+		<translation value="Убить 999 врагов из золотого Stoner LMG A1"/>
+	</entry>
+	<entry key="shg51_Kill">
+		<original value="Furious Typhoon"/>
+		<translation value="Ярость стихии I"/>
+	</entry>
+	<entry key="shg51_Kill_desc">
+		<original value="Kill 10000 enemies with Typhoon F12 or its bronze version"/>
+		<translation value="Убить 10 000 врагов из обычного или бронзового Typhoon F12"/>
+	</entry>
+	<entry key="shg51Kill25">
+		<original value="Advanced Furious Typhoon"/>
+		<translation value="Ярость стихии II"/>
+	</entry>
+	<entry key="shg51Kill25_desc">
+		<original value="Kill 25000 enemies with Typhoon F12 or its bronze version"/>
+		<translation value="Убить 25 000 врагов из обычного или бронзового Typhoon F12"/>
+	</entry>
+	<entry key="mars_stripe_sniper">
+		<original value="Red planet Sniper"/>
+		<translation value="Марсианский снайпер"/>
+	</entry>
+	<entry key="mars_stripe_sniper_desc">
+		<original value="Kill 5000 enemies on Mars mission on Hardcore as Sniper"/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за снайпера"/>
+	</entry>
+	<entry key="mars_stripe_meta">
+		<original value="I can plant potatoes here!"/>
+		<translation value="Собрал урожай"/>
+	</entry>
+	<entry key="mars_stripe_meta_desc">
+		<original value="Complete the mars mission on Hardcore with all classes"/>
+		<translation value="Пройти миссию 'Марс' ('Профи') всеми классами"/>
+	</entry>
+	<entry key="mars_stripe_boss">
+		<original value="Modern solutions"/>
+		<translation value="Как тебе такое, Илон Маск?"/>
+	</entry>
+	<entry key="mars_stripe_boss_desc">
+		<original value="It is a Secret Challenge. Nobody knows how to achieve this."/>
+		<translation value="Секретное достижение с неизвестными условиями."/>
+	</entry>
+	<entry key="mars_badge_collector">
+		<original value="Mars cardcollector"/>
+		<translation value="Ветеран 'Марса'"/>
+	</entry>
+	<entry key="mars_badge_collector_desc">
+		<original value="Collect all trading card series of Mars mission"/>
+		<translation value="Собрать все коллекционные карточки серии 'Марс'"/>
+	</entry>
+	<entry key="mars_stripe_rifleman">
+		<original value="Red planet Rifleman"/>
+		<translation value="Марсианский штурмовик"/>
+	</entry>
+	<entry key="mars_stripe_rifleman_desc">
+		<original value="Kill 5000 enemies on Mars mission on Hardcore as Rifleman"/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за штурмовика"/>
+	</entry>
+	<entry key="mars_badge_normal">
+		<original value="Mars settler"/>
+		<translation value="Колонист"/>
+	</entry>
+	<entry key="mars_badge_normal_desc">
+		<original value="Complete the Mars mission on Skilled"/>
+		<translation value="Пройти миссию 'Марс' ('Сложно')"/>
+	</entry>
+	<entry key="mars_stripe_sed">
+		<original value="Disconnector"/>
+		<translation value="Выключатель"/>
+	</entry>
+	<entry key="mars_stripe_sed_desc">
+		<original value="Kill 5 Grenade Launcher or Flamethrower SEDs on Mars mission on Hardcore"/>
+		<translation value="Уничтожить 5 СЭД с гранатометами или огнеметами в миссии 'Марс' ('Профи')"/>
+	</entry>
+	<entry key="mars_badge_heavydroid">
+		<original value="Jack in the box"/>
+		<translation value="Черт из табакерки"/>
+	</entry>
+	<entry key="mars_badge_heavydroid_desc">
+		<original value="Kill 5 Heavy Droids on Mars mission on Hardcore"/>
+		<translation value="Уничтожить 5 тяжелых дроидов 'Антей-6' в миссии 'Марс' ('Профи')"/>
+	</entry>
+	<entry key="mars_kills02">
+		<original value="Prepare uranus"/>
+		<translation value="Жив и здоров"/>
+	</entry>
+	<entry key="mars_kills02_desc">
+		<original value="Complete Mars mission on Hardcore 10 times"/>
+		<translation value="Пройти миссию 'Марс' ('Профи') 10 раз"/>
+	</entry>
+	<entry key="mars_stripe_medic">
+		<original value="Red planet Medic"/>
+		<translation value="Марсианский медик"/>
+	</entry>
+	<entry key="mars_stripe_medic_desc">
+		<original value="Kill 5000 enemies on Mars mission on Hardcore as Medic"/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за медика"/>
+	</entry>
+	<entry key="mars_mark_no_death">
+		<original value="Mars survivor"/>
+		<translation value="Марсианин"/>
+	</entry>
+	<entry key="mars_mark_no_death_desc">
+		<original value="Complete the Mars mission on Hardcore without dying"/>
+		<translation value="Пройти миссию 'Марс' ('Профи'), ни разу не умерев"/>
+	</entry>
+	<entry key="mars_kills01">
+		<original value="Mars killer"/>
+		<translation value="Я пришел с миром"/>
+	</entry>
+	<entry key="mars_kills01_desc">
+		<original value="Kill 1000 enemies on Mars mission"/>
+		<translation value="Убить 1000 врагов в миссии 'Марс'"/>
+	</entry>
+	<entry key="mars_mark_gold_kills">
+		<original value="Rearerth matherial"/>
+		<translation value="Благородный металл"/>
+	</entry>
+	<entry key="mars_mark_gold_kills_desc">
+		<original value="Kill 5000 enemies on Mars mission using gold weapons"/>
+		<translation value="Убить 5000 врагов из золотого оружия в миссии 'Марс'"/>
+	</entry>
+	<entry key="mars_badge_lightdroid">
+		<original value="Robokiller"/>
+		<translation value="Гробокоп"/>
+	</entry>
+	<entry key="mars_badge_lightdroid_desc">
+		<original value="Kill 50 SED Mk.2 Assault, Sniper or Elite on Mars mission on Hardcore"/>
+		<translation value="Уничтожить 50 элитных, снайперских или штурмовых СЭД в миссии 'Марс' ('Профи')"/>
+	</entry>
+	<entry key="mars_stripe_engineer">
+		<original value="Red planet Engineer"/>
+		<translation value="Марсианский инженер"/>
+	</entry>
+	<entry key="mars_stripe_engineer_desc">
+		<original value="Kill 5000 enemies on Mars mission on Hardcore as Engineer"/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за инженера"/>
+	</entry>
+	<entry key="mars_kills03">
+		<original value="1 shot, 1 kill"/>
+		<translation value="Экономный стрелок"/>
+	</entry>
+	<entry key="mars_kills03_desc">
+		<original value="Kill 500 enemies in zoom with headshot on Mars mission"/>
+		<translation value="Убить 500 врагов выстрелами в голову в режиме прицеливания в миссии 'Марс'"/>
+	</entry>
+	<entry key="mars_badge_easy">
+		<original value="Mars explorer"/>
+		<translation value="Турист"/>
+	</entry>
+	<entry key="mars_badge_easy_desc">
+		<original value="Complete the Mars mission on Regular"/>
+		<translation value="Пройти миссию 'Марс' ('Легко')"/>
+	</entry>
+	<entry key="mars_badge_hard">
+		<original value="Mars invader"/>
+		<translation value="Колонизатор"/>
+	</entry>
+	<entry key="mars_badge_hard_desc">
+		<original value="Complete the Mars mission on Hardcore"/>
+		<translation value="Пройти миссию 'Марс' ('Профи')"/>
+	</entry>
+	<entry key="mg12_zsd01Kill">
+		<original value="Ares M60E4"/>
+		<translation value="Знаток M60E4 'Арес'"/>
+	</entry>
+	<entry key="mg12_zsd01Kill_desc">
+		<original value="Kill 1,000 enemies with Ares M60E4"/>
+		<translation value="Убить 1000 врагов из M60E4 'Арес'"/>
+	</entry>
+	<entry key="shg07_zsd01Kill">
+		<original value="Ares Saiga Bullpup"/>
+		<translation value="Знаток Сайга-12С 'Арес'"/>
+	</entry>
+	<entry key="shg07_zsd01Kill_desc">
+		<original value="Kill 1,000 enemies with Ares Saiga Bullpup"/>
+		<translation value="Убить 1000 врагов из Сайга-12С 'Арес'"/>
+	</entry>
+	<entry key="smg30_zsd01Kill">
+		<original value="Ares JS 9mm"/>
+		<translation value="Знаток JS 9mm 'Арес'"/>
+	</entry>
+	<entry key="smg30_zsd01Kill_desc">
+		<original value="Kill 1,000 enemies with Ares JS 9mm"/>
+		<translation value="Убить 1000 врагов из JS 9mm 'Арес'"/>
+	</entry>
+	<entry key="sr13_zsd01Kill">
+		<original value="Ares MK14 EBR"/>
+		<translation value="Знаток MK 14 EBR 'Арес'"/>
+	</entry>
+	<entry key="sr13_zsd01Kill_desc">
+		<original value="Kill 1,000 enemies with Ares MK14 EBR"/>
+		<translation value="Убить 1000 врагов из MK 14 EBR 'Арес'"/>
+	</entry>
+	<entry key="zsd01_stripe_meta">
+		<original value="Spear of Ares"/>
+		<translation value="Копье Ареса"/>
+	</entry>
+	<entry key="zsd01_stripe_meta_desc">
+		<original value="Obtain all four Ares weapon acheivements"/>
+		<translation value="Получить все достижения из серии 'Арес'"/>
+	</entry>
+	<entry key="ar16_bp06Kill">
+		<original value="Phobos Type 97"/>
+		<translation value="Знаток Type 97 'Фобос'"/>
+	</entry>
+	<entry key="ar16_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Type 97"/>
+		<translation value="Убить 15 000 врагов из Type 97 'Фобос'"/>
+	</entry>
+	<entry key="ar29_bp06Kill">
+		<original value="Phobos Ak-Alpha"/>
+		<translation value="Знаток АК Альфа 'Фобос'"/>
+	</entry>
+	<entry key="ar29_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Ak-Alpha"/>
+		<translation value="Убить 15 000 врагов из АК Альфа 'Фобос'"/>
+	</entry>
+	<entry key="mg01_bp06Kill">
+		<original value="Phobos M240B"/>
+		<translation value="Знаток M240B 'Фобос'"/>
+	</entry>
+	<entry key="mg01_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos M240B"/>
+		<translation value="Убить 15 000 врагов из M240B 'Фобос'"/>
+	</entry>
+	<entry key="mg12_bp06Kill">
+		<original value="Phobos M60E4"/>
+		<translation value="Знаток M60E4 'Фобос'"/>
+	</entry>
+	<entry key="mg12_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos M60E4"/>
+		<translation value="Убить 15 000 врагов из M60E4 'Фобос'"/>
+	</entry>
+	<entry key="smg25_bp06Kill">
+		<original value="Phobos ACR CQB"/>
+		<translation value="Знаток ACR CQB 'Фобос'"/>
+	</entry>
+	<entry key="smg25_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos ACR CQB"/>
+		<translation value="Убить 15 000 врагов из ACR CQB 'Фобос'"/>
+	</entry>
+	<entry key="smg35_bp06Kill">
+		<original value="Phobos PP2000"/>
+		<translation value="Знаток ПП-2000 'Фобос'"/>
+	</entry>
+	<entry key="smg35_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos PP2000"/>
+		<translation value="Убить 15 000 врагов из ПП-2000 'Фобос'"/>
+	</entry>
+	<entry key="smg44_bp06Kill">
+		<original value="Phobos TDI KRISS Super V"/>
+		<translation value="Знаток Kriss Super V Custom 'Фобос'"/>
+	</entry>
+	<entry key="smg44_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos TDI KRISS Super V"/>
+		<translation value="Убить 15 000 врагов из Kriss Super V Custom 'Фобос'"/>
+	</entry>
+	<entry key="shg44_bp06Kill">
+		<original value="Phobos Winchester 1887"/>
+		<translation value="Знаток Winchester 1887 'Фобос'"/>
+	</entry>
+	<entry key="shg44_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Winchester 1887"/>
+		<translation value="Убить 15 000 врагов из Winchester 1887 'Фобос'"/>
+	</entry>
+	<entry key="shg48_bp06Kill">
+		<original value="Phobos SAP-6"/>
+		<translation value="Знаток SAP6 'Фобос'"/>
+	</entry>
+	<entry key="shg48_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos SAP-6"/>
+		<translation value="Убить 15 000 врагов из SAP6 'Фобос'"/>
+	</entry>
+	<entry key="shg51_bp06Kill">
+		<original value="Phobos Typhoon F12"/>
+		<translation value="Знаток Typhoon F12 'Фобос'"/>
+	</entry>
+	<entry key="shg51_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Typhoon F12"/>
+		<translation value="Убить 15 000 врагов из Typhoon F12 'Фобос'"/>
+	</entry>
+	<entry key="sr09_bp06Kill">
+		<original value="Phobos McMillan CS5"/>
+		<translation value="Знаток McMillan CS5 'Фобос'"/>
+	</entry>
+	<entry key="sr09_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos McMillan CS5"/>
+		<translation value="Убить 15 000 врагов из McMillan CS5 'Фобос'"/>
+	</entry>
+	<entry key="sr37_bp06Kill">
+		<original value="Phobos Orsis T-5000"/>
+		<translation value="Знаток ОРСИС Т-5000 'Фобос'"/>
+	</entry>
+	<entry key="sr37_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Orsis T-5000"/>
+		<translation value="Убить 15 000 врагов из ОРСИС Т-5000 'Фобос'"/>
+	</entry>
+	<entry key="sr46_bp06Kill">
+		<original value="Phobos Kraken CDX MC"/>
+		<translation value="Знаток Kraken CDX-MC"/>
+	</entry>
+	<entry key="sr46_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Kraken CDX MC"/>
+		<translation value="Убить 15 000 врагов из CDX-MC Kraken 'Фобос'"/>
+	</entry>
+	<entry key="pt10_bp06Kill">
+		<original value="Phobos Stechkin APS"/>
+		<translation value="Знаток АПС 'Фобос'"/>
+	</entry>
+	<entry key="pt10_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Stechkin APS"/>
+		<translation value="Убить 15 000 врагов из АПС 'Фобос'"/>
+	</entry>
+	<entry key="pt30_bp06Kill">
+		<original value="Phobos Micro Desert Eagle"/>
+		<translation value="Знаток Micro Desert Eagle 'Фобос'"/>
+	</entry>
+	<entry key="pt30_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Micro Desert Eagle"/>
+		<translation value="Убить 15 000 врагов из Micro Desert Eagle 'Фобос'"/>
+	</entry>
+	<entry key="pt38_bp06Kill">
+		<original value="Phobos Maxim 9"/>
+		<translation value="Знаток Maxim 9 'Фобос'"/>
+	</entry>
+	<entry key="pt38_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Maxim 9"/>
+		<translation value="Убить 15 000 врагов из Maxim 9 'Фобос'"/>
+	</entry>
+	<entry key="kn14_bp06Kill">
+		<original value="Phobos ICE-AXE"/>
+		<translation value="Знаток ледоруба 'Фобос'"/>
+	</entry>
+	<entry key="kn14_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos ICE-AXE"/>
+		<translation value="Убить 15 000 врагов ледорубом 'Фобос'"/>
+	</entry>
+	<entry key="kn19_bp06Kill">
+		<original value="Phobos Balisong Knife"/>
+		<translation value="Знаток ножа-бабочки 'Фобос'"/>
+	</entry>
+	<entry key="kn19_bp06Kill_desc">
+		<original value="Kill 15,000 enemies with Phobos Balisong Knife"/>
+		<translation value="Убить 15 000 врагов ножом-бабочкой 'Фобос'"/>
+	</entry>
+	<entry key="mars02damage_mark_01">
+		<original value="Deimos Demolition"/>
+		<translation value="Бог разрушения"/>
+	</entry>
+	<entry key="mars02damage_mark_01_desc">
+		<original value="Inflict over 9 000 damage to enemies"/>
+		<translation value="Нанести более 9000 единиц урона из оружия 'Деймос'"/>
+	</entry>
+	<entry key="mars02kill_badge_01">
+		<original value="Deimos Killer"/>
+		<translation value="Бог ужаса"/>
+	</entry>
+	<entry key="mars02kill_badge_01_desc">
+		<original value="Kill 1000 enemies with any Deimos skinned weapon"/>
+		<translation value="Убить 1000 врагов из оружия 'Деймос'"/>
+	</entry>
+	<entry key="mars02meta_stripe_01">
+		<original value="Deimos Collector"/>
+		<translation value="Сын Ареса"/>
+	</entry>
+	<entry key="mars02meta_stripe_01_desc">
+		<original value="Earn any 4 of Deimos weapons kill achievements"/>
+		<translation value="Получить 4 любых достижения из серии 'Деймос'"/>
+	</entry>
+	<entry key="mars_stripe_spiders_01">
+		<original value="Red spiders"/>
+		<translation value="Не люблю насекомых"/>
+	</entry>
+	<entry key="mars_stripe_spiders_01_desc">
+		<original value="Kill 100 spider mines on Mars mission on Skilled"/>
+		<translation value="Уничтожить 100 мин-пауков в миссии 'Марс' ('Сложно')"/>
+	</entry>
+	<entry key="mars_stripe_spiders_02">
+		<original value="Hardcore Red spiders"/>
+		<translation value="Арахнофоб"/>
+	</entry>
+	<entry key="mars_stripe_spiders_02_desc">
+		<original value="Kill 500 spider mines on Mars mission on Hardcore"/>
+		<translation value="Уничтожить 500 мин-пауков в миссии 'Марс' ('Профи')"/>
+	</entry>
+	<entry key="bp06_mark_01">
+		<original value="Armageddon Tournament 4th place"/>
+		<translation value="Участник турнира 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_01_desc">
+		<original value="Take fourth place in the Armageddon tournament"/>
+		<translation value="Принять участие в турнире 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_02">
+		<original value="Armageddon Tournament 3rd place"/>
+		<translation value="Бронза турнира 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_02_desc">
+		<original value="Take third place in the Armageddon tournament"/>
+		<translation value="Занять третье место в турнире 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_03">
+		<original value="Armageddon Tournament 2nd place"/>
+		<translation value="Серебро турнира 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_03_desc">
+		<original value="Take second place in the Armageddon tournament"/>
+		<translation value="Занять второе место в турнире 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_04">
+		<original value="Armageddon Tournament 1st place"/>
+		<translation value="Золото турнира 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_04_desc">
+		<original value="Take first place in the Armageddon tournament"/>
+		<translation value="Занять первое место в турнире 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_05">
+		<original value="Armageddon Week Two"/>
+		<translation value="Огромный скачок для человечества"/>
+	</entry>
+	<entry key="bp06_mark_05_desc">
+		<original value="Complete all tasks of the second week"/>
+		<translation value="Получить 10-й уровень личного прогресса в событии 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_mark_06">
+		<original value="Armageddon Week Five"/>
+		<translation value="Временные трудности"/>
+	</entry>
+	<entry key="bp06_mark_06_desc">
+		<original value="Complete all tasks of the fifth week"/>
+		<translation value="10 раз успешно создать временное оружие в лаборатории"/>
+	</entry>
+	<entry key="bp06_mark_07">
+		<original value="Armageddon Week Eight"/>
+		<translation value="Серьезный парень"/>
+	</entry>
+	<entry key="bp06_mark_07_desc">
+		<original value="Complete all tasks of the eighth week"/>
+		<translation value="Успешно завершить 50 сложных  заданий"/>
+	</entry>
+	<entry key="bp06_mark_08">
+		<original value="Armageddon Week Eleven"/>
+		<translation value="Вооружен до зубов"/>
+	</entry>
+	<entry key="bp06_mark_08_desc">
+		<original value="Complete all tasks of the eleventh week"/>
+		<translation value="5 раз успешно создать постоянное оружие в лаборатории."/>
+	</entry>
+	<entry key="bp06_mark_09">
+		<original value="Armageddon Medic"/>
+		<translation value="Медик Армагеддона"/>
+	</entry>
+	<entry key="bp06_mark_09_desc">
+		<original value="Collect a set of Armageddon medic"/>
+		<translation value="Собрать комплект снаряжения медика в событии 'Армагеддон' (выполняя задания)"/>
+	</entry>
+	<entry key="bp06_mark_10">
+		<original value="Armageddon Sniper"/>
+		<translation value="Снайпер Армагеддона"/>
+	</entry>
+	<entry key="bp06_mark_10_desc">
+		<original value="Collect a set of Armageddon sniper"/>
+		<translation value="Собрать комплект снаряжения снайпера в событии 'Армагеддон' (выполняя задания)"/>
+	</entry>
+	<entry key="bp06_mark_11">
+		<original value="Armageddon Rifleman"/>
+		<translation value="Штурмовик Армагеддона"/>
+	</entry>
+	<entry key="bp06_mark_11_desc">
+		<original value="Collect a set of Armageddon rifleman"/>
+		<translation value="Собрать комплект снаряжения штурмовика в событии 'Армагеддон' (выполняя задания)"/>
+	</entry>
+	<entry key="bp06_mark_12">
+		<original value="Armageddon Engineer"/>
+		<translation value="Инженер Армагеддона"/>
+	</entry>
+	<entry key="bp06_mark_12_desc">
+		<original value="Collect a set of Armageddon engineer"/>
+		<translation value="Собрать комплект снаряжения инженера в событии 'Армагеддон' (выполняя задания)"/>
+	</entry>
+	<entry key="bp06_mark_13">
+		<original value="Armageddon Progress 1"/>
+		<translation value="Космический юнга"/>
+	</entry>
+	<entry key="bp06_mark_13_desc">
+		<original value="Get the stage 1 personal progress"/>
+		<translation value="Завершить 12 любых заданий (кроме ежедневных)"/>
+	</entry>
+	<entry key="bp06_mark_14">
+		<original value="Armageddon Progress 2"/>
+		<translation value="Космический матрос"/>
+	</entry>
+	<entry key="bp06_mark_14_desc">
+		<original value="Get the stage 2 personal progress"/>
+		<translation value="Завершить 36 любых заданий (кроме ежедневных)"/>
+	</entry>
+	<entry key="bp06_mark_15">
+		<original value="Armageddon Progress 3"/>
+		<translation value="Космический офицер"/>
+	</entry>
+	<entry key="bp06_mark_15_desc">
+		<original value="Get the stage 3 personal progress"/>
+		<translation value="Завершить 60 любых заданий (кроме ежедневных)"/>
+	</entry>
+	<entry key="bp06_mark_16">
+		<original value="Armageddon Progress 4"/>
+		<translation value="Космический капитан"/>
+	</entry>
+	<entry key="bp06_mark_16_desc">
+		<original value="Get the stage 4 personal progress"/>
+		<translation value="Завершить 84 любых задания (кроме ежедневных)"/>
+	</entry>
+	<entry key="bp06_mark_17">
+		<original value="Armageddon Progress 5"/>
+		<translation value="Космический адмирал"/>
+	</entry>
+	<entry key="bp06_mark_17_desc">
+		<original value="Get the stage 5 personal progress"/>
+		<translation value="Завершить 108 любых заданий (кроме ежедневных)"/>
+	</entry>
+	<entry key="bp06_badge_01">
+		<original value="Armageddon Access"/>
+		<translation value="Армагеддон: Начало"/>
+	</entry>
+	<entry key="bp06_badge_01_desc">
+		<original value="Get access to the Armageddon Compendium"/>
+		<translation value="Получить доступ к событию 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_badge_02">
+		<original value="Armageddon Week One"/>
+		<translation value="Маленький шаг для человека"/>
+	</entry>
+	<entry key="bp06_badge_02_desc">
+		<original value="Complete all tasks of the first week"/>
+		<translation value="Получить 5 уровень личного прогресса в событии 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_badge_03">
+		<original value="Armageddon Week Four"/>
+		<translation value="Время - деньги"/>
+	</entry>
+	<entry key="bp06_badge_03_desc">
+		<original value="Complete all tasks of the fourth week"/>
+		<translation value="5 раз успешно создать временное оружие в лаборатории"/>
+	</entry>
+	<entry key="bp06_badge_04">
+		<original value="Armageddon Week Seven"/>
+		<translation value="Проще простого"/>
+	</entry>
+	<entry key="bp06_badge_04_desc">
+		<original value="Complete all tasks of the seventh week"/>
+		<translation value="Успешно завершить 50 простых заданий"/>
+	</entry>
+	<entry key="bp06_badge_05">
+		<original value="Armageddon Week Ten"/>
+		<translation value="Вместе навсегда"/>
+	</entry>
+	<entry key="bp06_badge_05_desc">
+		<original value="Complete all tasks of the tenth week"/>
+		<translation value="Успешно создать постоянное оружие в лаборатории"/>
+	</entry>
+	<entry key="bp06_badge_06">
+		<original value="Armageddon Gear"/>
+		<translation value="К Армагеддону готов"/>
+	</entry>
+	<entry key="bp06_badge_06_desc">
+		<original value="Get all the Armageddon gear"/>
+		<translation value="Получить полный набор экипировки 'Армагеддон' (выполняя задания)"/>
+	</entry>
+	<entry key="bp06_badge_07">
+		<original value="Armageddon Combat Score"/>
+		<translation value="Марс атакует"/>
+	</entry>
+	<entry key="bp06_badge_07_desc">
+		<original value="Earn Armageddon combat score"/>
+		<translation value="Заработать 1500 боевых очков в событии 'Армагеддон'"/>
+	</entry>
+	<entry key="bp06_stripe_01">
+		<original value="Armageddon Week Three"/>
+		<translation value="Космос будет наш"/>
+	</entry>
+	<entry key="bp06_stripe_01_desc">
+		<original value="Complete all tasks of the third week"/>
+		<translation value="Получить 15-й уровень личного прогресса в событии 'Армагеддона'"/>
+	</entry>
+	<entry key="bp06_stripe_02">
+		<original value="Armageddon Week Six"/>
+		<translation value="Нет времени объяснять"/>
+	</entry>
+	<entry key="bp06_stripe_02_desc">
+		<original value="Complete all tasks of the sixth week"/>
+		<translation value="50 раз успешно создать временное оружие в лаборатории"/>
+	</entry>
+	<entry key="bp06_stripe_03">
+		<original value="Armageddon Week Nine"/>
+		<translation value="Терраформирование завершено"/>
+	</entry>
+	<entry key="bp06_stripe_03_desc">
+		<original value="Complete all tasks of the ninth week"/>
+		<translation value="Улучшить базу до максимального уровня"/>
+	</entry>
+	<entry key="bp06_stripe_04">
+		<original value="Armageddon Week Twelve"/>
+		<translation value="Майор Том"/>
+	</entry>
+	<entry key="bp06_stripe_04_desc">
+		<original value="Complete all tasks of the twelfth week"/>
+		<translation value="10 раз успешно создать постоянное оружие в лаборатории"/>
+	</entry>
+	<entry key="bp06_stripe_05">
+		<original value="Armageddon All Star"/>
+		<translation value="Тайна четвертой планеты"/>
+	</entry>
+	<entry key="bp06_stripe_05_desc">
+		<original value="Complete all Armageddon weekly tasks"/>
+		<translation value="Завершить все задания в событии 'Армагеддон' (кроме ежедневных)"/>
 	</entry>
 </localization>

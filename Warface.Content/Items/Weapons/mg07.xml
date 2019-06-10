@@ -3,6 +3,7 @@
   <skins>
     <material name="default" />
     <material name="set09" />
+    <material name="mars02" />
   </skins>
   <icons>
     <ui_icon name="mg07" />

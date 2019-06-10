@@ -8,6 +8,7 @@
 		<material name="set01"/>
 		<material name="bra01"/>
 		<material name="carbon01"/>	
+		<material name="mars02"/>	
 	</skins>
 	<icons>
 		<ui_icon name="sr14"/>

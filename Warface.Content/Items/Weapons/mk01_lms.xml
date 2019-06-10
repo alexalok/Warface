@@ -48,6 +48,7 @@
   <drop_params model="objects/weapons/mk01/mk01_tp.cgf" scale="2">
     <item name="mk01_lms" type="medkit" />
   </drop_params>
+  <clipmode manual_reload="0" />
   <firemodes>
     <firemode icon="FireModeMedkit" type="Restore" />
   </firemodes>
@@ -55,6 +56,8 @@
     <param name="recharge_duration" value="10" />
     <param name="can_recharge" value="0" />
     <param name="max_charge_level" value="100" />
+	<param name="use_cost" value="5" />
+	<param name="type" value="heal" />
   </recharge_params>
   <interaction_params>
     <param name="crosshair_id" value="14" />
@@ -68,8 +71,6 @@
     <param name="initial_distance" value="1" />
     <param name="distance" value="1" />
     <param name="restore_coop_duration" value="3000" />
-    <param name="type" value="heal" />
-    <param name="charge_cost" value="5" />
     <param name="hit_type" value="healing" />
   </restore_params>
 </item>
