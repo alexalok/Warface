@@ -9,16 +9,16 @@ namespace Warface.Entities.Missions
 {
     public class PvEMission : Mission
     {
-        public     string               FriendlyName    => Type.GetDescription();
-        public new PvEMissionType       Type            { get; }
-        public     PvEMissionGlobalType GlobalType      => GetGlobalType();
-        public     CrownRewards         CrownRewards    { get; }
-        public     bool                 HasCrownRewards => CrownRewards != null;
-        public     bool                 IsSpecOps       => GlobalType   != PvEMissionGlobalType.Regular;
+        public string FriendlyName => Type.GetDescription();
+        public new PvEMissionType Type { get; }
+        public PvEMissionGlobalType GlobalType => GetGlobalType();
+        public CrownRewards CrownRewards { get; }
+        public bool HasCrownRewards => CrownRewards != null;
+        public bool IsSpecOps => GlobalType != PvEMissionGlobalType.Regular;
 
         PvEMission(string key, PvEMissionType type, CrownRewards crownRewards) : base(key, type.ToString(), MissionMode.Pve, true)
         {
-            Type         = type;
+            Type = type;
             CrownRewards = crownRewards;
         }
 
@@ -36,49 +36,49 @@ namespace Warface.Entities.Missions
 	     </mission>*/
 
             string missionKey = missionNode.Attributes["mission_key"].Value;
-            var    type       = (PvEMissionType) Enum.Parse(typeof(PvEMissionType), missionNode.Attributes["type"].Value, true);
-            var    mode       = (MissionMode) Enum.Parse(typeof(MissionMode),       missionNode.Attributes["mode"].Value, true);
+            var type = (PvEMissionType)Enum.Parse(typeof(PvEMissionType), missionNode.Attributes["type"].Value, true);
+            var mode = (MissionMode)Enum.Parse(typeof(MissionMode), missionNode.Attributes["mode"].Value, true);
             if (mode != MissionMode.Pve)
                 throw new InvalidOperationException();
 
             bool noTeams = missionNode.Attributes["no_teams"].BoolValue();
             Debug.Assert(noTeams);
 
-            var          crownRewardsThresholdsNode = missionNode.SelectSingleNode(".//crownrewardsthresholds");
-            CrownRewards crownRewards               = null;
+            var crownRewardsThresholdsNode = missionNode.SelectSingleNode(".//crownrewardsthresholds");
+            CrownRewards crownRewards = null;
             if (crownRewardsThresholdsNode != null)
             {
                 var totalPerformanceNode = crownRewardsThresholdsNode.SelectSingleNode(".//totalperformance");
-                int bronzeScore          = totalPerformanceNode.Attributes["bronze"].IntValue();
-                int silverScore          = totalPerformanceNode.Attributes["silver"].IntValue();
-                int goldScore            = totalPerformanceNode.Attributes["gold"].IntValue();
-                var timeNode             = crownRewardsThresholdsNode.SelectSingleNode(".//time");
-                var bronzeTime           = TimeSpan.FromSeconds((1 << 22) - timeNode.Attributes["bronze"].IntValue());
-                var silverTime           = TimeSpan.FromSeconds((1 << 22) - timeNode.Attributes["silver"].IntValue());
-                var goldTime             = TimeSpan.FromSeconds((1 << 22) - timeNode.Attributes["gold"].IntValue());
-                var crownRewardsNode     = missionNode.SelectSingleNode(".//crownrewards");
-                int bronzeCrownAmount    = crownRewardsNode.Attributes["bronze"].IntValue();
-                int silverCrownAmount    = crownRewardsNode.Attributes["silver"].IntValue();
-                int goldCrownAmount      = crownRewardsNode.Attributes["gold"].IntValue();
+                int bronzeScore = totalPerformanceNode.Attributes["bronze"].IntValue();
+                int silverScore = totalPerformanceNode.Attributes["silver"].IntValue();
+                int goldScore = totalPerformanceNode.Attributes["gold"].IntValue();
+                var timeNode = crownRewardsThresholdsNode.SelectSingleNode(".//time");
+                var bronzeTime = TimeSpan.FromSeconds((1 << 22) - timeNode.Attributes["bronze"].IntValue());
+                var silverTime = TimeSpan.FromSeconds((1 << 22) - timeNode.Attributes["silver"].IntValue());
+                var goldTime = TimeSpan.FromSeconds((1 << 22) - timeNode.Attributes["gold"].IntValue());
+                var crownRewardsNode = missionNode.SelectSingleNode(".//crownrewards");
+                int bronzeCrownAmount = crownRewardsNode.Attributes["bronze"].IntValue();
+                int silverCrownAmount = crownRewardsNode.Attributes["silver"].IntValue();
+                int goldCrownAmount = crownRewardsNode.Attributes["gold"].IntValue();
                 crownRewards = new CrownRewards()
                 {
                     Bronze = new CrownReward()
                     {
                         Amount = bronzeCrownAmount,
-                        Score  = bronzeScore,
-                        Time   = bronzeTime
+                        Score = bronzeScore,
+                        Time = bronzeTime
                     },
                     Gold = new CrownReward()
                     {
                         Amount = goldCrownAmount,
-                        Score  = goldScore,
-                        Time   = goldTime
+                        Score = goldScore,
+                        Time = goldTime
                     },
                     Silver = new CrownReward()
                     {
                         Amount = silverCrownAmount,
-                        Score  = silverScore,
-                        Time   = silverTime
+                        Score = silverScore,
+                        Time = silverTime
                     }
                 };
             }
@@ -146,6 +146,11 @@ namespace Warface.Entities.Missions
                 case PvEMissionType.JapanHard:
                     return PvEMissionGlobalType.Japan;
 
+                case PvEMissionType.MarsEasy:
+                case PvEMissionType.MarsNormal:
+                case PvEMissionType.MarsHard:
+                    return PvEMissionGlobalType.Mars;
+
                 default:
                     throw new ArgumentOutOfRangeException();
             }
@@ -154,7 +159,7 @@ namespace Warface.Entities.Missions
 
     public class CrownRewards
     {
-        public CrownReward Gold   = new CrownReward();
+        public CrownReward Gold = new CrownReward();
         public CrownReward Bronze = new CrownReward();
         public CrownReward Silver = new CrownReward();
     }
@@ -162,25 +167,25 @@ namespace Warface.Entities.Missions
     public class CrownReward
     {
         public TimeSpan Time;
-        public int      Score;
-        public int      Amount;
+        public int Score;
+        public int Amount;
     }
 
     public enum PvEMissionType
     {
         //everydays
         [Description("Тренировка")] TrainingMission,
-        [Description("Легко")]      EasyMission,
-        [Description("Сложно")]     NormalMission,
-        [Description("Профи")]      HardMission,
+        [Description("Легко")] EasyMission,
+        [Description("Сложно")] NormalMission,
+        [Description("Профи")] HardMission,
 
         //tower raid
         [Description("Белая акула")] SurvivalMission,
 
         //Marathon
-        [Description("Острие")]  CampaignSection1, //spearhead
-        [Description("Засада")]  CampaignSection2, //ambush
-        [Description("Зенит")]   CampaignSection3, //zenith
+        [Description("Острие")] CampaignSection1, //spearhead
+        [Description("Засада")] CampaignSection2, //ambush
+        [Description("Зенит")] CampaignSection3, //zenith
         [Description("Марафон")] CampaignSections, //marathon
 
         //cyber horde
@@ -194,54 +199,60 @@ namespace Warface.Entities.Missions
         ZombieHard,
 
         //Earth Shaker
-        [Description("Вулкан (легко)")]   VolcanoEasy,
-        [Description("Вулкан (сложно)")]  VolcanoNormal,
-        [Description("Вулкан (профи)")]   VolcanoHard,
+        [Description("Вулкан (легко)")] VolcanoEasy,
+        [Description("Вулкан (сложно)")] VolcanoNormal,
+        [Description("Вулкан (профи)")] VolcanoHard,
         [Description("Вулкан (хардкор)")] VolcanoSurvival,
 
         //anubis
-        [Description("Анубис (легко)")]  AnubisEasy,
+        [Description("Анубис (легко)")] AnubisEasy,
         [Description("Анубис (сложно)")] AnubisNormal,
-        [Description("Анубис (профи)")]  AnubisHard,
+        [Description("Анубис (профи)")] AnubisHard,
 
         //black shark
-        [Description("Черная акула (легко)")]  ZombieTowerEasy,
+        [Description("Черная акула (легко)")] ZombieTowerEasy,
         [Description("Черная акула (сложно)")] ZombieTowerNormal,
-        [Description("Черная акула (профи)")]  ZombieTowerHard,
+        [Description("Черная акула (профи)")] ZombieTowerHard,
 
         //blackout
-        [Description("Затмение (легко)")]  AnubisEasy2,
+        [Description("Затмение (легко)")] AnubisEasy2,
         [Description("Затмение (сложно)")] AnubisNormal2,
-        [Description("Затмение (профи)")]  AnubisHard2,
+        [Description("Затмение (профи)")] AnubisHard2,
 
         //icebreaker
-        [Description("Ледокол (легко)")]  IcebreakerEasy,
+        [Description("Ледокол (легко)")] IcebreakerEasy,
         [Description("Ледокол (сложно)")] IcebreakerNormal,
-        [Description("Ледокол (профи)")]  IcebreakerHard,
+        [Description("Ледокол (профи)")] IcebreakerHard,
 
         //chernobyl
-        [Description("Припять (легко)")]  ChernobylEasy,
+        [Description("Припять (легко)")] ChernobylEasy,
         [Description("Припять (сложно)")] ChernobylNormal,
-        [Description("Припять (профи)")]  ChernobylHard,
+        [Description("Припять (профи)")] ChernobylHard,
 
         //japan
-        [Description("Восход (легко)")]  JapanEasy,
+        [Description("Восход (легко)")] JapanEasy,
         [Description("Восход (сложно)")] JapanNormal,
-        [Description("Восход (профи)")]  JapanHard,
+        [Description("Восход (профи)")] JapanHard,
+
+        //mars
+        [Description("Марс (легко)")] MarsEasy,
+        [Description("Марс (сложно)")] MarsNormal,
+        [Description("Марс (профи)")] MarsHard,
     }
 
     public enum PvEMissionGlobalType
     {
-        [Description("Ежедневные")]          Regular,
-        [Description("Белая акула")]         TowerRaid,
-        [Description("Снежный бастион")]     Marathon,
+        [Description("Ежедневные")] Regular,
+        [Description("Белая акула")] TowerRaid,
+        [Description("Снежный бастион")] Marathon,
         [Description("Опасный эксперимент")] CyberHorde,
-        [Description("Вулкан")]              EarthShaker,
-        [Description("Анубис")]              Anubis,
-        [Description("Черная акула")]        BlackShark,
-        [Description("Затмение")]            Blackout,
-        [Description("Ледокол")]             IceBreaker,
-        [Description("Чернобыль")]           Chernobyl,
-        [Description("Восход")]              Japan
+        [Description("Вулкан")] EarthShaker,
+        [Description("Анубис")] Anubis,
+        [Description("Черная акула")] BlackShark,
+        [Description("Затмение")] Blackout,
+        [Description("Ледокол")] IceBreaker,
+        [Description("Чернобыль")] Chernobyl,
+        [Description("Восход")] Japan,
+        [Description("Марс")] Mars
     }
 }
