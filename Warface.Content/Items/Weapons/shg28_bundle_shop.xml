@@ -26,4 +26,8 @@
 				<item name="bn01"/>
 			</item>
 		</content>
+		<skin_content>
+			<item name="shg28_camo03skin_shop"/>
+			<item name="shg28_camo06skin_shop"/>
+		</skin_content>
 	</shop_item>

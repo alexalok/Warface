@@ -17,7 +17,7 @@
 	<settings archetype="Items/Weapons/Archetypes/SMG_ai.xml">
         <param name="ammo_amount" value="10000" />
         <param name="rpm" value="900" />
-        <param name="damage" value="100" />
+        <param name="damage" value="50" />
         <param name="damage_min" value="5" />
         <param name="damage_mul" value="1" />
         <param name="melee_damage" value="65" />

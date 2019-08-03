@@ -56,6 +56,7 @@
       <stance name="zoomed_stand" value="2" />
       <stance name="zoomed_crouch" value="1.2" />
       <stance name="zoomed_prone" value="1" />
+      <stance name="zoomed_slide" value="1" />
       <stance name="zoomed_walk" value="1.75" />
       <stance name="zoomed_rest" value="0" />
       <stance name="zoomed_jump" value="2" />

@@ -27,6 +27,7 @@
 			<param name="recoil_max_mul" value="0.8"/>
 			<param name="sway_mul" value="1">
 				<stance name="zoomed_prone" value="0.1"/>
+				<stance name="zoomed_slide" value="0.1"/>
 			</param>
 		</settings>
 		<types>

@@ -12,6 +12,6 @@
 		<param name="icon" value="test_item_icon"/>
 	</UI_stats>
 	<metagame_stats>
-		<on_activate unlock_achievement="20000"/>
+		<on_activate unlock_achievement="10"/>
 	</metagame_stats>
 </shop_item>

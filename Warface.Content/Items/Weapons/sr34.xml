@@ -33,12 +33,14 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.77" />
+      <stance name="slide" value="0.77" />
       <stance name="run" value="1.1" />
       <stance name="haste" value="1" />
       <stance name="jump" value="1" />
       <stance name="zoomed_stand" value="1" />
       <stance name="zoomed_crouch" value="0.8" />
       <stance name="zoomed_prone" value="0.77" />
+      <stance name="zoomed_slide" value="0.77" />
       <stance name="zoomed_walk" value="1" />
       <stance name="zoomed_jump" value="1" />
     </param>
@@ -52,12 +54,14 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.77" />
+      <stance name="slide" value="0.77" />
       <stance name="run" value="1.3" />
       <stance name="haste" value="7" />
       <stance name="jump" value="5" />
       <stance name="zoomed_stand" value="0.001" />
       <stance name="zoomed_crouch" value="0.001" />
       <stance name="zoomed_prone" value="0.001" />
+      <stance name="zoomed_slide" value="0.001" />
       <stance name="zoomed_walk" value="0.001" />
       <stance name="zoomed_jump" value="0.01" />
     </param>
@@ -66,12 +70,14 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.8" />
+      <stance name="slide" value="0.8" />
       <stance name="run" value="1.2" />
       <stance name="haste" value="1" />
       <stance name="jump" value="1.2" />
       <stance name="zoomed_stand" value="0.001" />
       <stance name="zoomed_crouch" value="0.001" />
       <stance name="zoomed_prone" value="0.001" />
+      <stance name="zoomed_slide" value="0.001" />
       <stance name="zoomed_walk" value="0.001" />
       <stance name="zoomed_jump" value="0.01" />
     </param>
@@ -84,6 +90,7 @@
       <stance name="zoomed_stand" value="0.5" />
       <stance name="zoomed_crouch" value="0.5" />
       <stance name="zoomed_prone" value="0.5" />
+      <stance name="zoomed_slide" value="0.5" />
       <stance name="zoomed_walk" value="0.5" />
       <stance name="zoomed_jump" value="0.5" />
       <stance name="jump" value="0.8" />
@@ -92,6 +99,7 @@
       <stance name="zoomed_stand" value="0.25" />
       <stance name="zoomed_crouch" value="0.25" />
       <stance name="zoomed_prone" value="0.25" />
+      <stance name="zoomed_slide" value="0.25" />
       <stance name="zoomed_walk" value="0.25" />
       <stance name="zoomed_jump" value="0.25" />
       <stance name="jump" value="0.25" />
@@ -100,6 +108,7 @@
       <stance name="zoomed_stand" value="0.3" />
       <stance name="zoomed_crouch" value="0.27" />
       <stance name="zoomed_prone" value="0.22" />
+      <stance name="zoomed_slide" value="0.22" />
       <stance name="zoomed_walk" value="1.4" />
       <stance name="zoomed_jump" value="2.5" />
       <stance name="jump" value="2.5" />
@@ -108,6 +117,7 @@
       <stance name="zoomed_stand" value="0.8" />
       <stance name="zoomed_crouch" value="0.75" />
       <stance name="zoomed_prone" value="0.7" />
+      <stance name="zoomed_slide" value="0.7" />
       <stance name="zoomed_walk" value="1.8" />
       <stance name="zoomed_jump" value="3" />
       <stance name="jump" value="1" />
@@ -118,6 +128,7 @@
       <stance name="zoomed_stand" value="0.7" />
       <stance name="zoomed_crouch" value="0.7" />
       <stance name="zoomed_prone" value="0.7" />
+      <stance name="zoomed_slide" value="0.7" />
       <stance name="zoomed_walk" value="0.7" />
       <stance name="zoomed_jump" value="0.7" />
     </param>

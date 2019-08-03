@@ -20,12 +20,15 @@
 		<settings>
 			<param name="recoil_att_mul" value="1">
 				<stance name="zoomed_prone" value="0.9"/>
+				<stance name="zoomed_slide" value="0.9"/>
 			</param>
 			<param name="recoil_max_mul" value="1">
 				<stance name="zoomed_prone" value="0.9"/>
+				<stance name="zoomed_slide" value="0.9"/>
 			</param>
 			<param name="sway_mul" value="1">
 				<stance name="zoomed_prone" value="0.5"/>
+				<stance name="zoomed_slide" value="0.5"/>
 			</param>
 		</settings>
 		<types>

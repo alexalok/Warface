@@ -135,6 +135,8 @@
 			<Filter kind="weapon" param="ar27_bp05_shop"/>
 			<Filter kind="weapon" param="ar28_bp05_shop"/>
 			<Filter kind="weapon" param="ar29_bp05_shop"/>
+			<Filter kind="weapon" param="ar35_shop"/>
+			<Filter kind="weapon" param="ar35_gold01_shop"/>
 			<Filter kind="weapon" param="ar31_xmas04_shop"/>
 			<Filter kind="weapon" param="mg01_shop"/>
 			<Filter kind="weapon" param="mg01_xmas_shop"/>

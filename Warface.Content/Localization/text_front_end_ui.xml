@@ -141,7 +141,7 @@
 		<translation value="&lt;p align=&quot;center&quot;&gt;&lt;font color=&quot;#ff4433&quot;&gt;У вас или вашего друга достигнуто ограничение на количество друзей.&lt;/font&gt;&lt;/p&gt;"/>
 	</entry>
 	<entry key="ui_reward_box_description">
-		<original value="1X REWARD BOX"/>
+		<original value="REWARD BOX"/>
 		<translation value="КОРОБКА УДАЧИ"/>
 	</entry>
 	<entry key="ui_reward_box_label">
@@ -7158,7 +7158,7 @@
 	</entry>
 	<entry key="ingame_surrender_available_in">
 		<original value="Surrender (available in %1)"/>
-		<translation value="Сдаться (доступно через %1)"/>
+		<translation value="СДАТЬСЯ (ДОСТУПНО ЧЕРЕЗ %1)"/>
 	</entry>
 	<entry key="ui_win_streak">
 		<original value="BONUS POINT FOR WIN STREAK!"/>
@@ -8102,7 +8102,7 @@
 	</entry>
 	<entry key="messagebox_you_are_kicked_insufficient_players">
 		<original value="Room has been closed due to insufficient players."/>
-		<translation value="Комната закрыта из-за нехватки игроков."/>
+		<translation value="Комната закрыта - недостаточно игроков для старта боя."/>
 	</entry>
 	<entry key="marseasy">
 		<original value="Mars easy"/>
@@ -8119,5 +8119,37 @@
 	<entry key="mission_type_marshard_unlocked">
 		<original value="&lt;font color=&quot;#ff4400&quot; size='40'&gt;CONGRATULATIONS!&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; size='20'&gt;&lt;br&gt;You have unlocked new SURVIVAL Mars mission's difficulty&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;img://Libs/Icons/hardMission.dds&quot; vspace=&quot;7&quot;&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; size='20'&gt;HARDCORE&lt;/font&gt;"/>
 		<translation value="&lt;font color=&quot;#ff4400&quot; size='40'&gt;ПОЗДРАВЛЯЕМ!&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; size='20'&gt;&lt;br&gt; Вы открыли новый уровень сложности для миссии 'Марс':&lt;/font&gt;&lt;br&gt;&lt;br&gt; &lt;img src=&quot;img://Libs/Icons/hardMission.dds&quot; vspace=&quot;7&quot;&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot; size='20'&gt;ПРОФИ&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_unlock_universal_battle_pass">
+		<original value="Battle Pass"/>
+		<translation value="Боевой пропуск"/>
+	</entry>
+	<entry key="ui_playerinfo_pvemission_discord">
+		<original value="Is playing PvE"/>
+		<translation value="проходит PvE-миссию"/>
+	</entry>
+	<entry key="ui_playerinfo_pvpmission_discord">
+		<original value="Is playing PvP"/>
+		<translation value="участвует в PvP-матче"/>
+	</entry>
+	<entry key="ui_playerinfo_pveroom_discord">
+		<original value="In Game Room PVE"/>
+		<translation value="находится в PvE-комнате"/>
+	</entry>
+	<entry key="ui_playerinfo_pvproom_discord">
+		<original value="In Game Room PVP"/>
+		<translation value="находится в PvP-комнате"/>
+	</entry>
+	<entry key="ui_playerinfo_inlobby_discord">
+		<original value="In Lobby"/>
+		<translation value="в зале"/>
+	</entry>
+	<entry key="ui_playerinfo_intutorial_discord">
+		<original value="In tutorial"/>
+		<translation value="проходит обучение"/>
+	</entry>
+	<entry key="ui_playerinfo_ratingmission_discord">
+		<original value="Is playing Rating Match"/>
+		<translation value="участвует в рейтинговом матче"/>
 	</entry>
 </localization>

@@ -17,19 +17,19 @@
 		<translation value="Спасите марсианских колонистов и остановите силы Blackwood!"/>
 	</entry>
 	<entry key="lp_label3">
-		<original value="Stoner LMG A1"/>
-		<translation value="Stoner LMG A1"/>
+		<original value="AK-12"/>
+		<translation value="АК-12"/>
 	</entry>
 	<entry key="lp_description3">
-		<original value="Light machine gunmanufactured by the Knight's Armament Company."/>
-		<translation value="Ручной пулемет с футуристическим дизайном и вместительным магазином."/>
+		<original value="he AK-12 is a modern assault rifle designed to replace the legendary AK-74 "/>
+		<translation value="Новое поколение легендарного автомата Калашникова, которое приходит на замену устаревшему АК-74."/>
 	</entry>
-	<entry key="lp_label4">
-		<original value="Typhoon F12"/>
-		<translation value="Typhoon F12"/>
+	<entry>
+		<original/>
+		<translation/>
 	</entry>
-	<entry key="lp_description4">
-		<original value="Typhoon F12 may be one of the best magazine fed tactical shotguns ever made"/>
-		<translation value="Полуавтоматическое ружье 12-го калибра, разработанное на базе AR-15."/>
+	<entry>
+		<original/>
+		<translation/>
 	</entry>
 </localization>

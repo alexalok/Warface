@@ -6102,11 +6102,11 @@
 	</entry>
 	<entry key="ar23Kill25_desc">
 		<original value="Kill 25000 enemies with AS 'VAL'"/>
-		<translation value="Свинцовый град II"/>
+		<translation value="Убить 25 000 врагов из АС 'Вал'"/>
 	</entry>
 	<entry key="mg01Kill25">
 		<original value="Advanced Tank Gunner"/>
-		<translation/>
+		<translation value="Свинцовый град II"/>
 	</entry>
 	<entry key="mg01Kill25_desc">
 		<original value="Kill 25 000 enemies with M240B"/>
@@ -16462,7 +16462,7 @@
 	</entry>
 	<entry key="mars02meta_stripe_01">
 		<original value="Deimos Collector"/>
-		<translation value="Сын Ареса"/>
+		<translation value="Сын Бога войны"/>
 	</entry>
 	<entry key="mars02meta_stripe_01_desc">
 		<original value="Earn any 4 of Deimos weapons kill achievements"/>
@@ -16470,7 +16470,7 @@
 	</entry>
 	<entry key="mars_stripe_spiders_01">
 		<original value="Red spiders"/>
-		<translation value="Не люблю насекомых"/>
+		<translation value="Красные пауки"/>
 	</entry>
 	<entry key="mars_stripe_spiders_01_desc">
 		<original value="Kill 100 spider mines on Mars mission on Skilled"/>
@@ -16522,7 +16522,7 @@
 	</entry>
 	<entry key="bp06_mark_05_desc">
 		<original value="Complete all tasks of the second week"/>
-		<translation value="Получить 10-й уровень личного прогресса в событии 'Армагеддон'"/>
+		<translation value="Достичь 10-го уровня личного прогресса в событии 'Армагеддон'"/>
 	</entry>
 	<entry key="bp06_mark_06">
 		<original value="Armageddon Week Five"/>
@@ -16538,7 +16538,7 @@
 	</entry>
 	<entry key="bp06_mark_07_desc">
 		<original value="Complete all tasks of the eighth week"/>
-		<translation value="Успешно завершить 50 сложных  заданий"/>
+		<translation value="Успешно завершить 50 сложных заданий"/>
 	</entry>
 	<entry key="bp06_mark_08">
 		<original value="Armageddon Week Eleven"/>
@@ -16622,7 +16622,7 @@
 	</entry>
 	<entry key="bp06_badge_01">
 		<original value="Armageddon Access"/>
-		<translation value="Армагеддон: Начало"/>
+		<translation value="Армагеддон: начало"/>
 	</entry>
 	<entry key="bp06_badge_01_desc">
 		<original value="Get access to the Armageddon Compendium"/>
@@ -16634,7 +16634,7 @@
 	</entry>
 	<entry key="bp06_badge_02_desc">
 		<original value="Complete all tasks of the first week"/>
-		<translation value="Получить 5 уровень личного прогресса в событии 'Армагеддон'"/>
+		<translation value="Достичь 5-го уровня личного прогресса в событии 'Армагеддон'"/>
 	</entry>
 	<entry key="bp06_badge_03">
 		<original value="Armageddon Week Four"/>
@@ -16682,7 +16682,7 @@
 	</entry>
 	<entry key="bp06_stripe_01_desc">
 		<original value="Complete all tasks of the third week"/>
-		<translation value="Получить 15-й уровень личного прогресса в событии 'Армагеддона'"/>
+		<translation value="Достичь 15-го уровня личного прогресса в событии 'Армагеддон'"/>
 	</entry>
 	<entry key="bp06_stripe_02">
 		<original value="Armageddon Week Six"/>
@@ -16715,5 +16715,109 @@
 	<entry key="bp06_stripe_05_desc">
 		<original value="Complete all Armageddon weekly tasks"/>
 		<translation value="Завершить все задания в событии 'Армагеддон' (кроме ежедневных)"/>
+	</entry>
+	<entry key="bangladesh_flag_01">
+		<original value="Flag of Bangladesh"/>
+		<translation value="Флаг Бангладеш"/>
+	</entry>
+	<entry key="bangladesh_flag_01_desc">
+		<original value="Flag of Bangladesh"/>
+		<translation value="Флаг Бангладеш"/>
+	</entry>
+	<entry key="dominican_republic_flag_01">
+		<original value="Flag of Dominican Republic"/>
+		<translation value="Флаг Доминиканской Республики"/>
+	</entry>
+	<entry key="dominican_republic_flag_01_desc">
+		<original value="Flag of Dominican Republic"/>
+		<translation value="Флаг Доминиканской Республики"/>
+	</entry>
+	<entry key="iran_flag_01">
+		<original value="Flag of Iran"/>
+		<translation value="Флаг Ирана"/>
+	</entry>
+	<entry key="iran_flag_01_01_desc">
+		<original value="Flag of Iran"/>
+		<translation value="Флаг Ирана"/>
+	</entry>
+	<entry key="mongolia_flag_01">
+		<original value="Flag of Mongolia"/>
+		<translation value="Флаг Монголии"/>
+	</entry>
+	<entry key="mongolia_flag_01_desc">
+		<original value="Flag of Mongolia"/>
+		<translation value="Флаг Монголии"/>
+	</entry>
+	<entry key="pakistan_flag_01">
+		<original value="Flag of Pakistan"/>
+		<translation value="Флаг Пакистана"/>
+	</entry>
+	<entry key="pakistan_flag_01_desc">
+		<original value="Flag of Pakistan"/>
+		<translation value="Флаг Пакистана"/>
+	</entry>
+	<entry key="tunisia_flag_01">
+		<original value="Flag of Tunisia"/>
+		<translation value="Флаг Туниса"/>
+	</entry>
+	<entry key="tunisia_flag_01_desc">
+		<original value="Flag of Tunisia"/>
+		<translation value="Флаг Туниса"/>
+	</entry>
+	<entry key="ar35Kill">
+		<original value="Painful Death"/>
+		<translation value="Мучительная смерть I"/>
+	</entry>
+	<entry key="ar35Kill_desc">
+		<original value="Kill 10000 enemies with AK-12 or its gold version"/>
+		<translation value="Убить 10 000 врагов из обычного или золотого АК-12"/>
+	</entry>
+	<entry key="ar35Kill25">
+		<original value="Advanced Painful Death"/>
+		<translation value="Мучительная смерть II"/>
+	</entry>
+	<entry key="ar35Kill25_desc">
+		<original value="Kill 25 000 enemies with AK-12 or its gold version"/>
+		<translation value="Убить 25 000 врагов из обычного или золотого АК-12"/>
+	</entry>
+	<entry key="ar35_gold_kill_01">
+		<original value="Emperor's Power"/>
+		<translation value="Двуглавый орел"/>
+	</entry>
+	<entry key="ar35_gold_kill_01_desc">
+		<original value="Kill 999 enemies with Gold AK-12"/>
+		<translation value="Убить 999 врагов из золотого АК-12"/>
+	</entry>
+	<entry key="esports_master_03">
+		<original value="eSports Master"/>
+		<translation value="Мастер киберспорта"/>
+	</entry>
+	<entry key="esports_master_03_desc">
+		<original value="For invaluable contribution to the development and support of Warface eSports"/>
+		<translation value="Награда за неоценимый вклад в развитие киберспорта Warface"/>
+	</entry>
+	<entry key="syndicate_stripe_01">
+		<original value="Syndicate Winner"/>
+		<translation value="Нашивка Китаро"/>
+	</entry>
+	<entry key="syndicate_stripe_01_desc">
+		<original value="Syndicate LAN Finals winner stripe"/>
+		<translation value="Отличительный знак победителя турнира Warface Syndicate: Battle Royale West"/>
+	</entry>
+	<entry key="syndicate_stripe_02">
+		<original value="Syndicate Winner"/>
+		<translation value="Нашивка Repulse"/>
+	</entry>
+	<entry key="syndicate_stripe_02_desc">
+		<original value="Syndicate LAN Finals winner stripe"/>
+		<translation value="Отличительный знак победителя турнира Warface Syndicate: PTB League"/>
+	</entry>
+	<entry key="syndicate_stripe_03">
+		<original value="Syndicate Winner"/>
+		<translation value="Нашивка Effex"/>
+	</entry>
+	<entry key="syndicate_stripe_03_desc">
+		<original value="Syndicate LAN Finals winner stripe"/>
+		<translation value="Отличительный знак победителя турнира Warface Syndicate: Blitz League"/>
 	</entry>
 </localization>

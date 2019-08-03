@@ -7,8 +7,8 @@
 </mmo_stats>
  
 <UI_stats>
-	<param name="name" value="@random_box_50_shop_name"/>
-	<param name="description" value="@ui_random_box_50_description"/>
+	<param name="name" value="@random_box_50_crown_shop_name"/>
+	<param name="description" value="@ui_random_box_50_crown_desc"/>
 	<param name="icon" value="randombox_50"/>
 </UI_stats>
 

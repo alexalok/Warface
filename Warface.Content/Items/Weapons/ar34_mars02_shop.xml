@@ -3,7 +3,7 @@
 		<mmo_stats>
 			<param name="item_category" value="PveOnlyShared"/>
 			<param name="shopcontent" value="1"/>
-			<param name="classes" value="RSME"/>
+			<param name="classes" value="R"/>
 			<param name="durability" value="36000"/>
 			<param name="repair_cost" value="2180"/>
 		</mmo_stats>

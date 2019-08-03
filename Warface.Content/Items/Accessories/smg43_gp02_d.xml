@@ -16,6 +16,7 @@
                 <stance name="stand" value="1.2"/>
 				<stance name="crouch" value="1.2"/>
 				<stance name="prone" value="1.2"/>
+				<stance name="slide" value="1.2"/>
 				<stance name="run" value="1.2"/>
 				<stance name="haste" value="1.2"/>
 				<stance name="jump" value="1.3"/>
@@ -24,6 +25,7 @@
 			    <stance name="stand" value="1.1"/>
 				<stance name="crouch" value="1.2"/>
 				<stance name="prone" value="1.2"/>
+				<stance name="slide" value="1.2"/>
 				<stance name="run" value="1.2"/>
 				<stance name="haste" value="1.2"/>
 				<stance name="jump" value="1.2"/>
@@ -32,12 +34,16 @@
 			<param name="recoil_smth_mul" value="1.5"/>
 			<param name="recoil_att_mul" value="1.3">
 				<stance name="prone" value="1.3"/>
+				<stance name="slide" value="1.3"/>
 				<stance name="zoomed_prone" value="1.3"/>
+				<stance name="zoomed_slide" value="1.3"/>
 				<stance name="stand" value="1.3"/>
 			</param>
 			<param name="recoil_max_mul" value="1.3">
 				<stance name="prone" value="1.3"/>
+				<stance name="slide" value="1.3"/>
 				<stance name="zoomed_prone" value="1.3"/>
+				<stance name="zoomed_slide" value="1.3"/>
 				<stance name="stand" value="1.3"/>
 			</param>
 		</settings>

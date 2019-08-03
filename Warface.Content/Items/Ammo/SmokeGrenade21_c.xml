@@ -1,67 +1,72 @@
 <ammo name="smokegrenade21_c" type="grenade" class="Projectile" require="sg21_c">
-	<mmo_stats>
-		<param name="item_category" value="Grenade"/>
-		<param name="shopcontent" value="1"/>
-		<param name="classes" value="MERS"/>
-		<param name="max_buy_amount" value="32000"/>
-		<param name="stackable" value="1"/>
-	</mmo_stats>
-	<UI_stats>
-		<param name="name" value="@sg21_default_name"/>
-		<param name="description" value="@ui_weapons_sg21"/>
-		<param name="icon" value="sg21"/>
-	</UI_stats>
-	<icons>
-		<combatlog icon="Sg01_combatLog" melee="Melee"/>
-	</icons>
-	<geometry>
-		<firstperson name="objects/Weapons/Grenades/sg21/sg21_exp.cgf"/>
-		<thirdperson name="objects/weapons/Grenades/sg21/sg21_exp.cgf"/>
-	</geometry>
-	<flags>
-		<param name="serverspawn" value="1"/>
-		<param name="predictspawn" value="1"/>
-	</flags>
-	<physics type="particle">
-		<param name="mass" value="0.5"/>
-		<param name="speed" value="22"/>
-		<param name="radius" value="0.03"/>
-		<param name="air_resistance" value="0"/>
-		<param name="water_resistance" value="0.5"/>
-		<param name="gravity" value="0, 0, -30"/>
-		<param name="water_gravity" value="0, 0, -9.8"/>
-		<param name="thrust" value="0"/>
-		<param name="lift" value="0"/>
-		<param name="min_bounce_speed" value="0.75"/>
-		<param name="material" value="mat_grenade"/>
-		<param name="spin_random" value="360, 360, 360"/>
-		<param name="single_contact" value="0"/>
-		<param name="traceable" value="1"/>
-		<param name="pierceability" value="14"/>
-		<param name="min_vel" value="0.9" />
-	</physics>
-	<params>
-		<param name="lifetime" value="17.0"/>
-		<param name="showtime" value="0.05"/>
-		<param name="aitype"	value="grenade"/>
-		<param name="ammo_kind"	value="smokegrenade"/>
-		<param name="hit_type" value="frag"/>
-		<param name="quietRemoval" value="1"/>
-		<param name="launch_type" value="0"/>
+    <mmo_stats>
+        <param name="item_category" value="Grenade" />
+        <param name="shopcontent" value="1" />
+        <param name="classes" value="MERS" />
+        <param name="max_buy_amount" value="32000" />
+        <param name="stackable" value="1" />
+    </mmo_stats>
+    <UI_stats>
+        <param name="name" value="@sg21_default_name" />
+        <param name="description" value="@ui_weapons_sg21" />
+        <param name="icon" value="sg21" />
+    </UI_stats>
+    <icons>
+        <combatlog icon="Sg01_combatLog" melee="Melee" />
+    </icons>
+    <geometry>
+        <firstperson name="objects/Weapons/Grenades/sg21/sg21_exp.cgf" />
+        <thirdperson name="objects/weapons/Grenades/sg21/sg21_exp.cgf" />
+    </geometry>
+    <flags>
+        <param name="serverspawn" value="1" />
+        <param name="predictspawn" value="1" />
+    </flags>
+    <physics type="particle">
+        <param name="mass" value="0.5" />
+        <param name="speed" value="22" />
+        <param name="radius" value="0.03" />
+        <param name="air_resistance" value="0" />
+        <param name="water_resistance" value="0.5" />
+        <param name="gravity" value="0, 0, -30" />
+        <param name="water_gravity" value="0, 0, -9.8" />
+        <param name="thrust" value="0" />
+        <param name="lift" value="0" />
+        <param name="min_bounce_speed" value="0.75" />
+        <param name="material" value="mat_grenade" />
+        <param name="spin_random" value="360, 360, 360" />
+        <param name="single_contact" value="0" />
+        <param name="traceable" value="1" />
+        <param name="pierceability" value="14" />
+        <param name="min_vel" value="0.9" />
+    </physics>
+    <params>
+        <param name="lifetime" value="40.0" />
+        <param name="showtime" value="0.05" />
+        <param name="aitype" value="grenade" />
+        <param name="ammo_kind" value="smokegrenade" />
+        <param name="hit_type" value="frag" />
+        <param name="quietRemoval" value="1" />
+        <param name="launch_type" value="0" />
 		<param name="net_policy" value="projectile"/>
-	</params>
-	<trail>
-		<param name="effect" value="grenades.smoke_flags.smoke_croatia"/>
-		<param name="prime" value="false"/>
-		<param name="platform_spawn_delay" value="1.0" />
-	</trail>
-	<scaledeffect>
-		<param name="postEffect" value="FilterBlurring_Amount"/>
-		<param name="maxvalue" value="1"/>
-		<param name="radius" value="5"/>
-		<param name="delay" value="2"/>
-		<param name="fadeintime" value="6"/>
-		<param name="fadeouttime" value="2"/>
-		<param name="AIObstructionRadius" value="5"/>
-	</scaledeffect>
+    </params>
+    <trail>
+        <param name="effect" value="smoke_grenades.flags.sg_croatia" />
+        <param name="prime" value="false" />
+        <param name="platform_spawn_delay" value="1.0" />
+    </trail>
+    <scaledeffect>
+        <param name="postEffect" value="FilterBlurring_Amount" />
+        <param name="maxvalue" value="0" />
+        <param name="radius" value="3.2" />
+        <param name="lifetime" value="19" />
+        <param name="fadeintime" value="1" />
+        <param name="fadeouttime" value="2" />
+        <param name="AIObstructionRadius" value="3.0" />
+        <param name="color" value="0.42, 0.42, 0.42" />
+        <param name="SmokeMaskEyeDirectionOffset" value="0.4" />
+        <param name="SmokeEffectCoefficient" value="7" />
+        <param name="SmokeEffectOffset" value="0, 0, 1.5" />
+        <param name="SmokeEffectHeight" value="2.2" />
+    </scaledeffect>
 </ammo>

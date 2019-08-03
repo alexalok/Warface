@@ -1754,7 +1754,7 @@
 	</entry>
 	<entry key="smg44_rds_d_name">
 		<original value="Redring MK2"/>
-		<translation value="Коллиматор Redring MK2"/>
+		<translation value="Коллиматор Redring MK1"/>
 	</entry>
 	<entry key="ui_smg44_rds_d_ingame">
 		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
@@ -2027,5 +2027,45 @@
 	<entry key="pt30_bp06_pink01_sc_d_name">
 		<original value="Black silencer"/>
 		<translation value="Черный глушитель"/>
+	</entry>
+	<entry key="ar22_rds_d_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Коллиматор Leupold Deltapoint"/>
+	</entry>
+	<entry key="ui_ar22_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\n"/>
+	</entry>
+	<entry key="ar35_sc_d_name">
+		<original value="AK-12 Special Silencer"/>
+		<translation value="Глушитель AK-12"/>
+	</entry>
+	<entry key="ui_ar35_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#ff4400'&gt;5%&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;точность при стрельбе от бедра&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar35_sp_d_name">
+		<original value="AK-12 Special Suppressor"/>
+		<translation value="Пламегаситель AK-12"/>
+	</entry>
+	<entry key="ui_ar35_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу, тряску прицела&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar35_gp_d_name">
+		<original value="AK-12 Special Grip"/>
+		<translation value="Особая рукоятка AK-12"/>
+	</entry>
+	<entry key="ui_ar35_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Повышает точность на &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;15%&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nПовышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;скорость перезарядки&lt;/font&gt; \nКроме положения &lt;font color='#FF4400'&gt;лежа&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar35_rds01_d_name">
+		<original value="Romeo 4 Sight"/>
+		<translation value="Прицел Romeo 4"/>
+	</entry>
+	<entry key="ui_ar35_rds01_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3-кратное&lt;/font&gt; увеличение\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;колебания ствола в режиме прицеливания&lt;/font&gt;"/>
 	</entry>
 </localization>

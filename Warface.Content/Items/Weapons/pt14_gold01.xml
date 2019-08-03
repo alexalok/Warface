@@ -30,6 +30,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.95" />
       <stance name="prone" value="0.9" />
+      <stance name="slide" value="0.9" />
       <stance name="run" value="1.05" />
       <stance name="walk" value="0.97" />
       <stance name="jump" value="1.3" />
@@ -41,6 +42,7 @@
       <stance name="zoomed_stand" value="0.75" />
       <stance name="zoomed_crouch" value="0.9" />
       <stance name="zoomed_prone" value="0.8" />
+      <stance name="zoomed_slide" value="0.8" />
       <stance name="zoomed_knockdown" value="0.75" />
       <stance name="transition" value="1" />
     </param>
@@ -49,6 +51,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="1" />
       <stance name="prone" value="1" />
+      <stance name="slide" value="1" />
       <stance name="run" value="1.05" />
       <stance name="walk" value="0.97" />
       <stance name="jump" value="1.3" />
@@ -59,6 +62,7 @@
       <stance name="zoomed_stand" value="0.9" />
       <stance name="zoomed_crouch" value="0.65" />
       <stance name="zoomed_prone" value="0.5" />
+      <stance name="zoomed_slide" value="0.5" />
       <stance name="transition" value="0.5" />
     </param>
     <param name="recoil_dec" value="220" />
@@ -67,6 +71,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="1" />
       <stance name="prone" value="1" />
+      <stance name="slide" value="1" />
       <stance name="run" value="1.02" />
       <stance name="walk" value="0.97" />
       <stance name="jump" value="1.3" />
@@ -77,6 +82,7 @@
       <stance name="zoomed_stand" value="0.45" />
       <stance name="zoomed_crouch" value="0.32" />
       <stance name="zoomed_prone" value="0.3" />
+      <stance name="zoomed_slide" value="0.3" />
       <stance name="transition" value="1" />
     </param>
     <param name="recoil_rnd" value="0.05" />
@@ -88,6 +94,7 @@
       <stance name="haste" value="2" />
       <stance name="crouch" value="0.6" />
       <stance name="prone" value="0.4" />
+      <stance name="slide" value="0.4" />
       <stance name="walk" value="1.1" />
       <stance name="run" value="1.2" />
       <stance name="jump" value="3" />
@@ -96,6 +103,7 @@
       <stance name="zoomed_stand" value="0.2" />
       <stance name="zoomed_crouch" value="0.15" />
       <stance name="zoomed_prone" value="0.1" />
+      <stance name="zoomed_slide" value="0.1" />
       <stance name="zoomed_walk" value="0.2" />
       <stance name="zoomed_rest" value="0.1" />
       <stance name="zoomed_jump" value="0.75" />
@@ -107,6 +115,7 @@
       <stance name="stand" value="0.8" />
       <stance name="crouch" value="0.6" />
       <stance name="prone" value="0.4" />
+      <stance name="slide" value="0.4" />
       <stance name="walk" value="0.9" />
       <stance name="run" value="0.8" />
       <stance name="jump" value="1.2" />
@@ -115,6 +124,7 @@
       <stance name="zoomed_stand" value="0.1" />
       <stance name="zoomed_crouch" value="0.1" />
       <stance name="zoomed_prone" value="0.1" />
+      <stance name="zoomed_slide" value="0.1" />
       <stance name="zoomed_walk" value="0.1" />
       <stance name="zoomed_rest" value="0.1" />
       <stance name="zoomed_jump" value="0.1" />
@@ -134,6 +144,7 @@
       <stance name="zoomed_stand" value="1" />
       <stance name="zoomed_crouch" value="0.7" />
       <stance name="zoomed_prone" value="0.5" />
+      <stance name="zoomed_slide" value="0.5" />
       <stance name="zoomed_walk" value="1.25" />
       <stance name="zoomed_rest" value="0.5" />
       <stance name="zoomed_jump" value="8" />
@@ -143,9 +154,11 @@
       <stance name="zoomed_stand" value="0.7" />
       <stance name="zoomed_crouch" value="0.7" />
       <stance name="zoomed_prone" value="0.7" />
+      <stance name="zoomed_slide" value="0.7" />
       <stance name="zoomed_stand" value="0.7" />
       <stance name="zoomed_crouch" value="0.7" />
       <stance name="zoomed_prone" value="0.7" />
+      <stance name="zoomed_slide" value="0.7" />
     </param>
     <param name="melee_knock_back_chance" value="1" />
     <param name="knock_back_chance" value="0" />

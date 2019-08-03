@@ -27,6 +27,7 @@
 			<stance name="zoomed_stand" value="3"/>
 			<stance name="zoomed_crouch" value="3"/>
 			<stance name="zoomed_prone" value="3"/>
+			<stance name="zoomed_slide" value="3"/>
 			<stance name="zoomed_walk" value="3"/>
 			<stance name="zoomed_jump" value="1.5"/>
 		</param>
@@ -34,6 +35,7 @@
 			<stance name="zoomed_stand" value="3"/>
 			<stance name="zoomed_crouch" value="3"/>
 			<stance name="zoomed_prone" value="3"/>
+			<stance name="zoomed_slide" value="3"/>
 			<stance name="zoomed_walk" value="3"/>
 			<stance name="zoomed_jump" value="1.5"/>
 		</param>

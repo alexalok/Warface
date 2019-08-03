@@ -3178,11 +3178,11 @@
 	</entry>
 	<entry key="box_crown_pt37_shop_name">
 		<original value="CZ 75 Czech Mate Parrot Crown Random Box"/>
-		<translation value="Коробка с CZ 75 Czechmate Parrot (короны)"/>
+		<translation value="Коробка с CZ 75 Czechmate Parrot"/>
 	</entry>
 	<entry key="ui_random_box_crown_pt37_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="box_bundle_pt37_plat01">
 		<original value="Platinum Skin"/>
@@ -3310,11 +3310,11 @@
 	</entry>
 	<entry key="box_crown_ar33_shop_name">
 		<original value="HCAR Crown Random Box"/>
-		<translation value="Коробка с HCAR (короны)"/>
+		<translation value="Коробка с HCAR"/>
 	</entry>
 	<entry key="ui_box_crown_ar33_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="box_shg47_shop_name">
 		<original value="Uzkon UNG-12 Random Box"/>
@@ -3330,11 +3330,11 @@
 	</entry>
 	<entry key="box_crown_shg47_shop_name">
 		<original value="Uzkon UNG-12 Crown Random Box"/>
-		<translation value="Коробка с Uzkon UNG-12 (короны)"/>
+		<translation value="Коробка с Uzkon UNG-12"/>
 	</entry>
 	<entry key="ui_box_crown_shg47_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для медика."/>
 	</entry>
 	<entry key="box_bundle_shg47_plat01">
 		<original value="Platinum Skin"/>
@@ -3398,11 +3398,11 @@
 	</entry>
 	<entry key="box_crown_sr45_shop_name">
 		<original value="HK G28 Crown Random Box"/>
-		<translation value="Коробка с H&amp;K G28 (короны)"/>
+		<translation value="Коробка с H&amp;K G28"/>
 	</entry>
 	<entry key="ui_box_crown_sr45_description">
 		<original value="This box allows to win 3 random items for sniper"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для снайпера."/>
 	</entry>
 	<entry key="box_smg45_shop_name">
 		<original value="LWRC SMG-45 Random Box"/>
@@ -3418,11 +3418,11 @@
 	</entry>
 	<entry key="box_crown_smg45_shop_name">
 		<original value="LWRC SMG-45 Crown Random Box"/>
-		<translation value="Коробка с LWRC SMG-45 (короны)"/>
+		<translation value="Коробка с LWRC SMG-45"/>
 	</entry>
 	<entry key="ui_box_crown_smg45_description">
 		<original value="This box allows to win 3 random items for engineer"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="box_xmas04_ar31_shop_name">
 		<original value="Xmas 2018 VHS-2 Box"/>
@@ -3710,11 +3710,11 @@
 	</entry>
 	<entry key="box_crown_ar32_shop_name">
 		<original value="HA CQR Crown Random Box"/>
-		<translation value="Коробка с HArms CQR (короны)"/>
+		<translation value="Коробка с HArms CQR"/>
 	</entry>
 	<entry key="ui_box_crown_ar32_description">
 		<original value="This box allows to win 3 random items for rifleman"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="box_bundle_ar32_plat01">
 		<original value="Platinum Skin"/>
@@ -3762,11 +3762,11 @@
 	</entry>
 	<entry key="box_crown_pt38_shop_name">
 		<original value="Maxim 9 Crown Random Box"/>
-		<translation value="Коробка с Maxim 9 (короны)"/>
+		<translation value="Коробка с Maxim 9"/>
 	</entry>
 	<entry key="ui_random_box_crown_pt38_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="box_ps4_01_ar26_shop_name">
 		<original value="Cyber Pro MSBS Radon Box"/>
@@ -3870,11 +3870,11 @@
 	</entry>
 	<entry key="ui_box_shg50_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для медика."/>
 	</entry>
 	<entry key="box_crown_shg50_shop_name">
 		<original value="Marlin 1894 Custom Crown Random Box"/>
-		<translation value="Коробка с Marlin 1894 Custom (короны)"/>
+		<translation value="Коробка с Marlin 1894 Custom"/>
 	</entry>
 	<entry key="ui_key_box_shg50">
 		<original value="Provides you with a Marlin 1894 Custom for a limited time and an offer for its direct purchase"/>
@@ -3898,11 +3898,11 @@
 	</entry>
 	<entry key="box_crown_smg46_shop_name">
 		<original value="SIG MPX SBR Сustom Crown Random Box"/>
-		<translation value="Коробка с SIG MPX SBR Сustom (короны)"/>
+		<translation value="Коробка с SIG MPX SBR Сustom"/>
 	</entry>
 	<entry key="ui_box_crown_smg46_description">
 		<original value="This box allows to win 3 random items for engineer"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="box_smg47_shop_name">
 		<original value="Tommy Gun M1928 Random Box"/>
@@ -3914,11 +3914,11 @@
 	</entry>
 	<entry key="box_crown_smg47_shop_name">
 		<original value="Tommy Gun M1928 Crown Random Box"/>
-		<translation value="Коробка с Thompson M1928 (короны)"/>
+		<translation value="Коробка с Thompson M1928"/>
 	</entry>
 	<entry key="ui_box_crown_smg47_description">
 		<original value="This box allows to win 3 random items for engineer"/>
-		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="ui_key_box_smg47">
 		<original value="Provides you with a Tommy Gun M1928 for a limited time and an offer for its direct purchase"/>
@@ -3934,7 +3934,7 @@
 	</entry>
 	<entry key="box_crown_mg25_shop_name">
 		<original value="Stoner LMG A1 Crown Random Box"/>
-		<translation value="Коробка со Stoner LMG A1 (короны)"/>
+		<translation value="Коробка со Stoner LMG A1"/>
 	</entry>
 	<entry key="ui_key_box_mg25">
 		<original value="Provides you with a Stoner LMG A1 for a limited time and an offer for its direct purchase"/>
@@ -3963,5 +3963,313 @@
 	<entry key="ui_random_box_mars_03_description">
 		<original value="Reward for completing the Mars hard mission."/>
 		<translation value="Награда за прохождение миссии 'Марс' на уровне 'Профи'."/>
+	</entry>
+	<entry key="bangladesh_flag_01_shop">
+		<original value="Flag of Bangladesh"/>
+		<translation value="Флаг Бангладеш"/>
+	</entry>
+	<entry key="bangladesh_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Bangladesh.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Бангладеш.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="Dominican_republic_flag_01_shop">
+		<original value="Flag of Dominican Republic"/>
+		<translation value="Флаг Доминиканской Республики"/>
+	</entry>
+	<entry key="Dominican_republic_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Dominican Republic.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Доминиканской Республики.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="Iran_flag_01_shop">
+		<original value="Flag of Iran"/>
+		<translation value="Флаг Ирана"/>
+	</entry>
+	<entry key="Iran_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Iran.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Ирана.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="Mongolia_flag_01_shop">
+		<original value="Flag of Mongolia"/>
+		<translation value="Флаг Монголии"/>
+	</entry>
+	<entry key="Mongolia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Mongolia.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Монголии.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="Pakistan_flag_01_shop">
+		<original value="Flag of Pakistan"/>
+		<translation value="Флаг Пакистана"/>
+	</entry>
+	<entry key="Pakistan_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Pakistan.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Пакистана.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="Tunisia_flag_01_shop">
+		<original value="Flag of Tunisia"/>
+		<translation value="Флаг Туниса"/>
+	</entry>
+	<entry key="Tunisia_flag_01_shop_desc">
+		<original value="This item allows you to purchase flag of Tunisia.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить флаг Туниса.\nФлаг можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="random_box_04_crown_shop_name">
+		<original value="AS50 Crown Random Box"/>
+		<translation value="Коробка с AS50"/>
+	</entry>
+	<entry key="ui_random_box_04_crown_desc">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_09_crown_shop_name">
+		<original value="H&amp;K UMP Crown Random Box"/>
+		<translation value="Коробка с H&amp;K UMP"/>
+	</entry>
+	<entry key="ui_random_box_09_crown_desc">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_11_crown_shop_name">
+		<original value="MK 14 EBR Crown Random Box"/>
+		<translation value="Коробка с Mk 14 EBR "/>
+	</entry>
+	<entry key="ui_random_box_11_crown_desc">
+		<original value="This box allows to win 3 random items for sniper"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_30_crown_shop_name">
+		<original value="M249 Para Crown Random Box"/>
+		<translation value="Коробка с M249 Para "/>
+	</entry>
+	<entry key="ui_random_box_30_crown_desc">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_35_crown_shop_name">
+		<original value="SCAR-L PDW Crown Random Box"/>
+		<translation value="Коробка со SCAR-L PDW "/>
+	</entry>
+	<entry key="ui_random_box_35_crown_desc">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_40_crown_shop_name">
+		<original value="Fabarm STF 12 Compact Random Box"/>
+		<translation value="Коробка с Fabarm STF 12 Compact "/>
+	</entry>
+	<entry key="ui_random_box_40_crown_desc">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_45_crown_shop_name">
+		<original value="Mossberg 500 Custom Crown Random Box"/>
+		<translation value="Коробка с Mossberg 500 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_45_crown_desc">
+		<original value="Contains Mossberg 500 rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_46_crown_shop_name">
+		<original value="SCAR-L PDW Crown Random Box"/>
+		<translation value="Коробка с SCAR-L PDW 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_46_crown_desc">
+		<original value="Contains SCAR-L PDW rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="random_box_47_crown_shop_name">
+		<original value="AX-308 Crown Random Box"/>
+		<translation value="Коробка с AX308 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_47_crown_desc">
+		<original value="Contains AX-308 rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="random_box_48_crown_shop_name">
+		<original value="Sig Sauer P226 Crown Random Box"/>
+		<translation value="Коробка с P226 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_48_crown_desc">
+		<original value="Contains Sig Sauer P226 rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_50_crown_shop_name">
+		<original value="ACR Crown Random Box"/>
+		<translation value="Коробка с ACR 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_50_crown_desc">
+		<original value="Contains ACR rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_55_crown_shop_name">
+		<original value="Fabarm XLR 5 Prestige Crown Random Box"/>
+		<translation value="Коробка с Fabarm XLR 5 Prestige "/>
+	</entry>
+	<entry key="ui_random_box_55_crown_desc">
+		<original value="This box allows to win 3 random items for medic"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="random_box_56_crown_shop_name">
+		<original value="Enfield L85A2 Custom Crown Random Box"/>
+		<translation value="Коробка с L85A2 Custom "/>
+	</entry>
+	<entry key="ui_random_box_56_crown_desc">
+		<original value="This box allows to win 3 random items for soldier"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="random_box_65_crown_shop_name">
+		<original value="FN SCAR-H Crown Random Box"/>
+		<translation value="Коробка с SCAR-H 'Убийца зомби' "/>
+	</entry>
+	<entry key="ui_random_box_65_crown_desc">
+		<original value="Contains FN SCAR-H rare Cyber Slayer skin"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_66_crown_shop_name">
+		<original value="Saiga Bullpup Crown Random Box"/>
+		<translation value="Коробка с Сайгой 12С 'Убийца зомби' "/>
+	</entry>
+	<entry key="ui_random_box_66_crown_desc">
+		<original value="Contains Saiga Bullpup rare Cyber Slayer skin"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_67_crown_shop_name">
+		<original value="XM8 Compact Crown Random Box"/>
+		<translation value="Коробка с XM8 Compact 'Убийца зомби' "/>
+	</entry>
+	<entry key="ui_random_box_67_crown_desc">
+		<original value="Contains XM8 Compact rare Cyber Slayer skin"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_68_crown_shop_name">
+		<original value="Glock 18C Crown Random Box"/>
+		<translation value="Коробка с Glock 18C 'Убийца зомби' "/>
+	</entry>
+	<entry key="ui_random_box_68_crown_desc">
+		<original value="Contains Glock 18C rare Cyber Slayer skin"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_69_crown_shop_name">
+		<original value="Tactical Axe Crown Random Box"/>
+		<translation value="Коробка с топором 'Убийца зомби' "/>
+	</entry>
+	<entry key="ui_random_box_69_crown_desc">
+		<original value="Contains Tactical Axe rare Cyber Slayer skin"/>
+		<translation value="Каждая коробка удачи за короны содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_70_crown_shop_name">
+		<original value="Stayer Scout Crown Random Box"/>
+		<translation value="Коробка с Steyr Scout 'Убийца зомби' "/>
+	</entry>
+	<entry key="ui_random_box_70_crown_desc">
+		<original value="Contains Stayer Scout rare Cyber Slayer skin"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_75_crown_shop_name">
+		<original value="Fabarm STF12 Compact Crown Random Box"/>
+		<translation value="Коробка с STF12 'Убийца зомби' "/>
+	</entry>
+	<entry key="ui_random_box_75_crown_desc">
+		<original value="Contains Fabarm STF12 Compact rare Cyber Slayer skin"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_84_crown_shop_name">
+		<original value="Crye Precision SIX12 Crown Random Box"/>
+		<translation value="Коробка с SIX12 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_84_crown_desc">
+		<original value="Contains SIX12 rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_85_crown_shop_name">
+		<original value="ACR CQB Crown Random Box"/>
+		<translation value="Коробка с ACR CQB 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_85_crown_desc">
+		<original value="Contains ACR CQB rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_86_crown_shop_name">
+		<original value="McMillan CS5 Crown Random Box"/>
+		<translation value="Коробка с McMillan CS5 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_86_crown_desc">
+		<original value="Contains McMillan CS5 rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_87_crown_shop_name">
+		<original value="Glock 18c Crown Random Box"/>
+		<translation value="Коробка с Glock 18C 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_87_crown_desc">
+		<original value="Contains Glock 18c rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_89_crown_shop_name">
+		<original value="Type 97 Crown Random Box"/>
+		<translation value="Коробка с Type 97 'Магма' "/>
+	</entry>
+	<entry key="ui_random_box_89_crown_desc">
+		<original value="Contains Type 97 rare Magmatic weapon"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="random_box_skin_19_crown_shop_name">
+		<original value="MSBS Radon &quot;Anubis&quot; Crown Random Box"/>
+		<translation value="Коробка с MSBS Radon 'Анубис' "/>
+	</entry>
+	<entry key="ui_random_box_skin_19_crown_desc">
+		<original value="Contains MSBS Radon rare Anubis weapon"/>
+		<translation value="Внутри можно найти MSBS Radon 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_20_crown_shop_name">
+		<original value="Sidewinder Venom &quot;Anubis&quot; Crown Random Box"/>
+		<translation value="Коробка с Sidewinder Venom 'Анубис' "/>
+	</entry>
+	<entry key="ui_random_box_skin_20_crown_desc">
+		<original value="Contains Sidewinder Venom rare Anubis weapon"/>
+		<translation value="Внутри можно найти Sidewinder Venom 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_21_crown_shop_name">
+		<original value="Orsis T-5000 &quot;Anubis&quot; Crown Random Box"/>
+		<translation value="Коробка с ОРСИС Т-5000 'Анубис' "/>
+	</entry>
+	<entry key="ui_random_box_skin_21_crown_desc">
+		<original value="Contains Orsis T-5000 rare Anubis weapon"/>
+		<translation value="Внутри можно найти ОРСИС Т-5000 'Анубис'."/>
+	</entry>
+	<entry key="random_box_skin_22_crown_shop_name">
+		<original value="PP-2000 &quot;Anubis&quot; Crown Random Box"/>
+		<translation value="Коробка с ПП-2000 'Анубис' "/>
+	</entry>
+	<entry key="ui_random_box_skin_22_crown_desc">
+		<original value="Contains PP-2000 rare Anubis weapon"/>
+		<translation value="Внутри можно найти ПП-2000 'Анубис'."/>
+	</entry>
+	<entry key="random_box_zsd03_01_crown_shop_name">
+		<original value="Halloween 2017 Crown Random Box"/>
+		<translation value="Коробка с оружием 'Каратель' "/>
+	</entry>
+	<entry key="ui_random_box_zsd03_01_crown_desc">
+		<original value="This box allows to win 2 random items"/>
+		<translation value="Каждая коробка удачи за короны содержит 2 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="box_ar35_shop_name">
+		<original value="AK-12 Random Box"/>
+		<translation value="Коробка с AK-12"/>
+	</entry>
+	<entry key="ui_box_ar35_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="box_crown_ar35_shop_name">
+		<original value="AK-12 Crown Random Box"/>
+		<translation value="Коробка с AK-12"/>
+	</entry>
+	<entry key="ui_box_crown_ar35_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="ui_key_box_ar35">
+		<original value="Provides you with a AK-12 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить АК-12 навсегда."/>
 	</entry>
 </localization>

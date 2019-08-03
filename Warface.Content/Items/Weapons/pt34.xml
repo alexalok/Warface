@@ -18,7 +18,7 @@
     <item name="pt34" type="weapon" />
   </drop_params>
   <settings archetype="Items/Weapons/Archetypes/PT.xml">
-    <param name="ammo_amount" value="18" />
+    <param name="ammo_amount" value="21" />
     <param name="rpm" value="700" />
     <param name="damage" value="60" />
     <param name="damage_mul" value="1" />
@@ -34,12 +34,14 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="1" />
       <stance name="prone" value="1" />
+      <stance name="slide" value="1" />
       <stance name="run" value="1.1" />
       <stance name="haste" value="1" />
       <stance name="jump" value="1" />
       <stance name="zoomed_stand" value="1" />
       <stance name="zoomed_crouch" value="1" />
       <stance name="zoomed_prone" value="1" />
+      <stance name="zoomed_slide" value="1" />
       <stance name="zoomed_walk" value="1" />
       <stance name="zoomed_jump" value="1" />
     </param>
@@ -54,6 +56,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.77" />
+      <stance name="slide" value="0.77" />
       <stance name="run" value="1.5" />
       <stance name="haste" value="4" />
       <stance name="jump" value="4" />
@@ -61,15 +64,17 @@
       <stance name="zoomed_stand" value="0.5" />
       <stance name="zoomed_crouch" value="0.5" />
       <stance name="zoomed_prone" value="0.5" />
+      <stance name="zoomed_slide" value="0.5" />
       <stance name="zoomed_walk" value="0.5" />
       <stance name="zoomed_jump" value="0.8" />
       <stance name="zoomed_knockdown" value="0.8" />
     </param>
-    <param name="spread_max" value="6.7" />
+    <param name="spread_max" value="5" />
     <param name="spread_max_mul" value="1">
       <stance name="stand" value="1.1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.77" />
+      <stance name="slide" value="0.77" />
       <stance name="run" value="1.2" />
       <stance name="haste" value="1" />
       <stance name="jump" value="1.3" />
@@ -77,15 +82,17 @@
       <stance name="zoomed_stand" value="0.2" />
       <stance name="zoomed_crouch" value="0.2" />
       <stance name="zoomed_prone" value="0.2" />
+      <stance name="zoomed_slide" value="0.2" />
       <stance name="zoomed_walk" value="0.3" />
       <stance name="zoomed_jump" value="0.5" />
       <stance name="zoomed_knockdown" value="0.75" />
     </param>
-    <param name="spread_att" value="0.9" />
+    <param name="spread_att" value="0.7" />
     <param name="spread_att_mul" value="1">
       <stance name="stand" value="1.5" />
       <stance name="crouch" value="1.5" />
       <stance name="prone" value="1.5" />
+      <stance name="slide" value="1.5" />
       <stance name="run" value="1.8" />
       <stance name="haste" value="1.5" />
       <stance name="jump" value="2" />
@@ -93,6 +100,7 @@
       <stance name="zoomed_stand" value="0.9" />
       <stance name="zoomed_crouch" value="0.9" />
       <stance name="zoomed_prone" value="0.9" />
+      <stance name="zoomed_slide" value="0.9" />
       <stance name="zoomed_walk" value="0.9" />
       <stance name="zoomed_jump" value="1" />
       <stance name="zoomed_knockdown" value="0.75" />
@@ -104,6 +112,7 @@
       <stance name="zoomed_stand" value="0.5" />
       <stance name="zoomed_crouch" value="0.5" />
       <stance name="zoomed_prone" value="0.5" />
+      <stance name="zoomed_slide" value="0.5" />
       <stance name="zoomed_walk" value="0.5" />
       <stance name="zoomed_jump" value="0.5" />
     </param>
@@ -111,6 +120,7 @@
       <stance name="zoomed_stand" value="0.25" />
       <stance name="zoomed_crouch" value="0.25" />
       <stance name="zoomed_prone" value="0.25" />
+      <stance name="zoomed_slide" value="0.25" />
       <stance name="zoomed_walk" value="0.25" />
       <stance name="zoomed_jump" value="0.25" />
     </param>
@@ -118,6 +128,7 @@
       <stance name="zoomed_stand" value="0.1" />
       <stance name="zoomed_crouch" value="0.1" />
       <stance name="zoomed_prone" value="0.1" />
+      <stance name="zoomed_slide" value="0.1" />
       <stance name="zoomed_walk" value="1" />
       <stance name="zoomed_jump" value="2.5" />
     </param>
@@ -125,6 +136,7 @@
       <stance name="zoomed_stand" value="0" />
       <stance name="zoomed_crouch" value="0" />
       <stance name="zoomed_prone" value="0" />
+      <stance name="zoomed_slide" value="0" />
       <stance name="zoomed_walk" value="0.4" />
       <stance name="zoomed_jump" value="8" />
       <stance name="zoomed_knockdown" value="0.75" />
@@ -135,9 +147,11 @@
       <stance name="zoomed_stand" value="0.7" />
       <stance name="zoomed_crouch" value="0.7" />
       <stance name="zoomed_prone" value="0.7" />
+      <stance name="zoomed_slide" value="0.7" />
       <stance name="zoomed_stand" value="0.7" />
       <stance name="zoomed_crouch" value="0.7" />
       <stance name="zoomed_prone" value="0.7" />
+      <stance name="zoomed_slide" value="0.7" />
     </param>
     <param name="melee_knock_back_chance" value="1" />
     <param name="knock_back_chance" value="0" />
@@ -184,7 +198,7 @@
   </sockets>
   <fireparams>
     <fire>
-      <param name="extra_ammo" value="72" />
+      <param name="extra_ammo" value="84" />
       <param name="ammo_type" value="bullet_pt" />
       <param name="bullet_chamber" value="0" />
       <param name="helper_tp" value="weapon_term" />

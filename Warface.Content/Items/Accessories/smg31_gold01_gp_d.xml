@@ -15,11 +15,15 @@
 		<settings>
 			<param name="spread_min_mul" value="0.85">
 				<stance name="prone" value="1"/>
+				<stance name="slide" value="1"/>
 				<stance name="zoomed_prone" value="1"/>
+				<stance name="zoomed_slide" value="1"/>
 			</param>
 			<param name="spread_max_mul" value="0.85">
 				<stance name="prone" value="1"/>
+				<stance name="slide" value="1"/>
 				<stance name="zoomed_prone" value="1"/>
+				<stance name="zoomed_slide" value="1"/>
 			</param>
 			<param name="sway_mul" value="0.2"/>
 			<param name="reload_duration_mul" value="0.85"/>

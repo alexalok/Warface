@@ -22,18 +22,23 @@
 	<settings>
 		<param name="spread_min_mul" value="1">
 			<stance name="zoomed_prone" value="0.8"/>
+			<stance name="zoomed_slide" value="0.8"/>
 		</param>
 		<param name="spread_max_mul" value="1">
 			<stance name="zoomed_prone" value="0.8"/>
+			<stance name="zoomed_slide" value="0.8"/>
 		</param>
 		<param name="recoil_att_mul" value="1">
 			<stance name="zoomed_prone" value="0.8"/>
+			<stance name="zoomed_slide" value="0.8"/>
 		</param>
 		<param name="recoil_max_mul" value="1">
 			<stance name="zoomed_prone" value="0.8"/>
+			<stance name="zoomed_slide" value="0.8"/>
 		</param>
 		<param name="sway_mul" value="1">
 			<stance name="zoomed_prone" value="0.1"/>
+			<stance name="zoomed_slide" value="0.1"/>
 		</param>
 	</settings>
 	<types>

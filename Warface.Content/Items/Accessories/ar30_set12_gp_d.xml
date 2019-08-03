@@ -20,6 +20,7 @@
 				<stance name="stand" value="0.55"/>
 				<stance name="crouch" value="0.55"/>
 				<stance name="prone" value="0.55"/>
+				<stance name="slide" value="0.55"/>
 				<stance name="run" value="0.6"/>
 				<stance name="haste" value="0.6"/>
 				<stance name="jump" value="0.7"/>
@@ -29,6 +30,7 @@
 				<stance name="stand" value="0.55"/>
 				<stance name="crouch" value="0.55"/>
 				<stance name="prone" value="0.75"/>
+				<stance name="slide" value="0.75"/>
 				<stance name="run" value="0.55"/>
 				<stance name="haste" value="0.5"/>
 				<stance name="jump" value="0.55"/>

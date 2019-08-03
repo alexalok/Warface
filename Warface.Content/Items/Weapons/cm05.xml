@@ -7,7 +7,7 @@
   <settings>
     <param name="ammo_amount" value="1" />
     <param name="rpm" value="80" />
-    <param name="damage" value="150" />
+    <param name="damage" value="290" />
     <param name="recoil_max" value="500" />
     <param name="recoil_max_mul" value="1" />
     <param name="recoil_att" value="70" />

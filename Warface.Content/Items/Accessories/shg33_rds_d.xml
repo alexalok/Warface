@@ -23,6 +23,7 @@
 			<stance name="haste" value="1"/>
 			<stance name="crouch" value="1"/>
 			<stance name="prone" value="1"/>
+			<stance name="slide" value="1"/>
 			<stance name="rest" value="1"/>
 			<stance name="stand" value="1"/>
 		</param>
