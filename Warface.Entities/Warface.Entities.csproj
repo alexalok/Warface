@@ -5,24 +5,19 @@
     <LangVersion>latest</LangVersion>
     <Version>1.18.5.0</Version>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-    <Configurations>Debug;Release;ReleaseNoOptimization;DebugNoSymbolDefine</Configurations>
+    <Configurations>Debug;Release</Configurations>
+    <Platforms>AnyCPU</Platforms>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
   </PropertyGroup>
 
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='ReleaseNoOptimization|AnyCPU'" />
-
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DefineConstants>DEBUG;TRACE</DefineConstants>
   </PropertyGroup>
 
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugNoSymbolDefine|AnyCPU'">
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
-  </PropertyGroup>
-
   <ItemGroup>
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.4" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.7" />
   </ItemGroup>
 
   <ItemGroup>

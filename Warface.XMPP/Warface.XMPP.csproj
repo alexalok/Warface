@@ -4,13 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <LangVersion>latest</LangVersion>
     <Version>1.18.10.0</Version>
-    <Configurations>Debug;Release;ReleaseNoOptimization;DebugNoSymbolDefine</Configurations>
+    <Configurations>Debug;Release</Configurations>
+    <Platforms>AnyCPU</Platforms>
    </PropertyGroup>
 
 
   <ItemGroup>
     <PackageReference Include="DotNetZip" Version="1.13.3" />
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.4" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.7" />
     <PackageReference Include="JetBrains.Annotations" Version="2019.1.1" />
   </ItemGroup>
 
