@@ -9,12 +9,12 @@
   </drop_params>
   <settings archetype="Items/Weapons/Archetypes/AR_15.xml">
     <param name="ammo_amount" value="30" />
-    <param name="rpm" value="650" />
+    <param name="rpm" value="660" />
     <param name="damage" value="76" />
-    <param name="damage_min" value="48" />
+    <param name="damage_min" value="50" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="1.2" />
-    <param name="damage_drop_min_distance" value="13" />
+    <param name="damage_drop_min_distance" value="14.5" />
     <param name="melee_damage" value="65" />
     <param name="melee_range" value="1.3" />
     <param name="melee_radius" value="0.2" />
@@ -39,7 +39,7 @@
     <param name="recoil_dec" value="110" />
     <param name="recoil_dec_mul" value="1" />
     <param name="recoil_rnd" value="0" />
-    <param name="recoil_smth" value="20" />
+    <param name="recoil_smth" value="30" />
     <param name="recoil_smth_mul" value="1" />
     <param name="spread_min" value="4" />
     <param name="spread_min_mul" value="1">

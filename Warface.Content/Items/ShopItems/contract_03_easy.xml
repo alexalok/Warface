@@ -162,6 +162,7 @@
 			<Filter kind="weapon" param="shg48_mars02_shop"/>
 			<Filter kind="weapon" param="shg48_mars01_shop"/>
 			<Filter kind="weapon" param="shg48_bp06_shop"/>
+			<Filter kind="weapon" param="shg48_vk01_shop"/>
 			<Filter kind="weapon" param="shg47_gold01_shop"/>
 			<Filter kind="weapon" param="shg38_bp05_shop"/>
 			<Filter kind="weapon" param="shg41_bp05_shop"/>
@@ -174,6 +175,9 @@
 			<Filter kind="weapon" param="shg51_shop"/>
 			<Filter kind="weapon" param="shg51_desert01_shop"/>
 			<Filter kind="weapon" param="shg51_bp06_shop"/>
+			<Filter kind="weapon" param="shg51_oc04_shop"/>
+			<Filter kind="weapon" param="shg52_shop"/> 
+            <Filter kind="weapon" param="shg52_gold01_shop"/> 
 		</Filters>
 		<Reward name="crown_money_item_01" amount="50"/>
 	</contract>

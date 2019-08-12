@@ -9,7 +9,7 @@
 		<param name="icon" value="smg44_desert01_is_d"/>
 	</UI_stats>
 	<drop_params>
-		<item name="smg44_set12_is_d" type="attachment"/>
+		<item name="smg44_desert01_is_d" type="attachment"/>
 	</drop_params>
 	<settings>
 		<param name="zoom_in_duration_mul" value="0.35"/>

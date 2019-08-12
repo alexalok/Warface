@@ -5,7 +5,7 @@
 			<param name="shopcontent" value="1"/>
 			<param name="classes" value="S"/>
 			<param name="durability" value="36000"/>
-			<param name="repair_cost" value="9600"/>
+			<param name="repair_cost" value="5400"/>
 		</mmo_stats>
 		<UI_stats>
 			<param name="category" value="sr"/>

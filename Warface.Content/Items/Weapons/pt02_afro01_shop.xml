@@ -3,7 +3,7 @@
 		<mmo_stats>
 			<param name="item_category" value="secondarySkin"/>
 			<param name="shopcontent" value="1"/>
-			<param name="classes" value="R"/>
+			<param name="classes" value="SREM"/>
 		</mmo_stats>
 		<UI_stats>
 			<param name="name" value="@pt02_afro01_shop_name"/>

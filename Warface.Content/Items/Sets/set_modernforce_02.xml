@@ -7,6 +7,7 @@
     </UI_stats>
     <set_items>
 		<item name="soldier_helmet_legend_01"/>
+		<item name="soldier_hands_legend_01"/>
     	<item name="soldier_hands_legend_01_02"/>
 		<item name="soldier_hands_legend_01_03"/>
         <item name="soldier_vest_legend_01"/>

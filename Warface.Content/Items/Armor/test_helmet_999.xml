@@ -3,7 +3,7 @@
 		<mmo_stats>
 			<param name="item_category" value="Helmet"/>
 			<param name="shopcontent" value="1"/>
-			<param name="classes" value="E"/>
+			<param name="classes" value="SREM"/>
 			<param name="durability" value="36000"/>
 			<param name="repair_cost" value="624"/>
 		</mmo_stats>

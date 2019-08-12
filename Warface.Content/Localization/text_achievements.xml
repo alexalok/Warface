@@ -16450,7 +16450,7 @@
 	</entry>
 	<entry key="mars02damage_mark_01_desc">
 		<original value="Inflict over 9 000 damage to enemies"/>
-		<translation value="Нанести более 9000 единиц урона из оружия 'Деймос'"/>
+		<translation value="Нанести более 9000 единиц урона из огнестрельного оружия 'Деймос'"/>
 	</entry>
 	<entry key="mars02kill_badge_01">
 		<original value="Deimos Killer"/>
@@ -16466,7 +16466,7 @@
 	</entry>
 	<entry key="mars02meta_stripe_01_desc">
 		<original value="Earn any 4 of Deimos weapons kill achievements"/>
-		<translation value="Получить 4 любых достижения из серии 'Деймос'"/>
+		<translation value="Получить 4 любых достижения за убийства из оружия 'Деймос'"/>
 	</entry>
 	<entry key="mars_stripe_spiders_01">
 		<original value="Red spiders"/>
@@ -16819,5 +16819,173 @@
 	<entry key="syndicate_stripe_03_desc">
 		<original value="Syndicate LAN Finals winner stripe"/>
 		<translation value="Отличительный знак победителя турнира Warface Syndicate: Blitz League"/>
+	</entry>
+	<entry key="pt36Kill">
+		<original value="Dangerous gun"/>
+		<translation value="Дурная слава I"/>
+	</entry>
+	<entry key="pt36Kill_desc">
+		<original value="Kill 10000 enemies with TEC-9 or its gold version"/>
+		<translation value="Убить 10 000 врагов из обычного или золотого TEC-9"/>
+	</entry>
+	<entry key="pt36Kill25">
+		<original value="Deadly end"/>
+		<translation value="Дурная слава II"/>
+	</entry>
+	<entry key="pt36Kill25_desc">
+		<original value="Kill 25000 enemies with TEC-9 or its gold version"/>
+		<translation value="Убить 25 000 врагов из обычного или золотого TEC-9"/>
+	</entry>
+	<entry key="pt36_gold01Kill">
+		<original value="Gold Bullets"/>
+		<translation value="Летальный исход"/>
+	</entry>
+	<entry key="pt36_gold01Kill_desc">
+		<original value="Kill 999 enemies with gold TEC-9"/>
+		<translation value="Убить 999 врагов из золотого TEC-9"/>
+	</entry>
+	<entry key="shg52_Kill">
+		<original value="Destroying force"/>
+		<translation value="Гарантия безопасности I"/>
+	</entry>
+	<entry key="shg52_Kill_desc">
+		<original value="Kill 10000 enemies with TAVOR TS12 Custom or its gold version"/>
+		<translation value="Убить 10 000 врагов из обычного или золотого Tavor TS12 Custom"/>
+	</entry>
+	<entry key="shg52Kill25">
+		<original value="Absolute destroying force"/>
+		<translation value="Гарантия безопасности II"/>
+	</entry>
+	<entry key="shg52Kill25_desc">
+		<original value="Kill 25000 enemies with TAVOR TS12 Custom or its gold version"/>
+		<translation value="Убить 25 000 врагов из обычного или золотого Tavor TS12 Custom"/>
+	</entry>
+	<entry key="shg52_gold01kill">
+		<original value="Golden lethal dragon"/>
+		<translation value="Рев дракона"/>
+	</entry>
+	<entry key="shg52_gold01_kill_desc">
+		<original value="Make 999 kills with gold TAVOR TS12 Custom"/>
+		<translation value="Убить 999 врагов из золотого Tavor TS12 Custom"/>
+	</entry>
+	<entry key="sr47_Kill">
+		<original value="Packing a Punch"/>
+		<translation value="Ручная пушка I"/>
+	</entry>
+	<entry key="sr47_Kill_desc">
+		<original value="Kill 10000 enemies with Truvelo CMS 20x42mm or its gold version"/>
+		<translation value="Убить 10 000 врагов из обычной или золотой Truvelo CMS 20x42 mm"/>
+	</entry>
+	<entry key="sr47Kill25">
+		<original value="Advanced Packing a Punch"/>
+		<translation value="Ручная пушка II"/>
+	</entry>
+	<entry key="sr47Kill25_desc">
+		<original value="Kill 25000 enemies with Truvelo CMS 20x42mm or its gold version"/>
+		<translation value="Убить 25 000 врагов из обычной или золотой Truvelo CMS 20x42 mm"/>
+	</entry>
+	<entry key="sr47_gold_kill_01">
+		<original value="Gold Packing a Punch"/>
+		<translation value="Сокрушительная мощь"/>
+	</entry>
+	<entry key="sr47_gold_kill_01_desc">
+		<original value="Make 999 kills with gold Truvelo CMS 20x42mm"/>
+		<translation value="Убить 999 врагов из золотой Truvelo CMS 20x42 mm"/>
+	</entry>
+	<entry key="oc04_mark_01">
+		<original value="Open Cup Summer 2019 Punisher"/>
+		<translation value="Open Cup 2019: коммандо"/>
+	</entry>
+	<entry key="oc04_mark_01_desc">
+		<original value="Deal 25000 damage with Open Cup Summer 2019 weapons"/>
+		<translation value="Нанести 25 000 единиц урона из оружия Open Cup 2019"/>
+	</entry>
+	<entry key="oc04_badge_01">
+		<original value="Open Cup Summer 2019 Sharphooter"/>
+		<translation value="Open Cup 2019: стрелок"/>
+	</entry>
+	<entry key="oc04_badge_01_desc">
+		<original value="Perform 1000 headshots with Open Cup Summer 2019 weapons"/>
+		<translation value="Убить 1000 врагов попаданиями в голову из оружия Open Cup 2019"/>
+	</entry>
+	<entry key="oc04_stripe_01">
+		<original value="Open Cup Summer 2019 Slayer"/>
+		<translation value="Open Cup 2019: ликвидатор"/>
+	</entry>
+	<entry key="oc04_stripe_01_desc">
+		<original value="Kill 10000 enemies with Open Cup Summer 2019 weapons"/>
+		<translation value="Убить 10 000 врагов из оружия Open Cup 2019"/>
+	</entry>
+	<entry key="firstPlaceDSTMars1">
+		<original value="Baron of Mars"/>
+		<translation value="Любитель 'Студии'"/>
+	</entry>
+	<entry key="firstPlaceDSTMars1_desc">
+		<original value="Take the 1st place in Mars DST 25 times"/>
+		<translation value="Занять первое место на 'Студии' в режиме 'Уничтожение' 25 раз"/>
+	</entry>
+	<entry key="firstPlaceDSTMars2">
+		<original value="Duke of Mars"/>
+		<translation value="Завсегдатай 'Студии'"/>
+	</entry>
+	<entry key="firstPlaceDSTMars2_desc">
+		<original value="Take the 1st place in Mars DST 50 times"/>
+		<translation value="Занять первое место на 'Студии' в режиме 'Уничтожение' 50 раз"/>
+	</entry>
+	<entry key="firstPlaceDSTMars3">
+		<original value="King of Mars"/>
+		<translation value="Мастер 'Студии'"/>
+	</entry>
+	<entry key="firstPlaceDSTMars3_desc">
+		<original value="Take the 1st place in Mars DST 100 times"/>
+		<translation value="Занять первое место на 'Студии' в режиме 'Уничтожение' 100 раз"/>
+	</entry>
+	<entry key="winDSTMars1">
+		<original value="Martian Sabotage"/>
+		<translation value="Стоп, снято!"/>
+	</entry>
+	<entry key="winDSTMars1_desc">
+		<original value="Win 10 Mars DST matches"/>
+		<translation value="Выиграть 10 матчей на 'Студии' в режиме 'Уничтожение'"/>
+	</entry>
+	<entry key="winDSTMars2">
+		<original value="Red Faction"/>
+		<translation value="Премьера"/>
+	</entry>
+	<entry key="winDSTMars2_desc">
+		<original value="Win 25 Mars DST matches"/>
+		<translation value="Выиграть 25 матчей на 'Студии' в режиме 'Уничтожение'"/>
+	</entry>
+	<entry key="winDSTMars3">
+		<original value="Total Recall"/>
+		<translation value="Блокбастер"/>
+	</entry>
+	<entry key="winDSTMars3_desc">
+		<original value="Win 50 Mars DST matches"/>
+		<translation value="Выиграть 50 матчей на 'Студии' в режиме 'Уничтожение'"/>
+	</entry>
+	<entry key="mentor_badge_01">
+		<original value="Adviser"/>
+		<translation value="Советник"/>
+	</entry>
+	<entry key="mentor_badge_01_desc">
+		<original value="For help to other players"/>
+		<translation value="Награда за помощь другим игрокам."/>
+	</entry>
+	<entry key="mentor_mark_01">
+		<original value="Coach"/>
+		<translation value="Инструктор"/>
+	</entry>
+	<entry key="mentor_mark_01_desc">
+		<original value="For coaching other players"/>
+		<translation value="Награда за помощь другим игрокам."/>
+	</entry>
+	<entry key="mentor_stripe_01">
+		<original value="Mentor"/>
+		<translation value="Консультант"/>
+	</entry>
+	<entry key="mentor_stripe_01_desc">
+		<original value="For mentoring other players"/>
+		<translation value="Награда за помощь другим игрокам."/>
 	</entry>
 </localization>

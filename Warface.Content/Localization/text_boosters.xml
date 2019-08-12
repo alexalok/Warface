@@ -3182,7 +3182,7 @@
 	</entry>
 	<entry key="ui_random_box_crown_pt37_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="box_bundle_pt37_plat01">
 		<original value="Platinum Skin"/>
@@ -3314,7 +3314,7 @@
 	</entry>
 	<entry key="ui_box_crown_ar33_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="box_shg47_shop_name">
 		<original value="Uzkon UNG-12 Random Box"/>
@@ -3334,7 +3334,7 @@
 	</entry>
 	<entry key="ui_box_crown_shg47_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для медика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
 	</entry>
 	<entry key="box_bundle_shg47_plat01">
 		<original value="Platinum Skin"/>
@@ -3402,7 +3402,7 @@
 	</entry>
 	<entry key="ui_box_crown_sr45_description">
 		<original value="This box allows to win 3 random items for sniper"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для снайпера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
 	</entry>
 	<entry key="box_smg45_shop_name">
 		<original value="LWRC SMG-45 Random Box"/>
@@ -3422,7 +3422,7 @@
 	</entry>
 	<entry key="ui_box_crown_smg45_description">
 		<original value="This box allows to win 3 random items for engineer"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="box_xmas04_ar31_shop_name">
 		<original value="Xmas 2018 VHS-2 Box"/>
@@ -3714,7 +3714,7 @@
 	</entry>
 	<entry key="ui_box_crown_ar32_description">
 		<original value="This box allows to win 3 random items for rifleman"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="box_bundle_ar32_plat01">
 		<original value="Platinum Skin"/>
@@ -3766,7 +3766,7 @@
 	</entry>
 	<entry key="ui_random_box_crown_pt38_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="box_ps4_01_ar26_shop_name">
 		<original value="Cyber Pro MSBS Radon Box"/>
@@ -3870,7 +3870,7 @@
 	</entry>
 	<entry key="ui_box_shg50_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для медика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
 	</entry>
 	<entry key="box_crown_shg50_shop_name">
 		<original value="Marlin 1894 Custom Crown Random Box"/>
@@ -3902,7 +3902,7 @@
 	</entry>
 	<entry key="ui_box_crown_smg46_description">
 		<original value="This box allows to win 3 random items for engineer"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="box_smg47_shop_name">
 		<original value="Tommy Gun M1928 Random Box"/>
@@ -3918,7 +3918,7 @@
 	</entry>
 	<entry key="ui_box_crown_smg47_description">
 		<original value="This box allows to win 3 random items for engineer"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="ui_key_box_smg47">
 		<original value="Provides you with a Tommy Gun M1928 for a limited time and an offer for its direct purchase"/>
@@ -4018,7 +4018,7 @@
 	</entry>
 	<entry key="ui_random_box_04_crown_desc">
 		<original value="This box allows to win 3 random items for sniper"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для снайпера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
 	</entry>
 	<entry key="random_box_09_crown_shop_name">
 		<original value="H&amp;K UMP Crown Random Box"/>
@@ -4026,7 +4026,7 @@
 	</entry>
 	<entry key="ui_random_box_09_crown_desc">
 		<original value="This box allows to win 3 random items for engineer"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="random_box_11_crown_shop_name">
 		<original value="MK 14 EBR Crown Random Box"/>
@@ -4034,7 +4034,7 @@
 	</entry>
 	<entry key="ui_random_box_11_crown_desc">
 		<original value="This box allows to win 3 random items for sniper"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для снайпера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
 	</entry>
 	<entry key="random_box_30_crown_shop_name">
 		<original value="M249 Para Crown Random Box"/>
@@ -4042,7 +4042,7 @@
 	</entry>
 	<entry key="ui_random_box_30_crown_desc">
 		<original value="This box allows to win 3 random items for soldier"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="random_box_35_crown_shop_name">
 		<original value="SCAR-L PDW Crown Random Box"/>
@@ -4050,7 +4050,7 @@
 	</entry>
 	<entry key="ui_random_box_35_crown_desc">
 		<original value="This box allows to win 3 random items for engineer"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="random_box_40_crown_shop_name">
 		<original value="Fabarm STF 12 Compact Random Box"/>
@@ -4058,7 +4058,7 @@
 	</entry>
 	<entry key="ui_random_box_40_crown_desc">
 		<original value="This box allows to win 3 random items for medic"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для медика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
 	</entry>
 	<entry key="random_box_45_crown_shop_name">
 		<original value="Mossberg 500 Custom Crown Random Box"/>
@@ -4066,7 +4066,7 @@
 	</entry>
 	<entry key="ui_random_box_45_crown_desc">
 		<original value="Contains Mossberg 500 rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_46_crown_shop_name">
 		<original value="SCAR-L PDW Crown Random Box"/>
@@ -4074,7 +4074,7 @@
 	</entry>
 	<entry key="ui_random_box_46_crown_desc">
 		<original value="Contains SCAR-L PDW rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для инженера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
 	</entry>
 	<entry key="random_box_47_crown_shop_name">
 		<original value="AX-308 Crown Random Box"/>
@@ -4082,7 +4082,7 @@
 	</entry>
 	<entry key="ui_random_box_47_crown_desc">
 		<original value="Contains AX-308 rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для снайпера."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
 	</entry>
 	<entry key="random_box_48_crown_shop_name">
 		<original value="Sig Sauer P226 Crown Random Box"/>
@@ -4090,7 +4090,7 @@
 	</entry>
 	<entry key="ui_random_box_48_crown_desc">
 		<original value="Contains Sig Sauer P226 rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_50_crown_shop_name">
 		<original value="ACR Crown Random Box"/>
@@ -4098,7 +4098,7 @@
 	</entry>
 	<entry key="ui_random_box_50_crown_desc">
 		<original value="Contains ACR rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="random_box_55_crown_shop_name">
 		<original value="Fabarm XLR 5 Prestige Crown Random Box"/>
@@ -4106,7 +4106,7 @@
 	</entry>
 	<entry key="ui_random_box_55_crown_desc">
 		<original value="This box allows to win 3 random items for medic"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для медика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
 	</entry>
 	<entry key="random_box_56_crown_shop_name">
 		<original value="Enfield L85A2 Custom Crown Random Box"/>
@@ -4114,7 +4114,7 @@
 	</entry>
 	<entry key="ui_random_box_56_crown_desc">
 		<original value="This box allows to win 3 random items for soldier"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для штурмовика."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="random_box_65_crown_shop_name">
 		<original value="FN SCAR-H Crown Random Box"/>
@@ -4122,7 +4122,7 @@
 	</entry>
 	<entry key="ui_random_box_65_crown_desc">
 		<original value="Contains FN SCAR-H rare Cyber Slayer skin"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_66_crown_shop_name">
 		<original value="Saiga Bullpup Crown Random Box"/>
@@ -4130,7 +4130,7 @@
 	</entry>
 	<entry key="ui_random_box_66_crown_desc">
 		<original value="Contains Saiga Bullpup rare Cyber Slayer skin"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_67_crown_shop_name">
 		<original value="XM8 Compact Crown Random Box"/>
@@ -4138,7 +4138,7 @@
 	</entry>
 	<entry key="ui_random_box_67_crown_desc">
 		<original value="Contains XM8 Compact rare Cyber Slayer skin"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_68_crown_shop_name">
 		<original value="Glock 18C Crown Random Box"/>
@@ -4146,7 +4146,7 @@
 	</entry>
 	<entry key="ui_random_box_68_crown_desc">
 		<original value="Contains Glock 18C rare Cyber Slayer skin"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_69_crown_shop_name">
 		<original value="Tactical Axe Crown Random Box"/>
@@ -4154,7 +4154,7 @@
 	</entry>
 	<entry key="ui_random_box_69_crown_desc">
 		<original value="Contains Tactical Axe rare Cyber Slayer skin"/>
-		<translation value="Каждая коробка удачи за короны содержит 2 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_70_crown_shop_name">
 		<original value="Stayer Scout Crown Random Box"/>
@@ -4162,7 +4162,7 @@
 	</entry>
 	<entry key="ui_random_box_70_crown_desc">
 		<original value="Contains Stayer Scout rare Cyber Slayer skin"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_75_crown_shop_name">
 		<original value="Fabarm STF12 Compact Crown Random Box"/>
@@ -4170,7 +4170,7 @@
 	</entry>
 	<entry key="ui_random_box_75_crown_desc">
 		<original value="Contains Fabarm STF12 Compact rare Cyber Slayer skin"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_84_crown_shop_name">
 		<original value="Crye Precision SIX12 Crown Random Box"/>
@@ -4178,7 +4178,7 @@
 	</entry>
 	<entry key="ui_random_box_84_crown_desc">
 		<original value="Contains SIX12 rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_85_crown_shop_name">
 		<original value="ACR CQB Crown Random Box"/>
@@ -4186,7 +4186,7 @@
 	</entry>
 	<entry key="ui_random_box_85_crown_desc">
 		<original value="Contains ACR CQB rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_86_crown_shop_name">
 		<original value="McMillan CS5 Crown Random Box"/>
@@ -4194,7 +4194,7 @@
 	</entry>
 	<entry key="ui_random_box_86_crown_desc">
 		<original value="Contains McMillan CS5 rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_87_crown_shop_name">
 		<original value="Glock 18c Crown Random Box"/>
@@ -4202,7 +4202,7 @@
 	</entry>
 	<entry key="ui_random_box_87_crown_desc">
 		<original value="Contains Glock 18c rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_89_crown_shop_name">
 		<original value="Type 97 Crown Random Box"/>
@@ -4210,7 +4210,7 @@
 	</entry>
 	<entry key="ui_random_box_89_crown_desc">
 		<original value="Contains Type 97 rare Magmatic weapon"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="random_box_skin_19_crown_shop_name">
 		<original value="MSBS Radon &quot;Anubis&quot; Crown Random Box"/>
@@ -4250,7 +4250,7 @@
 	</entry>
 	<entry key="ui_random_box_zsd03_01_crown_desc">
 		<original value="This box allows to win 2 random items"/>
-		<translation value="Каждая коробка удачи за короны содержит 2 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 2 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="box_ar35_shop_name">
 		<original value="AK-12 Random Box"/>
@@ -4266,10 +4266,134 @@
 	</entry>
 	<entry key="ui_box_crown_ar35_description">
 		<original value="This box allows to win 3 random items"/>
-		<translation value="Каждая коробка удачи за короны содержит 3 случайных предмета для всех классов."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
 	</entry>
 	<entry key="ui_key_box_ar35">
 		<original value="Provides you with a AK-12 for a limited time and an offer for its direct purchase"/>
 		<translation value="Дает возможность купить АК-12 навсегда."/>
+	</entry>
+	<entry key="box_armor_01_shop_name">
+		<original value="Soldier Legend Gloves Box"/>
+		<translation value="Коробка с перчатками &quot;Спектр&quot; штурмовика"/>
+	</entry>
+	<entry key="ui_box_armor_01_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="box_armor_02_shop_name">
+		<original value="Medic Legend Gloves Box"/>
+		<translation value="Коробка с перчатками &quot;Спектр&quot; медика"/>
+	</entry>
+	<entry key="ui_box_armor_02_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="box_armor_03_shop_name">
+		<original value="Sniper Legend Gloves Box"/>
+		<translation value="Коробка с перчатками &quot;Спектр&quot; снайпера"/>
+	</entry>
+	<entry key="ui_box_armor_03_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="box_armor_04_shop_name">
+		<original value="Engineer Legend Gloves Box"/>
+		<translation value="Коробка с перчатками &quot;Спектр&quot; инженера"/>
+	</entry>
+	<entry key="ui_box_armor_04_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="box_pt36_shop_name">
+		<original value="TEC-9 Random Box"/>
+		<translation value="Коробка с TEC-9"/>
+	</entry>
+	<entry key="ui_box_pt36_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="ui_key_box_pt36">
+		<original value="Provides you with a TEC-9 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить TEC-9 навсегда."/>
+	</entry>
+	<entry key="box_crown_pt36_shop_name">
+		<original value="TEC-9 Crown Random Box"/>
+		<translation value="Коробка с TEC-9"/>
+	</entry>
+	<entry key="ui_box_crown_pt36_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для всех классов."/>
+	</entry>
+	<entry key="box_shg52_shop_name">
+		<original value="TAVOR TS12 Custom Random Box"/>
+		<translation value="Коробка с Tavor TS12 Custom"/>
+	</entry>
+	<entry key="ui_box_shg52_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="ui_key_box_shg52">
+		<original value="Provides you with a TAVOR TS12 Custom a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Tavor TS12 Custom навсегда."/>
+	</entry>
+	<entry key="box_crown_shg52_shop_name">
+		<original value="TAVOR TS12 Custom Crown Random Box"/>
+		<translation value="Коробка с Tavor TS12 Custom"/>
+	</entry>
+	<entry key="ui_box_crown_shg52_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="box_armor_05_shop_name">
+		<original value="Soldier Legend Boots Box"/>
+		<translation value="Коробка с ботинками &quot;Спектр&quot; штурмовика"/>
+	</entry>
+	<entry key="ui_box_armor_05_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
+	</entry>
+	<entry key="box_armor_06_shop_name">
+		<original value="Medic Legend Boots Box"/>
+		<translation value="Коробка с ботинками &quot;Спектр&quot; медика"/>
+	</entry>
+	<entry key="ui_box_armor_06_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для медика."/>
+	</entry>
+	<entry key="box_armor_07_shop_name">
+		<original value="Sniper Legend Boots Box"/>
+		<translation value="Коробка с ботинками &quot;Спектр&quot; снайпера"/>
+	</entry>
+	<entry key="ui_box_armor_07_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="box_armor_08_shop_name">
+		<original value="Engineer Legend Boots Box"/>
+		<translation value="Коробка с ботинками &quot;Спектр&quot; инженера"/>
+	</entry>
+	<entry key="ui_box_armor_08_description">
+		<original value="The box allows to win 3 random items."/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для инженера."/>
+	</entry>
+	<entry key="box_sr47_shop_name">
+		<original value="Truvelo CMS 20x42mm Random Box"/>
+		<translation value="Коробка с Truvelo CMS 20x42 mm"/>
+	</entry>
+	<entry key="ui_box_sr47_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="box_crown_sr47_shop_name">
+		<original value="Truvelo CMS 20x42mm Crown Random Box"/>
+		<translation value="Коробка с Truvelo CMS 20x42 mm"/>
+	</entry>
+	<entry key="ui_box_crown_sr47_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="ui_key_box_sr47">
+		<original value="Provides you with a Truvelo CMS 20x42mm for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить Truvelo CMS 20x42 mm навсегда."/>
 	</entry>
 </localization>

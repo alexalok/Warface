@@ -7,6 +7,7 @@
     </UI_stats>
     <set_items>
 		<item name="sniper_helmet_legend_01"/>
+		<item name="sniper_hands_legend_01"/>
     	<item name="sniper_hands_legend_01_02"/>	
 		<item name="sniper_hands_legend_01_03"/>
         <item name="sniper_vest_legend_01"/>

@@ -143,6 +143,7 @@
 			<Filter kind="weapon" param="smg39_set10_shop"/>
 			<Filter kind="weapon" param="smg39_ps4_01_shop"/>
 			<Filter kind="weapon" param="smg39_mars01_shop"/>
+			<Filter kind="weapon" param="smg39_vk01_shop"/>
 			<Filter kind="weapon" param="smg40_shop"/>
 			<Filter kind="weapon" param="smg40_gold01_shop"/>
 			<Filter kind="weapon" param="smg40_camo08_shop"/>
@@ -170,9 +171,10 @@
             <Filter kind="weapon" param="smg46_gold01_shop"/>	
 			<Filter kind="weapon" param="smg47_shop"/>	
             <Filter kind="weapon" param="smg47_gold01_shop"/>	
-			<Filter kind="weapon" param="sr09_bp06_shop"/>	
-			<Filter kind="weapon" param="sr37_bp06_shop"/>	
-			<Filter kind="weapon" param="sr46_bp06_shop"/>			
+			<Filter kind="weapon" param="smg25_bp06_shop"/> 
+			<Filter kind="weapon" param="smg35_bp06_shop"/> 
+			<Filter kind="weapon" param="smg44_bp06_shop"/> 			
+			<Filter kind="weapon" param="smg44_oc04_shop"/> 			
 		</Filters>
 		<Reward name="game_money_item_01" amount="1000"/>
 	</contract>

@@ -125,6 +125,7 @@
 			<Filter kind="weapon" param="ar29_gold01_shop"/>
 			<Filter kind="weapon" param="ar29_set10_shop"/>		
 			<Filter kind="weapon" param="ar29_bp06_shop"/>
+			<Filter kind="weapon" param="ar29_oc04_shop"/>
 			<Filter kind="weapon" param="ar30_shop"/>
 			<Filter kind="weapon" param="ar30_gold01_shop"/>
 			<Filter kind="weapon" param="ar31_shop"/>
@@ -145,6 +146,7 @@
 			<Filter kind="weapon" param="ar29_bp05_shop"/>
 			<Filter kind="weapon" param="ar30_ps4_01_shop"/>
 			<Filter kind="weapon" param="ar31_xmas04_shop"/>
+			<Filter kind="weapon" param="ar31_vk01_shop"/>
 			<Filter kind="weapon" param="ar35_shop"/>
 			<Filter kind="weapon" param="ar35_gold01_shop"/>
 			<Filter kind="weapon" param="mg01_shop"/>

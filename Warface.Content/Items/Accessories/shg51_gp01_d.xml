@@ -1,6 +1,10 @@
 <?xml version="1.0" ?>
 	<item class="K01_Item" name="shg51_gp01_d" type="attachment" view_settings="objects/attachments/gp07/gp07.xml">
 		<description_ingame text="@ui_shg51_gp01_d_ingame"/>
+		<skins>
+			<material name="default"/>
+			<material name="oc04"/>
+		</skins>
 		<UI_stats>
 			<param name="name" value="@shg51_gp01_d_name"/>
 			<param name="description" value="@ui_shg51_gp01_d"/>

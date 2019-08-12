@@ -3,7 +3,7 @@
 		<mmo_stats>
 			<param name="item_category" value="primarySkin"/>
 			<param name="shopcontent" value="1"/>
-			<param name="classes" value="R"/>
+			<param name="classes" value="E"/>
 		</mmo_stats>
 		<UI_stats>
 			<param name="name" value="@smg30_camo06skin_shop_name"/>

@@ -22,4 +22,9 @@
 			<item name="sp05"/>
 			<item name="bn05"/>
 		</content>
+		<skin_content>
+			<item name="pt03_camo03skin_shop"/>
+			<item name="pt03_camo06skin_shop"/>
+			<item name="pt03_mars01skin_shop"/>
+		</skin_content>
 	</shop_item>

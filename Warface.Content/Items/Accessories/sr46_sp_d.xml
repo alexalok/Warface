@@ -2,6 +2,7 @@
 	<skins>
 		<material name="default"/>
 		<material name="bp05"/>
+		<material name="oc04"/>
 	</skins>
 	<description_ingame text="@ui_sr46_sp_d_ingame"/>
 	<mmo_stats>

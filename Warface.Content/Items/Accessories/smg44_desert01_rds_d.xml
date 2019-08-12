@@ -17,7 +17,7 @@
 		<item name="smg44_set12_rds_d"/>
 	</content>
 	<drop_params>
-		<item name="smg44_set12_rds_d" type="attachment"/>
+		<item name="smg44_desert01_rds_d" type="attachment"/>
 	</drop_params>
 	<settings>
 		<param name="zoom_in_duration_mul" value="0.85"/>

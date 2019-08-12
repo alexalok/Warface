@@ -11,6 +11,7 @@
     <material name="set10" />
     <material name="bp05" />
     <material name="bp06" />
+    <material name="oc04" />
   </skins>
   <icons>
     <ui_icon name="ar29" />

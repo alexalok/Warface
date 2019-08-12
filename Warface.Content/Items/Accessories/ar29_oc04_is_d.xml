@@ -1,0 +1,21 @@
+<item class="K01_Item" name="ar29_oc04_is_d" type="attachment" view_settings="objects/weapons/ar29/ar29_is_d.xml">
+	<skins>
+		<material name="default"/>
+		<material name="oc04"/>
+	</skins>
+	<UI_stats>
+		<param name="name" value="@is_default_name"/>
+		<param name="description" value="@ui_accessories_is_default"/>
+		<param name="icon" value="ccs_nonitem"/>
+	</UI_stats>
+	<drop_params>
+		<item name="ar29_oc04_is_d" type="attachment"/>
+	</drop_params>
+	<settings>
+		<param name="zoom_in_duration_mul" value="0.35"/>
+		<param name="zoom_out_duration_mul" value="0.4"/>
+	</settings>
+	<types>
+		<type helper="ar29_is_d" name="ar29_oc04_is_d"/>
+	</types>
+</item>

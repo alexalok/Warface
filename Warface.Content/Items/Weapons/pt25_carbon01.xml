@@ -9,7 +9,7 @@
 	<drop_params>
 		<item name="pt25_carbon01" type="weapon"/>
 	</drop_params>
-	<settings archetype="Items/Weapons/Archetypes/PT.xml">
+	<settings archetype="Items/Weapons/Archetypes/PT_25.xml">
 		<param name="ammo_amount" value="6"/>
 		<param name="rpm" value="245"/>
 		<param name="damage" value="130"/>

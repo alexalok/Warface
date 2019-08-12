@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
 	<entry key="lp_label1">
-		<original value="Special Operation &quot;MARS&quot;"/>
-		<translation value="Спецоперация 'Марс'"/>
+		<original value="DST MARS"/>
+		<translation value="Карта 'Студия'"/>
 	</entry>
 	<entry key="lp_description1">
-		<original value="Warface takes control over SEDs on Mars and explore new types of enemies there"/>
-		<translation value="Отряд Warface берет под контроль СЭДов на Марсе, чтобы сразиться с врагами за пределами Земли."/>
+		<original value="DST map in Marsian setting"/>
+		<translation value="Новая карта для режима 'Уничтожение' в необычном исполнении."/>
 	</entry>
 	<entry key="lp_label2">
-		<original value="Special Operation &quot;MARS&quot;"/>
-		<translation value="Спецоперация 'Марс'"/>
+		<original value="DST MARS"/>
+		<translation value="Карта 'Студия'"/>
 	</entry>
 	<entry key="lp_description2">
-		<original value="Players come to assistance to the Martian colonists and destroy the main Blackwood forces."/>
-		<translation value="Спасите марсианских колонистов и остановите силы Blackwood!"/>
+		<original value="Map represents a film studio, which shows that Mars mission was fake, thus allowing human beings (not SEDs) to play in PvP in that setting"/>
+		<translation value="Неужели Марс — фальсификация? Представьте, что вы лично оказались на красной планете. Камера! Мотор!"/>
 	</entry>
 	<entry key="lp_label3">
-		<original value="AK-12"/>
-		<translation value="АК-12"/>
+		<original value="TAVOR TS12 Custom"/>
+		<translation value="Tavor TS12 Custom"/>
 	</entry>
 	<entry key="lp_description3">
-		<original value="he AK-12 is a modern assault rifle designed to replace the legendary AK-74 "/>
-		<translation value="Новое поколение легендарного автомата Калашникова, которое приходит на замену устаревшему АК-74."/>
+		<original value="Pump-action shotgun. Powerful with five rotating magazine tubes holding 3 rounds."/>
+		<translation value="Новая модель в линейке оружия Tavor - дробовик в компоновке 'булл-пап' с подствольным трубчатым магазином."/>
 	</entry>
-	<entry>
-		<original/>
-		<translation/>
+	<entry key="lp_label4">
+		<original value="Truvelo CMS"/>
+		<translation value="Truvelo CMS 20x42 mm"/>
 	</entry>
-	<entry>
-		<original/>
-		<translation/>
+	<entry key="lp_description4">
+		<original value="Sniper rifle and its gold version"/>
+		<translation value="Смертоносная снайперская винтовка от компании Truvelo, которая использует мощные боеприпасы калибра 20 мм."/>
 	</entry>
 </localization>

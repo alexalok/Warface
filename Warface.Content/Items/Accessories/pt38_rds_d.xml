@@ -1,6 +1,7 @@
 <item class="K01_Item" name="pt38_rds_d" type="attachment" view_settings="objects/attachments/rds11/rds11.xml">
 	<skins>
 		<material name="default"/>
+		<material name="oc04"/>
 	</skins>
 	<description_ingame text="@ui_pt38_rds_d_ingame"/>
 	<mmo_stats>

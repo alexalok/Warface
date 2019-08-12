@@ -1,6 +1,7 @@
 <item name="shg51_rds_d" class="K01_Item" type="attachment" view_settings="Objects/Attachments/rds13/rds13.xml">
 	<skins>
 		<material name="default"/>
+		<material name="oc04"/>
 	</skins>
 	<description_ingame text="@ui_shg51_rds_d_ingame"/>
 	<mmo_stats>

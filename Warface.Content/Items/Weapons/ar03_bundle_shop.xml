@@ -31,4 +31,8 @@
 				<item name="ugl01"/>
 			</item>
 		</content>
+		<skin_content>
+			<item name="ar03_camo03skin_shop"/>			
+			<item name="ar03_camo06skin_shop"/>			
+		</skin_content>
 	</shop_item>

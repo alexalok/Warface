@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+	<shop_item name="sr46_oc04_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SniperRifle"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="5400"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="sr"/>
+			<param name="name" value="@sr46_oc04_shop_name"/>
+			<param name="description" value="@ui_weapons_sr46_oc04"/>
+			<param name="icon" value="sr46_oc04"/>
+		</UI_stats>
+		<content>
+			<item name="sr46_oc04">
+				<item name="sr46_oc04_ss_d"/>
+				<item name="ss06"/>
+				<item name="sr46_oc04_sp_d"/>
+				<item name="sr46_oc04_sc_d"/>
+				<item name="sr46_oc04_bp_d"/>
+			</item>
+		</content>
+	</shop_item>

@@ -1,6 +1,7 @@
 <item name="rds10" class="K01_Item" type="attachment" view_settings="Objects/Attachments/rds10/rds10.xml">
 	<skins>
 		<material name="default"/>
+		<material name="oc04"/>
 	</skins>
 	<description_ingame text="@ui_rds10_ingame"/>
 	<mmo_stats>

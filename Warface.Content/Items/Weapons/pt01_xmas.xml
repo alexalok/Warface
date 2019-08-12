@@ -130,7 +130,7 @@
     <param name="zoom_factor" value="1.1" />
     <param name="melee_knock_back_chance" value="1" />
     <param name="knock_back_chance" value="0" />
-    <param name="reload_duration" value="1900" />
+    <param name="reload_duration" value="3000" />
     <param name="melee_duration" value="300" />
     <param name="melee_out_duration" value="500" />
     <param name="deselect_duration" value="100" />

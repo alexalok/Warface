@@ -143,6 +143,7 @@
 			<Filter kind="weapon" param="smg38_set05_cartel_shop"/>
 			<Filter kind="weapon" param="smg38_jp01_shop"/>
 			<Filter kind="weapon" param="smg38_ice01_shop"/>
+			<Filter kind="weapon" param="smg39_vk01_shop"/>
 			<Filter kind="weapon" param="smg40_shop"/>
 			<Filter kind="weapon" param="smg40_gold01_shop"/>
 			<Filter kind="weapon" param="smg40_camo08_shop"/>
@@ -167,6 +168,7 @@
 			<Filter kind="weapon" param="smg39_bp05_shop"/>
 			<Filter kind="weapon" param="smg43_bp05_shop"/>
 			<Filter kind="weapon" param="smg44_bp05_shop"/>
+			<Filter kind="weapon" param="smg44_oc04_shop"/>
 			<Filter kind="weapon" param="smg45_shop"/>
 			<Filter kind="weapon" param="smg45_gold01_shop"/>
 			<Filter kind="weapon" param="smg45_mars02_shop"/>

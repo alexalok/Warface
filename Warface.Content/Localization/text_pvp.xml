@@ -1,756 +1,779 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
-  <entry key="pvp_sides_switched">
-    <original value="Sides switched"/>
-    <translation value="Смена сторон"/>
-  </entry>
-  <entry key="pvp_resultscreen_loseMsg">
-    <original value="Mission Failed"/>
-    <translation value="Миссия провалена"/>
-  </entry>
-  <entry key="pvp_resultscreen_winMsg">
-    <original value="Mission Successful"/>
-    <translation value="Миссия выполнена"/>
-  </entry>
-  <entry key="pvp_resultscreen_drawMsg">
-    <original value="DRAW"/>
-    <translation value="НИЧЬЯ"/>
-  </entry>
-  <entry key="pvp_final_round">
-    <original value="FINAL ROUND!"/>
-    <translation value="ПОСЛЕДНИЙ РАУНД!"/>
-  </entry>
-  <entry key="pre_round_msg">
-    <original value="Start in %1 sec"/>
-    <translation value="Начало через %1 сек."/>
-  </entry>
-  <entry key="pvp_round_start">
-    <original value="Round start!"/>
-    <translation value="Раунд начался!"/>
-  </entry>
-  <entry key="info_ptb_afghan">
-    <original value="PLANT THE BOMB"/>
-    <translation value="Заложите бомбу и уничтожьте ключевые объекты врага"/>
-  </entry>
-  <entry key="info_tdm_church">
-    <original value="TEAM DEATH MATCH"/>
-    <translation value="Уничтожьте вражескую команду"/>
-  </entry>
-  <entry key="ctf_round_win_flag_protected">
-    <original value="We win the round. Warhead defended."/>
-    <translation value="Миссия выполнена. Коды запуска в безопасности."/>
-  </entry>
-  <entry key="ctf_round_loose_flag_protected">
-    <original value="Round lost. We failed to capture the warhead."/>
-    <translation value="Мы проиграли. Захватить коды запуска не удалось."/>
-  </entry>
-  <entry key="ctf_round_win_team_eliminated">
-    <original value="Enemy team eliminated. The round is ours."/>
-    <translation value="Отряд противника уничтожен. Победа за нами."/>
-  </entry>
-  <entry key="ctf_round_loose_team_eliminated">
-    <original value="Round lost. The enemy eliminated our team."/>
-    <translation value="Мы проиграли. Противник уничтожил нашу команду."/>
-  </entry>
-  <entry key="ctf_round_win_flag_captured">
-    <original value="Mission accomplished. We captured the warhead"/>
-    <translation value="Миссия выполнена. Мы захватили коды запуска."/>
-  </entry>
-  <entry key="ctf_round_loose_flag_captured">
-    <original value="Round lost. The enemy captured the warhead."/>
-    <translation value="Мы проиграли. Враг захватил коды запуска."/>
-  </entry>
-  <entry key="ctf_flag_pickup">
-    <original value="Warhead acquired"/>
-    <translation value="Коды запуска взяты"/>
-  </entry>
-  <entry key="ctf_flag_drop">
-    <original value="Warhead lost"/>
-    <translation value="Коды запуска потеряны"/>
-  </entry>
-  <entry key="ctf_flag_return">
-    <original value="The warhead was returned to the base"/>
-    <translation value="Коды запуска возвращены на базу"/>
-  </entry>
-  <entry key="ctf_objective_attackers">
-    <original value="Capture the enemy warhead and return it to our base"/>
-    <translation value="Захватите коды запуска ракет"/>
-  </entry>
-  <entry key="ctf_objective_defenders">
-    <original value="Defend the warhead"/>
-    <translation value="Охраняйте коды запуска ракет"/>
-  </entry>
-  <entry key="ctf_flag_capture">
-    <original value="Capture the warhead"/>
-    <translation value="Захватите коды запуска ракет."/>
-  </entry>
-  <entry key="ctf_flag_defend">
-    <original value="Protect the warhead"/>
-    <translation value="Не дайте врагу захватить коды запуска."/>
-  </entry>
-  <entry key="pvp_ctf_mission_desc">
-    <original value="Steal enemie's warhead and deliver it to safety place"/>
-    <translation value="Захватите коды запуска ракет и доставьте их в безопасное место."/>
-  </entry>
-  <entry key="pvp_ctf_game_mode_desc">
-    <original value="CAPTURE"/>
-    <translation value="ЗАХВАТ"/>
-  </entry>
-  <entry key="icon_ctf_base">
-    <original value="BASE"/>
-    <translation value="БАЗА"/>
-  </entry>
-  <entry key="icon_ctf_capture">
-    <original value="CAPTURE"/>
-    <translation value="ЗАХВАТ"/>
-  </entry>
-  <entry key="icon_ctf_protect">
-    <original value="PROTECT"/>
-    <translation value="ЗАЩИТА"/>
-  </entry>
-  <entry key="icon_ctf_return">
-    <original value="RETURN"/>
-    <translation value="ВОЗВРАТ"/>
-  </entry>
-  <entry key="flagPickup">
-    <original value="Capturing…"/>
-    <translation value="Захват..."/>
-  </entry>
-  <entry key="flagOnBase">
-    <original value="Returning…"/>
-    <translation value="Возврат..."/>
-  </entry>
-  <entry key="flagStolen">
-    <original value="Bringing…"/>
-    <translation value="Доставка..."/>
-  </entry>
-  <entry key="ptb_round_win_team_eliminated">
-    <original value="We win the round. Enemy team eliminated"/>
-    <translation value="Победа за нами! Вражеский отряд уничтожен."/>
-  </entry>
-  <entry key="ptb_round_loose_team_eliminated">
-    <original value="Round lost. The enemy eliminated our team."/>
-    <translation value="Мы проиграли. Враг уничтожил наш отряд."/>
-  </entry>
-  <entry key="ptb_round_win_plant_protected">
-    <original value="We win the round. Plant sites protected"/>
-    <translation value="Раунд за нами. Объекты в безопасности."/>
-  </entry>
-  <entry key="ptb_round_loose_plant_protected">
-    <original value="Plant sites defended. Round lost."/>
-    <translation value="Взорвать объекты врага не удалось. Мы проиграли."/>
-  </entry>
-  <entry key="ptb_round_win_bomb_exploded">
-    <original value="Mission complete. The bomb detonated"/>
-    <translation value="Бомба взорвана. Мы победили!"/>
-  </entry>
-  <entry key="ptb_round_loose_bomb_exploded">
-    <original value="Mission failed. The bomb detonated."/>
-    <translation value="Миссия провалена. Они взорвали бомбу."/>
-  </entry>
-  <entry key="ptb_round_win_bomb_defused">
-    <original value="Round successful. We defused the bomb."/>
-    <translation value="Бомба обезврежена. Мы победили!"/>
-  </entry>
-  <entry key="ptb_round_loose_bomb_defused">
-    <original value="We lost the round. The bomb was defused"/>
-    <translation value="Бомба обезврежена. Мы проиграли."/>
-  </entry>
-  <entry key="ptb_bomb_pickup">
-    <original value="Bomb acquired"/>
-    <translation value="Бомба взята"/>
-  </entry>
-  <entry key="ptb_bomb_drop">
-    <original value="Bomb dropped"/>
-    <translation value="Бомба потеряна"/>
-  </entry>
-  <entry key="ptb_plant_bomb">
-    <original value="Plant the bomb"/>
-    <translation value="Установите бомбу"/>
-  </entry>
-  <entry key="ptb_bomb_plant">
-    <original value="Bomb planted"/>
-    <translation value="Бомба установлена"/>
-  </entry>
-  <entry key="ptb_objective_attackers">
-    <original value="Plant the bomb"/>
-    <translation value="Установите бомбу возле одного из объектов"/>
-  </entry>
-  <entry key="ptb_objective_defenders">
-    <original value="Defend the plant sites"/>
-    <translation value="Защитите стратегические объекты"/>
-  </entry>
-  <entry key="icon_ptb_pickup">
-    <original value="PICK UP"/>
-    <translation value="БОМБА"/>
-  </entry>
-  <entry key="icon_ptb_support">
-    <original value="SUPPORT"/>
-    <translation value="ПОДДЕРЖКА"/>
-  </entry>
-  <entry key="icon_ptb_protect">
-    <original value="PROTECT"/>
-    <translation value="ЗАЩИТА"/>
-  </entry>
-  <entry key="icon_ptb_defuse">
-    <original value="DEFUSE"/>
-    <translation value="ОБЕЗВРЕДИТЬ"/>
-  </entry>
-  <entry key="ptbBombPlanting">
-    <original value="Planting…"/>
-    <translation value="Установка бомбы…"/>
-  </entry>
-  <entry key="plantTheBombTrigger">
-    <original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to start planting"/>
-    <translation value="Чтобы установить бомбу, нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
-  </entry>
-  <entry key="defuseTheBomb">
-    <original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to defuse"/>
-    <translation value="Чтобы обезвредить бомбу, нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
-  </entry>
-  <entry key="pvp_ptb_mission_desc">
-    <original value="Explode the bomb on the enemies' base"/>
-    <translation value="Взорвите стратегически важный объект врага"/>
-  </entry>
-  <entry key="pvp_ptb_game_mode_desc">
-    <original value="PLANT THE BOMB"/>
-    <translation value="ПОДРЫВ"/>
-  </entry>
-  <entry key="stm_core1_active_att">
-    <original value="Capture the command post"/>
-    <translation value="Захватите командный пункт противника."/>
-  </entry>
-  <entry key="stm_core1_captured_att">
-    <original value="Command post captured"/>
-    <translation value="Мы захватили первый командный пункт врага."/>
-  </entry>
-  <entry key="stm_core1_active_def">
-    <original value="Defend the command post!"/>
-    <translation value="Обороняйте командный пункт!"/>
-  </entry>
-  <entry key="stm_core1_captured_def">
-    <original value="Command post lost"/>
-    <translation value="Враг захватил наш первый командный пункт."/>
-  </entry>
-  <entry key="stm_core2_active_att">
-    <original value="Capture the command post"/>
-    <translation value="Захватите второй командный пункт."/>
-  </entry>
-  <entry key="stm_core2_captured_att">
-    <original value="Command post captured"/>
-    <translation value="Мы захватили два командных пункта."/>
-  </entry>
-  <entry key="stm_core2_active_def">
-    <original value="Defend the command post!"/>
-    <translation value="Защищайте командный пункт любой ценой."/>
-  </entry>
-  <entry key="stm_core2_captured_def">
-    <original value="Command post lost"/>
-    <translation value="Защитите последний командный пункт!"/>
-  </entry>
-  <entry key="stm_core3_active_att">
-    <original value="Capture the command post"/>
-    <translation value="Захватите последний командный пункт врага."/>
-  </entry>
-  <entry key="stm_core3_captured_att">
-    <original value="Command post captured"/>
-    <translation value="Командный пункт захвачен."/>
-  </entry>
-  <entry key="stm_core3_active_def">
-    <original value="Defend the command post!"/>
-    <translation value="Обороняйте последний командный пункт!"/>
-  </entry>
-  <entry key="stm_core3_captured_def">
-    <original value="Command post lost"/>
-    <translation value="Последний командный пункт потерян."/>
-  </entry>
-  <entry key="stm_core2spottedAtt">
-    <original value="Command post sighted"/>
-    <translation value="Обнаружен второй командный пункт врага."/>
-  </entry>
-  <entry key="stm_core2spottedDef">
-    <original value="Regroup at the command post!"/>
-    <translation value="Отступайте к второму командному пункту."/>
-  </entry>
-  <entry key="stm_core3spottedAtt">
-    <original value="Command post sighted"/>
-    <translation value="Последний командный пункт врага обнаружен."/>
-  </entry>
-  <entry key="stm_core3spottedDef">
-    <original value="Regroup at the command post!"/>
-    <translation value="Отступайте к последнему командному пункту!"/>
-  </entry>
-  <entry key="stm_core1_progress">
-    <original value="Post 1/3"/>
-    <translation value="КП 1/3"/>
-  </entry>
-  <entry key="stm_core2_progress">
-    <original value="Post 2/3"/>
-    <translation value="КП 2/3"/>
-  </entry>
-  <entry key="stm_core3_progress">
-    <original value="Post 3/3"/>
-    <translation value="КП 3/3"/>
-  </entry>
-  <entry key="pvp_stm_mission_desc">
-    <original value="Attacking team should capture 3 defender command posts"/>
-    <translation value="Захватите командные пункты врага и защитите собственные"/>
-  </entry>
-  <entry key="pvp_stm_game_mode_desc">
-    <original value="STORM"/>
-    <translation value="ШТУРМ"/>
-  </entry>
-  <entry key="stm_coreStartUseAtt">
-    <original value="We are capturing command post"/>
-    <translation value="Мы захватываем командный пункт."/>
-  </entry>
-  <entry key="stm_coreStartUseDef">
-    <original value="Defend the command post!"/>
-    <translation value="Враг захватывает наш командный пункт!"/>
-  </entry>
-  <entry key="stm_attackerInCore">
-    <original value="Defend the command post!"/>
-    <translation value="Защищайте командный пункт!"/>
-  </entry>
-  <entry key="stm_round_att_all_cores_captured">
-    <original value="We captured all posts in %stm_first_round_time_min% min %stm_first_round_time_sec% sec"/>
-    <translation value="Мы захватили все командные пункты за %stm_first_round_time_min% мин. %stm_first_round_time_sec% сек."/>
-  </entry>
-  <entry key="stm_round_def_all_cores_captured">
-    <original value="Enemies captured all posts in %stm_first_round_time_min% min %stm_first_round_time_sec% sec"/>
-    <translation value="Враг захватил все командные пункты за %stm_first_round_time_min% мин. %stm_first_round_time_sec% сек."/>
-  </entry>
-  <entry key="stm_round_att_no_cores_captured">
-    <original value="We didn't capture any post"/>
-    <translation value="Нам не удалось захватить командный пункт."/>
-  </entry>
-  <entry key="stm_round_def_no_cores_captured">
-    <original value="We saved all posts"/>
-    <translation value="Мы защитили все командные пункты."/>
-  </entry>
-  <entry key="stm_round_att_x_cores_captured">
-    <original value="We captured %stm_cores_captured% posts"/>
-    <translation value="Мы захватили %stm_cores_captured% КП"/>
-  </entry>
-  <entry key="stm_round_def_x_cores_captured">
-    <original value="Enemies captured %stm_cores_captured% posts"/>
-    <translation value="Противник захватил %stm_cores_captured% КП"/>
-  </entry>
-  <entry key="stm_objective_attackers">
-    <original value="Capture the command post"/>
-    <translation value="Захватите командный пункт"/>
-  </entry>
-  <entry key="stm_objective_defenders">
-    <original value="Protect the command post"/>
-    <translation value="Защитите командный пункт"/>
-  </entry>
-  <entry key="stm_game_win_more_cores">
-    <original value="We captured more command posts than the enemy"/>
-    <translation value="Мы захватили больше, чем противник."/>
-  </entry>
-  <entry key="stm_game_lose_more_cores">
-    <original value="The enemy captured more command posts"/>
-    <translation value="Враг захватил больше командных пунктов, чем мы."/>
-  </entry>
-  <entry key="stm_game_win_x_cores_faster">
-    <original value="We captured %stm_cores_captured% cores faster than emeny"/>
-    <translation value="Мы захватили %stm_cores_captured% КП быстрее, чем противник"/>
-  </entry>
-  <entry key="stm_game_lose_x_cores_faster">
-    <original value="Enemy captured %stm_cores_captured% cores faster than we"/>
-    <translation value="Враг захватил %stm_cores_captured% КП быстрее нас"/>
-  </entry>
-  <entry key="stm_game_win_all_cores_faster">
-    <original value="We captured command posts faster than the enemy. Mission successful."/>
-    <translation value="Мы захватили все командные пункты!"/>
-  </entry>
-  <entry key="stm_game_lose_all_cores_faster">
-    <original value="We failed the mission! The enemy captured command posts faster than us"/>
-    <translation value="Враг захватил все командные пункты."/>
-  </entry>
-  <entry key="stm_game_draw">
-    <original value="Nothing captured"/>
-    <translation value="Ни один командный пункт не захвачен. Ничья."/>
-  </entry>
-  <entry key="stmCore1capturing">
-    <original value="Capturing"/>
-    <translation value="Захват"/>
-  </entry>
-  <entry key="stmCore2capturing">
-    <original value="Capturing"/>
-    <translation value="Захват"/>
-  </entry>
-  <entry key="stmCore3capturing">
-    <original value="Capturing"/>
-    <translation value="Захват"/>
-  </entry>
-  <entry key="icon_stm_core_active_att">
-    <original value="CAPTURE"/>
-    <translation value="ЗАХВАТ"/>
-  </entry>
-  <entry key="icon_stm_core_active_def">
-    <original value="PROTECT"/>
-    <translation value="ЗАЩИТА"/>
-  </entry>
-  <entry key="icon_stm_core_regroup">
-    <original value="REGROUP"/>
-    <translation value="ЦЕЛЬ"/>
-  </entry>
-  <entry key="house_1_spotted">
-    <original value="Acquiring grid location"/>
-    <translation value="Авиаудар будет доступен через 30 секунд."/>
-  </entry>
-  <entry key="house_1_active">
-    <original value="Target acquired. Call an airstrike"/>
-    <translation value="Начните передачу координат, чтобы уничтожить цели."/>
-  </entry>
-  <entry key="airstrike">
-    <original value="Air strike incoming"/>
-    <translation value="Координаты получены. Наносим авиаудар по врагу."/>
-  </entry>
-  <entry key="enemy_airstrike">
-    <original value="The enemy have called an air strike"/>
-    <translation value="Враг вызвал авиаудар"/>
-  </entry>
-  <entry key="enemy_house_destroyed">
-    <original value="Target destroyed!"/>
-    <translation value="Цель уничтожена!"/>
-  </entry>
-  <entry key="house_lost">
-    <original value="The enemy destroyed our command post!"/>
-    <translation value="Враг уничтожил наш командный пункт!"/>
-  </entry>
-  <entry key="icon_dst_action_activate">
-    <original value="ACTIVATE!"/>
-    <translation value="АКТИВАЦИЯ"/>
-  </entry>
-  <entry key="icon_dst_action_protect">
-    <original value="PROTECT"/>
-    <translation value="ЗАЩИТА"/>
-  </entry>
-  <entry key="pvp_dst_mission_desc">
-    <original value="Call an air strike on the enemy positions and protect the command post"/>
-    <translation value="Вызовите авиаудар по позициям врага"/>
-  </entry>
-  <entry key="pvp_dst_game_mode_desc">
-    <original value="DESTRUCTION"/>
-    <translation value="УНИЧТОЖЕНИЕ"/>
-  </entry>
-  <entry key="dst_objective">
-    <original value="Call an air strike on the enemy positions"/>
-    <translation value="Захватите передатчик и отправьте координаты."/>
-  </entry>
-  <entry key="dst_round_win_frag_limit">
-    <original value="We killed 120 enemies"/>
-    <translation value="Победа! Все бойцы противника убиты."/>
-  </entry>
-  <entry key="dst_round_lose_frag_limit">
-    <original value="Enemy made 120 kills"/>
-    <translation value="Мы проиграли. Потеряно слишком много солдат."/>
-  </entry>
-  <entry key="dst_round_win_all_destroyed">
-    <original value="We destroyed all enemy command posts"/>
-    <translation value="Мы уничтожили все командные пункты врага."/>
-  </entry>
-  <entry key="dst_round_lose_all_destroyed">
-    <original value="The enemy destroyed all our command posts."/>
-    <translation value="Враг уничтожил все наши командные пункты."/>
-  </entry>
-  <entry key="dstCore1capturing">
-    <original value="Requesting airstrike"/>
-    <translation value="Отправка координат для авиаудара…"/>
-  </entry>
-  <entry key="dstCore2capturing">
-    <original value="Requesting airstrike"/>
-    <translation value="Отправка координат для авиаудара…"/>
-  </entry>
-  <entry key="dstCore3capturing">
-    <original value="Requesting airstrike"/>
-    <translation value="Отправка координат для авиаудара…"/>
-  </entry>
-  <entry key="icon_dst_core_capture">
-    <original value="CAPTURE"/>
-    <translation value="ЗАХВАТ"/>
-  </entry>
-  <entry key="icon_dst_core_regroup">
-    <original value="REGROUP"/>
-    <translation value="ЦЕЛЬ"/>
-  </entry>
-  <entry key="dst_capture_core">
-    <original value="Call an air strike"/>
-    <translation value="Вызвать авиаудар"/>
-  </entry>
-  <entry key="dst_round_draw_time_limit">
-    <original value="Nobody calls air strike. Draw."/>
-    <translation value="Никто не вызвал авиаудар. Ничья."/>
-  </entry>
-  <entry key="dst_defend_core">
-    <original value="Protect the command post"/>
-    <translation value="Защитить командный пункт"/>
-  </entry>
-  <entry key="dst_press_use">
-    <original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to call an air strike"/>
-    <translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы вызвать авиаудар"/>
-  </entry>
-  <entry key="dst_we_captured">
-    <original value="We captured command post"/>
-    <translation value="Мы захватили радиоточку"/>
-  </entry>
-  <entry key="dst_enemies_captured">
-    <original value="Enemies captured command post"/>
-    <translation value="Враг захватил радиоточку"/>
-  </entry>
-  <entry key="no_team_pvp_takenTheLead">
-    <original value="You've taken the lead!"/>
-    <translation value="Ты выходишь на первое место!"/>
-  </entry>
-  <entry key="no_team_pvp_resultscreenMsg">
-    <original value="You TOOK %1 PLACE!"/>
-    <translation value="ВЫ ЗАНЯЛИ %1 МЕСТО!"/>
-  </entry>
-  <entry key="no_team_pvp_can_respawn_msg">
-    <original value="Press &quot;Fire&quot; button to respawn"/>
-    <translation value="Нажмите 'Огонь', чтобы возродиться"/>
-  </entry>
-  <entry key="ffa_round_end_timer">
-    <original value="Time is over"/>
-    <translation value="Время вышло"/>
-  </entry>
-  <entry key="ffa_round_end_frag_limit">
-    <original value="Frag limit reached"/>
-    <translation value="Достигнуто ограничение по убийствам"/>
-  </entry>
-  <entry key="pvp_ffa_mission_desc">
-    <original value="Kill everyone"/>
-    <translation value="Убейте всех врагов"/>
-  </entry>
-  <entry key="ffa_game_mode_desc">
-    <original value="FREE FOR ALL"/>
-    <translation value="МЯСОРУБКА"/>
-  </entry>
-  <entry key="pvp_ffa_game_mode_desc">
-    <original value="FREE FOR ALL"/>
-    <translation value="МЯСОРУБКА"/>
-  </entry>
-  <entry key="ffa_objective">
-    <original value="Kill as many enemies as you can"/>
-    <translation value="Убейте как можно больше врагов"/>
-  </entry>
-  <entry key="pvp_resultscreen_place">
-    <original value="You finished at %1 place"/>
-    <translation value="Вы заняли %1 место"/>
-  </entry>
-  <entry key="pvp_resultscreen_draw">
-    <original value="Draw"/>
-    <translation value="Ничья"/>
-  </entry>
-  <entry key="pvp_resultscreen_win">
-    <original value="Mission Successful"/>
-    <translation value="Вы победили!"/>
-  </entry>
-  <entry key="pvp_resultscreen_lose">
-    <original value="Mission Failed"/>
-    <translation value="Вы проиграли!"/>
-  </entry>
-  <entry key="pvp_tdm_mission_desc">
-    <original value="Eliminate the enemy team"/>
-    <translation value="Уничтожьте отряд врага"/>
-  </entry>
-  <entry key="pvp_tdm_game_mode_desc">
-    <original value="TEAM DEATH MATCH"/>
-    <translation value="КОМАНДНЫЙ БОЙ"/>
-  </entry>
-  <entry key="tdm_objective">
-    <original value="Eliminate %frag_limit% enemies"/>
-    <translation value="Уничтожьте врагов: %frag_limit%"/>
-  </entry>
-  <entry key="tdm_round_end_timer">
-    <original value="Time is over"/>
-    <translation value="Время вышло"/>
-  </entry>
-  <entry key="tdm_round_win_frag_limit">
-    <original value="We killed %frag_limit% enemies"/>
-    <translation value="Мы убили врагов: %frag_limit%"/>
-  </entry>
-  <entry key="tdm_round_lose_frag_limit">
-    <original value="Enemy made %frag_limit% kills"/>
-    <translation value="Враг убил наших солдат: %frag_limit%"/>
-  </entry>
-  <entry key="pvp_dmn_mission_desc">
-    <original value="Capture and keep core points"/>
-    <translation value="Захватите и удерживайте ключевые точки"/>
-  </entry>
-  <entry key="pvp_dmn_game_mode_desc">
-    <original value="DOMINATION"/>
-    <translation value="ДОМИНАЦИЯ"/>
-  </entry>
-  <entry key="dmn_core_capture">
-    <original value="CAPTURE"/>
-    <translation value="АТАКА"/>
-  </entry>
-  <entry key="dmn_core_defend">
-    <original value="DEFEND"/>
-    <translation value="ЗАЩИТА"/>
-  </entry>
-  <entry key="dmn_core_losing">
-    <original value="LOSING"/>
-    <translation value="ПОТЕРЯ"/>
-  </entry>
-  <entry key="dmn_core_taking">
-    <original value="TAKING"/>
-    <translation value="ЗАХВАТ"/>
-  </entry>
-  <entry key="dmn_objective">
-    <original value="Capture the cores to gain score"/>
-    <translation value="Захватывайте точки, чтобы получать очки"/>
-  </entry>
-  <entry key="dmn_round_win_score_limit_big_diff">
-    <original value="We hit the score limit being well ahead"/>
-    <translation value="Мы набрали нужное количество очков с большим отрывом"/>
-  </entry>
-  <entry key="dmn_round_win_score_limit_small_diff">
-    <original value="We reached the score limit faster than enemy"/>
-    <translation value="Мы набрали нужное количество очков быстрее, чем соперник"/>
-  </entry>
-  <entry key="dmn_round_lose_score_limit_big_diff">
-    <original value="Enemy hit the score limit leading by a mile"/>
-    <translation value="Противник набрал нужное количество очков с большим преимуществом"/>
-  </entry>
-  <entry key="dmn_round_lose_score_limit_small_diff">
-    <original value="Enemy reached the score limit a bit faster"/>
-    <translation value="Противник набрал нужное количество очков быстрее, чем мы"/>
-  </entry>
-  <entry key="dmn_round_win_time_limit_big_diff">
-    <original value="We captured far more score points than enemy"/>
-    <translation value="Мы заработали гораздо больше очков, чем противник"/>
-  </entry>
-  <entry key="dmn_round_win_time_limit_small_diff">
-    <original value="We captured more score points than enemy"/>
-    <translation value="Мы набрали больше очков, чем противник"/>
-  </entry>
-  <entry key="dmn_round_lose_time_limit_big_diff">
-    <original value="Enemy captured much more score points"/>
-    <translation value="Противник заработал гораздо больше очков"/>
-  </entry>
-  <entry key="dmn_round_lose_time_limit_small_diff">
-    <original value="Enemy captured more score points"/>
-    <translation value="Противник набрал больше очков, чем мы"/>
-  </entry>
-  <entry key="dmn_round_draw">
-    <original value="Score is equal. Draw."/>
-    <translation value="Силы равны. Ничья."/>
-  </entry>
-  <entry key="pvp_hnt_mission_desc">
-    <original value="Search the area to take advantage &amp; kill everyone. 
- To get more score take the dogtags are left by dead."/>
-    <translation value="Уничтожайте всех, кто попадется вам на пути, и не дайте убить себя. Чтобы получить больше очков, собирайте жетоны поверженных врагов."/>
-  </entry>
-  <entry key="pvp_hnt_game_mode_desc">
-    <original value="HUNT"/>
-    <translation value="ВЫЖИВАНИЕ"/>
-  </entry>
-  <entry key="hnt_enemy_global_spotting_start">
-    <original value="Radar is active"/>
-    <translation value="Радар включен"/>
-  </entry>
-  <entry key="dogtags_scoreboard_counter">
-    <original value="[%1]"/>
-    <translation value="[%1]"/>
-  </entry>
-  <entry key="hnt_round_end_timer">
-    <original value="Time is over"/>
-    <translation value="Время вышло"/>
-  </entry>
-  <entry key="pvp_obj_tdm_mission_desc">
-    <original value="Call an air strike on the enemy positions and protect the command post."/>
-    <translation value="Вызовите авиаудар по позициям врага и защитите командный пункт."/>
-  </entry>
-  <entry key="pvp_obj_tdm_game_mode_desc">
-    <original value="DESTRUCTION"/>
-    <translation value="УНИЧТОЖЕНИЕ"/>
-  </entry>
-  <entry key="dst_game_mode_desc">
-    <original value="DESTRUCTION"/>
-    <translation value="УНИЧТОЖЕНИЕ"/>
-  </entry>
-  <entry key="tbs_round_win_team_eliminated">
-    <original value="We win the round. Enemy team eliminated"/>
-    <translation value="Мы выиграли раунд. Противник побежден."/>
-  </entry>
-  <entry key="tbs_round_loose_team_eliminated">
-    <original value="Round lost. The enemy eliminated our team."/>
-    <translation value="Раунд проигран. Наша команда уничтожена."/>
-  </entry>
-  <entry key="tbs_round_win_bomb_exploded">
-    <original value="Mission complete. Objective detonated."/>
-    <translation value="Миссия выполнена. Объект взорван."/>
-  </entry>
-  <entry key="tbs_round_loose_bomb_exploded">
-    <original value="Mission failed. Objective detonated."/>
-    <translation value="Миссия провалена. Объект взорван."/>
-  </entry>
-  <entry key="tbs_round_win_bomb_defused">
-    <original value="Round successful. We defused objective."/>
-    <translation value="Раунд выигран. Мы обезвредили бомбу."/>
-  </entry>
-  <entry key="tbs_round_loose_bomb_defused">
-    <original value="We lost the round. Objective was defused."/>
-    <translation value="Мы проиграли раунд. Враг обезвредил бомбу."/>
-  </entry>
-  <entry key="tbs_objective_attackers">
-    <original value="Defend objective"/>
-    <translation value="Обороняйте объект"/>
-  </entry>
-  <entry key="tbs_objective_defenders">
-    <original value="Defuse objective"/>
-    <translation value="Обезвредьте бомбу"/>
-  </entry>
-  <entry key="icon_tbs_protect">
-    <original value="PROTECT"/>
-    <translation value="ОБОРОНЯТЬ"/>
-  </entry>
-  <entry key="icon_tbs_defuse">
-    <original value="DEFUSE"/>
-    <translation value="ОБЕЗВРЕДИТЬ"/>
-  </entry>
-  <entry key="pvp_tbs_mission_desc">
-    <original value="Defuse objective before timer is over"/>
-    <translation value="Обезвредьте бомбу, пока не истекло время"/>
-  </entry>
-  <entry key="pvp_tbs_game_mode_desc">
-    <original value="DEFUSE OBJECTIVE"/>
-    <translation value="БЛИЦ"/>
-  </entry>
-  <entry key="tbs_bomb_plant">
-    <original value="Explosive set"/>
-    <translation value="Бомба установлена"/>
-  </entry>
-  <entry key="pre_round_msg_balance">
-    <original value="Start in %1 sec\nTeams was balanced"/>
-    <translation value="Начало матча через %1 сек.\nКоманды сбалансированы"/>
-  </entry>
-  <entry key="pvp_balance_msg">
-    <original value="Teams were balanced"/>
-    <translation value="Команды сбалансированы"/>
-  </entry>
-  <entry key="game_paused">
-    <original value="Game Paused"/>
-    <translation value="Игра приостановлена"/>
-  </entry>
-  <entry key="pvp_lms_mission_desc">
-    <original value="Stay the last survived"/>
-    <translation value="Останьтесь последним выжившим."/>
-  </entry>
-  <entry key="pvp_lms_game_mode_desc">
-    <original value="LAST MAN STANDING"/>
-    <translation value="КОРОЛЕВСКАЯ БИТВА"/>
-  </entry>
-  <entry key="lms_round_start">
-    <original value="Only one will survive"/>
-    <translation value="Выживет только один!"/>
-  </entry>
-  <entry key="score_were_changed_by_admin">
-    <original value="Score were changed by admin: (%old1% : %old2%) -&gt; (%new1% : %new2%)"/>
-    <translation value="Счет изменен администратором: (%old1% : %old2%) -&gt; (%new1% : %new2%)"/>
-  </entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="pvp_sides_switched">
+		<original value="Sides switched"/>
+		<translation value="Смена сторон"/>
+	</entry>
+	<entry key="pvp_resultscreen_loseMsg">
+		<original value="Mission Failed"/>
+		<translation value="Миссия провалена"/>
+	</entry>
+	<entry key="pvp_resultscreen_winMsg">
+		<original value="Mission Successful"/>
+		<translation value="Миссия выполнена"/>
+	</entry>
+	<entry key="pvp_resultscreen_drawMsg">
+		<original value="DRAW"/>
+		<translation value="НИЧЬЯ"/>
+	</entry>
+	<entry key="pvp_final_round">
+		<original value="FINAL ROUND!"/>
+		<translation value="ПОСЛЕДНИЙ РАУНД!"/>
+	</entry>
+	<entry key="pre_round_msg">
+		<original value="Start in %1 sec"/>
+		<translation value="Начало через %1 сек."/>
+	</entry>
+	<entry key="pvp_round_start">
+		<original value="Round start!"/>
+		<translation value="Раунд начался!"/>
+	</entry>
+	<entry key="info_ptb_afghan">
+		<original value="PLANT THE BOMB"/>
+		<translation value="Заложите бомбу и уничтожьте ключевые объекты врага"/>
+	</entry>
+	<entry key="info_tdm_church">
+		<original value="TEAM DEATH MATCH"/>
+		<translation value="Уничтожьте вражескую команду"/>
+	</entry>
+	<entry key="ctf_round_win_flag_protected">
+		<original value="We win the round. Warhead defended."/>
+		<translation value="Миссия выполнена. Коды запуска в безопасности."/>
+	</entry>
+	<entry key="ctf_round_loose_flag_protected">
+		<original value="Round lost. We failed to capture the warhead."/>
+		<translation value="Мы проиграли. Захватить коды запуска не удалось."/>
+	</entry>
+	<entry key="ctf_round_win_team_eliminated">
+		<original value="Enemy team eliminated. The round is ours."/>
+		<translation value="Отряд противника уничтожен. Победа за нами."/>
+	</entry>
+	<entry key="ctf_round_loose_team_eliminated">
+		<original value="Round lost. The enemy eliminated our team."/>
+		<translation value="Мы проиграли. Противник уничтожил нашу команду."/>
+	</entry>
+	<entry key="ctf_round_win_flag_captured">
+		<original value="Mission accomplished. We captured the warhead"/>
+		<translation value="Миссия выполнена. Мы захватили коды запуска."/>
+	</entry>
+	<entry key="ctf_round_loose_flag_captured">
+		<original value="Round lost. The enemy captured the warhead."/>
+		<translation value="Мы проиграли. Враг захватил коды запуска."/>
+	</entry>
+	<entry key="ctf_flag_pickup">
+		<original value="Warhead acquired"/>
+		<translation value="Коды запуска взяты"/>
+	</entry>
+	<entry key="ctf_flag_drop">
+		<original value="Warhead lost"/>
+		<translation value="Коды запуска потеряны"/>
+	</entry>
+	<entry key="ctf_flag_return">
+		<original value="The warhead was returned to the base"/>
+		<translation value="Коды запуска возвращены на базу"/>
+	</entry>
+	<entry key="ctf_objective_attackers">
+		<original value="Capture the enemy warhead and return it to our base"/>
+		<translation value="Захватите коды запуска ракет"/>
+	</entry>
+	<entry key="ctf_objective_defenders">
+		<original value="Defend the warhead"/>
+		<translation value="Охраняйте коды запуска ракет"/>
+	</entry>
+	<entry key="ctf_flag_capture">
+		<original value="Capture the warhead"/>
+		<translation value="Захватите коды запуска ракет."/>
+	</entry>
+	<entry key="ctf_flag_defend">
+		<original value="Protect the warhead"/>
+		<translation value="Не дайте врагу захватить коды запуска."/>
+	</entry>
+	<entry key="pvp_ctf_mission_desc">
+		<original value="Steal enemie's warhead and deliver it to safety place"/>
+		<translation value="Захватите коды запуска ракет и доставьте их в безопасное место."/>
+	</entry>
+	<entry key="pvp_ctf_game_mode_desc">
+		<original value="CAPTURE"/>
+		<translation value="ЗАХВАТ"/>
+	</entry>
+	<entry key="icon_ctf_base">
+		<original value="BASE"/>
+		<translation value="БАЗА"/>
+	</entry>
+	<entry key="icon_ctf_capture">
+		<original value="CAPTURE"/>
+		<translation value="ЗАХВАТ"/>
+	</entry>
+	<entry key="icon_ctf_protect">
+		<original value="PROTECT"/>
+		<translation value="ЗАЩИТА"/>
+	</entry>
+	<entry key="icon_ctf_return">
+		<original value="RETURN"/>
+		<translation value="ВОЗВРАТ"/>
+	</entry>
+	<entry key="flagPickup">
+		<original value="Capturing…"/>
+		<translation value="Захват..."/>
+	</entry>
+	<entry key="flagOnBase">
+		<original value="Returning…"/>
+		<translation value="Возврат..."/>
+	</entry>
+	<entry key="flagStolen">
+		<original value="Bringing…"/>
+		<translation value="Доставка..."/>
+	</entry>
+	<entry key="ptb_round_win_team_eliminated">
+		<original value="We win the round. Enemy team eliminated"/>
+		<translation value="Победа за нами! Вражеский отряд уничтожен."/>
+	</entry>
+	<entry key="ptb_round_loose_team_eliminated">
+		<original value="Round lost. The enemy eliminated our team."/>
+		<translation value="Мы проиграли. Враг уничтожил наш отряд."/>
+	</entry>
+	<entry key="ptb_round_win_plant_protected">
+		<original value="We win the round. Plant sites protected"/>
+		<translation value="Раунд за нами. Объекты в безопасности."/>
+	</entry>
+	<entry key="ptb_round_loose_plant_protected">
+		<original value="Plant sites defended. Round lost."/>
+		<translation value="Взорвать объекты врага не удалось. Мы проиграли."/>
+	</entry>
+	<entry key="ptb_round_win_bomb_exploded">
+		<original value="Mission complete. The bomb detonated"/>
+		<translation value="Бомба взорвана. Мы победили!"/>
+	</entry>
+	<entry key="ptb_round_loose_bomb_exploded">
+		<original value="Mission failed. The bomb detonated."/>
+		<translation value="Миссия провалена. Они взорвали бомбу."/>
+	</entry>
+	<entry key="ptb_round_win_bomb_defused">
+		<original value="Round successful. We defused the bomb."/>
+		<translation value="Бомба обезврежена. Мы победили!"/>
+	</entry>
+	<entry key="ptb_round_loose_bomb_defused">
+		<original value="We lost the round. The bomb was defused"/>
+		<translation value="Бомба обезврежена. Мы проиграли."/>
+	</entry>
+	<entry key="ptb_bomb_pickup">
+		<original value="Bomb acquired"/>
+		<translation value="Бомба взята"/>
+	</entry>
+	<entry key="ptb_bomb_drop">
+		<original value="Bomb dropped"/>
+		<translation value="Бомба потеряна"/>
+	</entry>
+	<entry key="ptb_plant_bomb">
+		<original value="Plant the bomb"/>
+		<translation value="Установите бомбу"/>
+	</entry>
+	<entry key="ptb_bomb_plant">
+		<original value="Bomb planted"/>
+		<translation value="Бомба установлена"/>
+	</entry>
+	<entry key="ptb_objective_attackers">
+		<original value="Plant the bomb"/>
+		<translation value="Установите бомбу возле одного из объектов"/>
+	</entry>
+	<entry key="ptb_objective_defenders">
+		<original value="Defend the plant sites"/>
+		<translation value="Защитите стратегические объекты"/>
+	</entry>
+	<entry key="icon_ptb_pickup">
+		<original value="PICK UP"/>
+		<translation value="БОМБА"/>
+	</entry>
+	<entry key="icon_ptb_support">
+		<original value="SUPPORT"/>
+		<translation value="ПОДДЕРЖКА"/>
+	</entry>
+	<entry key="icon_ptb_protect">
+		<original value="PROTECT"/>
+		<translation value="ЗАЩИТА"/>
+	</entry>
+	<entry key="icon_ptb_defuse">
+		<original value="DEFUSE"/>
+		<translation value="ОБЕЗВРЕДИТЬ"/>
+	</entry>
+	<entry key="ptbBombPlanting">
+		<original value="Planting…"/>
+		<translation value="Установка бомбы…"/>
+	</entry>
+	<entry key="plantTheBombTrigger">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to start planting"/>
+		<translation value="Чтобы установить бомбу, нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="defuseTheBomb">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to defuse"/>
+		<translation value="Чтобы обезвредить бомбу, нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;"/>
+	</entry>
+	<entry key="pvp_ptb_mission_desc">
+		<original value="Explode the bomb on the enemies' base"/>
+		<translation value="Взорвите стратегически важный объект врага"/>
+	</entry>
+	<entry key="pvp_ptb_game_mode_desc">
+		<original value="PLANT THE BOMB"/>
+		<translation value="ПОДРЫВ"/>
+	</entry>
+	<entry key="stm_core1_active_att">
+		<original value="Capture the command post"/>
+		<translation value="Захватите командный пункт противника."/>
+	</entry>
+	<entry key="stm_core1_captured_att">
+		<original value="Command post captured"/>
+		<translation value="Мы захватили первый командный пункт врага."/>
+	</entry>
+	<entry key="stm_core1_active_def">
+		<original value="Defend the command post!"/>
+		<translation value="Обороняйте командный пункт!"/>
+	</entry>
+	<entry key="stm_core1_captured_def">
+		<original value="Command post lost"/>
+		<translation value="Враг захватил наш первый командный пункт."/>
+	</entry>
+	<entry key="stm_core2_active_att">
+		<original value="Capture the command post"/>
+		<translation value="Захватите второй командный пункт."/>
+	</entry>
+	<entry key="stm_core2_captured_att">
+		<original value="Command post captured"/>
+		<translation value="Мы захватили два командных пункта."/>
+	</entry>
+	<entry key="stm_core2_active_def">
+		<original value="Defend the command post!"/>
+		<translation value="Защищайте командный пункт любой ценой."/>
+	</entry>
+	<entry key="stm_core2_captured_def">
+		<original value="Command post lost"/>
+		<translation value="Защитите последний командный пункт!"/>
+	</entry>
+	<entry key="stm_core3_active_att">
+		<original value="Capture the command post"/>
+		<translation value="Захватите последний командный пункт врага."/>
+	</entry>
+	<entry key="stm_core3_captured_att">
+		<original value="Command post captured"/>
+		<translation value="Командный пункт захвачен."/>
+	</entry>
+	<entry key="stm_core3_active_def">
+		<original value="Defend the command post!"/>
+		<translation value="Обороняйте последний командный пункт!"/>
+	</entry>
+	<entry key="stm_core3_captured_def">
+		<original value="Command post lost"/>
+		<translation value="Последний командный пункт потерян."/>
+	</entry>
+	<entry key="stm_core2spottedAtt">
+		<original value="Command post sighted"/>
+		<translation value="Обнаружен второй командный пункт врага."/>
+	</entry>
+	<entry key="stm_core2spottedDef">
+		<original value="Regroup at the command post!"/>
+		<translation value="Отступайте к второму командному пункту."/>
+	</entry>
+	<entry key="stm_core3spottedAtt">
+		<original value="Command post sighted"/>
+		<translation value="Последний командный пункт врага обнаружен."/>
+	</entry>
+	<entry key="stm_core3spottedDef">
+		<original value="Regroup at the command post!"/>
+		<translation value="Отступайте к последнему командному пункту!"/>
+	</entry>
+	<entry key="stm_core1_progress">
+		<original value="Post 1/3"/>
+		<translation value="КП 1/3"/>
+	</entry>
+	<entry key="stm_core2_progress">
+		<original value="Post 2/3"/>
+		<translation value="КП 2/3"/>
+	</entry>
+	<entry key="stm_core3_progress">
+		<original value="Post 3/3"/>
+		<translation value="КП 3/3"/>
+	</entry>
+	<entry key="pvp_stm_mission_desc">
+		<original value="Attacking team should capture 3 defender command posts"/>
+		<translation value="Захватите командные пункты врага и защитите собственные"/>
+	</entry>
+	<entry key="pvp_stm_game_mode_desc">
+		<original value="STORM"/>
+		<translation value="ШТУРМ"/>
+	</entry>
+	<entry key="stm_coreStartUseAtt">
+		<original value="We are capturing command post"/>
+		<translation value="Мы захватываем командный пункт."/>
+	</entry>
+	<entry key="stm_coreStartUseDef">
+		<original value="Defend the command post!"/>
+		<translation value="Враг захватывает наш командный пункт!"/>
+	</entry>
+	<entry key="stm_attackerInCore">
+		<original value="Defend the command post!"/>
+		<translation value="Защищайте командный пункт!"/>
+	</entry>
+	<entry key="stm_round_att_all_cores_captured">
+		<original value="We captured all posts in %stm_first_round_time_min% min %stm_first_round_time_sec% sec"/>
+		<translation value="Мы захватили все командные пункты за %stm_first_round_time_min% мин. %stm_first_round_time_sec% сек."/>
+	</entry>
+	<entry key="stm_round_def_all_cores_captured">
+		<original value="Enemies captured all posts in %stm_first_round_time_min% min %stm_first_round_time_sec% sec"/>
+		<translation value="Враг захватил все командные пункты за %stm_first_round_time_min% мин. %stm_first_round_time_sec% сек."/>
+	</entry>
+	<entry key="stm_round_att_no_cores_captured">
+		<original value="We didn't capture any post"/>
+		<translation value="Нам не удалось захватить командный пункт."/>
+	</entry>
+	<entry key="stm_round_def_no_cores_captured">
+		<original value="We saved all posts"/>
+		<translation value="Мы защитили все командные пункты."/>
+	</entry>
+	<entry key="stm_round_att_x_cores_captured">
+		<original value="We captured %stm_cores_captured% posts"/>
+		<translation value="Мы захватили %stm_cores_captured% КП"/>
+	</entry>
+	<entry key="stm_round_def_x_cores_captured">
+		<original value="Enemies captured %stm_cores_captured% posts"/>
+		<translation value="Противник захватил %stm_cores_captured% КП"/>
+	</entry>
+	<entry key="stm_objective_attackers">
+		<original value="Capture the command post"/>
+		<translation value="Захватите командный пункт"/>
+	</entry>
+	<entry key="stm_objective_defenders">
+		<original value="Protect the command post"/>
+		<translation value="Защитите командный пункт"/>
+	</entry>
+	<entry key="stm_game_win_more_cores">
+		<original value="We captured more command posts than the enemy"/>
+		<translation value="Мы захватили больше, чем противник."/>
+	</entry>
+	<entry key="stm_game_lose_more_cores">
+		<original value="The enemy captured more command posts"/>
+		<translation value="Враг захватил больше командных пунктов, чем мы."/>
+	</entry>
+	<entry key="stm_game_win_x_cores_faster">
+		<original value="We captured %stm_cores_captured% cores faster than emeny"/>
+		<translation value="Мы захватили %stm_cores_captured% КП быстрее, чем противник"/>
+	</entry>
+	<entry key="stm_game_lose_x_cores_faster">
+		<original value="Enemy captured %stm_cores_captured% cores faster than we"/>
+		<translation value="Враг захватил %stm_cores_captured% КП быстрее нас"/>
+	</entry>
+	<entry key="stm_game_win_all_cores_faster">
+		<original value="We captured command posts faster than the enemy. Mission successful."/>
+		<translation value="Мы захватили все командные пункты!"/>
+	</entry>
+	<entry key="stm_game_lose_all_cores_faster">
+		<original value="We failed the mission! The enemy captured command posts faster than us"/>
+		<translation value="Враг захватил все командные пункты."/>
+	</entry>
+	<entry key="stm_game_draw">
+		<original value="Nothing captured"/>
+		<translation value="Ни один командный пункт не захвачен. Ничья."/>
+	</entry>
+	<entry key="stmCore1capturing">
+		<original value="Capturing"/>
+		<translation value="Захват"/>
+	</entry>
+	<entry key="stmCore2capturing">
+		<original value="Capturing"/>
+		<translation value="Захват"/>
+	</entry>
+	<entry key="stmCore3capturing">
+		<original value="Capturing"/>
+		<translation value="Захват"/>
+	</entry>
+	<entry key="icon_stm_core_active_att">
+		<original value="CAPTURE"/>
+		<translation value="ЗАХВАТ"/>
+	</entry>
+	<entry key="icon_stm_core_active_def">
+		<original value="PROTECT"/>
+		<translation value="ЗАЩИТА"/>
+	</entry>
+	<entry key="icon_stm_core_regroup">
+		<original value="REGROUP"/>
+		<translation value="ЦЕЛЬ"/>
+	</entry>
+	<entry key="house_1_spotted">
+		<original value="Acquiring grid location"/>
+		<translation value="Авиаудар будет доступен через 30 секунд."/>
+	</entry>
+	<entry key="house_1_active">
+		<original value="Target acquired. Call an airstrike"/>
+		<translation value="Начните передачу координат, чтобы уничтожить цели."/>
+	</entry>
+	<entry key="airstrike">
+		<original value="Air strike incoming"/>
+		<translation value="Координаты получены. Наносим авиаудар по врагу."/>
+	</entry>
+	<entry key="enemy_airstrike">
+		<original value="The enemy have called an air strike"/>
+		<translation value="Враг вызвал авиаудар"/>
+	</entry>
+	<entry key="enemy_house_destroyed">
+		<original value="Target destroyed!"/>
+		<translation value="Цель уничтожена!"/>
+	</entry>
+	<entry key="house_lost">
+		<original value="The enemy destroyed our command post!"/>
+		<translation value="Враг уничтожил наш командный пункт!"/>
+	</entry>
+	<entry key="icon_dst_action_activate">
+		<original value="ACTIVATE!"/>
+		<translation value="АКТИВАЦИЯ"/>
+	</entry>
+	<entry key="icon_dst_action_protect">
+		<original value="PROTECT"/>
+		<translation value="ЗАЩИТА"/>
+	</entry>
+	<entry key="pvp_dst_mission_desc">
+		<original value="Call an air strike on the enemy positions and protect the command post"/>
+		<translation value="Вызовите авиаудар по позициям врага"/>
+	</entry>
+	<entry key="pvp_dst_game_mode_desc">
+		<original value="DESTRUCTION"/>
+		<translation value="УНИЧТОЖЕНИЕ"/>
+	</entry>
+	<entry key="dst_objective">
+		<original value="Call an air strike on the enemy positions"/>
+		<translation value="Захватите передатчик и отправьте координаты."/>
+	</entry>
+	<entry key="dst_round_win_frag_limit">
+		<original value="We killed 120 enemies"/>
+		<translation value="Победа! Все бойцы противника убиты."/>
+	</entry>
+	<entry key="dst_round_lose_frag_limit">
+		<original value="Enemy made 120 kills"/>
+		<translation value="Мы проиграли. Потеряно слишком много солдат."/>
+	</entry>
+	<entry key="dst_round_win_all_destroyed">
+		<original value="We destroyed all enemy command posts"/>
+		<translation value="Мы уничтожили все командные пункты врага."/>
+	</entry>
+	<entry key="dst_round_lose_all_destroyed">
+		<original value="The enemy destroyed all our command posts."/>
+		<translation value="Враг уничтожил все наши командные пункты."/>
+	</entry>
+	<entry key="dstCore1capturing">
+		<original value="Requesting airstrike"/>
+		<translation value="Отправка координат для авиаудара…"/>
+	</entry>
+	<entry key="dstCore2capturing">
+		<original value="Requesting airstrike"/>
+		<translation value="Отправка координат для авиаудара…"/>
+	</entry>
+	<entry key="dstCore3capturing">
+		<original value="Requesting airstrike"/>
+		<translation value="Отправка координат для авиаудара…"/>
+	</entry>
+	<entry key="icon_dst_core_capture">
+		<original value="CAPTURE"/>
+		<translation value="ЗАХВАТ"/>
+	</entry>
+	<entry key="icon_dst_core_regroup">
+		<original value="REGROUP"/>
+		<translation value="ЦЕЛЬ"/>
+	</entry>
+	<entry key="dst_capture_core">
+		<original value="Call an air strike"/>
+		<translation value="Вызвать авиаудар"/>
+	</entry>
+	<entry key="dst_round_draw_time_limit">
+		<original value="Nobody calls air strike. Draw."/>
+		<translation value="Никто не вызвал авиаудар. Ничья."/>
+	</entry>
+	<entry key="dst_defend_core">
+		<original value="Protect the command post"/>
+		<translation value="Защитить командный пункт"/>
+	</entry>
+	<entry key="dst_press_use">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to call an air strike"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы вызвать авиаудар"/>
+	</entry>
+	<entry key="dst_we_captured">
+		<original value="We captured command post"/>
+		<translation value="Мы захватили радиоточку"/>
+	</entry>
+	<entry key="dst_enemies_captured">
+		<original value="Enemies captured command post"/>
+		<translation value="Враг захватил радиоточку"/>
+	</entry>
+	<entry key="NO TEAM PVP (FFA now)">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="no_team_pvp_takenTheLead">
+		<original value="You've taken the lead!"/>
+		<translation value="Ты выходишь на первое место!"/>
+	</entry>
+	<entry key="no_team_pvp_resultscreenMsg">
+		<original value="You TOOK %1 PLACE!"/>
+		<translation value="ВЫ ЗАНЯЛИ %1 МЕСТО!"/>
+	</entry>
+	<entry key="no_team_pvp_can_respawn_msg">
+		<original value="Press &quot;Fire&quot; button to respawn"/>
+		<translation value="Нажмите 'Огонь', чтобы возродиться"/>
+	</entry>
+	<entry key="ffa_round_end_timer">
+		<original value="Time is over"/>
+		<translation value="Время вышло"/>
+	</entry>
+	<entry key="ffa_round_end_frag_limit">
+		<original value="Frag limit reached"/>
+		<translation value="Достигнуто ограничение по убийствам"/>
+	</entry>
+	<entry key="pvp_ffa_mission_desc">
+		<original value="Kill everyone"/>
+		<translation value="Убейте всех врагов"/>
+	</entry>
+	<entry key="ffa_game_mode_desc">
+		<original value="FREE FOR ALL"/>
+		<translation value="МЯСОРУБКА"/>
+	</entry>
+	<entry key="pvp_ffa_game_mode_desc">
+		<original value="FREE FOR ALL"/>
+		<translation value="МЯСОРУБКА"/>
+	</entry>
+	<entry key="ffa_objective">
+		<original value="Kill as many enemies as you can"/>
+		<translation value="Убейте как можно больше врагов"/>
+	</entry>
+	<entry key="pvp_resultscreen_place">
+		<original value="You finished at %1 place"/>
+		<translation value="Вы заняли %1 место"/>
+	</entry>
+	<entry key="pvp_resultscreen_draw">
+		<original value="Draw"/>
+		<translation value="Ничья"/>
+	</entry>
+	<entry key="pvp_resultscreen_win">
+		<original value="Mission Successful"/>
+		<translation value="Вы победили!"/>
+	</entry>
+	<entry key="pvp_resultscreen_lose">
+		<original value="Mission Failed"/>
+		<translation value="Вы проиграли!"/>
+	</entry>
+	<entry key="pvp_tdm_mission_desc">
+		<original value="Eliminate the enemy team"/>
+		<translation value="Уничтожьте отряд врага"/>
+	</entry>
+	<entry key="pvp_tdm_game_mode_desc">
+		<original value="TEAM DEATH MATCH"/>
+		<translation value="КОМАНДНЫЙ БОЙ"/>
+	</entry>
+	<entry key="tdm_objective">
+		<original value="Eliminate %frag_limit% enemies"/>
+		<translation value="Уничтожьте врагов: %frag_limit%"/>
+	</entry>
+	<entry key="tdm_round_end_timer">
+		<original value="Time is over"/>
+		<translation value="Время вышло"/>
+	</entry>
+	<entry key="tdm_round_win_frag_limit">
+		<original value="We killed %frag_limit% enemies"/>
+		<translation value="Мы убили врагов: %frag_limit%"/>
+	</entry>
+	<entry key="tdm_round_lose_frag_limit">
+		<original value="Enemy made %frag_limit% kills"/>
+		<translation value="Враг убил наших солдат: %frag_limit%"/>
+	</entry>
+	<entry key="pvp_dmn_mission_desc">
+		<original value="Capture and keep core points"/>
+		<translation value="Захватите и удерживайте ключевые точки"/>
+	</entry>
+	<entry key="pvp_dmn_game_mode_desc">
+		<original value="DOMINATION"/>
+		<translation value="ДОМИНАЦИЯ"/>
+	</entry>
+	<entry key="dmn_core_capture">
+		<original value="CAPTURE"/>
+		<translation value="АТАКА"/>
+	</entry>
+	<entry key="dmn_core_defend">
+		<original value="DEFEND"/>
+		<translation value="ЗАЩИТА"/>
+	</entry>
+	<entry key="dmn_core_losing">
+		<original value="LOSING"/>
+		<translation value="ПОТЕРЯ"/>
+	</entry>
+	<entry key="dmn_core_taking">
+		<original value="TAKING"/>
+		<translation value="ЗАХВАТ"/>
+	</entry>
+	<entry key="dmn_objective">
+		<original value="Capture the cores to gain score"/>
+		<translation value="Захватывайте точки, чтобы получать очки"/>
+	</entry>
+	<entry key="dmn_round_win_score_limit_big_diff">
+		<original value="We hit the score limit being well ahead"/>
+		<translation value="Мы набрали нужное количество очков с большим отрывом"/>
+	</entry>
+	<entry key="dmn_round_win_score_limit_small_diff">
+		<original value="We reached the score limit faster than enemy"/>
+		<translation value="Мы набрали нужное количество очков быстрее, чем соперник"/>
+	</entry>
+	<entry key="dmn_round_lose_score_limit_big_diff">
+		<original value="Enemy hit the score limit leading by a mile"/>
+		<translation value="Противник набрал нужное количество очков с большим преимуществом"/>
+	</entry>
+	<entry key="dmn_round_lose_score_limit_small_diff">
+		<original value="Enemy reached the score limit a bit faster"/>
+		<translation value="Противник набрал нужное количество очков быстрее, чем мы"/>
+	</entry>
+	<entry key="dmn_round_win_time_limit_big_diff">
+		<original value="We captured far more score points than enemy"/>
+		<translation value="Мы заработали гораздо больше очков, чем противник"/>
+	</entry>
+	<entry key="dmn_round_win_time_limit_small_diff">
+		<original value="We captured more score points than enemy"/>
+		<translation value="Мы набрали больше очков, чем противник"/>
+	</entry>
+	<entry key="dmn_round_lose_time_limit_big_diff">
+		<original value="Enemy captured much more score points"/>
+		<translation value="Противник заработал гораздо больше очков"/>
+	</entry>
+	<entry key="dmn_round_lose_time_limit_small_diff">
+		<original value="Enemy captured more score points"/>
+		<translation value="Противник набрал больше очков, чем мы"/>
+	</entry>
+	<entry key="dmn_round_draw">
+		<original value="Score is equal. Draw."/>
+		<translation value="Силы равны. Ничья."/>
+	</entry>
+	<entry key="pvp_hnt_mission_desc">
+		<original value="Search the area to take advantage &amp; kill everyone. &#xA; To get more score take the dogtags are left by dead."/>
+		<translation value="Уничтожайте всех, кто попадется вам на пути, и не дайте убить себя. Чтобы получить больше очков, собирайте жетоны поверженных врагов."/>
+	</entry>
+	<entry key="pvp_hnt_game_mode_desc">
+		<original value="HUNT"/>
+		<translation value="ВЫЖИВАНИЕ"/>
+	</entry>
+	<entry key="hnt_enemy_global_spotting_start">
+		<original value="Radar is active"/>
+		<translation value="Радар включен"/>
+	</entry>
+	<entry key="dogtags_scoreboard_counter">
+		<original value="[%1]"/>
+		<translation value="[%1]"/>
+	</entry>
+	<entry key="hnt_round_end_timer">
+		<original value="Time is over"/>
+		<translation value="Время вышло"/>
+	</entry>
+	<entry key="pvp_obj_tdm_mission_desc">
+		<original value="Call an air strike on the enemy positions and protect the command post."/>
+		<translation value="Вызовите авиаудар по позициям врага и защитите командный пункт."/>
+	</entry>
+	<entry key="pvp_obj_tdm_game_mode_desc">
+		<original value="DESTRUCTION"/>
+		<translation value="УНИЧТОЖЕНИЕ"/>
+	</entry>
+	<entry key="dst_game_mode_desc">
+		<original value="DESTRUCTION"/>
+		<translation value="УНИЧТОЖЕНИЕ"/>
+	</entry>
+	<entry key="tbs_round_win_team_eliminated">
+		<original value="We win the round. Enemy team eliminated"/>
+		<translation value="Мы выиграли раунд. Противник побежден."/>
+	</entry>
+	<entry key="tbs_round_loose_team_eliminated">
+		<original value="Round lost. The enemy eliminated our team."/>
+		<translation value="Раунд проигран. Наша команда уничтожена."/>
+	</entry>
+	<entry key="tbs_round_win_bomb_exploded">
+		<original value="Mission complete. Objective detonated."/>
+		<translation value="Миссия выполнена. Объект взорван."/>
+	</entry>
+	<entry key="tbs_round_loose_bomb_exploded">
+		<original value="Mission failed. Objective detonated."/>
+		<translation value="Миссия провалена. Объект взорван."/>
+	</entry>
+	<entry key="tbs_round_win_bomb_defused">
+		<original value="Round successful. We defused objective."/>
+		<translation value="Раунд выигран. Мы обезвредили бомбу."/>
+	</entry>
+	<entry key="tbs_round_loose_bomb_defused">
+		<original value="We lost the round. Objective was defused."/>
+		<translation value="Мы проиграли раунд. Враг обезвредил бомбу."/>
+	</entry>
+	<entry key="tbs_objective_attackers">
+		<original value="Defend objective"/>
+		<translation value="Обороняйте объект"/>
+	</entry>
+	<entry key="tbs_objective_defenders">
+		<original value="Defuse objective"/>
+		<translation value="Обезвредьте бомбу"/>
+	</entry>
+	<entry key="icon_tbs_protect">
+		<original value="PROTECT"/>
+		<translation value="ОБОРОНЯТЬ"/>
+	</entry>
+	<entry key="icon_tbs_defuse">
+		<original value="DEFUSE"/>
+		<translation value="ОБЕЗВРЕДИТЬ"/>
+	</entry>
+	<entry key="pvp_tbs_mission_desc">
+		<original value="Defuse objective before timer is over"/>
+		<translation value="Обезвредьте бомбу, пока не истекло время"/>
+	</entry>
+	<entry key="pvp_tbs_game_mode_desc">
+		<original value="DEFUSE OBJECTIVE"/>
+		<translation value="БЛИЦ"/>
+	</entry>
+	<entry key="tbs_bomb_plant">
+		<original value="Explosive set"/>
+		<translation value="Бомба установлена"/>
+	</entry>
+	<entry key="pre_round_msg_balance">
+		<original value="Start in %1 sec\nTeams was balanced"/>
+		<translation value="Начало матча через %1 сек.\nКоманды сбалансированы"/>
+	</entry>
+	<entry key="pvp_balance_msg">
+		<original value="Teams were balanced"/>
+		<translation value="Команды сбалансированы"/>
+	</entry>
+	<entry key="game_paused">
+		<original value="Game Paused"/>
+		<translation value="Игра приостановлена"/>
+	</entry>
+	<entry key="pvp_lms_mission_desc">
+		<original value="Stay the last survived"/>
+		<translation value="Останьтесь последним выжившим."/>
+	</entry>
+	<entry key="pvp_lms_game_mode_desc">
+		<original value="LAST MAN STANDING"/>
+		<translation value="КОРОЛЕВСКАЯ БИТВА"/>
+	</entry>
+	<entry key="lms_round_start">
+		<original value="Only one will survive"/>
+		<translation value="Выживет только один!"/>
+	</entry>
+	<entry key="score_were_changed_by_admin">
+		<original value="Score were changed by admin: (%old1% : %old2%) -&gt; (%new1% : %new2%)"/>
+		<translation value="Счет изменен администратором: (%old1% : %old2%) -&gt; (%new1% : %new2%)"/>
+	</entry>
+	<entry key="dst_press_use_mars">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to set up pyrotechnics"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы использовать пиротехнику"/>
+	</entry>
+	<entry key="dst_press_use_mars_tornado">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to generate tornado"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы запустить торнадо"/>
+	</entry>
+	<entry key="dst_press_use_mars_sandstorm">
+		<original value="Press &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to generate sandstorm"/>
+		<translation value="Нажмите &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы создать песчаную бурю"/>
+	</entry>
+	<entry key="dst_open_door">
+		<original value="Press and hold &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt; to open door"/>
+		<translation value="Нажмите и удерживайте &lt;font color='#ffc800'&gt;%[default:use]&lt;/font&gt;, чтобы открыть дверь"/>
+	</entry>
 </localization>

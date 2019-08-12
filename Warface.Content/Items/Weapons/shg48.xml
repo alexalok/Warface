@@ -4,6 +4,7 @@
 	    <material name="mars02"/>
 	    <material name="mars01"/>
 	    <material name="bp06"/>
+	    <material name="vk01"/>		
 	</skins>
     <tags>
     <tag name="shg"/>

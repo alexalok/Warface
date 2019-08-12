@@ -1,5 +1,7 @@
 <item class="K01_Item" name="pt38_is_d" type="attachment" view_settings="objects/weapons/pt38/pt38_is_d.xml">
 	<skins>
+		<material name="default"/>
+		<material name="oc04"/>
 	</skins>
 	<UI_stats>
 		<param name="name" value="@is_default_name"/>

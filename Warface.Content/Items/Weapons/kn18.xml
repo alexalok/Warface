@@ -11,7 +11,8 @@
 		<material name="bp05" />		
 		<material name="xmas04" />		
 		<material name="stream01" />	
-		<material name="an07"/>				
+		<material name="an07"/>		
+		<material name="vk01"/>			
 	</skins>
 	<mmo_stats>
 		<param name="item_category" value="Melee"/>
@@ -28,6 +29,7 @@
 			<item name="kn18_xmas04skin_shop" />			
 			<item name="kn18_stream01skin_shop" />		
 			<item name="kn18_an07skin_shop" />					
+			<item name="kn18_vk01skin_shop" />				
 		</skin_content>
 	<UI_stats>
 		<param name="name" value="@kn18_shop_name"/>

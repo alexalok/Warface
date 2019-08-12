@@ -1,5 +1,9 @@
 <item name="ar29_sc_d" class="K01_Item" type="attachment" view_settings="objects/weapons/ar29/ar29_sc_d.xml">
 	<description_ingame text="@ui_ar29_sc_d_ingame"/>
+	<skins>
+		<material name="default"/>
+		<material name="oc04"/>
+	</skins>
 	<mmo_stats>
 		<param name="item_category" value="attachment"/>
 		<param name="shopcontent" value="1"/>

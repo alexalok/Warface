@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
-	<entry>
-		<original/>
-		<translation/>
-	</entry>
 	<entry key="game_room_name">
 		<original value="%1's GAME ROOM"/>
 		<translation value="Комната игрока %1"/>
@@ -415,5 +411,9 @@
 	<entry key="pvp_mission_display_name_ffa_widestreet_up">
 		<original value="WIDESTREET_UP"/>
 		<translation value="ПРИГОРОД"/>
+	</entry>
+	<entry key="pvp_mission_display_name_dst_mars">
+		<original value="MARS"/>
+		<translation value="СТУДИЯ"/>
 	</entry>
 </localization>

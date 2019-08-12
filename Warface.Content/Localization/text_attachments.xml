@@ -61,11 +61,11 @@
 		<translation value="TBD"/>
 	</entry>
 	<entry key="ui_accessories_rds06">
-		<original/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\nImproves &lt;font color='#42ebf8'&gt;accuracy by 30%&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;.\nIncrease &lt;font color='#42ebf8'&gt;aim speed&lt;/font&gt;."/>
 		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="ui_rds06_ingame">
-		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Increase aim speed&lt;/font&gt;"/>
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Improves &lt;font color='#42ebf8'&gt;accuracy by 30%&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;.\nIncrease &lt;font color='#42ebf8'&gt;aim speed&lt;/font&gt;."/>
 		<translation value="Быстрое &lt;font color='#42ebf8'&gt;1.2-кратное&lt;/font&gt; увеличение\nПовышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="sp09_shop_name">
@@ -169,19 +169,19 @@
 		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt; при стрельбе из положения лежа\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt; при стрельбе из положения лежа\n"/>
 	</entry>
 	<entry key="ui_gpp03_ingame">
-		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n"/>
 		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="ui_gpp04_ingame">
-		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<original value="Decrease &lt;font color='#42ebf8'&gt;sway by 25%&lt;/font&gt; in prone"/>
 		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="ui_gpp05_ingame">
-		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
 		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="ui_gpp06_ingame">
-		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n"/>
 		<translation value="Повышает &lt;font color='#42ebf8'&gt;точность&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;отдачу&lt;/font&gt;\nУменьшает &lt;font color='#42ebf8'&gt;колебания ствола&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="ui_accessories_psb01">
@@ -193,71 +193,71 @@
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#42ebf8'&gt;Не уменьшает&lt;/font&gt; урон"/>
 	</entry>
 	<entry key="ui_accessories_bn01_camo02">
-		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
 		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_bn02_camo02">
-		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
 		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_bn03_camo02">
-		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
 		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_bn05_camo02">
-		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 20%&lt;/font&gt;"/>
 		<translation value="Повышает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;урон в ближнем бою&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_sc01_camo02">
-		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_sc02_camo02">
-		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font color='#FF4400'&gt;Strongly decreases damage&lt;/font&gt;"/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font color='#FF4400'&gt;Decreases damage by 15%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font color='#FF4400'&gt;Значительно уменьшает урон&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_sc03_camo02">
-		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_sc04_camo02">
-		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_sc05_camo02">
-		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_sc06_camo02">
-		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage&lt;/font&gt;"/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Повышает точность&lt;/font&gt;\n&lt;font color='#FF4400'&gt;Уменьшает урон&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_sc01_camo02_ingame">
-		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;\nУвеличивает &lt;font size='14'&gt;&lt;font color='#ff4400'&gt;падение урона&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="ui_sc02_camo02_ingame">
-		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Greatly decrease &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Decrease &lt;font color='#FF4400'&gt;damage by 15%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nУменьшает урон на &lt;font color='#FF4400'&gt;15%&lt;/font&gt;\nУвеличивает &lt;font size='14'&gt;&lt;font color='#ff4400'&gt;падение урона&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_sc03_camo02_ingame">
-		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;15%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_sc04_camo02_ingame">
-		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_sc05_camo02_ingame">
-		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_sc06_camo02_ingame">
-		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage&lt;/font&gt;"/>
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
 		<translation value="Делает стрельбу &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;менее&lt;/font&gt; заметной\nПовышает точность на &lt;font color='#42ebf8'&gt;10%&lt;/font&gt;\nУменьшает урон на &lt;font color='#FF4400'&gt;10%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_accessories_sp02_camo02">
-		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 30%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
 		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="ui_accessories_sp03_camo02">
@@ -2067,5 +2067,21 @@
 	<entry key="ui_ar35_rds01_d_ingame">
 		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
 		<translation value="Быстрое &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3-кратное&lt;/font&gt; увеличение\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;колебания ствола в режиме прицеливания&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr47_sp01_d_shop_name">
+		<original value="Truvelo CMS Special Suppressor"/>
+		<translation value="Особый пламегаситель CMS"/>
+	</entry>
+	<entry key="ui_sr47_sp01_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;падение урона&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr47_sp02_d_shop_name">
+		<original value="Truvelo CMS Tactical Suppressor"/>
+		<translation value="Тактический пламегаситель CMS"/>
+	</entry>
+	<entry key="ui_sr47_sp02_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;minimal range&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Уменьшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дульное пламя&lt;/font&gt;\nУвеличивает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;дальность стрельбы&lt;/font&gt;\nУлучшает &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;пробивную способность&lt;/font&gt;"/>
 	</entry>
 </localization>

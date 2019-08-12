@@ -12,6 +12,7 @@
     <material name="rank03" />
     <material name="rank04" />
 	<material name="jp01"/>
+	<material name="vk01"/>	
   </skins>
   <icons>
     <ui_icon name="pt16" />

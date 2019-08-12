@@ -7,9 +7,12 @@
     </UI_stats>
     <set_items>
 		<item name="medic_helmet_legend_01"/>
+		<item name="medic_hands_legend_01"/>
     	<item name="medic_hands_legend_01_02"/>
+		<item name="medic_hands_legend_01_03"/>
         <item name="medic_vest_legend_01"/>
-        <item name="medic_shoes_legend_01_02"/>		
+        <item name="medic_shoes_legend_01_02"/>	
+        <item name="medic_shoes_legend_01_03"/>			
     </set_items>
     <set_bonuses>
         <bonus items_need="2" name="set_modernforce_03_bonus01"/>

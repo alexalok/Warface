@@ -6,6 +6,7 @@
         <material name="default" />	
 		<material name="an07"/>				
 		<material name="bp06"/>				
+		<material name="oc04"/>				
 	</skins>
 	<icons>
 		<ui_icon name="pt38"/>

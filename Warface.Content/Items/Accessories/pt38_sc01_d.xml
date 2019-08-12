@@ -1,6 +1,7 @@
 <item class="K01_Item" name="pt38_sc01_d" type="attachment" view_settings="objects/weapons/pt38/pt38_sc02_d.xml">
 	<skins>
 		<material name="default"/>
+		<material name="oc04"/>
 	</skins>
 	<description_ingame text="@ui_pt38_sc01_d_ingame"/>
 	<UI_stats>

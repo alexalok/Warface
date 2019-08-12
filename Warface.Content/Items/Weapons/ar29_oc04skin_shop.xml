@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<shop_item name="ar29_oc04skin_shop" type="weapon_skin">
+		<mmo_stats>
+			<param name="item_category" value="primarySkin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ar29_oc04skin_shop_name"/>
+			<param name="description" value="@ar29_oc04"/>
+			<param name="icon" value="ar29_oc04"/>
+		</UI_stats>
+		<skin>
+			<param name="thumbnail_icon" value="ar29_oc04_thumbnail"/>
+			<param name="material" value="oc04"/>
+		</skin>
+	</shop_item>

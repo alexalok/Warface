@@ -170,6 +170,7 @@
       <support helper="top_small" name="as03" />
       <support helper="top_small" name="rds01" />
       <support helper="top_small" name="rds02" />
+      <support helper="top_small" name="rds07" />
     </socket>
     <socket can_be_empty="1" name="underbarrel" ui_helper="ui_underbarrel">
       <support helper="smg44_gp_d" name="smg44_oc04_gp_d" />

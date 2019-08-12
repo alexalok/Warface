@@ -7,7 +7,9 @@
     </UI_stats>
     <set_items>
 		<item name="engineer_helmet_legend_01"/>
+		<item name="engineer_hands_legend_01"/>
     	<item name="engineer_hands_legend_01_02"/>
+		<item name="engineer_hands_legend_01_03"/>
         <item name="engineer_vest_legend_01"/>
         <item name="engineer_shoes_legend_01_02"/> 		
     </set_items>

@@ -3,7 +3,7 @@
 		<mmo_stats>
 			<param name="item_category" value="meleeSkin"/>
 			<param name="shopcontent" value="1"/>
-			<param name="classes" value="R"/>
+			<param name="classes" value="SREM"/>
 			<param name="testcontent" value="1"/>
 		</mmo_stats>
 		<UI_stats>

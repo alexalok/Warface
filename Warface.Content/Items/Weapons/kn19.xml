@@ -15,6 +15,7 @@
     <material name="red01" />
 	<material name="jp01"/>
 	<material name="bp06"/>
+	<material name="oc04"/>
   </skins>
   <mmo_stats>
     <param name="item_category" value="Melee" />
@@ -34,6 +35,7 @@
     <item name="kn19_warf01skin_shop" />
     <item name="kn19_jp01skin_shop" />
     <item name="kn19_bp06skin_shop" />
+    <item name="kn19_oc04skin_shop" />
   </skin_content>
   <UI_stats>
     <param name="name" value="@kn19_shop_name" />

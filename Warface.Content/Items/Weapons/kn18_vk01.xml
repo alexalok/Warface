@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item category="small" class="K01_Item" name="kn18_vk01" net_policy="weapon" priority="3" type="weapon" view_settings="objects/weapons/kn18/kn18.xml">
+<tags>
+    <tag name="melee" />
+</tags>
+	<skins>
+		<material name="vk01"/>				
+	</skins>
+	<mmo_stats>
+		<param name="item_category" value="Melee"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="SRME"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="1500"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@kn18_vk01_shop_name"/>
+		<param name="description" value="@ui_weapons_kn18_vk01"/>
+		<param name="icon" value="kn18_vk01"/>
+	</UI_stats>
+	<content>
+		<item name="kn18_vk01"/>
+	</content>
+	<icons>
+		<combatlog melee="Kn18_combatLog"/>
+		<weaponpanel icon="Kn18_combatLog"/>
+	</icons>
+	<settings>
+		<param name="rpm" value="80"/>
+		<param name="melee_damage" value="85"/>
+		<param name="melee_range" value="1.8"/>
+		<param name="melee_radius" value="0.3"/>
+		<param name="secondary_melee_damage" value="160"/>
+		<param name="secondary_melee_range" value="2"/>
+		<param name="secondary_melee_radius" value="0.4"/>
+		<param name="recoil_max" value="500"/>
+		<param name="recoil_max_mul" value="1"/>
+		<param name="recoil_att" value="70"/>
+		<param name="recoil_att_mul" value="1"/>
+		<param name="recoil_dec" value="250"/>
+		<param name="recoil_dec_mul" value="1"/>
+		<param name="recoil_rnd" value="0.3"/>
+		<param name="spread_min" value="13"/>
+		<param name="spread_max" value="15"/>
+		<param name="spread_att" value="0.5"/>
+		<param name="spread_dec" value="0.1"/>
+		<param name="sway_dec" value="1"/>
+		<param name="sway_dec_mul" value="1"/>
+		<param name="sway_mul" value="1"/>
+		<param name="sway_min_x" value="0"/>
+		<param name="sway_min_y" value="0"/>
+		<param name="select_duration" value="250"/>
+		<param name="deselect_duration" value="600"/>
+		<param name="reload_duration" value="2000"/>
+		<param name="melee_out_duration" value="170"/>
+		<param name="melee_duration" value="280"/>
+		<param name="secondary_melee_duration" value="875"/>
+		<param name="secondary_melee_out_duration" value="600"/>
+		<param name="toss_duration" value="220"/>
+		<param name="holster_in_duration" value="250"/>
+		<param name="melee_knock_back_chance" value="0"/>
+		<param name="knock_back_chance" value="0"/>
+	</settings>
+	<firemodes>
+		<firemode icon="FireModeMelee" type="Melee"/>
+	</firemodes>
+	<melee_params>
+		<param name="impulse" value="60"/>
+	</melee_params>
+	<secondary_melee_params>
+		<param name="impulse" value="100"/>
+		<param name="hit_type" value="melee_secondary"/>
+	</secondary_melee_params>
+	<sockets>
+		<socket can_be_empty="0">
+			<support helper="top_small" name="top_small"/>
+			<support helper="top_large" name="top_large"/>
+		</socket>
+		<socket>
+			<support helper="bottom" name="bottom"/>
+		</socket>
+	</sockets>
+</item>

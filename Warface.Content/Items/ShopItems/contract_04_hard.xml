@@ -164,6 +164,7 @@
 			<Filter kind="weapon" param="sr45_shop"/>
 			<Filter kind="weapon" param="sr45_gold01_shop"/>
 			<Filter kind="weapon" param="sr39_bp05_shop"/>
+			<Filter kind="weapon" param="sr39_vk01_shop"/>
 			<Filter kind="weapon" param="sr44_bp05_shop"/>
 			<Filter kind="weapon" param="sr45_bp05_shop"/>
 			<Filter kind="weapon" param="sr46_shop"/>
@@ -178,6 +179,11 @@
 			<Filter kind="weapon" param="sr09_bp06_shop"/>	
 			<Filter kind="weapon" param="sr37_bp06_shop"/>	
 			<Filter kind="weapon" param="sr46_bp06_shop"/>
+			<Filter kind="weapon" param="sr46_oc04_shop"/>
+			<Filter kind="weapon" param="sr47_shop"/>
+			<Filter kind="weapon" param="sr47_gold01_shop"/>
+			<Filter kind="weapon" param="sr48_shop"/>
+			<Filter kind="weapon" param="sr48_gold01_shop"/>
 		</Filters>
 		<Reward name="game_money_item_01" amount="1000"/>
 	</contract>

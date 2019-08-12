@@ -1,0 +1,25 @@
+<item class="K01_Item" name="smg44_oc04_gp_d" type="attachment" view_settings="objects/weapons/smg44/smg44_gp_d.xml">
+		<skins>
+		<material name="default"/>
+		<material name="oc04"/>
+	</skins>
+		<description_ingame text="@ui_smg44_gp_d_ingame"/>
+		<UI_stats>
+			<param name="name" value="@smg44_gp_d_name"/>
+			<param name="description" value="@ui_accessories_smg44_gp_d"/>
+			<param name="icon" value="smg44_oc04_gp_d"/>
+		</UI_stats>
+		<drop_params>
+			<item name="smg44_oc04_gp_d" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="spread_min_mul" value="0.8"/>
+			<param name="spread_max_mul" value="0.8"/>
+			<param name="recoil_att_mul" value="0.8"/>
+			<param name="recoil_max_mul" value="0.8"/>
+			<param name="reload_duration_mul" value="0.9"/>
+		</settings>
+		<types>
+			<type helper="smg44_gp_d" name="smg44_oc04_gp_d"/>
+		</types>
+	</item>

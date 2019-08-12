@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+	<item class="K01_Item" name="shg51_oc04_gp02_d" type="attachment" view_settings="objects/attachments/gp06/gp06.xml">
+		<description_ingame text="@ui_shg51_gp02_d_ingame"/>
+		<skins>
+			<material name="default"/>
+			<material name="oc04"/>
+		</skins>
+		<UI_stats>
+			<param name="name" value="@shg51_gp02_d_name"/>
+			<param name="description" value="@ui_shg51_gp02_d"/>
+			<param name="icon" value="gp06"/>
+		</UI_stats>
+		<skins>
+			<material name="default"/>
+			<material name="oc04"/>
+		</skins>
+		<mmo_stats>
+			<param name="item_category" value="attachment"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+		</mmo_stats>
+		<drop_params>
+			<item name="shg51_oc04_gp02_d" type="attachment"/>
+		</drop_params>
+		<settings>
+			<param name="recoil_att_mul" value="0.7"/>
+		    <param name="recoil_max_mul" value="0.8"/>
+		</settings>
+		<types>
+			<type helper="underbarrel_middle" name="shg51_oc04_gp02_d"/>
+		</types>
+	</item>

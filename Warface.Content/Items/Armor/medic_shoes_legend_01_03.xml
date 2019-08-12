@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+	<GameItem name="medic_shoes_legend_01_03" type="armor">
+		<mmo_stats>
+			<param name="item_category" value="Boots"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="M"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="6180"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_medic_shoes_legend_01_03_name"/>
+			<param name="description" value="@ui_armor_medic_shoes_legend_01_03"/>
+			<param name="icon" value="medic_shoes_legend_03"/>
+		</UI_stats>
+		<slots>
+			<slot main="1" name="boots">
+				<materials>
+					<Material default="1" display_name="black" icon="mat_black" name="default" surface_type="mat_armor_legs"/>
+				</materials>
+				<assets>
+					<asset display="all" mode="tp" name="medic_shoes_legend_01_03" teamId="1"/>
+					<asset display="all" mode="tp" name="medic_shoes_legend_01_03_b" teamId="2"/>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+		<param name="res_legs" value="0.15"/> 
+		<param name="slide_dist_mul" value="1.3"/>
+		<param name="sprint_time_mul" value="1.5"/>
+		</GameParams>
+	</GameItem>
+
