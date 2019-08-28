@@ -302,7 +302,7 @@
 	</entry>
 	<entry key="ui_armor_shared_vest_02">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Vest &quot;Arma&quot;&lt;/b&gt;&lt;/font&gt; \n Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points \n Regenerate &lt;font size='16' color='#42ebf8'&gt;4 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Бронежилет 'Арма'&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Бронежилет 'Арма'&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_shared_vest_03">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Anti-explosive vest&lt;/b&gt;&lt;/font&gt; \n Protection from explosives by &lt;font size='16' color='#42ebf8'&gt;25%&lt;/font&gt;\n"/>
@@ -506,7 +506,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_vest_02">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Vest &quot;Gidra-II&quot;&lt;/b&gt;&lt;/font&gt; \n Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points\n Regenerate &lt;font size='16' color='#42ebf8'&gt;2 health&lt;/font&gt; points over time(after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Regenerate &lt;font size='16' color='#42ebf8'&gt;4 armor&lt;/font&gt; points over time&lt;/font&gt; (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Бронежилет 'Гидра-II'&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Бронежилет 'Гидра-II'&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_soldier_vest_02_name">
 		<original value="Vest &quot;Gidra-II&quot;"/>
@@ -546,7 +546,7 @@
 	</entry>
 	<entry key="ui_armor_shared_vest_crown_01">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Crown vest&lt;/b&gt;&lt;/font&gt; \n Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 2 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Regenerate&lt;font size='16' color='#42ebf8'&gt; 4 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Protection from explosives by&lt;font size='16' color='#42ebf8'&gt; 25%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Бронежилет элиты&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;25%&lt;/font&gt; повышает защиту от взрывчатки\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Бронежилет элиты&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;25%&lt;/font&gt; повышает защиту от взрывчатки\n"/>
 	</entry>
 	<entry key="ui_armor_shared_vest_crown_01_name">
 		<original value="Crown Vest"/>
@@ -818,7 +818,7 @@
 	</entry>
 	<entry key="ui_armor_shared_vest_hlw_02">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Cool Halloween vest ver.2&lt;/b&gt;&lt;/font&gt; \nEnjoy! Provides &lt;font size='16' color='#42ebf8'&gt; 50 &lt;/font&gt; additiona armor points\n Decrease damage by &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; points per hit\n Regenerate &lt;font size='16' color='#42ebf8'&gt;4 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Increase primary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Альтернативный вариант жилета на Halloween.&lt;/b&gt;&lt;/font&gt;\nС праздником!\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nСнижает урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;100%&lt;/font&gt; повышает количество патронов для основного оружия\nКонфета или жизнь!"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Альтернативный вариант жилета на Halloween.&lt;/b&gt;&lt;/font&gt;\nС праздником!\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nСнижает урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;100%&lt;/font&gt; повышает количество патронов для основного оружия\nКонфета или жизнь!"/>
 	</entry>
 	<entry key="ui_armor_engineer_fbs_01_name">
 		<original value="Special Engineer's Suit"/>
@@ -1082,7 +1082,7 @@
 	</entry>
 	<entry key="ui_armor_shared_helmet_zsd_01">
 		<original value="Do you want to be cyborg?\n Regenerate &lt;font size='16' color='#42ebf8'&gt; 1 health &lt;/font&gt;points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Decrease flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40% &lt;/font&gt; \n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Маска киборга&lt;/b&gt;&lt;/font&gt;\nПочувствуйте себя настоящим киборгом.\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Маска киборга&lt;/b&gt;&lt;/font&gt;\nПочувствуйте себя настоящим киборгом.\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
 	</entry>
 	<entry key="ui_armor_shared_vest_crown_02_name">
 		<original value="Crown Vest"/>
@@ -1090,7 +1090,7 @@
 	</entry>
 	<entry key="ui_armor_shared_vest_crown_02">
 		<original value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Elite crown vest&lt;/b&gt;&lt;/font&gt; \n Granted &lt;font size='16' color='#42ebf8'&gt;125&lt;/font&gt; armor points \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 3 armor&lt;/font&gt; points over time&lt;/font&gt; (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Increae primary and secondary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;100%&lt;/font&gt;\n Decrease flash bang effect by &lt;font size='16' color='#42ebf8'&gt;25% &lt;/font&gt; \n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Элитный жилет&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;125&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;3 очка брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;100%&lt;/font&gt; повышает количество патронов для основного и дополнительного оружия\nНа &lt;font size='16' color='#42ebf8'&gt;25%&lt;/font&gt; повышает защиту от взрывчатки\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Элитный жилет&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;125&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;3 очка брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;100%&lt;/font&gt; повышает количество патронов для основного и дополнительного оружия\nНа &lt;font size='16' color='#42ebf8'&gt;25%&lt;/font&gt; повышает защиту от взрывчатки\n"/>
 	</entry>
 	<entry key="ui_armor_shared_hands_crown_02_name">
 		<original value="Crown Hands"/>
@@ -1114,7 +1114,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_crown_02">
 		<original value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Elite crown helmet&lt;/b&gt;&lt;/font&gt; \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time&lt;/font&gt; (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\n Decrease flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40% &lt;/font&gt; \n"/>
-		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Элитный шлем&lt;/b&gt;&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Элитный шлем&lt;/b&gt;&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_crown_02_name">
 		<original value="Crown helmet"/>
@@ -1122,7 +1122,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_crown_02">
 		<original value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Elite crown helmet&lt;/b&gt;&lt;/font&gt; \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time&lt;/font&gt; (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\n Decrease flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40% &lt;/font&gt; \n"/>
-		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Элитный шлем&lt;/b&gt;&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Элитный шлем&lt;/b&gt;&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
 	</entry>
 	<entry key="ui_armor_engineer_helmet_crown_02_name">
 		<original value="Crown helmet"/>
@@ -1130,7 +1130,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_crown_02">
 		<original value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Elite crown helmet&lt;/b&gt;&lt;/font&gt; \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time&lt;/font&gt; (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\n Decrease flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40% &lt;/font&gt; \n"/>
-		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Элитный шлем&lt;/b&gt;&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Элитный шлем&lt;/b&gt;&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_crown_02_name">
 		<original value="Crown helmet"/>
@@ -1138,7 +1138,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_crown_02">
 		<original value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Elite crown helmet&lt;/b&gt;&lt;/font&gt; \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time&lt;/font&gt; (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\n Decrease flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40% &lt;/font&gt; \n"/>
-		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Элитный шлем&lt;/b&gt;&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Элитный шлем&lt;/b&gt;&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
 	</entry>
 	<entry key="ui_armor_soldier_vest_03_name">
 		<original value="Vest &quot;Python&quot;"/>
@@ -1250,7 +1250,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_07">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Warlord soldier helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \n Regenerate &lt;font size='16' color='#42ebf8'&gt; 2 health &lt;/font&gt;points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой шлем штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой шлем штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_07_name">
 		<original value="Warlord sniper helmet"/>
@@ -1258,7 +1258,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_07">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Warlord sniper helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \n Regenerate &lt;font size='16' color='#42ebf8'&gt; 2 health &lt;/font&gt;points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой шлем снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой шлем снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_07_name">
 		<original value="Warlord medic helmet"/>
@@ -1266,7 +1266,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_07">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Warlord medic helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \n Regenerate &lt;font size='16' color='#42ebf8'&gt; 2 health &lt;/font&gt;points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой шлем медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой шлем медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_engineer_helmet_07_name">
 		<original value="Warlord engineer helmet"/>
@@ -1274,7 +1274,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_07">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Warlord engineer helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \n Regenerate &lt;font size='16' color='#42ebf8'&gt;2 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой шлем инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой шлем инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_soldier_vest_04_name">
 		<original value="Warlord soldier vest"/>
@@ -1282,7 +1282,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_vest_04">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Warlord soldier vest&lt;/b&gt;&lt;/font&gt;\n Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 8 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Decrease reload duration by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n Choice of skilled fighters.\n This outfit is ideal for use with &quot;Warlord&quot; helmet.\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой жилет штурмовика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышает скорость перезарядки\nВыбор настоящего профессионала.\nОтлично сочетается с боевым шлемом.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой жилет штурмовика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышает скорость перезарядки\nВыбор настоящего профессионала.\nОтлично сочетается с боевым шлемом.\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_vest_04_name">
 		<original value="Warlord sniper vest"/>
@@ -1290,7 +1290,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_vest_04">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Warlord sniper vest&lt;/b&gt;&lt;/font&gt;\n Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 8 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Protection from explosives by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\n Choice of skilled fighters.\n This outfit is ideal for use with &quot;Warlord&quot; helmet.\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой жилет снайпера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; повышает защиту от взрывчатки\nВыбор настоящего профессионала.\nОтлично сочетается с боевым шлемом.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой жилет снайпера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; повышает защиту от взрывчатки\nВыбор настоящего профессионала.\nОтлично сочетается с боевым шлемом.\n"/>
 	</entry>
 	<entry key="ui_armor_medic_vest_04_name">
 		<original value="Warlord medic vest"/>
@@ -1298,7 +1298,7 @@
 	</entry>
 	<entry key="ui_armor_medic_vest_04">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Warlord medic vest&lt;/b&gt;&lt;/font&gt; \n Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points \n Regenerate&lt;font size='16' color='#42ebf8'&gt; 8 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n Decrease bullet damage by &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; points per hit\n Choice of skilled fighters.\n This outfit is ideal for use with &quot;Warlord&quot; helmet.\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой жилет медика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nСнижает урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание\nВыбор настоящего профессионала.\nОтлично сочетается с боевым шлемом.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой жилет медика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков брони&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nСнижает урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание\nВыбор настоящего профессионала.\nОтлично сочетается с боевым шлемом.\n"/>
 	</entry>
 	<entry key="ui_armor_engineer_vest_04_name">
 		<original value="Warlord engineer vest"/>
@@ -1306,7 +1306,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_vest_04">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Warlord engineer vest&lt;/b&gt;&lt;/font&gt;\Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points \nProtection from explosives by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n Regenerate&lt;font size='16' color='#42ebf8'&gt; 8 armor&lt;/font&gt; points over time&lt;/font&gt; (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\nIncrease primary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;200%&lt;/font&gt;\nChoice of skilled fighters.\nThis outfit is ideal for use with &quot;Warlord&quot; helmet.\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой жилет инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nУвеличивает защиту от взрывчатки на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;200%&lt;/font&gt; повышает количество патронов для основного оружия\nВыбор настоящего профессионала.\nОтлично сочетается с боевым шлемом.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боевой жилет инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nУвеличивает защиту от взрывчатки на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\nНа &lt;font size='16' color='#42ebf8'&gt;200%&lt;/font&gt; повышает количество патронов для основного оружия\nВыбор настоящего профессионала.\nОтлично сочетается с боевым шлемом.\n"/>
 	</entry>
 	<entry key="ui_armor_f_engineer_fbs_04_name">
 		<original value="Engineer of &quot;Widow makers squad&quot;"/>
@@ -1370,7 +1370,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_lava_01">
 		<original value="&lt;font size='22' color='#42ebf8'&gt;-Decrease flash bang effect by 40%.&lt;/font&gt;\n &lt;font size='22' color='#42ebf8'&gt;-Provide advanced head protection.&lt;/font&gt;\n &lt;font size='22' color='#42ebf8'&gt;-Regenerate 2 HP over time &lt;/font&gt;\n (after &lt;font size='16' color='#42ebf8'&gt;2 secs&lt;/font&gt; with no hits)\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем штурмовика 'Магма'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем штурмовика 'Магма'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_engineer_helmet_lava_01_name">
 		<original value="Engineer Magmatic Helmet"/>
@@ -1378,7 +1378,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_lava_01">
 		<original value="&lt;font size='22' color='#42ebf8'&gt;-Decrease flash bang effect by 40%.&lt;/font&gt;\n &lt;font size='22' color='#42ebf8'&gt;-Provide advanced head protection.&lt;/font&gt;\n &lt;font size='22' color='#42ebf8'&gt;-Regenerate 2 HP over time &lt;/font&gt;\n (after &lt;font size='16' color='#42ebf8'&gt;2 secs&lt;/font&gt; with no hits)\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем инженера 'Магма'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем инженера 'Магма'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_lava_01_name">
 		<original value="Medeic Magmatic Helmet"/>
@@ -1386,7 +1386,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_lava_01">
 		<original value="&lt;font size='22' color='#42ebf8'&gt;-Decrease flash bang effect by 40%.&lt;/font&gt;\n &lt;font size='22' color='#42ebf8'&gt;-Provide advanced head protection.&lt;/font&gt;\n &lt;font size='22' color='#42ebf8'&gt;-Regenerate 2 HP over time &lt;/font&gt;\n (after &lt;font size='16' color='#42ebf8'&gt;2 secs&lt;/font&gt; with no hits)\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем медика 'Магма'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем медика 'Магма'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_lava_01_name">
 		<original value="Sniper Magmatic Helmet"/>
@@ -1394,7 +1394,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_lava_01">
 		<original value="&lt;font size='22' color='#42ebf8'&gt;-Decrease flash bang effect by 40%.&lt;/font&gt;\n &lt;font size='22' color='#42ebf8'&gt;-Provide advanced head protection.&lt;/font&gt;\n &lt;font size='22' color='#42ebf8'&gt;-Regenerate 2 HP over time &lt;/font&gt;\n (after &lt;font size='16' color='#42ebf8'&gt;2 secs&lt;/font&gt; with no hits)\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем снайпера 'Магма'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем снайпера 'Магма'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_opc_01_name">
 		<original value="Rifleman Open Cup Helmet"/>
@@ -1418,7 +1418,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_opc_01">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Open Cup spring 2016&lt;/b&gt;&lt;/font&gt; \n &lt;font size='22' color='#42ebf8'&gt;-Decrease flash bang effect by 40%.&lt;/font&gt;\n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;.\nRegenerates&lt;font size='16' color='#42ebf8'&gt; 7 health points &lt;/font&gt;over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits).\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем в честь Open Cup&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;7 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем в честь Open Cup&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; повышает защиту головы\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;7 очков здоровья&lt;/font&gt;\n(после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_opc_01_name">
 		<original value="Sniper Open Cup Helmet"/>
@@ -1434,7 +1434,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_10">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;&quot;Top dog&quot; soldier helmet&lt;/b&gt;&lt;/font&gt; \n &lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Has cheaper repair cost&lt;/b&gt;&lt;/font&gt; \n Provide &lt;font size='16' color='#42ebf8'&gt;moderate&lt;/font&gt; head protection \n Regenerate &lt;font size='16' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем 'Лидер' штурмовика&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Цена ремонта снижена&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает &lt;font size='16' color='#42ebf8'&gt; 8 очков здоровья &lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем 'Лидер' штурмовика&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Цена ремонта снижена&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nВосстанавливает &lt;font size='16' color='#42ebf8'&gt; 8 очков здоровья &lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_10_name">
 		<original value="Top dog sniper helmet"/>
@@ -1442,7 +1442,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_10">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;&quot;Top dog&quot; sniper helmet&lt;/b&gt;&lt;/font&gt; \n &lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Has cheaper repair cost&lt;/b&gt;&lt;/font&gt; \n Provide &lt;font size='16' color='#42ebf8'&gt;moderate&lt;/font&gt; head protection \n Regenerate &lt;font size='16' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем 'Лидер' снайпера&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Цена ремонта снижена&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает &lt;font size='16' color='#42ebf8'&gt; 8 очков здоровья &lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем 'Лидер' снайпера&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Цена ремонта снижена&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nВосстанавливает &lt;font size='16' color='#42ebf8'&gt; 8 очков здоровья &lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)"/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_10_name">
 		<original value="Top dog medic helmet"/>
@@ -1450,7 +1450,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_10">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;&quot;Top dog&quot; medic helmet&lt;/b&gt;&lt;/font&gt; \n &lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Has cheaper repair cost&lt;/b&gt;&lt;/font&gt; \n Provide &lt;font size='16' color='#42ebf8'&gt;moderate&lt;/font&gt; head protection \n Regenerate &lt;font size='16' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем 'Лидер' медика&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Цена ремонта снижена&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает &lt;font size='16' color='#42ebf8'&gt; 8 очков здоровья &lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем 'Лидер' медика&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Цена ремонта снижена&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nВосстанавливает &lt;font size='16' color='#42ebf8'&gt; 8 очков здоровья &lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)"/>
 	</entry>
 	<entry key="ui_armor_engineer_helmet_10_name">
 		<original value="Top dog engineer helmet"/>
@@ -1458,7 +1458,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_10">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;&quot;Top dog&quot; engineer helmet&lt;/b&gt;&lt;/font&gt; \n &lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Has cheaper repair cost&lt;/b&gt;&lt;/font&gt; \n Provide &lt;font size='16' color='#42ebf8'&gt;moderate&lt;/font&gt; head protection \n Regenerate &lt;font size='16' color='#42ebf8'&gt;8 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем 'Лидер' инженера&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Цена ремонта снижена&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nАвтоматически восстанавливает &lt;font size='16' color='#42ebf8'&gt; 8 очков здоровья &lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Шлем 'Лидер' инженера&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Цена ремонта снижена&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt; повышает защиту головы\nВосстанавливает &lt;font size='16' color='#42ebf8'&gt; 8 очков здоровья &lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)"/>
 	</entry>
 	<entry key="ui_armor_soldier_fbs_nano_01_name">
 		<original value="Soldier Nanosuit"/>
@@ -1762,7 +1762,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_fbs_polish_01">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Soldier of the &quot;JW GROM&quot; &lt;/b&gt;&lt;/font&gt; \n JW GROM is a special operations unit of Polish Armed Forces. This elite unit is deployed in various spec-ops and unconventional warfare roles .\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боец из особого подразделения GROM&lt;/b&gt;&lt;/font&gt;\nПольское подразделение особого назначения, которое занимается проведением специальных операций (включая контртеррористические) как в военное, так и в мирное время.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Боец из особого подразделения GROM&lt;/b&gt;&lt;/font&gt;\nПольское подразделение особого назначения, которое занимается проведением специальных операций (включая контртеррористические) как в военное, так и в мирное время."/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_polish_01_name">
 		<original value="GROM Medic"/>
@@ -1770,7 +1770,7 @@
 	</entry>
 	<entry key="ui_armor_medic_fbs_polish_01">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Medic of the &quot;JW GROM&quot; &lt;/b&gt;&lt;/font&gt; \n JW GROM is a special operations unit of Polish Armed Forces. This elite unit is deployed in various spec-ops and unconventional warfare roles .\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Полевой врач из особого подразделения GROM&lt;/b&gt;&lt;/font&gt;\nПольское подразделение особого назначения, которое занимается проведением специальных операций (включая контртеррористические) как в военное, так и в мирное время.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Полевой врач из особого подразделения GROM&lt;/b&gt;&lt;/font&gt;\nПольское подразделение особого назначения, которое занимается проведением специальных операций (включая контртеррористические) как в военное, так и в мирное время."/>
 	</entry>
 	<entry key="ui_armor_engineer_fbs_polish_01_name">
 		<original value="GROM Engineer"/>
@@ -1778,7 +1778,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_fbs_polish_01">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Engineer of the &quot;JW GROM&quot; &lt;/b&gt;&lt;/font&gt; \n JW GROM is a special operations unit of Polish Armed Forces. This elite unit is deployed in various spec-ops and unconventional warfare roles .\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Технический специалист из особого подразделения GROM&lt;/b&gt;&lt;/font&gt;\nПольское подразделение особого назначения, которое занимается проведением специальных операций (включая контртеррористические) как в военное, так и в мирное время.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Технический специалист из особого подразделения GROM&lt;/b&gt;&lt;/font&gt;\nПольское подразделение особого назначения, которое занимается проведением специальных операций (включая контртеррористические) как в военное, так и в мирное время."/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_polish_01_name">
 		<original value="GROM Sniper"/>
@@ -1786,7 +1786,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_fbs_polish_01">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Sniper of the &quot;JW GROM&quot; &lt;/b&gt;&lt;/font&gt; \n JW GROM is a special operations unit of Polish Armed Forces. This elite unit is deployed in various spec-ops and unconventional warfare roles .\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Стрелок из особого подразделения GROM&lt;/b&gt;&lt;/font&gt;\nПольское подразделение особого назначения, которое занимается проведением специальных операций (включая контртеррористические) как в военное, так и в мирное время.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Стрелок из особого подразделения GROM&lt;/b&gt;&lt;/font&gt;\nПольское подразделение особого назначения, которое занимается проведением специальных операций (включая контртеррористические) как в военное, так и в мирное время."/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_09_name">
 		<original value="Green Beret"/>
@@ -1794,7 +1794,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_09">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Green Beret&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\n Regenerates&lt;font size='16' color='#42ebf8'&gt; 8 health points &lt;/font&gt;over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits).\n &lt;font size='16' color='#42ebf8'&gt;Repair costs for this helmet are reduced by 70%&lt;/font&gt;.\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Зеленый берет&lt;/b&gt;&lt;/font&gt;\nПовышает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n&lt;font size='16' color='#42ebf8'&gt;Стоимость ремонта предмета снижена на 70%&lt;/font&gt;.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Зеленый берет&lt;/b&gt;&lt;/font&gt;\nПовышает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n&lt;font size='16' color='#42ebf8'&gt;Стоимость ремонта предмета снижена на 70%&lt;/font&gt;."/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_09_name">
 		<original value="Maroon Beret"/>
@@ -1802,7 +1802,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_09">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Maroon Beret&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\n Regenerates&lt;font size='16' color='#42ebf8'&gt; 8 health points &lt;/font&gt;over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits).\n &lt;font size='16' color='#42ebf8'&gt;Repair costs for this helmet are reduced by 70%&lt;/font&gt;.\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Краповый берет&lt;/b&gt;&lt;/font&gt;\nПовышает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n&lt;font size='16' color='#42ebf8'&gt;Стоимость ремонта предмета снижена на 70%&lt;/font&gt;.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Краповый берет&lt;/b&gt;&lt;/font&gt;\nПовышает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n&lt;font size='16' color='#42ebf8'&gt;Стоимость ремонта предмета снижена на 70%&lt;/font&gt;."/>
 	</entry>
 	<entry key="ui_armor_engineer_helmet_09_name">
 		<original value="Blue Beret"/>
@@ -1810,7 +1810,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_09">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Blue Beret&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\n Regenerates&lt;font size='16' color='#42ebf8'&gt; 8 health points &lt;/font&gt;over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits).\n &lt;font size='16' color='#42ebf8'&gt;Repair costs for this helmet are reduced by 70%&lt;/font&gt;.\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Голубой берет&lt;/b&gt;&lt;/font&gt;\nПовышает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n&lt;font size='16' color='#42ebf8'&gt;Стоимость ремонта предмета снижена на 70%&lt;/font&gt;.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Голубой берет&lt;/b&gt;&lt;/font&gt;\nПовышает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n&lt;font size='16' color='#42ebf8'&gt;Стоимость ремонта предмета снижена на 70%&lt;/font&gt;."/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_09_name">
 		<original value="Black Beret"/>
@@ -1818,7 +1818,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_09">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Black Beret&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\n Regenerates&lt;font size='16' color='#42ebf8'&gt; 8 health points &lt;/font&gt;over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits).\n &lt;font size='16' color='#42ebf8'&gt;Repair costs for this helmet are reduced by 70%&lt;/font&gt;.\n"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Черный берет&lt;/b&gt;&lt;/font&gt;\nПовышает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n&lt;font size='16' color='#42ebf8'&gt;Стоимость ремонта предмета снижена на 70%&lt;/font&gt;.\n"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Черный берет&lt;/b&gt;&lt;/font&gt;\nПовышает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;.\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;8 очков здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n&lt;font size='16' color='#42ebf8'&gt;Стоимость ремонта предмета снижена на 70%&lt;/font&gt;."/>
 	</entry>
 	<entry key="ui_armor_soldier_fbs_comp_02_name">
 		<original value="Soldier &quot;Absolute Power&quot;"/>
@@ -1858,7 +1858,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_comp_02">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Absolute Power&lt;/b&gt;&lt;/font&gt; \n &lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition engineer helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt;\n Decreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Абсолют' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Абсолют' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_comp_02_name">
 		<original value="Absolute Power medic helmet"/>
@@ -1866,7 +1866,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_comp_02">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Absolute Power&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition medic helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt;\n Decreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Абсолют' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Абсолют' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_comp_02_name">
 		<original value="Absolute Power sniper helmet"/>
@@ -1874,7 +1874,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_comp_02">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Absolute Power&lt;/b&gt;&lt;/font&gt; \n &lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition sniper helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt;\n Decreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Абсолют' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Абсолют' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_comp_02_name">
 		<original value="Absolute Power soldier helmet"/>
@@ -1882,7 +1882,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_comp_02">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Absolute Power&lt;/b&gt;&lt;/font&gt; \n &lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition soldier helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt;\n Decreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Абсолют' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Абсолют' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;45%&lt;/font&gt; повышает защиту головы\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_shared_hands_comp_02_name">
 		<original value="Absolute Power gloves"/>
@@ -1890,7 +1890,7 @@
 	</entry>
 	<entry key="ui_armor_shared_hands_comp_02">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Absolute Power&lt;/b&gt;&lt;/font&gt;\n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition gloves&lt;/b&gt;&lt;/font&gt;\nImproves accuracy by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Абсолют'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивают точность\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту рук\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Абсолют'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивают точность\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту рук"/>
 	</entry>
 	<entry key="ui_armor_shared_shoes_comp_02_name">
 		<original value="Absolute Power shoes"/>
@@ -1898,7 +1898,7 @@
 	</entry>
 	<entry key="ui_armor_shared_shoes_comp_02">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Absolute Power&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition shoes&lt;/b&gt;&lt;/font&gt; \nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; \nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; \nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nDelays claymore activation by &lt;font size='16' color='#42ebf8'&gt;2 sec&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Абсолют'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость движения пригнувшись\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Абсолют'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость движения пригнувшись\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин"/>
 	</entry>
 	<entry key="ui_armor_shared_vest_comp_02_name">
 		<original value="Absolute Power vest"/>
@@ -1906,7 +1906,7 @@
 	</entry>
 	<entry key="ui_armor_shared_vest_comp_02">
 		<original value="&lt;font size='18' color='#42EBF8'&gt;&lt;b&gt;Absolute Power&lt;/b&gt;&lt;/font&gt; \n &lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition vest&lt;/b&gt;&lt;/font&gt; \n Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points \n Decreases damage by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; per hit\n Decreases incoming melee damage by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n Regenerate &lt;font size='16' color='#42ebf8'&gt;2 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Абсолют'&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; снижает входящий урон от атак ближнего боя\nАвтоматически восстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Абсолют'&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; снижает входящий урон от атак ближнего боя\nВосстанавливает по &lt;font size='16' color='#42ebf8'&gt;2 очка брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)"/>
 	</entry>
 	<entry key="ui_set_comp_02">
 		<original value="Absolute Power set bonus"/>
@@ -1930,7 +1930,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_comp_18_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;New Generation&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition engineer helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема K.I.W.I. для инженера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема K.I.W.I. для инженера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_comp_18_01_name">
 		<original value="New Generation sniper helmet"/>
@@ -1938,7 +1938,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_comp_18_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;New Generation&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition sniper helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема K.I.W.I. для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема K.I.W.I. для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_comp_18_01_name">
 		<original value="New Generation medic helmet"/>
@@ -1946,7 +1946,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_comp_18_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;New Generation&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition medic helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема K.I.W.I. для медика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема K.I.W.I. для медика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_comp_18_01_name">
 		<original value="New Generation soldier helmet"/>
@@ -1954,7 +1954,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_comp_18_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;New Generation&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition soldier helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема K.I.W.I. для штурмовика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема K.I.W.I. для штурмовика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_armor_shared_vest_comp_18_01_name">
 		<original value="New Generation vest"/>
@@ -1962,7 +1962,7 @@
 	</entry>
 	<entry key="ui_armor_shared_vest_comp_18_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;New Generation&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition vest&lt;/b&gt;&lt;/font&gt; \nIncreases select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt; armor points\nDecreases incoming melee damage by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета K.I.W.I.&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt;\nУвеличивает скорость смены оружия на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; снижает входящий урон от атак ближнего боя\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета K.I.W.I.&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt;\nУвеличивает скорость смены оружия на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; снижает входящий урон от атак ближнего боя"/>
 	</entry>
 	<entry key="ui_armor_shared_hands_comp_18_01_name">
 		<original value="New Generation gloves"/>
@@ -1970,7 +1970,7 @@
 	</entry>
 	<entry key="ui_armor_shared_hands_comp_18_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;New Generation&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition gloves&lt;/b&gt;&lt;/font&gt; \nDecrease recoil force by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток K.I.W.I.&lt;/b&gt;&lt;/font&gt;\nУменьшает отдачу на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nУвеличивает защиту рук на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток K.I.W.I.&lt;/b&gt;&lt;/font&gt;\nУменьшает отдачу на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nУвеличивает защиту рук на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_armor_shared_shoes_comp_18_01_name">
 		<original value="New Generation shoes"/>
@@ -1978,7 +1978,7 @@
 	</entry>
 	<entry key="ui_armor_shared_shoes_comp_18_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;New Generation&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition shoes&lt;/b&gt;&lt;/font&gt; \nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nDelays claymore activation by &lt;font size='16' color='#42ebf8'&gt;3 sec&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок K.I.W.I.&lt;/b&gt;&lt;/font&gt;\nУвеличивает скорость рывка на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nУвеличивает защиту ног на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;3 сек.&lt;/font&gt; задерживает срабатывание противопехотных мин\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок K.I.W.I.&lt;/b&gt;&lt;/font&gt;\nУвеличивает скорость рывка на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nУвеличивает защиту ног на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;3 сек.&lt;/font&gt; задерживает срабатывание противопехотных мин"/>
 	</entry>
 	<entry key="ui_set_newgeneration_01">
 		<original value="New Generation set bonus"/>
@@ -2006,7 +2006,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition engineer helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Синдикат' для инженера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Синдикат' для инженера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_syndicat_name">
 		<original value="Syndicat sniper helmet"/>
@@ -2014,7 +2014,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition sniper helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Синдикат' для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Синдикат' для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_syndicat_name">
 		<original value="Syndicat medic helmet"/>
@@ -2022,7 +2022,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition medic helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Синдикат' для медика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Синдикат' для медика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_syndicat_name">
 		<original value="Syndicat soldier helmet"/>
@@ -2030,7 +2030,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition soldier helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Синдикат' для штурмовика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Синдикат' для штурмовика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_soldier_vest_syndicat_name">
 		<original value="Syndicat soldier vest"/>
@@ -2038,7 +2038,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_vest_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition vest&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;160&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Синдикат' для штурмовика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;160&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Синдикат' для штурмовика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;160&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_medic_vest_syndicat_name">
 		<original value="Syndicat medic vest"/>
@@ -2046,7 +2046,7 @@
 	</entry>
 	<entry key="ui_armor_medic_vest_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition vest&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;25%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Синдикат' для медика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;25%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Синдикат' для медика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;25%&lt;/font&gt; увеличивает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_sniper_vest_syndicat_name">
 		<original value="Syndicat sniper vest"/>
@@ -2054,7 +2054,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_vest_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition vest&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Синдикат' для снайпера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Синдикат' для снайпера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_engineer_vest_syndicat_name">
 		<original value="Syndicat engineer vest"/>
@@ -2062,7 +2062,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_vest_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition vest&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt; armor points\nIncreases select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Синдикат' для инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Синдикат' для инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_shared_hands_syndicat_name">
 		<original value="Syndicat gloves"/>
@@ -2070,7 +2070,7 @@
 	</entry>
 	<entry key="ui_armor_shared_hands_syndicat">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Syndicat&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Special edition gloves&lt;/b&gt;&lt;/font&gt; \nImproves accuracy by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Синдикат'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают точность\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Синдикат'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают точность\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук"/>
 	</entry>
 	<entry key="ui_armor_shared_shoes_syndicat_name">
 		<original value="Syndicat shoes"/>
@@ -2226,19 +2226,19 @@
 	</entry>
 	<entry key="ui_set_modernforce_01_bonus02_description">
 		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;1 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;1 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nDecrease damage by &lt;font size='16' color='#42ebf8'&gt;10"/>
-		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
+		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья и брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
 	</entry>
 	<entry key="ui_set_modernforce_02_bonus02_description">
 		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;1 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;1 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nDecrease damage by &lt;font size='16' color='#42ebf8'&gt;10"/>
-		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
+		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья и брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
 	</entry>
 	<entry key="ui_set_modernforce_03_bonus02_description">
 		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;1 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;1 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nDecrease damage by &lt;font size='16' color='#42ebf8'&gt;10"/>
-		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
+		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья и брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
 	</entry>
 	<entry key="ui_set_modernforce_04_bonus02_description">
 		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;1 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;1 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;4 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nDecrease damage by &lt;font size='16' color='#42ebf8'&gt;10"/>
-		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
+		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;1 очку здоровья и брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;4 сек.&lt;/font&gt; без получения урона)\nДополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;10&lt;/font&gt; единиц за попадание"/>
 	</entry>
 	<entry key="ui_armor_engineer_vest_legend_01_name">
 		<original value="Spectre engineer vest"/>
@@ -2246,7 +2246,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_vest_legend_01">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt; armor points\nProtection from explosives by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для инженера&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышает защиту от взрывчатки\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для инженера&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышает защиту от взрывчатки"/>
 	</entry>
 	<entry key="ui_armor_soldier_vest_legend_01_name">
 		<original value="Spectre soldier vest"/>
@@ -2254,7 +2254,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_vest_legend_01">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;160&lt;/font&gt; armor points\nIncreases select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;160&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;160&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_medic_vest_legend_01_name">
 		<original value="Spectre medic vest"/>
@@ -2262,7 +2262,7 @@
 	</entry>
 	<entry key="ui_armor_medic_vest_legend_01">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt; armor points\nDecreases incoming melee damage by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nProtection from explosives by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для медика&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышает защиту от взрывчатки\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; снижает входящий урон от атак ближнего боя\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для медика&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;150&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышает защиту от взрывчатки\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; снижает входящий урон от атак ближнего боя"/>
 	</entry>
 	<entry key="ui_armor_sniper_vest_legend_01_name">
 		<original value="Spectre sniper vest"/>
@@ -2270,7 +2270,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_vest_legend_01">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt; armor points\nDecreases incoming melee damage by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nIncrease primary and secondary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; снижает входящий урон от атак ближнего боя\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; повышает количество патронов для основного и дополнительного оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель жилета 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt; \nОчки брони: &lt;font size='16' color='#42ebf8'&gt;130&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; снижает входящий урон от атак ближнего боя\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; повышает количество патронов для основного и дополнительного оружия"/>
 	</entry>
 	<entry key="ui_armor_medic_shoes_legend_01_02_name">
 		<original value="Spectre Neo medic boots"/>
@@ -2278,7 +2278,7 @@
 	</entry>
 	<entry key="ui_armor_medic_shoes_legend_01_02">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nDelays claymore activation by &lt;font size='16' color='#42ebf8'&gt;2.5 sec&lt;/font&gt;\nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель ботинок 'Спектр' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;2,5 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают скорость рывка\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель ботинок 'Спектр' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;2,5 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают скорость рывка"/>
 	</entry>
 	<entry key="ui_armor_soldier_shoes_legend_01_02_name">
 		<original value="Spectre Neo soldier boots"/>
@@ -2286,7 +2286,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_shoes_legend_01_02">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nDelays claymore activation by &lt;font size='16' color='#42ebf8'&gt;2 sec&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель ботинок 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают скорость движения пригнувшись\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель ботинок 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают скорость движения пригнувшись"/>
 	</entry>
 	<entry key="ui_armor_sniper_shoes_legend_01_02_name">
 		<original value="Spectre Neo sniper boots"/>
@@ -2294,7 +2294,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_shoes_legend_01_02">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nDelays claymore activation by &lt;font size='16' color='#42ebf8'&gt;2 sec&lt;/font&gt;\nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель ботинок 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают длительность рывка\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель ботинок 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;2 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают длительность рывка"/>
 	</entry>
 	<entry key="ui_armor_engineer_shoes_legend_01_02_name">
 		<original value="Spectre Neo engineer boots"/>
@@ -2302,7 +2302,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_shoes_legend_01_02">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель ботинок 'Спектр' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость движения пригнувшись\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Гамма' модель ботинок 'Спектр' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость движения пригнувшись"/>
 	</entry>
 	<entry key="ui_armor_soldier_shoes_legend_01_name">
 		<original value="Spectre soldier boots"/>
@@ -2310,7 +2310,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_shoes_legend_01">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель ботинок 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают скорость движения пригнувшись\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель ботинок 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают скорость движения пригнувшись"/>
 	</entry>
 	<entry key="ui_armor_sniper_shoes_legend_01_name">
 		<original value="Spectre sniper boots"/>
@@ -2318,7 +2318,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_shoes_legend_01">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель ботинок 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость движения пригнувшись\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель ботинок 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость движения пригнувшись"/>
 	</entry>
 	<entry key="ui_armor_sniper_hands_legend_01_03_name">
 		<original value="Spectre Evo sniper gloves"/>
@@ -2326,7 +2326,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_hands_legend_01_03">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; \nIncreases reload speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель перчаток 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышают скорость смены оружия\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают скорость перезарядки\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель перчаток 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышают скорость смены оружия\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают скорость перезарядки"/>
 	</entry>
 	<entry key="ui_armor_soldier_hands_legend_01_03_name">
 		<original value="Spectre Evo soldier gloves"/>
@@ -2334,7 +2334,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_hands_legend_01_03">
 		<original value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases reload speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nDecrease recoil force by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nDecrease secondary melee duration by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель перчаток 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают скорость перезарядки\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; снижают силу отдачи\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышают скорость дополнительной атаки\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель перчаток 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают скорость перезарядки\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; снижают силу отдачи\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; повышают скорость дополнительной атаки"/>
 	</entry>
 	<entry key="ui_armor_engineer_helmet_armagedon_name">
 		<original value="Armageddon engineer helmet"/>
@@ -2342,7 +2342,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_helmet_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для инженера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для инженера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_armagedon_name">
 		<original value="Armageddon sniper helmet"/>
@@ -2350,7 +2350,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_helmet_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;70%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_medic_helmet_armagedon_name">
 		<original value="Armageddon medic helmet"/>
@@ -2358,7 +2358,7 @@
 	</entry>
 	<entry key="ui_armor_medic_helmet_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для медика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для медика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_armagedon_name">
 		<original value="Armageddon soldier helmet"/>
@@ -2366,7 +2366,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_helmet_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для штурмовика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Армагеддон' для штурмовика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;55%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
 	</entry>
 	<entry key="ui_armor_soldier_vest_armagedon_name">
 		<original value="Armageddon soldier vest"/>
@@ -2374,7 +2374,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_vest_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armagedon&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для штурмовика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для штурмовика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_medic_vest_armagedon_name">
 		<original value="Armageddon Medic Vest"/>
@@ -2382,7 +2382,7 @@
 	</entry>
 	<entry key="ui_armor_medic_vest_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для медика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для медика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_sniper_vest_armagedon_name">
 		<original value="Armageddon sniper vest"/>
@@ -2390,7 +2390,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_vest_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;125&lt;/font&gt; armor points\nIncrease primary and secondary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;150%&lt;/font&gt;\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для снайпера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;125&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; повышает количество патронов для основного и дополнительного оружия\nНа &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для снайпера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;125&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; повышает количество патронов для основного и дополнительного оружия\nНа &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; увеличивает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_engineer_vest_armagedon_name">
 		<original value="Armageddon engineer vest"/>
@@ -2398,7 +2398,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_vest_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \Granted &lt;font size='16' color='#42ebf8'&gt;145&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;145&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивает скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Армагеддон' для инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;145&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивает скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_shared_hands_armagedon_name">
 		<original value="Armageddon shared gloves"/>
@@ -2406,7 +2406,7 @@
 	</entry>
 	<entry key="ui_armor_shared_hands_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nDecrease recoil force by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Армагеддон'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; снижают силу отдачи\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Армагеддон'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; снижают силу отдачи"/>
 	</entry>
 	<entry key="ui_armor_shared_shoes_armagedon_name">
 		<original value="Armageddon shared boots"/>
@@ -2414,7 +2414,7 @@
 	</entry>
 	<entry key="ui_armor_shared_shoes_armagedon">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Armageddon&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;3%&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Армагеддон'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;8%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают скорость движения пригнувшись\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Армагеддон'&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;8%&lt;/font&gt; увеличивают скорость рывка\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают скорость движения пригнувшись"/>
 	</entry>
 	<entry key="ui_set_armagedon_01">
 		<original value="Armageddon set bonus"/>
@@ -2426,7 +2426,7 @@
 	</entry>
 	<entry key="ui_set_armagedon_01_bonus01_description">
 		<original value="Increases reload speed by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="Дополнительно увеличивает скорость перезарядки на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
+		<translation value="Дополнительно увеличивает скорость перезарядки на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_set_armagedon_01_bonus02_description">
 		<original value="Detects enemy's claymores&lt;/font&gt;"/>
@@ -2466,7 +2466,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_hands_legend_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nDecrease recoil force by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; \nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель перчаток 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; снижают отдачу\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость смены оружия\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель перчаток 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; снижают отдачу\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость смены оружия"/>
 	</entry>
 	<entry key="ui_armor_engineer_hands_legend_01_03_name">
 		<original value="Spectre Evo engineer gloves"/>
@@ -2490,7 +2490,7 @@
 	</entry>
 	<entry key="ui_armor_medic_shoes_legend_01_03">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nIncreases slide distance by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают дальность подкатов\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают дальность подкатов\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка"/>
 	</entry>
 	<entry key="ui_armor_engineer_shoes_legend_01_03_name">
 		<original value="Spectre Evo engineer boots"/>
@@ -2498,7 +2498,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_shoes_legend_01_03">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивают скорость движения пригнувшись\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивают скорость движения пригнувшись"/>
 	</entry>
 	<entry key="ui_armor_sniper_shoes_legend_01_03_name">
 		<original value="Spectre Evo sniper boots"/>
@@ -2506,7 +2506,7 @@
 	</entry>
 	<entry key="ui_armor_sniper_shoes_legend_01_03">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Spectre Evo&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; увеличивают скорость движения пригнувшись\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают длительность рывка\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; увеличивают скорость движения пригнувшись\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают длительность рывка"/>
 	</entry>
 	<entry key="ui_armor_soldier_shoes_legend_01_03_name">
 		<original value="Spectre Evo soldier boots"/>
@@ -2514,15 +2514,7 @@
 	</entry>
 	<entry key="ui_armor_soldier_shoes_legend_01_03">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nDelays claymore activation by &lt;font size='16' color='#42ebf8'&gt;3 sec&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;35%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;3 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\nНа &lt;font size='16' color='#42ebf8'&gt;35%&lt;/font&gt; увеличивают скорость движения пригнувшись\n"/>
-	</entry>
-	<entry key="ui_armor_medic_shoes_legend_01_03_name">
-		<original value="Spectre Evo medic boots"/>
-		<translation value="Ботинки медика 'Спектр' (Бета)"/>
-	</entry>
-	<entry key="ui_armor_medic_shoes_legend_01_03">
-		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;\nIncreases slide distance by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают дальность подкатов\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Бета' модель ботинок 'Спектр' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;3 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин\nНа &lt;font size='16' color='#42ebf8'&gt;35%&lt;/font&gt; увеличивают скорость движения пригнувшись"/>
 	</entry>
 	<entry key="ui_armor_engineer_shoes_legend_01_name">
 		<original value="Spectre engineer boots"/>
@@ -2530,7 +2522,7 @@
 	</entry>
 	<entry key="ui_armor_engineer_shoes_legend_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nIncreases slide distance by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\nIncreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;\nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель ботинок 'Спектр' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают дальность подкатов\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость рывка\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель ботинок 'Спектр' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают дальность подкатов\nНа &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt; увеличивают длительность рывка\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость рывка"/>
 	</entry>
 	<entry key="ui_armor_medic_shoes_legend_01_name">
 		<original value="Spectre medic boots"/>
@@ -2538,6 +2530,214 @@
 	</entry>
 	<entry key="ui_armor_medic_shoes_legend_01">
 		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Spectre&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;\nIncreases slide distance by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
-		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель ботинок 'Спектр' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают дальность подкатов\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость рывка\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;'Сигма' модель ботинок 'Спектр' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают дальность подкатов\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость рывка"/>
+	</entry>
+	<entry key="ui_armor_soldier_helmet_warlord_02_name">
+		<original value="Premium Warlord soldier helmet"/>
+		<translation value="Шлем штурмовика 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_soldier_helmet_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord soldier helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Берсерк' для штурмовика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
+	</entry>
+	<entry key="ui_armor_soldier_vest_warlord_02_name">
+		<original value="Premium Warlord soldier vest"/>
+		<translation value="Жилет штурмовика 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_soldier_vest_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord soldier vest&lt;/b&gt;&lt;/font&gt; \nGranted &lt;font size='16' color='#42ebf8'&gt;160&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Берсерк' для штурмовика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;160&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивает скорость смены оружия"/>
+	</entry>
+	<entry key="ui_armor_soldier_shoes_warlord_02_name">
+		<original value="Premium Warlord soldier boots"/>
+		<translation value="Ботинки штурмовика 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_soldier_shoes_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord soldier boots&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Берсерк' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; увеличивают скорость рывка"/>
+	</entry>
+	<entry key="ui_armor_soldier_hands_warlord_02_name">
+		<original value="Premium Warlord soldier gloves"/>
+		<translation value="Перчатки штурмовика 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_soldier_hands_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord soldier gloves&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;22%&lt;/font&gt; \nIncreases reload speed &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Берсерк' для штурмовика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;22%&lt;/font&gt; увеличивают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивают скорость перезарядки"/>
+	</entry>
+	<entry key="ui_armor_medic_helmet_warlord_02_name">
+		<original value="Premium Warlord medic helmet"/>
+		<translation value="Шлем медика 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_medic_helmet_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord medic helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Берсерк' для медика&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
+	</entry>
+	<entry key="ui_armor_medic_vest_warlord_02_name">
+		<original value="Premium Warlord medic vest"/>
+		<translation value="Жилет медика 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_medic_vest_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord medic vest&lt;/b&gt;&lt;/font&gt; \nGranted &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Берсерк' для медика&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивает скорость смены оружия"/>
+	</entry>
+	<entry key="ui_armor_medic_shoes_warlord_02_name">
+		<original value="Premium Warlord medic boots"/>
+		<translation value="Ботинки медика 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_medic_shoes_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord medic boots&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nEliminates &lt;font size='16' color='#42ebf8'&gt;moving sound&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Берсерк' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nУменьшают &lt;font size='16' color='#42ebf8'&gt;громкость шагов&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_armor_medic_hands_warlord_02_name">
+		<original value="Premium Warlord medic gloves"/>
+		<translation value="Перчатки медика 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_medic_hands_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord medic gloves&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases reload speed &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Берсерк' для медика&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость перезарядки"/>
+	</entry>
+	<entry key="ui_armor_engineer_helmet_warlord_02_name">
+		<original value="Premium Warlord engineer helmet"/>
+		<translation value="Шлем инженера 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_engineer_helmet_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord engineer helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Берсерк' для инженера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;60%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
+	</entry>
+	<entry key="ui_armor_engineer_vest_warlord_02_name">
+		<original value="Premium Warlord engineer vest"/>
+		<translation value="Жилет инженера 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_engineer_vest_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord engineer vest&lt;/b&gt;&lt;/font&gt; \nGranted &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Берсерк' для инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;155&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;15%&lt;/font&gt; увеличивает скорость смены оружия"/>
+	</entry>
+	<entry key="ui_armor_engineer_shoes_warlord_02_name">
+		<original value="Premium Warlord engineer boots"/>
+		<translation value="Ботинки инженера 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_engineer_shoes_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord engineer boots&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nDelays claymore activation by &lt;font size='16' color='#42ebf8'&gt;3 sec&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Берсерк' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;3 сек.&lt;/font&gt; задерживают срабатывание противопехотных мин"/>
+	</entry>
+	<entry key="ui_armor_engineer_hands_warlord_02_name">
+		<original value="Premium Warlord engineer gloves"/>
+		<translation value="Перчатки инженера 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_engineer_hands_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord engineer gloves&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases reload speed &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Берсерк' для инженера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt; увеличивают скорость перезарядки"/>
+	</entry>
+	<entry key="ui_armor_sniper_helmet_warlord_02_name">
+		<original value="Premium Warlord sniper helmet"/>
+		<translation value="Шлем снайпера 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_sniper_helmet_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord sniper helmet&lt;/b&gt;&lt;/font&gt; \nIncreases head protection by &lt;font size='16' color='#42ebf8'&gt;65%&lt;/font&gt;\nDecreases flash bang effect by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель шлема 'Берсерк' для снайпера&lt;/b&gt;&lt;/font&gt;\nУвеличивает защиту головы на &lt;font size='16' color='#42ebf8'&gt;65%&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt; снижает эффект от светошумовых гранат"/>
+	</entry>
+	<entry key="ui_armor_sniper_vest_warlord_02_name">
+		<original value="Premium Warlord sniper vest"/>
+		<translation value="Жилет снайпера 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_sniper_vest_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord sniper vest&lt;/b&gt;&lt;/font&gt; \nGranted &lt;font size='16' color='#42ebf8'&gt;110&lt;/font&gt; armor points\nIncrease select and deselect speed by &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель жилета 'Берсерк' для инженера&lt;/b&gt;&lt;/font&gt;\nОчки брони: &lt;font size='16' color='#42ebf8'&gt;110&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; увеличивает скорость смены оружия"/>
+	</entry>
+	<entry key="ui_armor_sniper_shoes_warlord_02_name">
+		<original value="Premium Warlord sniper boots"/>
+		<translation value="Ботинки снайпера 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_sniper_shoes_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord sniper boots&lt;/b&gt;&lt;/font&gt; \nProtect from damage to the legs by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases slide distance by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель ботинок 'Берсерк' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; повышают защиту ног\nНа &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt; увеличивают дальность подкатов"/>
+	</entry>
+	<entry key="ui_armor_sniper_hands_warlord_02_name">
+		<original value="Premium Warlord sniper gloves"/>
+		<translation value="Перчатки снайпера 'Берсерк'"/>
+	</entry>
+	<entry key="ui_armor_sniper_hands_warlord_02">
+		<original value="&lt;font size='18' color='#ff124a'&gt;&lt;b&gt;Premium Warlord&lt;/b&gt;&lt;/font&gt; \n&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Premium edition of warlord sniper gloves&lt;/b&gt;&lt;/font&gt; \nProvides hand protection by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; \nIncreases reload speed &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='18' color='#42ebf8'&gt;&lt;b&gt;Специальная модель перчаток 'Берсерк' для снайпера&lt;/b&gt;&lt;/font&gt;\nНа &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt; увеличивают защиту рук\nНа &lt;font size='16' color='#42ebf8'&gt;5%&lt;/font&gt; увеличивают скорость перезарядки"/>
+	</entry>
+	<entry key="ui_set_warlord_engineer">
+		<original value="Premium Warlord set bonus"/>
+		<translation value="Набор 'Берсерк'"/>
+	</entry>
+	<entry key="ui_set_warlord_engineer_description">
+		<original value="&lt;br&gt;"/>
+		<translation value="&lt;br&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_engineer_bonus01_description">
+		<original value="Improves accuracy by &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
+		<translation value="Дополнительно увеличивает точность на &lt;font size='16' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_engineer_bonus02_description">
+		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;4 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;4 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)&lt;/font&gt;"/>
+		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка здоровья и брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)"/>
+	</entry>
+	<entry key="ui_set_warlord_engineer_bonus03_description">
+		<original value="Decrease damage by &lt;font size='16' color='#42ebf8'&gt;5&lt;/font&gt; points per hit&lt;/font&gt;\nProtection from explosives by &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\nIgnor damage from a single hit by first bullet to head&lt;/font&gt;"/>
+		<translation value="Дополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;5&lt;/font&gt; единиц за попадание\nДополнительно увеличивает защиту от взрывчатки на &lt;font size='16' color='#42ebf8'&gt;30%&lt;/font&gt;\nЗащищает от &lt;font size='16' color='#42ebf8'&gt;одного попадания в голову&lt;/font&gt; из большинства оружия"/>
+	</entry>
+	<entry key="ui_set_warlord_soldier">
+		<original value="Premium Warlord set bonus"/>
+		<translation value="Набор 'Берсерк'"/>
+	</entry>
+	<entry key="ui_set_warlord_soldier_description">
+		<original value="&lt;br&gt;"/>
+		<translation value="&lt;br&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_soldier_bonus01_description">
+		<original value="Decrease recoil force by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;"/>
+		<translation value="Дополнительно снижает отдачу на &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_soldier_bonus02_description">
+		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;4 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;4 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)&lt;/font&gt;"/>
+		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка здоровья и брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)"/>
+	</entry>
+	<entry key="ui_set_warlord_soldier_bonus03_description">
+		<original value="Decrease damage by &lt;font size='16' color='#42ebf8'&gt;5&lt;/font&gt; points per hit&lt;/font&gt;\nProtection from explosives by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nIncreases speed in crouch by &lt;font size='16' color='#42ebf8'&gt;35%&lt;/font&gt; \n"/>
+		<translation value="Дополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;5&lt;/font&gt; единиц за попадание\nДополнительно увеличивает защиту от взрывчатки на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nДополнительно увеличивает скорость движения пригнувшись на &lt;font size='16' color='#42ebf8'&gt;35%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_medic">
+		<original value="Premium Warlord set bonus"/>
+		<translation value="Набор 'Берсерк'"/>
+	</entry>
+	<entry key="ui_set_warlord_medic_description">
+		<original value="&lt;br&gt;"/>
+		<translation value="&lt;br&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_medic_bonus01_description">
+		<original value="Increases sprint distance by &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;"/>
+		<translation value="Дополнительно увеличивает длительность рывка на &lt;font size='16' color='#42ebf8'&gt;50%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_medic_bonus02_description">
+		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;4 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;4 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)&lt;/font&gt;"/>
+		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка здоровья и брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)"/>
+	</entry>
+	<entry key="ui_set_warlord_medic_bonus03_description">
+		<original value="Decrease damage by &lt;font size='16' color='#42ebf8'&gt;5&lt;/font&gt; points per hit&lt;/font&gt;\nProtection from explosives by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nIncreases sprint speed by &lt;font size='16' color='#42ebf8'&gt;11%&lt;/font&gt; \n"/>
+		<translation value="Дополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;5&lt;/font&gt; единиц за попадание\nДополнительно увеличивает защиту от взрывчатки на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nДополнительно увеличивает скорость рывка на &lt;font size='16' color='#42ebf8'&gt;11%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_sniper">
+		<original value="Premium Warlord set bonus"/>
+		<translation value="Набор 'Берсерк'"/>
+	</entry>
+	<entry key="ui_set_warlord_sniper_description">
+		<original value="&lt;br&gt;"/>
+		<translation value="&lt;br&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_sniper_bonus01_description">
+		<original value="Increase primary and secondary weapon ammo capacity by &lt;font size='16' color='#42ebf8'&gt;150%&lt;/font&gt;"/>
+		<translation value="Дополнительно повышает количество патронов для основного и дополнительного оружия на &lt;font size='16' color='#42ebf8'&gt;150%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_set_warlord_sniper_bonus02_description">
+		<original value="Regenerate &lt;font size='16' color='#42ebf8'&gt;4 health&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)&lt;/font&gt;\nRegenerate &lt;font size='16' color='#42ebf8'&gt;4 armor&lt;/font&gt; points over time (after &lt;font size='16' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)&lt;/font&gt;"/>
+		<translation value="Дополнительно восстанавливает по &lt;font size='16' color='#42ebf8'&gt;4 очка здоровья и брони&lt;/font&gt; (после &lt;font size='16' color='#42ebf8'&gt;5 сек.&lt;/font&gt; без получения урона)"/>
+	</entry>
+	<entry key="ui_set_warlord_sniper_bonus03_description">
+		<original value="Decrease damage by &lt;font size='16' color='#42ebf8'&gt;5&lt;/font&gt; points per hit&lt;/font&gt;\nProtection from explosives by &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nIgnor damage from a single hit by first bullet to body&lt;/font&gt;"/>
+		<translation value="Дополнительно снижает входящий урон на &lt;font size='16' color='#42ebf8'&gt;5&lt;/font&gt; единиц за попадание\nДополнительно увеличивает защиту от взрывчатки на &lt;font size='16' color='#42ebf8'&gt;40%&lt;/font&gt;\nЗащищает от &lt;font size='16' color='#42ebf8'&gt;одного попадания в тело&lt;/font&gt; из большинства оружия"/>
 	</entry>
 </localization>

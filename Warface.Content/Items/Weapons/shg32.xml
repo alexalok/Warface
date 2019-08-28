@@ -4,6 +4,7 @@
     <material name="default" />
     <material name="oc01" />
 	<material name="lava01" />
+    <material name="bp07" />		
   </skins>
   <icons>
     <ui_icon name="shg32" />

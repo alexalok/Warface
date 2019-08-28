@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<set name="set_warlord_soldier">
+    <UI_stats>
+        <param name="name" value="@ui_set_warlord_soldier"/>
+        <param name="description" value="@ui_set_warlord_soldier_description"/>
+        <param name="color" value="33cc99"/>
+    </UI_stats>
+    <set_items>
+        <item name="soldier_helmet_warlord_02"/>
+		<item name="soldier_vest_warlord_02"/>
+		<item name="soldier_hands_warlord_02"/>
+		<item name="soldier_shoes_warlord_02"/>
+		<item name="ar16"/>
+		<item name="ar33"/>
+		<item name="ar25"/>
+    </set_items>
+    <set_bonuses>
+	    <bonus items_need="2" name="set_warlord_soldier_bonus01"/>
+        <bonus items_need="4" name="set_warlord_soldier_bonus02"/>
+		<bonus items_need="5" name="set_warlord_soldier_bonus03"/>
+    </set_bonuses>
+</set>

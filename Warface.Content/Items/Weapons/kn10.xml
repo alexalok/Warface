@@ -3,6 +3,7 @@
   <skins>
     <material name="default" />
     <material name="oc03" />
+    <material name="bp07" />	
   </skins>
   <mmo_stats>
     <param name="item_category" value="Melee" />
@@ -25,6 +26,7 @@
   </icons>
   <skin_content>
     <item name="kn10_oc03skin_shop" />
+    <item name="kn10_bp07skin_shop" />	
   </skin_content>
   <settings>
     <param name="rpm" value="80" />

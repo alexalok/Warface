@@ -1,5 +1,5 @@
-<?xml version="1.0" ?>
-<shop_item name="key_generic_717" type="key">
+<?xml version="1.0" ?>	
+	<shop_item name="key_generic_717" type="key">
 	<mmo_stats>
 		<param name="item_category" value="Misc"/>
 		<param name="shopcontent" value="1"/>
@@ -9,6 +9,8 @@
 		<param name="testcontent" value="0"/>
 	</mmo_stats>
 	<UI_stats>
+		<param name="name" value="@ui_personal_offers_name"/>
+		<param name="description" value="@ui_personal_offers_description"/>
 		<param name="icon" value="bundle_ps4_HD"/>
 	</UI_stats>
-</shop_item>
+	</shop_item>

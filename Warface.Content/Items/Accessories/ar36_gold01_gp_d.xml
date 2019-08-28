@@ -1,0 +1,40 @@
+<item class="K01_Item" name="ar36_gold01_gp_d" type="attachment" view_settings="objects/weapons/ar36/ar36_gp_d.xml">
+	<description_ingame text="@ui_ar36_gp_d_ingame"/>
+	<mmo_stats>
+		<param name="item_category" value="attachment"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="R"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@ar36_gp_d_name"/>
+		<param name="description" value="@ui_accessories_ar36_gp_d"/>
+		<param name="icon" value="ar36_gold01_gp_d"/>
+	</UI_stats>
+	<content>
+		<item name="ar36_gold01_gp_d"/>
+	</content>
+	<drop_params>
+		<item name="ar36_gold01_gp_d" type="attachment"/>
+	</drop_params>
+	<settings>
+			<param name="spread_min_mul" value="0.85">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="spread_max_mul" value="0.85">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="recoil_att_mul" value="0.85"/>
+			<param name="recoil_max_mul" value="0.85">
+				<stance name="prone" value="1"/>
+				<stance name="zoomed_prone" value="1"/>
+			</param>
+			<param name="reload_duration_mul" value="0.85"/>
+			<param name="select_duration_mul" value="0.8"/>
+			<param name="deselect_duration_mul" value="0.8"/>
+	</settings>
+	<types>
+		<type helper="ar36_gp_d" name="ar36_gold01_gp_d"/>
+	</types>
+</item>

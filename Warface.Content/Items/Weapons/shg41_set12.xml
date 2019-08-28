@@ -45,9 +45,9 @@
     <param name="recoil_dec" value="240" />
     <param name="recoil_dec_mul" value="1" />
     <param name="recoil_rnd" value="0" />
-    <param name="recoil_smth" value="5" />
+    <param name="recoil_smth" value="10" />
     <param name="recoil_smth_mul" value="1" />
-    <param name="spread_min" value="12" />
+    <param name="spread_min" value="11.5" />
     <param name="spread_min_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.9" />
@@ -63,7 +63,7 @@
       <stance name="zoomed_walk" value="0.6" />
       <stance name="zoomed_jump" value="0.8" />
     </param>
-    <param name="spread_max" value="22.5" />
+    <param name="spread_max" value="22" />
     <param name="spread_max_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.9" />

@@ -8,6 +8,7 @@
 		<material name="default"/>
 		<material name="cny01"/>
 		<material name="lava01" />
+		<material name="bp07" />		
 	</skins>
   <drop_params>
     <item name="ar20" type="weapon" />

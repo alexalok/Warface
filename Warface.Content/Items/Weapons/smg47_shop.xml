@@ -17,6 +17,9 @@
 			<item name="smg47">
 		</item>
 		</content>
-	
+
+		<skin_content>
+			<item name="smg47_bp07skin_shop"/>			
+		</skin_content>		
 	
 	</shop_item>

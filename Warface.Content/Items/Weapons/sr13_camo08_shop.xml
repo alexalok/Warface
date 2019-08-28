@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+	<shop_item name="sr13_camo08_shop" type="weapon">
+		<mmo_stats>
+			<param name="item_category" value="SniperRifle"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="S"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="5400"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="category" value="sr"/>
+			<param name="name" value="@sr13_camo08_shop_name"/>
+			<param name="description" value="@ui_weapons_sr13_camo08"/>
+			<param name="icon" value="sr13_camo08"/>
+		</UI_stats>
+		<content>
+			<item name="sr13_camo08">
+				<item name="ss06_camo08"/>
+				<item name="ss01_camo08"/>
+				<item name="ss02_camo08"/>
+				<item name="ss04_camo08"/>
+				<item name="sp04_camo08"/>
+				<item name="sc04_camo08"/>
+				<item name="sc02_camo08"/>
+				<item name="sr13_camo08_sp_d"/>
+			</item>
+		</content>
+	</shop_item>

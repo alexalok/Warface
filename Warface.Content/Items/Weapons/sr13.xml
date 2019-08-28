@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item category="heavy" class="K01_Item" name="sr13" priority="63" view_settings="objects/weapons/sr13/sr13.xml">
+  <skins>
+    <material name="default" />
+    <material name="camo08" />
+  </skins>
   <icons>
     <ui_icon name="sr13" />
     <combatlog icon="Sr13_combatLog" melee="Melee" />
@@ -45,7 +49,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.77" />
-      <stance name="slide" value="0.77" />
+      <stance name="slide" value="1.15" />
       <stance name="run" value="1.3" />
       <stance name="haste" value="7" />
       <stance name="jump" value="7" />
@@ -61,7 +65,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.8" />
-      <stance name="slide" value="0.8" />
+      <stance name="slide" value="1.15" />
       <stance name="run" value="1.2" />
       <stance name="haste" value="1" />
       <stance name="jump" value="1.2" />

@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<GameItem name="set_warlord_sniper_bonus01" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_warlord_sniper_bonus01_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="extra_ammo_primary_mul" value="1.5"/>
+        <param name="extra_ammo_pistol_mul" value="1.5"/>
+    </GameParams>
+</GameItem>

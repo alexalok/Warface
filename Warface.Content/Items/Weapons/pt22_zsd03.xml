@@ -12,7 +12,7 @@
   </drop_params>
   <settings archetype="Items/Weapons/Archetypes/PT.xml">
     <param name="cyborg_damage_buff" value="1.5" />
-    <param name="ammo_amount" value="20" />
+    <param name="ammo_amount" value="30" />
     <param name="rpm" value="300" />
     <param name="damage" value="100" />
     <param name="damage_mul" value="1" />
@@ -169,7 +169,7 @@
   </sockets>
   <fireparams>
     <fire>
-      <param name="extra_ammo" value="80" />
+      <param name="extra_ammo" value="120" />
       <param name="ammo_type" value="bullet_pt" />
       <param name="bullet_chamber" value="0" />
       <param name="helper_tp" value="weapon_term" />

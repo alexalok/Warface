@@ -13,6 +13,7 @@
         <item name="soldier_vest_legend_01"/>
         <item name="soldier_shoes_legend_01_02"/>
         <item name="soldier_shoes_legend_01"/>		
+        <item name="soldier_shoes_legend_01_03"/>				
     </set_items>
     <set_bonuses>
         <bonus items_need="2" name="set_modernforce_02_bonus01"/>

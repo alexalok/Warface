@@ -2,6 +2,7 @@
 	<skins>
 		<material name="default"/>
 		<material name="ps4_01"/>
+		<material name="camo08"/>
 	</skins>
 	<description_ingame text="@ui_smg39_rds_d_ingame"/>
 	<mmo_stats>

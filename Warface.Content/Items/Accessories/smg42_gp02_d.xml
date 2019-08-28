@@ -3,6 +3,7 @@
 		<skins>
 			<material name="default"/>
 			<material name="xmas04"/>
+			<material name="camo08"/>
 		</skins>
 		<mmo_stats>
 			<param name="item_category" value="attachment"/>

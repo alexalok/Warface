@@ -3,6 +3,7 @@
 	<skins>
 		<material name="default"/>
 		<material name="xmas04"/>
+		<material name="camo08"/>
 	</skins>
 	<UI_stats>
 		<param name="name" value="@smg42_sp02_d_name"/>

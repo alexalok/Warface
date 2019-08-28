@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<GameItem name="set_warlord_soldier_bonus02" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_warlord_soldier_bonus02_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="hp_regeneration_hps" value="4"/>
+        <param name="hp_regeneration_timeout" value="5"/>
+        <param name="armor_regen_hps" value="4"/>
+        <param name="armor_regen_timeout" value="5"/>
+    </GameParams>
+</GameItem>

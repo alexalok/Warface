@@ -15,7 +15,7 @@
   </drop_params>
   <settings archetype="Items/Weapons/Archetypes/SMG.xml">
     <param name="cyborg_damage_buff" value="2" />
-    <param name="ammo_amount" value="64" />
+    <param name="ammo_amount" value="96" />
     <param name="rpm" value="725" />
     <param name="damage" value="74" />
     <param name="damage_min" value="32" />
@@ -176,7 +176,7 @@
   </sockets>
   <fireparams>
     <fire>
-      <param name="extra_ammo" value="320" />
+      <param name="extra_ammo" value="480" />
       <param name="ammo_type" value="bullet_smg" />
       <param name="bullet_chamber" value="1" />
       <param name="helper_tp" value="weapon_term" />

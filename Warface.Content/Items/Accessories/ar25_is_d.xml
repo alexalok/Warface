@@ -2,6 +2,7 @@
 	<skins>
 		<material name="default"/>
 		<material name="ec02"/>
+		<material name="camo08"/>
 	</skins>
 	<UI_stats>
 		<param name="name" value="@is_default_name"/>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<GameItem name="set_warlord_medic_bonus01" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_warlord_medic_bonus01_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="sprint_time_mul" value="1.5"/>
+    </GameParams>
+</GameItem>

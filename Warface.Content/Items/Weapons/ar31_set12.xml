@@ -196,9 +196,9 @@
         <mul shot="12" value="15" />
         <mul shot="13" value="17" />
         <mul shot="14" value="19" />
-        <mul shot="15" value="21" />
-        <mul shot="16" value="23" />
-        <mul shot="17" value="25" />
+        <mul shot="15" value="20" />
+        <mul shot="16" value="20" />
+        <mul shot="17" value="20" />
       </rnd_muls>
       <param name="hint_loop_start" value="0" />
       <hints>

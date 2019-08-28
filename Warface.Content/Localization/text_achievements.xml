@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
-	<entry>
-		<original/>
-		<translation/>
-	</entry>
 	<entry key="achievement_headshots_made">
 		<original value="Oversized Head"/>
 		<translation value="Большая голова"/>
@@ -8846,7 +8842,7 @@
 	</entry>
 	<entry key="ice_survivor3_desc">
 		<original value="Complete Hardcore as a Rifleman"/>
-		<translation value="Пройти миссию 'Ледокол' ('Профи') за штурмовика "/>
+		<translation value="Пройти миссию 'Ледокол' ('Профи') за штурмовика"/>
 	</entry>
 	<entry key="ice_survivor4">
 		<original value="Ice-Breaker (Medic)"/>
@@ -13778,7 +13774,7 @@
 	</entry>
 	<entry key="lms_1th_place_05_desc">
 		<original value="1000 times Took 1st place in Last Man Standing mode"/>
-		<translation value="Занять первое место в 'Королевской битве' 1000 раз&#xA;"/>
+		<translation value="Занять первое место в 'Королевской битве' 1000 раз"/>
 	</entry>
 	<entry key="lmsp_slidekill_01">
 		<original value="Bumper car"/>
@@ -14309,27 +14305,27 @@
 		<translation value="Получить все трофеи в Warface"/>
 	</entry>
 	<entry key="ar33_Kill">
-		<original value="Great War Veteran "/>
+		<original value="Great War Veteran"/>
 		<translation value="Ветеран Первой мировой I"/>
 	</entry>
 	<entry key="ar33_Kill_desc">
-		<original value="Kill 10,000 enemies with HCAR or its gold version "/>
+		<original value="Kill 10,000 enemies with HCAR or its gold version"/>
 		<translation value="Убить 10 000 врагов из обычной или золотой HCAR"/>
 	</entry>
 	<entry key="ar33Kill25">
-		<original value="Advanced Great War Veteran "/>
+		<original value="Advanced Great War Veteran"/>
 		<translation value="Ветеран Первой мировой II"/>
 	</entry>
 	<entry key="ar33Kill25_desc">
-		<original value="Kill 25,000 enemies with HCAR or its gold version "/>
+		<original value="Kill 25,000 enemies with HCAR or its gold version"/>
 		<translation value="Убить 25 000 врагов из обычной или золотой HCAR"/>
 	</entry>
 	<entry key="ar33_gold_kill_01">
-		<original value="Gold Great War Veteran "/>
+		<original value="Gold Great War Veteran"/>
 		<translation value="Золотой орден"/>
 	</entry>
 	<entry key="ar33_gold_kill_01_desc">
-		<original value="Make 999 kills with gold HCAR "/>
+		<original value="Make 999 kills with gold HCAR"/>
 		<translation value="Убить 999 врагов из золотой HCAR"/>
 	</entry>
 	<entry key="shg47Kill">
@@ -15038,7 +15034,7 @@
 	</entry>
 	<entry key="shg41_xmas04Kill">
 		<original value="Xmas 2018 Saiga H.G.C. Custom"/>
-		<translation value="Знаток Сайги H.G.C. 'Свинта-Клаус'"/>
+		<translation value="Знаток Сайги H.G.C. Custom 'Свинта-Клаус'"/>
 	</entry>
 	<entry key="shg41_xmas04Kill_desc">
 		<original value="Kill 10,000 enemies with Xmas 2018 Saiga H.G.C. Custom"/>
@@ -15810,7 +15806,7 @@
 	</entry>
 	<entry key="clan_years1_stripe_01_desc">
 		<original value="1st year clan in the game"/>
-		<translation value="Занять первое место по итогам специального события "/>
+		<translation value="Занять первое место по итогам специального события"/>
 	</entry>
 	<entry key="clan_years2_stripe_01">
 		<original value="Back to back"/>
@@ -15818,7 +15814,7 @@
 	</entry>
 	<entry key="clan_years2_stripe_01_desc">
 		<original value="2nd year clan in the game"/>
-		<translation value="Занять второе место по итогам специального события "/>
+		<translation value="Занять второе место по итогам специального события"/>
 	</entry>
 	<entry key="clan_years3_stripe_01">
 		<original value="Loyal in battle"/>
@@ -15826,7 +15822,7 @@
 	</entry>
 	<entry key="clan_years3_stripe_01_desc">
 		<original value="3rd year clan in the game"/>
-		<translation value="Занять третье место по итогам специального события "/>
+		<translation value="Занять третье место по итогам специального события"/>
 	</entry>
 	<entry key="clan_years4_stripe_01">
 		<original value="Brother in arms"/>
@@ -15834,15 +15830,15 @@
 	</entry>
 	<entry key="clan_years4_stripe_01_desc">
 		<original value="4th year clan in the game"/>
-		<translation value="Занять четвертое место по итогам специального события "/>
+		<translation value="Занять четвертое место по итогам специального события"/>
 	</entry>
 	<entry key="clan_years5_stripe_01">
 		<original value="Together and forever"/>
-		<translation value="Попытка — не пытка! "/>
+		<translation value="Попытка — не пытка!"/>
 	</entry>
 	<entry key="clan_years5_stripe_01_desc">
 		<original value="5th year clan in the game"/>
-		<translation value="Занять пятое место по итогам специального события "/>
+		<translation value="Занять пятое место по итогам специального события"/>
 	</entry>
 	<entry key="ru_bonus_mark_01">
 		<original value="Regular Player"/>
@@ -16116,6 +16112,30 @@
 		<original value="Kill 25000 enemies with Typhoon F12 or its bronze version"/>
 		<translation value="Убить 25 000 врагов из обычного или бронзового Typhoon F12"/>
 	</entry>
+	<entry key="mars_stripe_rifleman">
+		<original value="Red planet Rifleman"/>
+		<translation value="Марсианский штурмовик"/>
+	</entry>
+	<entry key="mars_stripe_rifleman_desc">
+		<original value="Kill 5000 enemies on Mars mission on Hardcore as Rifleman"/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за штурмовика"/>
+	</entry>
+	<entry key="mars_stripe_medic">
+		<original value="Red planet Medic"/>
+		<translation value="Марсианский медик"/>
+	</entry>
+	<entry key="mars_stripe_medic_desc">
+		<original value="Kill 5000 enemies on Mars mission on Hardcore as Medic"/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за медика"/>
+	</entry>
+	<entry key="mars_stripe_engineer">
+		<original value="Red planet Engineer"/>
+		<translation value="Марсианский инженер"/>
+	</entry>
+	<entry key="mars_stripe_engineer_desc">
+		<original value="Kill 5000 enemies on Mars mission on Hardcore as Engineer"/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за инженера"/>
+	</entry>
 	<entry key="mars_stripe_sniper">
 		<original value="Red planet Sniper"/>
 		<translation value="Марсианский снайпер"/>
@@ -16129,8 +16149,8 @@
 		<translation value="Собрал урожай"/>
 	</entry>
 	<entry key="mars_stripe_meta_desc">
-		<original value="Complete the mars mission on Hardcore with all classes"/>
-		<translation value="Пройти миссию 'Марс' ('Профи') всеми классами"/>
+		<original value="Gain &quot;Red planet&quot; achievements with all classes."/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи') каждым классом"/>
 	</entry>
 	<entry key="mars_stripe_boss">
 		<original value="Modern solutions"/>
@@ -16147,14 +16167,6 @@
 	<entry key="mars_badge_collector_desc">
 		<original value="Collect all trading card series of Mars mission"/>
 		<translation value="Собрать все коллекционные карточки серии 'Марс'"/>
-	</entry>
-	<entry key="mars_stripe_rifleman">
-		<original value="Red planet Rifleman"/>
-		<translation value="Марсианский штурмовик"/>
-	</entry>
-	<entry key="mars_stripe_rifleman_desc">
-		<original value="Kill 5000 enemies on Mars mission on Hardcore as Rifleman"/>
-		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за штурмовика"/>
 	</entry>
 	<entry key="mars_badge_normal">
 		<original value="Mars settler"/>
@@ -16188,14 +16200,6 @@
 		<original value="Complete Mars mission on Hardcore 10 times"/>
 		<translation value="Пройти миссию 'Марс' ('Профи') 10 раз"/>
 	</entry>
-	<entry key="mars_stripe_medic">
-		<original value="Red planet Medic"/>
-		<translation value="Марсианский медик"/>
-	</entry>
-	<entry key="mars_stripe_medic_desc">
-		<original value="Kill 5000 enemies on Mars mission on Hardcore as Medic"/>
-		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за медика"/>
-	</entry>
 	<entry key="mars_mark_no_death">
 		<original value="Mars survivor"/>
 		<translation value="Марсианин"/>
@@ -16227,14 +16231,6 @@
 	<entry key="mars_badge_lightdroid_desc">
 		<original value="Kill 50 SED Mk.2 Assault, Sniper or Elite on Mars mission on Hardcore"/>
 		<translation value="Уничтожить 50 элитных, снайперских или штурмовых СЭД в миссии 'Марс' ('Профи')"/>
-	</entry>
-	<entry key="mars_stripe_engineer">
-		<original value="Red planet Engineer"/>
-		<translation value="Марсианский инженер"/>
-	</entry>
-	<entry key="mars_stripe_engineer_desc">
-		<original value="Kill 5000 enemies on Mars mission on Hardcore as Engineer"/>
-		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя за инженера"/>
 	</entry>
 	<entry key="mars_kills03">
 		<original value="1 shot, 1 kill"/>
@@ -16987,5 +16983,261 @@
 	<entry key="mentor_stripe_01_desc">
 		<original value="For mentoring other players"/>
 		<translation value="Награда за помощь другим игрокам."/>
+	</entry>
+	<entry key="kn21Kill">
+		<original value="Running with the axe"/>
+		<translation value="На тропе войны I"/>
+	</entry>
+	<entry key="kn21Kill_desc">
+		<original value="Kill 10000 enemies with Gerber Tomahawk or its gold version"/>
+		<translation value="Убить 10 000 врагов обычным или золотым томагавком Gerber"/>
+	</entry>
+	<entry key="kn21Kill25">
+		<original value="Hunting with the axe"/>
+		<translation value="На тропе войны II"/>
+	</entry>
+	<entry key="kn21Kill25_desc">
+		<original value="Kill 25000 enemies with Gerber Tomahawk or its gold version"/>
+		<translation value="Убить 25 000 врагов обычным или золотым томагавком Gerber"/>
+	</entry>
+	<entry key="kn21_gold01Kill">
+		<original value="Hunting with the golden axe"/>
+		<translation value="Великий вождь"/>
+	</entry>
+	<entry key="kn21_gold01Kill_desc">
+		<original value="Make 999 kills with Gold Gerber Tomahawk"/>
+		<translation value="Убить 999 врагов золотым томагавком Gerber"/>
+	</entry>
+	<entry key="ru_watcher_oc02">
+		<original value="Meal'n Real"/>
+		<translation value="Желанный триумф"/>
+	</entry>
+	<entry key="ru_watcher_oc2_desc">
+		<original value="Collect all 'Champion's character' cards"/>
+		<translation value="Собрать все коллекционные карточки серии 'Воля к победе'"/>
+	</entry>
+	<entry key="ru_kanobu_mark_01">
+		<original value="Sakura Blossom"/>
+		<translation value="Цветок сакуры"/>
+	</entry>
+	<entry key="ru_kanobu_mark_01_desc">
+		<original value="Awarded to those who mastered their knowledge of the Orient"/>
+		<translation value="Присуждается настоящим специалистам Востока."/>
+	</entry>
+	<entry key="ru_kanobu_badge_01">
+		<original value="Bloodstained Writings"/>
+		<translation value="Письмена кровью"/>
+	</entry>
+	<entry key="ru_kanobu_badge_01_desc">
+		<original value="Awarded to those who mastered their knowledge of the Orient"/>
+		<translation value="Присуждается настоящим специалистам Востока."/>
+	</entry>
+	<entry key="ru_kanobu_stripe_01">
+		<original value="Red Chinese Dragon"/>
+		<translation value="Дух предков"/>
+	</entry>
+	<entry key="ru_kanobu_stripe_01_desc">
+		<original value="Awarded to those who mastered their knowledge of the Orient"/>
+		<translation value="Присуждается настоящим специалистам Востока."/>
+	</entry>
+	<entry key="camo08_mark_01">
+		<original value="Vietnam Tiger Punisher"/>
+		<translation value="Без права на ошибку"/>
+	</entry>
+	<entry key="camo08_mark_01_desc">
+		<original value="Deal 25000 damage with Vietnam Tiger weapons"/>
+		<translation value="Нанести 25 000 единиц урона из оружия 'Камыш'"/>
+	</entry>
+	<entry key="camo08_badge_01">
+		<original value="Vietnam Tiger Sharphooter"/>
+		<translation value="Жестокая расправа"/>
+	</entry>
+	<entry key="camo08_badge_01_desc">
+		<original value="Perform 1000 headshots with Vietnam Tiger weapons"/>
+		<translation value="Убить 1000 врагов попаданиями в голову из оружия 'Камыш'"/>
+	</entry>
+	<entry key="camo08_stripe_01">
+		<original value="Vietnam Tiger Slayer"/>
+		<translation value="Удар из засады"/>
+	</entry>
+	<entry key="camo08_stripe_01_desc">
+		<original value="Kill 10000 enemies with Vietnam Tiger weapons"/>
+		<translation value="Убить 10 000 врагов из оружия 'Камыш'"/>
+	</entry>
+	<entry key="weekly_bp07_mark_01">
+		<original value="Uprising Weekly Rookie"/>
+		<translation value="Новичок 'Берсерка'"/>
+	</entry>
+	<entry key="weekly_bp07_mark_01_desc">
+		<original value="Complete 25 weekly quests"/>
+		<translation value="Завершить 25 еженедельных заданий"/>
+	</entry>
+	<entry key="weekly_bp07_badge_01">
+		<original value="Uprising Weekly Warrior"/>
+		<translation value="Знаток 'Берсерка'"/>
+	</entry>
+	<entry key="weekly_bp07_badge_01_desc">
+		<original value="Complete 60 weekly quests"/>
+		<translation value="Завершить 60 еженедельных заданий"/>
+	</entry>
+	<entry key="weekly_bp07_stripe_01">
+		<original value="Uprising Weekly Veteran"/>
+		<translation value="Ветеран 'Берсерка'"/>
+	</entry>
+	<entry key="weekly_bp07_stripe_01_desc">
+		<original value="Complete all weekly quests"/>
+		<translation value="Завершить все еженедельные задания"/>
+	</entry>
+	<entry key="progress_bp07_mark_01">
+		<original value="Uprising Access"/>
+		<translation value="Путь ярости"/>
+	</entry>
+	<entry key="progress_bp07_mark_01_desc">
+		<original value="Get access to Uprising compendium"/>
+		<translation value="Получить доступ к событию 'Берсерк'"/>
+	</entry>
+	<entry key="progress_bp07_badge_01">
+		<original value="Uprising 10 level"/>
+		<translation value="Солдатами не рождаются"/>
+	</entry>
+	<entry key="progress_bp07_badge_01_desc">
+		<original value="Gain 10 level of event"/>
+		<translation value="Получить 10-й уровень в событии 'Берсерк'"/>
+	</entry>
+	<entry key="progress_bp07_stripe_01">
+		<original value="Uprising 30 level"/>
+		<translation value="Вестник смерти"/>
+	</entry>
+	<entry key="progress_bp07_stripe_01_desc">
+		<original value="Gain 30 level of event"/>
+		<translation value="Получить 30-й уровень в событии 'Берсерк'"/>
+	</entry>
+	<entry key="medic_bp07_mark_01">
+		<original value="Uprising Medic"/>
+		<translation value="Медик-берсерк"/>
+	</entry>
+	<entry key="medic_bp07_mark_01_desc">
+		<original value="Collect a set of Uprising Medic"/>
+		<translation value="Собрать комплект снаряжения медика в событии 'Берсерк'"/>
+	</entry>
+	<entry key="sniper_bp07_mark_01">
+		<original value="Uprising Sniper"/>
+		<translation value="Снайпер-берсерк"/>
+	</entry>
+	<entry key="sniper_bp07_mark_01_desc">
+		<original value="Collect a set of Uprising Sniper"/>
+		<translation value="Собрать комплект снаряжения снайпера в событии 'Берсерк'"/>
+	</entry>
+	<entry key="rifleman_bp07_mark_01">
+		<original value="Uprising Rifleman"/>
+		<translation value="Штурмовик-берсерк"/>
+	</entry>
+	<entry key="rifleman_bp07_mark_01_desc">
+		<original value="Collect a set of Uprising Rifleman"/>
+		<translation value="Собрать комплект снаряжения штурмовика в событии 'Берсерк'"/>
+	</entry>
+	<entry key="engineer_bp07_mark_01">
+		<original value="Uprising Engineer"/>
+		<translation value="Инженер-берсерк"/>
+	</entry>
+	<entry key="engineer_bp07_mark_01_desc">
+		<original value="Collect a set of Uprising Engineer"/>
+		<translation value="Собрать комплект снаряжения инженера в событии 'Берсерк'"/>
+	</entry>
+	<entry key="tournament_bp07_mark_01">
+		<original value="Uprising Challenger"/>
+		<translation value="Жребий брошен"/>
+	</entry>
+	<entry key="tournament_bp07_mark_01_desc">
+		<original value="Take part in Uprising Tournament"/>
+		<translation value="Принять участие в одном из турниров 'Берсерк'"/>
+	</entry>
+	<entry key="tournament_bp07_badge_01">
+		<original value="Uprising Warrior"/>
+		<translation value="Игра на выбывание"/>
+	</entry>
+	<entry key="tournament_bp07_badge_01_desc">
+		<original value="Take part in Playoff of Uprising Tournament"/>
+		<translation value="Принять участие в плей-офф одного из турниров 'Берсерк'"/>
+	</entry>
+	<entry key="base_bp07_badge_01">
+		<original value="Uprising Fighter"/>
+		<translation value="Оперативная подготовка"/>
+	</entry>
+	<entry key="base_bp07_badge_01_desc">
+		<original value="Learn all skills of Fighter"/>
+		<translation value="Изучить все навыки категории 'Боец'"/>
+	</entry>
+	<entry key="base_bp07_badge_02">
+		<original value="Uprising Engineer"/>
+		<translation value="Техническая подготовка"/>
+	</entry>
+	<entry key="base_bp07_badge_02_desc">
+		<original value="Learn all skills of Engineer"/>
+		<translation value="Изучить все навыки категории 'Инженер'"/>
+	</entry>
+	<entry key="base_bp07_badge_03">
+		<original value="Uprising Marodeur"/>
+		<translation value="Разведывательная подготовка"/>
+	</entry>
+	<entry key="base_bp07_badge_03_desc">
+		<original value="Learn all skills of Marodeur"/>
+		<translation value="Изучить все навыки категории 'Исследователь'"/>
+	</entry>
+	<entry key="tournament_bp07_stripe_01">
+		<original value="Uprising Vanquisher"/>
+		<translation value="Победитель турнира 'Берсерк'"/>
+	</entry>
+	<entry key="tournament_bp07_stripe_01_desc">
+		<original value="Win any Uprising Tournament"/>
+		<translation value="Выиграть один из турниров 'Берсерк'"/>
+	</entry>
+	<entry key="rune_bp07_stripe_01">
+		<original value="Uprising Death"/>
+		<translation value="Боевое безумие"/>
+	</entry>
+	<entry key="rune_bp07_stripe_01_desc">
+		<original value="Perform 10 000 kills with Uprising weapons"/>
+		<translation value="Убить 10 000 врагов из оружия 'Берсерк'"/>
+	</entry>
+	<entry key="rune_bp07_badge_01">
+		<original value="Uprising Hawk Eye"/>
+		<translation value="Свирепый рев"/>
+	</entry>
+	<entry key="rune_bp07_badge_01_desc">
+		<original value="Perform 1000 headshots with Uprising weapons"/>
+		<translation value="Убить 1000 врагов попаданиями в голову из оружия 'Берсерк'"/>
+	</entry>
+	<entry key="rune_bp07_mark_01">
+		<original value="Uprising Jack in the box"/>
+		<translation value="Черт из табакерки"/>
+	</entry>
+	<entry key="rune_bp07_mark_01_desc">
+		<original value="Perform 1000 kills in jump with Uprising weapons"/>
+		<translation value="Убить 1000 врагов попаданиями в прыжке из оружия 'Берсерк'"/>
+	</entry>
+	<entry key="ar36Kill">
+		<original value="Phantom Menace"/>
+		<translation value="Скрытая угроза I"/>
+	</entry>
+	<entry key="ar36Kill_desc">
+		<original value="Kill 10000 enemies with F90 MBR or its gold version"/>
+		<translation value="Убить 10 000 врагов из обычной или золотой F90 MBR"/>
+	</entry>
+	<entry key="ar36Kill25">
+		<original value="Advanced Phantom Menace"/>
+		<translation value="Скрытая угроза II"/>
+	</entry>
+	<entry key="ar36Kill25_desc">
+		<original value="Kill 25 000 enemies with F90 MBR or its gold version"/>
+		<translation value="Убить 25 000 врагов из обычной или золотой F90 MBR"/>
+	</entry>
+	<entry key="ar36_gold_kill_01">
+		<original value="Crocodile Jaws"/>
+		<translation value="Челюсти крокодила"/>
+	</entry>
+	<entry key="ar36_gold_kill_01_desc">
+		<original value="Kill 999 enemies with Gold F90 MBR"/>
+		<translation value="Убить 999 врагов из золотой F90 MBR"/>
 	</entry>
 </localization>

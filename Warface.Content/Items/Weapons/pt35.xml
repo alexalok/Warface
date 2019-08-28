@@ -3,6 +3,7 @@
   <skins>
     <material name="default" />
     <material name="bp05" />
+    <material name="bp07" />		
   </skins>
   <icons>
     <ui_icon name="pt35" />

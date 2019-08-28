@@ -1,4 +1,8 @@
 <item class="K01_Item" name="mg07_sp_d" type="attachment" view_settings="objects/weapons/mg07/mg07_sp_d.xml">
+	<skins>
+		<material name="default"/>
+		<material name="camo08"/>
+	</skins>
 	<UI_stats>
 		<param name="name" value="@sp_default_name"/>
 		<param name="description" value="@ui_accessories_sp_default"/>

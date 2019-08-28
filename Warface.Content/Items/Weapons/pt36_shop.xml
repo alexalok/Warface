@@ -16,4 +16,9 @@
 		<item name="pt36"/>	
 		<item name="rds06"/>			
 	</content>
+	
+		<skin_content>
+			<item name="pt36_bp07skin_shop"/>			
+		</skin_content>
+		
 </shop_item>

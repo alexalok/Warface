@@ -3,6 +3,7 @@
   <skins>
     <material name="default" />
     <material name="kra01" />
+    <material name="camo08" />
   </skins>
   <icons>
     <ui_icon name="shg05" />

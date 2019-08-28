@@ -61,7 +61,7 @@
       <stance name="zoomed_prone" value="0.05" />
       <stance name="zoomed_slide" value="0.05" />
       <stance name="zoomed_walk" value="0.08" />
-      <stance name="zoomed_jump" value="0.7" />
+      <stance name="zoomed_jump" value="0.6" />
     </param>
     <param name="spread_max" value="5.5" />
     <param name="spread_max_mul" value="1">
@@ -77,7 +77,7 @@
       <stance name="zoomed_prone" value="0.06" />
       <stance name="zoomed_slide" value="0.06" />
       <stance name="zoomed_walk" value="0.085" />
-      <stance name="zoomed_jump" value="0.65" />
+      <stance name="zoomed_jump" value="0.55" />
     </param>
     <param name="spread_att" value="0.5" />
     <param name="spread_att_mul" value="1" />

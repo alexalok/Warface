@@ -1,6 +1,7 @@
 ﻿<item category="medium" class="K01_Item" net_policy="weapon" name="pt36" priority="22" view_settings="objects/weapons/pt36/pt36.xml">
 	<skins>
 		<material name="default"/>
+	    <material name="bp07" />		
 	</skins>
 	<icons>
 		<ui_icon name="pt36"/>

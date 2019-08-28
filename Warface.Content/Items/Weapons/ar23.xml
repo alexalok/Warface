@@ -8,6 +8,7 @@
     <material name="pink02" />
     <material name="set05" />
     <material name="camo07" />
+    <material name="camo08" />
   </skins>
   <icons>
     <ui_icon name="ar23" />

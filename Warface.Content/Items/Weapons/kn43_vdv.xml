@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item category="small" class="K01_Item" name="kn43_vdv" priority="3" type="weapon" view_settings="objects/weapons/kn43_vdv/kn43_vdv.xml">
+  <skins>
+    <material name="default" />
+	<material name="camo08"/>
+  </skins>
   <mmo_stats>
     <param name="item_category" value="Melee" />
     <param name="shopcontent" value="1" />
@@ -7,6 +11,9 @@
     <param name="durability" value="36000" />
     <param name="repair_cost" value="1300" />
   </mmo_stats>
+  <skin_content>
+    <item name="kn43_vdv_camo08skin_shop" />
+  </skin_content>
   <UI_stats>
     <param name="name" value="@kn43_vdv_shop_name" />
     <param name="description" value="@ui_weapons_kn43_vdv" />

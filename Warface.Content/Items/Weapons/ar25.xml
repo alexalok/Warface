@@ -4,6 +4,7 @@
     <material name="default" />
     <material name="oc02" />
     <material name="ec02" />
+    <material name="camo08" />
   </skins>
   <icons>
     <ui_icon name="ar25" />

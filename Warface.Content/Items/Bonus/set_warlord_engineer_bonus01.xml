@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<GameItem name="set_warlord_engineer_bonus01" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_warlord_engineer_bonus01_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="spread_min_mul" value="0.80"/> 
+        <param name="spread_max_mul" value="0.80"/>  
+    </GameParams>
+</GameItem>

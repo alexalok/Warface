@@ -9,6 +9,7 @@
     <material name="viet01" />
 	<material name="ice01" />
     <material name="ec03" />
+    <material name="bp07" />	
   </skins>
   <icons>
     <ui_icon name="ar12" />

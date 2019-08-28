@@ -13,7 +13,7 @@
   <settings archetype="Items/Weapons/Archetypes/SMG_39.xml">
     <param name="ammo_amount" value="30" />
     <param name="rpm" value="780" />
-    <param name="damage" value="75" />
+    <param name="damage" value="77" />
     <param name="damage_min" value="35" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="3" />

@@ -54,6 +54,7 @@
 			<Filter kind="weapon" param="sr08_bra04_shop"/>
 			<Filter kind="weapon" param="sr08_clr01_shop"/>
 			<Filter kind="weapon" param="sr08_bra05_shop"/>
+			<Filter kind="weapon" param="sr08_camo08_shop"/>
 			<Filter kind="weapon" param="sr09_shop"/>
 			<Filter kind="weapon" param="sr09_ec02_shop"/>
 			<Filter kind="weapon" param="sr09_lava01_shop"/>
@@ -68,6 +69,7 @@
 			<Filter kind="weapon" param="sr13_shop"/>
 			<Filter kind="weapon" param="sr13_crown02_shop"/>
 			<Filter kind="weapon" param="sr13_zsd01_shop"/>
+			<Filter kind="weapon" param="sr13_camo08_shop"/>
 			<Filter kind="weapon" param="sr14_shop"/>
 			<Filter kind="weapon" param="sr14_camo02_shop"/>
 			<Filter kind="weapon" param="sr14_kra01_shop"/>
@@ -134,7 +136,8 @@
 			<Filter kind="weapon" param="sr36_set09_shop"/>
 			<Filter kind="weapon" param="sr37_shop"/>
 			<Filter kind="weapon" param="sr37_anubis_shop"/>
-			<Filter kind="weapon" param="sr37_carbon01_shop"/>				
+			<Filter kind="weapon" param="sr37_carbon01_shop"/>		
+            <Filter kind="weapon" param="sr37_bp07_shop"/>			
 			<Filter kind="weapon" param="sr38_shop"/>
 			<Filter kind="weapon" param="sr38_set10_shop"/>
 			<Filter kind="weapon" param="sr38_jp01_shop"/> 
@@ -182,6 +185,7 @@
 			<Filter kind="weapon" param="sr46_oc04_shop"/>
 			<Filter kind="weapon" param="sr47_shop"/>
 			<Filter kind="weapon" param="sr47_gold01_shop"/>
+			<Filter kind="weapon" param="sr47_bp07_shop"/>
 			<Filter kind="weapon" param="sr48_shop"/>
 			<Filter kind="weapon" param="sr48_gold01_shop"/>
 			</Filters>

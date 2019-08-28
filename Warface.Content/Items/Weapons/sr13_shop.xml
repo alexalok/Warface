@@ -19,4 +19,7 @@
 				<item name="sr13_sp_d"/>
 			</item>
 		</content>
+		<skin_content>
+			<item name="sr13_camo08skin_shop"/>
+		</skin_content>
 	</shop_item>

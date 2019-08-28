@@ -24,7 +24,7 @@
 		<param name="melee_range" value="1.3" />
 		<param name="melee_radius" value="0.2" />
 		<param name="recoil_max" value="400" />
-		<param name="recoil_att" value="70" />
+		<param name="recoil_att" value="60" />
 		<param name="recoil_att_mul" value="1">
 		  <stance name="stand" value="1" />
 		  <stance name="crouch" value="0.8" />
@@ -43,7 +43,7 @@
 		<param name="recoil_dec" value="85" />
 		<param name="recoil_dec_mul" value="1" />
 		<param name="recoil_rnd" value="0" />
-		<param name="recoil_smth" value="30" />
+		<param name="recoil_smth" value="35" />
 		<param name="recoil_smth_mul" value="1" />
 		<param name="spread_min" value="3" />
 		<param name="spread_min_mul" value="1">

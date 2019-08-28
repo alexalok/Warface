@@ -19,6 +19,7 @@
 			<item name="smg08_sp_d"/>
 		</content>
 		<skin_content>
-		<item name="smg08_ps4_01skin_shop"/>
+		    <item name="smg08_ps4_01skin_shop"/>
+		    <item name="smg08_bp07skin_shop"/>			
 		</skin_content>	
 	</shop_item>

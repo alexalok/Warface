@@ -17,5 +17,6 @@
 		</content>
 		<skin_content>
 			<item name="pt35_bp05skin_shop"/>
+			<item name="pt35_bp07skin_shop"/>			
 		</skin_content>
 </shop_item>

@@ -1,6 +1,7 @@
 <item category="heavy" class="K01_Item" name="smg47" net_policy="weapon" priority="26" view_settings="objects/weapons/smg47/smg47.xml">
 	<skins>
 		<material name="default"/>
+	    <material name="bp07" />		
 	</skins>
 	<icons>
 		<ui_icon name="smg47"/>

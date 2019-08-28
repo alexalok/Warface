@@ -12,6 +12,7 @@
 		<item name="engineer_hands_legend_01_03"/>
         <item name="engineer_vest_legend_01"/>
         <item name="engineer_shoes_legend_01_02"/> 		
+        <item name="engineer_shoes_legend_01_03"/>		
     </set_items>
     <set_bonuses>
         <bonus items_need="2" name="set_modernforce_01_bonus01"/>

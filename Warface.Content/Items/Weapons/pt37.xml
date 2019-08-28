@@ -9,6 +9,7 @@
 		<material name="bp05"/>	
 		<material name="ice01"/>	
 		<material name="mars02"/>	
+		<material name="camo08"/>	
 	</skins>
 	<icons>
 		<ui_icon name="pt37"/>

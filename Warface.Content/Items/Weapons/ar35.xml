@@ -6,6 +6,7 @@
   </tags>
   <skins>
     <material name="default" />
+    <material name="bp07" />		
   </skins>
   <icons>
     <ui_icon name="ar35" />

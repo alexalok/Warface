@@ -1,0 +1,24 @@
+<shop_item name="pt02_camo08_shop" type="weapon">
+	<mmo_stats>
+		<param name="item_category" value="Pistol"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="SRME"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="3000"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@pt02_camo08_shop_name"/>
+		<param name="description" value="@ui_weapons_pt02_camo08"/>
+		<param name="icon" value="pt02_camo08"/>
+		<param name="category" value="pt"/>
+	</UI_stats>
+	<content>
+		<item name="pt02_camo08">
+			<item name='pt02_clip_d'/>
+			<item name="ps01_camo08"/>			
+			<item name="rds01_camo08"/>		
+			<item name="rds07_camo08"/>		
+			<item name="rds02_camo08"/>	
+		</item>
+	</content>
+</shop_item>

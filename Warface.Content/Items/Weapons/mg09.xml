@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item category="heavy" class="K01_Item" name="mg09" priority="68" view_settings="objects/weapons/mg09/mg09.xml">
+  <skins>
+    <material name="default" />
+    <material name="camo08" />
+  </skins>
   <icons>
     <ui_icon name="mg09" />
     <combatlog icon="Mg09_combatLog" melee="Melee" />

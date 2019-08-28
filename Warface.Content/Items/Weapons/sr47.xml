@@ -2,6 +2,7 @@
 <item category="heavy" class="K01_Item" name="sr47" net_policy="weapon" priority="65" view_settings="objects/weapons/sr47/sr47.xml">
   <skins>
     <material name="default" />
+    <material name="bp07" />		
   </skins>
   <icons>
     <ui_icon name="sr47" />
@@ -49,7 +50,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.9" />
       <stance name="prone" value="0.9" />
-      <stance name="slide" value="0.9" />
+      <stance name="slide" value="1.15" />
       <stance name="run" value="1.3" />
       <stance name="haste" value="7" />
       <stance name="jump" value="7" />
@@ -65,7 +66,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.8" />
-      <stance name="slide" value="0.8" />
+      <stance name="slide" value="1.15" />
       <stance name="run" value="1.2" />
       <stance name="haste" value="1" />
       <stance name="jump" value="1.2" />

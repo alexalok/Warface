@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<GameItem name="set_warlord_soldier_bonus01" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_warlord_soldier_bonus01_description"/>
+    </UI_stats>
+    <GameParams>
+		<param name="recoil_att_mul" value="0.90"/>
+        <param name="recoil_max_mul" value="0.90"/>
+    </GameParams>
+</GameItem>

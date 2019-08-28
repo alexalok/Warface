@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+	<shop_item name="pt35_bp07skin_shop" type="weapon_skin">
+		<mmo_stats>
+			<param name="item_category" value="secondarySkin"/>
+			<param name="shopcontent" value="1"/>
+			<param name="classes" value="R"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@pt35_bp07skin_shop"/>
+			<param name="description" value="@pt35_bp07"/>
+			<param name="icon" value="pt35_bp07"/>
+		</UI_stats>
+		<skin>
+			<param name="thumbnail_icon" value="pt35_bp07_thumbnail"/>
+			<param name="material" value="bp07"/>
+		</skin>
+	</shop_item>

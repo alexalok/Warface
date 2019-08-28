@@ -16,4 +16,7 @@
 		<content>
 			<item name="mg09"/>
 		</content>
+		<skin_content>
+			<item name="mg09_camo08skin_shop"/>
+		</skin_content>
 	</shop_item>

@@ -1,5 +1,9 @@
 <item class="K01_Item" name="bp02" type="attachment" view_settings="objects/attachments/bp02/bp02.xml">
 	<description_ingame text="@ui_bp02_ingame"/>
+	<skins>
+		<material name="default"/>
+		<material name="camo08"/>
+	</skins>
 	<mmo_stats>
 		<param name="item_category" value="attachment"/>
 		<param name="shopcontent" value="1"/>

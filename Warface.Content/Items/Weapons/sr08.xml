@@ -12,6 +12,7 @@
     <material name="set01" />
     <material name="clr01" />
 	<material name="bra05"/>
+	<material name="camo08"/>
   </skins>
   <icons>
     <ui_icon name="sr08" />
@@ -58,7 +59,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.77" />
-      <stance name="slide" value="0.77" />
+      <stance name="slide" value="1.15" />
       <stance name="run" value="1.3" />
       <stance name="haste" value="7" />
       <stance name="jump" value="7" />
@@ -74,7 +75,7 @@
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
       <stance name="prone" value="0.8" />
-      <stance name="slide" value="0.8" />
+      <stance name="slide" value="1.15" />
       <stance name="run" value="1.2" />
       <stance name="haste" value="1" />
       <stance name="jump" value="1.2" />

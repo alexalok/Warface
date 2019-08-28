@@ -17,19 +17,27 @@
 		<translation value="Неужели Марс — фальсификация? Представьте, что вы лично оказались на красной планете. Камера! Мотор!"/>
 	</entry>
 	<entry key="lp_label3">
-		<original value="TAVOR TS12 Custom"/>
-		<translation value="Tavor TS12 Custom"/>
+		<original value="F90 MBR"/>
+		<translation value="F90 MBR"/>
 	</entry>
 	<entry key="lp_description3">
-		<original value="Pump-action shotgun. Powerful with five rotating magazine tubes holding 3 rounds."/>
-		<translation value="Новая модель в линейке оружия Tavor - дробовик в компоновке 'булл-пап' с подствольным трубчатым магазином."/>
+		<original value="The new generation F90 is an evolution of the Austeyr F88 assault rifle,"/>
+		<translation value="Представитель нового поколения штурмовых винтовок от австралийской компании Thales."/>
 	</entry>
 	<entry key="lp_label4">
-		<original value="Truvelo CMS"/>
-		<translation value="Truvelo CMS 20x42 mm"/>
+		<original value="Gerber Tomahawk"/>
+		<translation value="Томагавк Gerber"/>
 	</entry>
 	<entry key="lp_description4">
-		<original value="Sniper rifle and its gold version"/>
-		<translation value="Смертоносная снайперская винтовка от компании Truvelo, которая использует мощные боеприпасы калибра 20 мм."/>
+		<original value="The Gerber Tactical Tomahawk is a marvel of simplicity and efficiency in service of solving serious problems."/>
+		<translation value="Тактический томагавк Gerber - эталон практичности, позволяющий эффективно решать проблемы любой сложности в бою."/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
+	<entry>
+		<original/>
+		<translation/>
 	</entry>
 </localization>

@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item category="heavy" class="K01_Item" name="smg46" net_policy="weapon" priority="26" view_settings="objects/weapons/smg46/smg46.xml">
-
+  <skins>
+    <material name="default" />
+    <material name="camo08" />
+  </skins>
   <icons>
     <ui_icon name="smg46" />
     <combatlog icon="Smg46_combatLog" melee="Melee" />
@@ -67,12 +70,12 @@
       <stance name="run" value="1.1" />
       <stance name="haste" value="1.2" />
       <stance name="jump" value="1.3" />
-      <stance name="zoomed_stand" value="0.2" />
-      <stance name="zoomed_crouch" value="0.20" />
-      <stance name="zoomed_prone" value="0.20" />
-      <stance name="zoomed_slide" value="0.20" />
-      <stance name="zoomed_walk" value="0.28" />
-      <stance name="zoomed_jump" value="0.40" />
+      <stance name="zoomed_stand" value="0.14" />
+      <stance name="zoomed_crouch" value="0.15" />
+      <stance name="zoomed_prone" value="0.15" />
+      <stance name="zoomed_slide" value="0.15" />
+      <stance name="zoomed_walk" value="0.17" />
+      <stance name="zoomed_jump" value="0.30" />
     </param>
     <param name="spread_att" value="0.20">
       <stance name="stand" value="1" />

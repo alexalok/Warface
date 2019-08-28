@@ -143,7 +143,7 @@
     <param name="zoomed_bolt_action_duration" value="1000" />
     <param name="ai_sound_radius" value="400" />
     <param name="ai_light_radius" value="2.3" />
-    <param name="cyborg_damage_buff" value="2" />
+    <param name="cyborg_damage_buff" value="2.5" />
   </settings>
   <firemodes>
     <firemode icon="FireModeSingle" type="Single" />

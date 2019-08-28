@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item category="heavy" class="K01_Item" name="shg52" net_policy="weapon" priority="49" view_settings="objects/weapons/shg52/shg52.xml">
   <skins>
-    <material name="default" />	
+    <material name="default" />
+    <material name="bp07" />		
   </skins>
   <tags>
     <tag name="shg" />

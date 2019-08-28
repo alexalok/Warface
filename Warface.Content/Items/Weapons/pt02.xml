@@ -3,6 +3,7 @@
   <skins>
     <material name="default" />
     <material name="afro01" />
+    <material name="camo08" />
   </skins>
   <icons>
     <ui_icon name="pt02" />

@@ -2,6 +2,7 @@
 	<skins>
 		<material name="default"/>
 		<material name="xmas04"/>
+		<material name="camo08"/>
 	</skins>
 	<description_ingame text="@ui_smg42_rds_d_ingame"/>
 	<mmo_stats>

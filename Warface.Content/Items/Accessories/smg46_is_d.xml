@@ -1,6 +1,7 @@
 <item name="smg46_is_d" class="K01_Item" type="attachment" view_settings="objects/weapons/smg46/smg46_is_d.xml">
 	<skins>
 		<material name="default"/>
+		<material name="camo08"/>
 	</skins>
 	<UI_stats>
 		<param name="name" value="@is_default_name"/>

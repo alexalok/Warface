@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<set name="set_warlord_medic">
+    <UI_stats>
+        <param name="name" value="@ui_set_warlord_medic"/>
+        <param name="description" value="@ui_set_warlord_medic_description"/>
+        <param name="color" value="33cc99"/>
+    </UI_stats>
+    <set_items>
+        <item name="medic_helmet_warlord_02"/>
+		<item name="medic_vest_warlord_02"/>
+		<item name="medic_hands_warlord_02"/>
+		<item name="medic_shoes_warlord_02"/>
+		<item name="shg08"/>
+		<item name="shg42"/>
+		<item name="shg32"/>
+    </set_items>
+    <set_bonuses>
+	    <bonus items_need="2" name="set_warlord_medic_bonus01"/>
+        <bonus items_need="4" name="set_warlord_medic_bonus02"/>
+		<bonus items_need="5" name="set_warlord_medic_bonus03"/>
+    </set_bonuses>
+</set>
