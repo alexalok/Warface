@@ -241,8 +241,8 @@
 		<translation value="Штурмовик"/>
 	</entry>
 	<entry key="ui_class_heavy">
-		<original value="Heavy"/>
-		<translation value="Пехотинец"/>
+		<original value="SED"/>
+		<translation value="СЭД"/>
 	</entry>
 	<entry key="ui_class_recon">
 		<original value="SNIPER"/>
@@ -781,8 +781,8 @@
 		<translation value="Штурмовик"/>
 	</entry>
 	<entry key="ui_button_tab_preset_2">
-		<original value="Heavy"/>
-		<translation value="Пехотинец"/>
+		<original value="SED"/>
+		<translation value="СЭД"/>
 	</entry>
 	<entry key="ui_button_tab_preset_3">
 		<original value="SNIPER"/>
@@ -1294,11 +1294,11 @@
 	</entry>
 	<entry key="CGboots">
 		<original value="BOOTS"/>
-		<translation value="САПОГИ"/>
+		<translation value="БОТИНКИ"/>
 	</entry>
 	<entry key="CGprimary">
 		<original value="PRIMARY"/>
-		<translation value="ОСНОВНОЕ"/>
+		<translation value="ОСН."/>
 	</entry>
 	<entry key="CGsecondary">
 		<original value="SECONDARY"/>
@@ -1306,7 +1306,7 @@
 	</entry>
 	<entry key="CGspecial">
 		<original value="SPECIAL"/>
-		<translation value="ОСОБОЕ"/>
+		<translation value="ОСОБ."/>
 	</entry>
 	<entry key="CGpistol">
 		<original value="PISTOL"/>
@@ -1906,7 +1906,7 @@
 	</entry>
 	<entry key="inventory_weapon_slot_primary">
 		<original value="PRIMARY"/>
-		<translation value="ОСНОВНОЕ"/>
+		<translation value="ОСН."/>
 	</entry>
 	<entry key="inventory_weapon_slot_secondary">
 		<original value="SECONDARY"/>
@@ -1918,7 +1918,7 @@
 	</entry>
 	<entry key="inventory_weapon_slot_special">
 		<original value="SPECIAL"/>
-		<translation value="ОСОБОЕ"/>
+		<translation value="ОСОБ."/>
 	</entry>
 	<entry key="inventory_indicator_expiration_days">
 		<original value="d"/>
@@ -1995,14 +1995,6 @@
 	<entry key="inventory_indicator_consumable_items_max">
 		<original value="max"/>
 		<translation value="макс."/>
-	</entry>
-	<entry key="inventory_consumable_caption">
-		<original value="CONSUMABLES"/>
-		<translation value="ПОЯС"/>
-	</entry>
-	<entry key="inventory_pocket_caption">
-		<original value="POCKETS"/>
-		<translation value="КАРМАНЫ"/>
 	</entry>
 	<entry key="inventory_pveonly_ad">
 		<original value="You can find PvE-only weapons here"/>
@@ -3141,8 +3133,8 @@
 		<translation value="В роли снайпера:"/>
 	</entry>
 	<entry key="ui_time_played_by_heavy">
-		<original value="Time played by heavy:"/>
-		<translation value="В роли пехотинца:"/>
+		<original value="Time played by SED:"/>
+		<translation value="В роли СЭД:"/>
 	</entry>
 	<entry key="ui_time_played_by_engineer">
 		<original value="Time played by engineer:"/>
@@ -3527,30 +3519,6 @@
 	<entry key="options_quick_use">
 		<original value="QUICK USE"/>
 		<translation value="Быстрое использование"/>
-	</entry>
-	<entry key="options_pocket_1">
-		<original value="POCKET 1"/>
-		<translation value="Карман 1"/>
-	</entry>
-	<entry key="options_pocket_2">
-		<original value="POCKET 2"/>
-		<translation value="Карман 2"/>
-	</entry>
-	<entry key="options_pocket_3">
-		<original value="POCKET 3"/>
-		<translation value="Карман 3"/>
-	</entry>
-	<entry key="options_pocket_4">
-		<original value="POCKET 4"/>
-		<translation value="Карман 4"/>
-	</entry>
-	<entry key="options_consumable_1">
-		<original value="POCKET 5 (CONSUMABLE)"/>
-		<translation value="Карман 5 (Пояс)"/>
-	</entry>
-	<entry key="options_consumable_2">
-		<original value="POCKET 6 (CONSUMABLE)"/>
-		<translation value="Карман 6 (Пояс)"/>
 	</entry>
 	<entry key="options_quick_chat1">
 		<original value="QUICK CHAT TAB 1"/>
@@ -7458,7 +7426,7 @@
 	</entry>
 	<entry key="ui_button_battle_pass">
 		<original value="BATTLE PASS"/>
-		<translation value="АРМАГЕДДОН"/>
+		<translation value="БОЕВОЙ ПРОПУСК"/>
 	</entry>
 	<entry key="ui_shop_consumable">
 		<original value="CONSUMABLE"/>
@@ -8151,5 +8119,33 @@
 	<entry key="ui_playerinfo_ratingmission_discord">
 		<original value="Is playing Rating Match"/>
 		<translation value="участвует в рейтинговом матче"/>
+	</entry>
+	<entry key="ui_overheat">
+		<original value="Overheat"/>
+		<translation value="Перегрев"/>
+	</entry>
+	<entry key="pocket_frag_grenade_slot_name">
+		<original value="FRAG"/>
+		<translation value="ОСКОЛОЧНАЯ"/>
+	</entry>
+	<entry key="pocket_flash_grenade_slot_name">
+		<original value="FLASH"/>
+		<translation value="СВЕТОШУМОВАЯ"/>
+	</entry>
+	<entry key="pocket_smoke_grenade_slot_name">
+		<original value="SMOKE"/>
+		<translation value="ДЫМОВАЯ"/>
+	</entry>
+	<entry key="pocket_claymore_slot_name">
+		<original value="CLAYMORE"/>
+		<translation value="МИНА"/>
+	</entry>
+	<entry key="pocket_kit_slot_name">
+		<original value="SPECIAL 1"/>
+		<translation value="ОСОБОЕ 1"/>
+	</entry>
+	<entry key="pocket_special_slot_name">
+		<original value="SPECIAL 2"/>
+		<translation value="ОСОБОЕ 2"/>
 	</entry>
 </localization>

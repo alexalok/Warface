@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<GameItem name="set_gunner_01_bonus01" type="bonus">
+    <UI_stats>
+        <param name="description" value="@ui_set_gunner_01_bonus01_description"/>
+    </UI_stats>
+    <GameParams>
+        	<param name="damage" value="10"/>
+			<param name="damage_min" value="6"/>
+		    <param name="spread_min_mul" value="0.6"/> 
+		    <param name="spread_max_mul" value="0.9"/> 	
+    </GameParams>
+</GameItem>

@@ -1,6 +1,6 @@
 <ammo name="flashbang" type="grenade" class="Projectile" require="fl01">
 	<mmo_stats>
-		<param name="item_category" value="Grenade"/>
+		<param name="item_category" value="flash_grenade"/>
 		<param name="shopcontent" value="1"/>
 		<param name="classes" value="REMS"/>
 	</mmo_stats>

@@ -1,0 +1,70 @@
+<ammo name="bullet_gl" class="Projectile">
+	<icons>
+		<combatlog icon="Gl02_sed_combatLog"/>
+	</icons>
+	<geometry>
+		<firstperson name="Objects/Weapons/Shells/shell_scargrenade/scar_gl_grenade.cgf"/>
+		<thirdperson name="Objects/Weapons/Shells/shell_scargrenade/scar_gl_grenade.cgf"/>
+	</geometry>
+	<flags>
+		<param name="serverspawn" value="1"/>
+		<param name="predictspawn" value="1"/>
+	</flags>
+	<physics type="particle">
+		<param name="mass" value="0.50"/>
+		<param name="speed" value="60"/>
+		<param name="radius" value="0.125"/>
+		<param name="air_resistance" value="0"/>
+		<param name="water_resistance" value="0.5"/>
+		<param name="gravity" value="0, 0, -9.8"/>
+		<param name="water_gravity" value="0, 0, -9.8"/>
+		<param name="thrust" value="0"/>
+		<param name="lift" value="0"/>
+		<param name="min_bounce_speed" value="8"/>
+		<param name="material" value="mat_metal"/>
+		<param name="spin_random" value="720, 720, 720"/>
+		<param name="single_contact" value="0"/>
+		<param name="pierceability" value="14"/>
+	</physics>
+	<explosion>
+		<param name="pressure" value="100"/>
+		<param name="min_radius" value="2.2"/>
+		<param name="max_radius" value="6.5"/>
+		<param name="min_phys_radius" value="1.5"/>
+		<param name="max_phys_radius" value="2"/>
+		<param name="hole_size" value="2"/>
+		<param name="terrain_hole_size" value="3"/>
+		<param name="decal" value="textures/decal/explo_decal.dds"/>
+		<param name="effect_scale" value="0.2"/>
+		<param name="radialblurdist" value="5"/>
+		<param name="max_explode_on_impact_angle" value="360"/>
+		<param name="min_explode_on_impact_lifetime" value="0.3"/>
+		<param name="effect_scale" value="1"/>
+		<param name="effect_class" value="flashbang"/>
+	</explosion>
+	<trail>
+		<param name="effect" value="weapon_fx.tracer.scargrenade_trail"/>
+		<param name="prime" value="false"/>
+	</trail>
+	<params>
+		<param name="lifetime" value="2.7"/>
+		<param name="showtime" value="0.15"/>
+		<param name="ammo_kind"	value="glgrenade"/>
+		<param name="hit_type" value="frag"/>
+		<!--<param name="safeexplosion" value="10"/>-->
+		<param name="launch_type" value="0"/>
+	</params>
+	<flashbang>
+		<param name="max_radius" value="7.0"/>
+		<param name="blind_amount_red_coef" value="0.95"/> <!-- The les this number is the weaker effect player will receive if grenade explode in to players face -->
+		<param name="blind_amount_yellow_coef" value="0.35"/> <!-- same as above but for player sides -->
+		<param name="blind_amount_green_coef" value="0.1"/> <!-- same as above but for player back -->
+		<param name="flashbang_base_time" value="0.6"/>
+		<param name="ray_coef" value="0.15"/> <!-- multiplier for each additional ray, should be from 0.1 to 0.3-->
+		<param name="up_ray_length" value="2.0"/> <!-- lenght of additional rays, the bigger this number the higher obstacles flash bang can diffract -->
+		<param name="side_ray_length" value="2.0"/> <!-- same as above but horizontal -->
+		<param name="reflection_angle" value="8.0"/> <!-- angle for side rays -->
+		<param name="red_angle" value="80.0"/> <!-- basicaly an angle of player face -->
+		<param name="yellow_angle" value="110.0"/> <!-- same as above but for player back, should always be 30-40 bigger than "red_angle" -->
+	</flashbang>
+</ammo>

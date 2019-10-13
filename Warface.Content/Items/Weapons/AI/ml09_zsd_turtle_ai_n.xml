@@ -5,7 +5,7 @@
     <combatlog melee="Melee" />
   </icons>
   <settings>
-    <param name="melee_damage" value="70" />
+    <param name="melee_damage" value="100" />
     <param name="melee_range" value="4.1" />
     <param name="melee_radius" value="0.7" />
     <param name="select_duration" value="150" />
@@ -23,5 +23,6 @@
   <melee_params>
     <param name="impulse" value="80" />
     <param name="no_ray_test" value="1" />
+	<param name="armor_absorb" value="1"/>
   </melee_params>
 </item>

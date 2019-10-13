@@ -1,6 +1,6 @@
 <ammo name="smokegrenade40_bp07" type="grenade" class="Projectile" require="sg40_bp07">
     <mmo_stats>
-        <param name="item_category" value="Grenade" />
+        <param name="item_category" value="smoke_grenade" />
         <param name="shopcontent" value="1" />
         <param name="classes" value="MERS" />
     </mmo_stats>

@@ -1,6 +1,6 @@
 <ammo name="explosivegrenade01_hlw01" type="grenade" class="Projectile" net_policy="weapon" require="fg01_hlw01">
 	<mmo_stats>
-		<param name="item_category" value="Grenade"/>
+		<param name="item_category" value="frag_grenade"/>
 		<param name="shopcontent" value="1"/>
 		<param name="classes" value="MERS"/>
 		<param name="max_buy_amount" value="32000"/>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+	<GameItem name="default_gunner_hands" type="armor">
+		<mmo_stats>
+			<param name="item_category" value="Gloves"/>
+			<param name="shopcontent" value="0"/>
+			<param name="classes" value="H"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="6010"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_default_gunner_hands_name"/>
+			<param name="description" value="@ui_armor_default_gunner_hands"/>
+			<param name="icon" value="sed_hands_module_01"/>
+		</UI_stats>
+		<slots>
+			<slot main="1" name="gloves">
+				<materials>
+					<Material default="1" display_name="grey" icon="mat_grey" name="default" surface_type="mat_armor_arms"/>
+				</materials>
+               <assets>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+			<param name="res_arms" value="0.2"/>
+		</GameParams>
+	</GameItem>

@@ -1,0 +1,38 @@
+<shop_item name="box_test" type="random_box">
+	<mmo_stats>
+		<param name="item_category" value="RandomBox"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RESM"/>
+		<param name="max_buy_amount" value="5"/>
+		<param name="testcontent" value="1"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@box_test_shop_name"/>
+		<param name="description" value="@ui_box_pt36_description"/>
+		<param name="icon" value="test_item_icon"/>
+	</UI_stats>
+	<random_box>
+		<group>
+			<item name="box_test_bundle_smg" weight="400"/>
+			<item name="test_smg_shop" weight="100"/>
+			<item name="test_smg_shop" weight="10" top_prize_token="box_token_cry_money_pt36" win_limit="1000"/>
+			<item name="test_sr_shop" expiration="3h" weight="960"/>
+			<item name="test_smg_shop" expiration="1d" weight="460"/>
+			<item name="test_w_shop" expiration="1d" weight="380"/>
+		</group>
+		<group>
+			<item name="kn10" expiration="3d" weight="16"/>
+			<item name="kn10" expiration="7d" weight="8"/>
+			<item name="smokegrenade03_c" amount="7" weight="13"/>
+			<item name="smokegrenade03_c" amount="3" weight="40"/>
+			<item name="claymoreexplosive04_c" amount="2" weight="13"/>
+			<item name="claymoreexplosive04_c" amount="1" weight="19"/>
+		</group>
+		<group>
+			<item name="exp_item_01"  amount="1500" weight="2"/>
+			<item name="exp_item_01"  amount="1000" weight="3"/>
+			<item name="exp_item_01"  amount="500" weight="15"/>
+			<item name="exp_item_01"  amount="200" weight="80"/>
+		</group>
+	</random_box>
+</shop_item>

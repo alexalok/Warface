@@ -11,6 +11,7 @@
     	<item name="medic_hands_legend_01_02"/>
 		<item name="medic_hands_legend_01_03"/>
         <item name="medic_vest_legend_01"/>
+		<item name="medic_shoes_legend_01"/>
         <item name="medic_shoes_legend_01_02"/>	
         <item name="medic_shoes_legend_01_03"/>			
     </set_items>

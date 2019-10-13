@@ -1,6 +1,6 @@
 <ammo name="claymoreexplosive08" type="claymore" net_policy="weapon" class="ClaymoreExplosive" require="cm08">
 	<mmo_stats>
-		<param name="item_category" value="Grenade"/>
+		<param name="item_category" value="claymore"/>
 		<param name="shopcontent" value="1"/>
 		<param name="classes" value="RMES"/>
 		<param name="max_buy_amount" value="9999"/>

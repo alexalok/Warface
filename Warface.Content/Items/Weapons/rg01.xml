@@ -16,6 +16,9 @@
     <param name="description" value="@ui_weapons_rg01" />
     <param name="icon" value="rg01" />
   </UI_stats>
+	<pickup_params>
+        <param name="allowed_classes" value="RMESH"/>
+    </pickup_params>
   <settings archetype="Items/Weapons/Archetypes/AR.xml">
     <param name="ammo_amount" value="40" />
     <param name="rpm" value="107" />

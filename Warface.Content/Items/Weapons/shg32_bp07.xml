@@ -12,12 +12,12 @@
   </drop_params>
   <settings archetype="Items/Weapons/Archetypes/SG.xml">
     <param name="ammo_amount" value="6" />
-    <param name="rpm" value="185" />
+    <param name="rpm" value="190" />
     <param name="damage" value="57" />
     <param name="damage_min" value="30" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="10" />
-    <param name="damage_drop_min_distance" value="5.8" />
+    <param name="damage_drop_min_distance" value="6" />
     <param name="melee_damage" value="65" />
     <param name="melee_range" value="1.3" />
     <param name="melee_radius" value="0.2" />

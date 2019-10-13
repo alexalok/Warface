@@ -3,7 +3,7 @@
   <mmo_stats>
     <param name="item_category" value="defibrillator" />
     <param name="shopcontent" value="1" />
-    <param name="classes" value="MERS" />
+    <param name="classes" value="MERSH" />
     <param name="durability" value="36000" />
     <param name="repair_cost" value="3510" />
   </mmo_stats>
@@ -51,6 +51,7 @@
       <param name="activate_duration" value="2100" />
       <param name="distance" value="2" />
       <param name="hit_type" value="resurrecting" />
+      <param name="class_restrictions" value="MERSH"/>
       <param name="health_mult" value="1" />
     </resurrect_params>    
   </defibrillator_params>

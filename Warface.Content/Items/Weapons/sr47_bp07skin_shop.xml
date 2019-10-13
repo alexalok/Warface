@@ -6,7 +6,7 @@
 			<param name="classes" value="R"/>
 		</mmo_stats>
 		<UI_stats>
-			<param name="name" value="@sr47_bp077skin_shop"/>
+			<param name="name" value="@sr47_bp07skin_shop_name"/>
 			<param name="description" value="@sr47_bp07"/>
 			<param name="icon" value="sr47_bp07"/>
 		</UI_stats>

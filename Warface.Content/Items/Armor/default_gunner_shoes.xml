@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+	<GameItem name="default_gunner_shoes" type="armor">
+		<mmo_stats>
+			<param name="item_category" value="Boots"/>
+			<param name="shopcontent" value="0"/>
+			<param name="classes" value="H"/>
+			<param name="durability" value="36000"/>
+			<param name="repair_cost" value="6180"/>
+		</mmo_stats>
+		<UI_stats>
+			<param name="name" value="@ui_armor_default_gunner_shoes_name"/>
+			<param name="description" value="@ui_armor_default_gunner_shoes"/>
+			<param name="icon" value="sed_legs_module_01"/>
+		</UI_stats>
+		<slots>
+			<slot main="1" name="boots">
+				<materials>
+					<Material default="1" display_name="black" icon="mat_black" name="default" surface_type="mat_armor_legs"/>
+				</materials>
+				<assets>
+				</assets>
+			</slot>
+		</slots>
+		<GameParams>
+			<param name="slide_dist_mul" value="0.6"/>
+            <param name="sprint_speed_mul" value="0.85"/>
+            <param name="sprint_time_mul" value="10"/>
+			<param name="res_legs" value="0.1"/>
+			<param name="knock_back_resistance" value="1.0"/>
+			<param name="strafe_multiplier" value="0.55"/>
+			<param name="climb_extra_height" value="1.8"/>
+			<param name="health_mul" value="0.24"/>
+			<param name="armor_absorb_ratio" value="1.2375"/>
+		</GameParams>
+	</GameItem>

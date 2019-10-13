@@ -1,6 +1,6 @@
 <ammo name="poisongrenade_test" type="grenade" class="KillZoneProjectile" require="pg01_test">
 	<mmo_stats>
-		<param name="category" value="Grenade"/>
+		<param name="category" value="smoke_grenade"/>
 		<param name="shopcontent" value="1"/>
 		<param name="classes" value="EMRS"/>
 		<param name="testcontent" value="1"/>

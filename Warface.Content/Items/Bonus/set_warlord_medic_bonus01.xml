@@ -4,6 +4,6 @@
         <param name="description" value="@ui_set_warlord_medic_bonus01_description"/>
     </UI_stats>
     <GameParams>
-		<param name="sprint_time_mul" value="1.5"/>
+     <param name="claymore_detector_radius" value="10.0"/>
     </GameParams>
 </GameItem>

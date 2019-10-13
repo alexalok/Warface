@@ -2,5 +2,5 @@
 	<param name="head_damage_mult" value="3.7"/>
 	<param name="body_damage_mult" value="1"/>
 	<param name="arms_damage_mult" value="0.9"/>
-	<param name="legs_damage_mult" value="0.9"/>
+	<param name="legs_damage_mult" value="1"/>
 </settings>

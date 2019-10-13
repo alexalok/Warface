@@ -26,6 +26,7 @@
 		<GameParams>
 			<param name="res_legs" value="0.2"/> 
             <param name="claymore_activation_delay_mul" value="3"/>
+			<param name="sprint_speed_mul" value="1.1"/> 
 		</GameParams>
 	</GameItem>
 

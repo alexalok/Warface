@@ -5,7 +5,7 @@
     <combatlog melee="Melee" />
   </icons>
   <settings>
-    <param name="melee_damage" value="30" />
+    <param name="melee_damage" value="80" />
     <param name="melee_range" value="2.1" />
     <param name="melee_radius" value="0.4" />
     <param name="select_duration" value="150" />
@@ -13,11 +13,16 @@
     <param name="melee_out_duration" value="600" />
     <param name="melee_duration" value="350" />
     <param name="melee_knock_back_chance" value="0" />
+    <param name="melee_knock_back_chance_mul" value="0" />
+    <param name="melee_knock_back_stamina_damage" value="0" />
+    <param name="melee_radius_mul" value="1.0" />
   </settings>
   <firemodes>
     <firemode icon="FireModeMelee" type="Melee" />
   </firemodes>
   <melee_params>
     <param name="impulse" value="80" />
+	<param name="armor_absorb" value="1"/>
+	<param name="no_ray_test" value="1" />
   </melee_params>
 </item>

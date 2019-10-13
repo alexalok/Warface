@@ -23,7 +23,7 @@
 		<param name="damage_min" value="3"/>
 		<param name="damage_drop_per_meter" value="9"/>
 		<param name="damage_drop_min_distance" value="5"/>
-		<param name="melee_damage" value="10"/>
+		<param name="melee_damage" value="35"/>
 		<param name="melee_knock_back_chance" value="1"/>
 		<param name="melee_knock_back_chance_mul" value="1"/>
 		<param name="melee_knock_back_stamina_damage" value="1.0"/>
@@ -46,6 +46,7 @@
 		<param name="pierce" value="100"/>
 		<param name="no_ray_test" value="1"/>
 		<param name="hit_type" value="melee"/>
+		<param name="armor_absorb" value="1"/>
 	</melee_params>
 	<sockets/>
 	<fireparams>

@@ -6,6 +6,7 @@
         <param name="color" value="ff3300"/>
     </UI_stats>
     <set_items>
+		<item name="pt08_test02"/>
         <item name="shared_hands_set_01_test"/>
 		<item name="shared_shoes_set_01_test"/>
 		<item name="soldier_helmet_set_01_test"/>
@@ -18,5 +19,6 @@
         <bonus items_need="2" name="set_test_01_bonus02"/>
         <bonus items_need="3" name="set_test_01_bonus03"/>
         <bonus items_need="4" name="set_test_01_bonus04"/>
+		<bonus items_need="5" name="set_test_01_bonus05"/>
     </set_bonuses>
 </set>

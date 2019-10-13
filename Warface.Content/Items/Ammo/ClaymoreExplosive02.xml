@@ -1,6 +1,6 @@
 <ammo name="claymoreexplosive02" type="claymore" class="ClaymoreExplosive" require="cm02">
 	<mmo_stats>
-		<param name="item_category" value="explosive"/>
+		<param name="item_category" value="claymore"/>
 		<param name="shopcontent" value="1"/>
 		<param name="classes" value="E"/>
 	</mmo_stats>

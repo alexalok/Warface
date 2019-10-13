@@ -1,10 +1,10 @@
 <ammo name="smokegrenade_bra01" type="grenade" class="Projectile" require="sg01_bra01">
     <mmo_stats>
-        <param name="item_category" value="Grenade" />
-        <param name="shopcontent" value="1" />
-        <param name="classes" value="MESR" />
-        <param name="max_buy_amount" value="32000" />
-        <param name="stackable" value="1" />
+        <param name="item_category" value="smoke_grenade"/>
+        <param name="shopcontent" value="1"/>
+        <param name="classes" value="MESR"/>
+        <param name="max_buy_amount" value="32000"/>
+        <param name="stackable" value="1"/>
     </mmo_stats>
     <UI_stats>
         <param name="name" value="@sg01_bra01_name" />
@@ -55,14 +55,15 @@
         <param name="platform_spawn_delay" value="1.0" />
     </trail>
     <scaledeffect>
-        <param name="postEffect" value="FilterBlurring_Amount" />
+    <param name="postEffect" value="FilterBlurring_Amount" />
         <param name="maxvalue" value="0" />
         <param name="radius" value="3.2" />
         <param name="lifetime" value="19" />
         <param name="fadeintime" value="1" />
         <param name="fadeouttime" value="2" />
         <param name="AIObstructionRadius" value="3.0" />
-        <param name="color" value="0.29, 0.45, 0.15" />
+        <param name="color_edge" value="0.29, 0.45, 0.15" />
+        <param name="color_center" value="0.17, 0.27, 0.09" />
         <param name="SmokeMaskEyeDirectionOffset" value="0.5" />
         <param name="SmokeEffectCoefficient" value="7" />
         <param name="SmokeEffectOffset" value="0, 0, 1.5" />

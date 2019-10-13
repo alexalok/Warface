@@ -21,12 +21,12 @@
     <param name="damage_min" value="56" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="1.1" />
-    <param name="damage_drop_min_distance" value="16" />
+    <param name="damage_drop_min_distance" value="17" />
     <param name="melee_damage" value="65" />
     <param name="melee_range" value="1.3" />
     <param name="melee_radius" value="0.2" />
     <param name="recoil_max" value="805" />
-    <param name="recoil_att" value="160" />
+    <param name="recoil_att" value="155" />
     <param name="recoil_att_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />
@@ -46,7 +46,7 @@
     <param name="recoil_dec_mul" value="1" />
     <param name="recoil_dec_delay" value="65" />
     <param name="recoil_rnd" value="0" />
-    <param name="recoil_smth" value="16" />
+    <param name="recoil_smth" value="20" />
     <param name="recoil_smth_mul" value="2.5" />
     <param name="spread_min" value="4.5" />
     <param name="spread_min_mul" value="1">

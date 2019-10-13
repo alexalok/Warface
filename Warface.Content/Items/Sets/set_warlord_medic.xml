@@ -13,6 +13,8 @@
 		<item name="shg08"/>
 		<item name="shg42"/>
 		<item name="shg32"/>
+		<item name="shg41"/>
+        <item name="shg36"/>
     </set_items>
     <set_bonuses>
 	    <bonus items_need="2" name="set_warlord_medic_bonus01"/>

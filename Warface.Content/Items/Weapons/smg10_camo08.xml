@@ -10,10 +10,10 @@
   <drop_params>
     <item name="smg10_camo08" type="weapon" />
   </drop_params>
-  <settings archetype="Items/Weapons/Archetypes/SMG.xml">
+  <settings archetype="Items/Weapons/Archetypes/SMG_10.xml">
     <param name="ammo_amount" value="30" />
     <param name="rpm" value="840" />
-    <param name="damage" value="75" />
+    <param name="damage" value="76" />
     <param name="damage_min" value="38" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="3" />

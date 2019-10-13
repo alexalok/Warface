@@ -66,5 +66,6 @@
     <param name="distance" value="8" />
     <param name="restore_coop_duration" value="3000" />    
     <param name="hit_type" value="healing" />
+    <param name="class_restrictions" value="RMES"/>
   </restore_params>
 </item>

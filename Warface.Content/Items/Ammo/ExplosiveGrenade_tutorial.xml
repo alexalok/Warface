@@ -1,6 +1,6 @@
 <ammo name="explosivegrenade_tutorial" type="grenade" class="Projectile" require="fg01_tutorial">
 	<mmo_stats>
-		<param name="item_category" value="Grenade"/>
+		<param name="item_category" value="frag_grenade"/>
 		<param name="shopcontent" value="0"/>
 		<param name="classes" value="MERS"/>
 	</mmo_stats>

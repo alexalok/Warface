@@ -1508,4 +1508,8 @@
 		<original value="Security Guard"/>
 		<translation value="Сотрудник охраны"/>
 	</entry>
+	<entry key="pickup_prohibited">
+		<original value="THIS WEAPON CANNOT BE PICKED UP!"/>
+		<translation value="ЭТО ОРУЖИЕ НЕЛЬЗЯ ПОДОБРАТЬ"/>
+	</entry>
 </localization>

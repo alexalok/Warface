@@ -148,7 +148,7 @@
     <param name="melee_knock_back_chance" value="1" />
     <param name="knock_back_chance" value="0" />
     <param name="zoom_factor" value="1.1" />
-    <param name="select_duration" value="230" />
+    <param name="select_duration" value="320" />
     <param name="deselect_duration" value="400" />
     <param name="reload_duration" value="600" />
     <param name="melee_duration" value="250" />

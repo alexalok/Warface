@@ -1,43 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
 	<entry key="lp_label1">
-		<original value="DST MARS"/>
-		<translation value="Карта 'Студия'"/>
+		<original value="5th class (SED)"/>
+		<translation value="Новый класс - СЭД"/>
 	</entry>
 	<entry key="lp_description1">
-		<original value="DST map in Marsian setting"/>
-		<translation value="Новая карта для режима 'Уничтожение' в необычном исполнении."/>
+		<original value="New experience for the players with new features and capabilities"/>
+		<translation value="В Warface появился пятый по счету класс, который отличается уникальной механикой и новыми возможностями."/>
 	</entry>
 	<entry key="lp_label2">
-		<original value="DST MARS"/>
-		<translation value="Карта 'Студия'"/>
+		<original value="5th class weapons"/>
+		<translation value="Оружие СЭД"/>
 	</entry>
 	<entry key="lp_description2">
-		<original value="Map represents a film studio, which shows that Mars mission was fake, thus allowing human beings (not SEDs) to play in PvP in that setting"/>
-		<translation value="Неужели Марс — фальсификация? Представьте, что вы лично оказались на красной планете. Камера! Мотор!"/>
+		<original value="Unique machine-gun with spread reduction and heat mechanics, hip-fire only."/>
+		<translation value="СЭД использует пулемет, при непрерывной стрельбе из которого снижается разброс пуль, но оружие может перегреться."/>
 	</entry>
 	<entry key="lp_label3">
-		<original value="F90 MBR"/>
-		<translation value="F90 MBR"/>
+		<original value="SV-98"/>
+		<translation value="СВ-98"/>
 	</entry>
 	<entry key="lp_description3">
-		<original value="The new generation F90 is an evolution of the Austeyr F88 assault rifle,"/>
-		<translation value="Представитель нового поколения штурмовых винтовок от австралийской компании Thales."/>
-	</entry>
-	<entry key="lp_label4">
-		<original value="Gerber Tomahawk"/>
-		<translation value="Томагавк Gerber"/>
-	</entry>
-	<entry key="lp_description4">
-		<original value="The Gerber Tactical Tomahawk is a marvel of simplicity and efficiency in service of solving serious problems."/>
-		<translation value="Тактический томагавк Gerber - эталон практичности, позволяющий эффективно решать проблемы любой сложности в бою."/>
-	</entry>
-	<entry>
-		<original/>
-		<translation/>
-	</entry>
-	<entry>
-		<original/>
-		<translation/>
+		<original value="New sniper rifle, SV-98 and its gold version"/>
+		<translation value="Высокоточная снайперская винтовка производства концерна 'Ижмаш' и ее золотая модель."/>
 	</entry>
 </localization>

@@ -1,6 +1,6 @@
 <ammo name="knockbackgrenade02" type="grenade" class="Projectile" require="kng02">
 	<mmo_stats>
-		<param name="category" value="explosive"/>
+		<param name="category" value="frag_grenade"/>
 		<param name="price" value="0"/>
 		<param name="shopcontent" value="0"/>
 		<param name="classes" value="R"/>

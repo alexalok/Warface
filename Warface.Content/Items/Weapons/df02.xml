@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<item category="utility" class="K01_Item" name="df02" priority="1" type="weapon" view_settings="objects/weapons/df02/df02.xml">
+<item category="utility" class="K01_Item" name="df02" priority="1" type="defibrillator" view_settings="objects/weapons/df02/df02.xml">
   <mmo_stats>
     <param name="item_category" value="defibrillator" />
     <param name="shopcontent" value="1" />
@@ -53,6 +53,7 @@
       <param name="distance" value="3" />
       <param name="hit_type" value="resurrecting" />
       <param name="health_mult" value="0.5" />
+      <param name="class_restrictions" value="RMES"/>
     </resurrect_params>
     <damage_params>
       <param name="hit_duration" value="1270" />
@@ -65,7 +66,7 @@
   </defibrillator_params>
   <recharge_params>
     <param name="recharge_duration" value="10" />
-	<param name="type" value="resurrect" />
+    <param name="type" value="resurrect" />
   </recharge_params>
   <interaction_params>
     <param name="crosshair_id" value="16" />

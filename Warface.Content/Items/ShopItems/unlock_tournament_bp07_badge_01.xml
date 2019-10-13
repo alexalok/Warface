@@ -7,7 +7,7 @@
 	</mmo_stats>
 	<UI_stats>
 		<param name="name" value="@tournament_bp07_badge_01"/>
-		<param name="description" value="@tournament_bp07_badge_01"/>
+		<param name="description" value="@tournament_bp07_badge_01_desc"/>
 		<param name="icon" value="challenge_badge_bp07_03"/>
 	</UI_stats>
 	<metagame_stats>

@@ -1,0 +1,17 @@
+<shop_item name="box_test_bundle_smg" type="bundle">
+	<mmo_stats>
+		<param name="item_category" value="Bundle"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="MERS"/>
+		<param name="testcontent" value="1"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@test_smg_shop_name"/>
+		<param name="description" value="@ui_weapons_smg45"/>
+		<param name="icon" value="test_item_icon"/>
+	</UI_stats>
+		<bundle>
+			<item name="test_smg45skin_shop" regular=""/>
+			<item name="test_smg_shop" expiration="1d"/>
+		</bundle>
+</shop_item>

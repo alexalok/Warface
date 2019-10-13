@@ -16,7 +16,7 @@
   <settings archetype="Items/Weapons/Archetypes/SMG_36.xml">
     <param name="ammo_amount" value="40" />
     <param name="rpm" value="1140" />
-    <param name="damage" value="64" />
+    <param name="damage" value="66" />
     <param name="damage_min" value="33" />
     <param name="damage_mul" value="1" />
     <param name="damage_drop_per_meter" value="3" />
@@ -47,7 +47,7 @@
     <param name="recoil_rnd" value="0.5" />
     <param name="recoil_smth" value="30" />
     <param name="recoil_smth_mul" value="1" />
-    <param name="spread_min" value="3.2" />
+    <param name="spread_min" value="3" />
     <param name="spread_min_mul" value="1">
       <stance name="stand" value="1" />
       <stance name="crouch" value="0.8" />

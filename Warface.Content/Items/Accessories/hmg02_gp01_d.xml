@@ -1,0 +1,18 @@
+<item class="K01_Item" name="hmg02_gp01_d" type="attachment" view_settings="objects/weapons/hmg02/hmg02_gp01_d.xml">
+	<skins>
+		<material name="default"/>
+	</skins>
+		<description_ingame text="@ui_hmg02_gp01_d_ingame"/>
+		<UI_stats>
+			<param name="name" value="@hmg02_gp01_d_name"/>
+			<param name="description" value="@ui_accessories_hmg02_gp01_d"/>
+			<param name="icon" value="ccs_nonitem"/>
+		</UI_stats>
+		<drop_params>
+		</drop_params>
+		<settings>
+		</settings>
+		<types>
+			<type helper="hmg02_gp01_d" name="hmg02_gp01_d"/>
+		</types>
+	</item>

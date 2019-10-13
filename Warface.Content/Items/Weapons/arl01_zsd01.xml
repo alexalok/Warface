@@ -16,6 +16,9 @@
     <item name="arl01_zsd01" type="weapon" />
     <item name="arl01_is_d" type="attachment" />
   </drop_params>
+	<pickup_params>
+        <param name="allowed_classes" value="RMESH"/>
+    </pickup_params>
   <settings archetype="Items/Weapons/Archetypes/AR.xml">
     <param name="ammo_amount" value="1" />
     <param name="rpm" value="180" />

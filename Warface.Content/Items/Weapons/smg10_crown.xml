@@ -14,7 +14,7 @@
     <item name="smg10_crown" type="weapon" />
   </drop_params>
   <settings archetype="Items/Weapons/Archetypes/SMG.xml">
-    <param name="ammo_amount" value="30" />
+    <param name="ammo_amount" value="32" />
     <param name="rpm" value="840" />
     <param name="damage" value="80" />
     <param name="damage_min" value="38" />
@@ -180,7 +180,7 @@
   </sockets>
   <fireparams>
     <fire>
-      <param name="extra_ammo" value="180" />
+      <param name="extra_ammo" value="192" />
       <param name="ammo_type" value="bullet_smg" />
       <param name="bullet_chamber" value="1" />
       <param name="helper_tp" value="weapon_term" />

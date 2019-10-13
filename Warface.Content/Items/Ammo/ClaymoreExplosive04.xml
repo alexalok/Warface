@@ -1,6 +1,6 @@
 <ammo name="claymoreexplosive04" type="claymore" class="ClaymoreExplosive" require="cm04">
 	<mmo_stats>
-		<param name="item_category" value="explosive"/>
+		<param name="item_category" value="claymore"/>
 		<param name="shopcontent" value="1"/>
 		<param name="classes" value="E"/>
 		<param name="max_buy_amount" value="9999"/>

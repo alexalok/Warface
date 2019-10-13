@@ -5,7 +5,7 @@
     </UI_stats>
     <GameParams>
 		<param name="splash_res" value="0.3"/> 
-        <param name="absorption" value="5"/> 
-        <param name="ignore_bullet_body" value="1"/>
+        <param name="absorption" value="12"/> 
+        <param name="sprint_speed_mul" value="1.15"/>
     </GameParams>
 </GameItem>

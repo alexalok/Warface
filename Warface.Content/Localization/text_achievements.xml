@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="achievement_headshots_made">
 		<original value="Oversized Head"/>
 		<translation value="Большая голова"/>
@@ -1750,7 +1754,7 @@
 	</entry>
 	<entry key="winSurvivalRifleman_desc">
 		<original value="Complete Assassination mission by Rifleman"/>
-		<translation value="Пройдите 'Белую Акулу' за штурмовика"/>
+		<translation value="Пройти 'Белую Акулу' за штурмовика"/>
 	</entry>
 	<entry key="winSurvivalMedic">
 		<original value="Surgery without anesthesia"/>
@@ -1758,7 +1762,7 @@
 	</entry>
 	<entry key="winSurvivalMedic_desc">
 		<original value="Complete Assassination mission by Medic"/>
-		<translation value="Пройдите 'Белую Акулу' за медика"/>
+		<translation value="Трижды пройти 'Белую Акулу' за медика"/>
 	</entry>
 	<entry key="winSurvivalEngineer">
 		<original value="Trust me I'm an engineer!"/>
@@ -1766,7 +1770,7 @@
 	</entry>
 	<entry key="winSurvivalEngineer_desc">
 		<original value="Complete Assassination mission by Engineer"/>
-		<translation value="Пройдите 'Белую Акулу' за инженера"/>
+		<translation value="Пройти 'Белую Акулу' за инженера"/>
 	</entry>
 	<entry key="winSurvivalSniper">
 		<original value="I can see my house from here!"/>
@@ -1774,7 +1778,7 @@
 	</entry>
 	<entry key="winSurvivalSniper_desc">
 		<original value="Complete Assassination mission by Sniper"/>
-		<translation value="Пройдите 'Белую Акулу' за снайпера"/>
+		<translation value="Пройти 'Белую Акулу' за снайпера"/>
 	</entry>
 	<entry key="survivalKills1">
 		<original value="Office Rat"/>
@@ -3102,7 +3106,7 @@
 	</entry>
 	<entry key="rw_compmarathon1_desc">
 		<original value="Complete Marathon mission by Rifleman"/>
-		<translation value="Пройдите режим 'Марафон' за штурмовика"/>
+		<translation value="Пройти режим 'Марафон' за штурмовика"/>
 	</entry>
 	<entry key="rw_compmarathon2">
 		<original value="Snow Angel"/>
@@ -3110,7 +3114,7 @@
 	</entry>
 	<entry key="rw_compmarathon2_desc">
 		<original value="Complete Marathon mission by Medic"/>
-		<translation value="Пройдите режим 'Марафон' за медика"/>
+		<translation value="Пройти режим 'Марафон' за медика"/>
 	</entry>
 	<entry key="rw_compmarathon3">
 		<original value="Do you wanna build a snowman?"/>
@@ -3118,7 +3122,7 @@
 	</entry>
 	<entry key="rw_compmarathon3_desc">
 		<original value="Complete Marathon mission by Engineer"/>
-		<translation value="Пройдите режим 'Марафон' за инженера"/>
+		<translation value="Пройти режим 'Марафон' за инженера"/>
 	</entry>
 	<entry key="rw_compmarathon4">
 		<original value="Fire and Ice"/>
@@ -3126,7 +3130,7 @@
 	</entry>
 	<entry key="rw_compmarathon4_desc">
 		<original value="Complete Marathon mission by Sniper"/>
-		<translation value="Пройдите режим 'Марафон' за снайпера"/>
+		<translation value="Пройти режим 'Марафон' за снайпера"/>
 	</entry>
 	<entry key="rw_survivor1">
 		<original value="Training Wheels"/>
@@ -3134,7 +3138,7 @@
 	</entry>
 	<entry key="rw_survivor1_desc">
 		<original value="Complete the Spearhead mission without dying"/>
-		<translation value="Пройдите миссию 'Острие', ни разу не умерев"/>
+		<translation value="Пройти миссию 'Острие', ни разу не умерев"/>
 	</entry>
 	<entry key="rw_survivor2">
 		<original value="The show must go on!"/>
@@ -3142,7 +3146,7 @@
 	</entry>
 	<entry key="rw_survivor2_desc">
 		<original value="Complete the Act 2 mission without dying"/>
-		<translation value="Пройдите миссию 'Засада', ни разу не умерев"/>
+		<translation value="Пройти миссию 'Засада', ни разу не умерев"/>
 	</entry>
 	<entry key="rw_survivor3">
 		<original value="No retreat no surrender!"/>
@@ -3150,7 +3154,7 @@
 	</entry>
 	<entry key="rw_survivor3_desc">
 		<original value="Complete the Zenith mission without dying"/>
-		<translation value="Пройдите миссию 'Зенит', ни разу не умерев"/>
+		<translation value="Пройти миссию 'Зенит', ни разу не умерев"/>
 	</entry>
 	<entry key="rw_survivor4">
 		<original value="Welcome to the Polar Bear Club"/>
@@ -3158,7 +3162,7 @@
 	</entry>
 	<entry key="rw_survivor4_desc">
 		<original value="Complete the Marathon mission without dying"/>
-		<translation value="Пройдите режим 'Марафон', ни разу не умерев"/>
+		<translation value="Пройти режим 'Марафон', ни разу не умерев"/>
 	</entry>
 	<entry key="rw_destruction1">
 		<original value="Canon in D Major"/>
@@ -3214,7 +3218,7 @@
 	</entry>
 	<entry key="winRW1Sniper_desc">
 		<original value="Complete Spearhead mission by Rifleman"/>
-		<translation value="Пройдите миссию 'Острие' за снайпера"/>
+		<translation value="Пройти миссию 'Острие' за снайпера"/>
 	</entry>
 	<entry key="winRW1Engineer">
 		<original value="Snow Angel"/>
@@ -3222,7 +3226,7 @@
 	</entry>
 	<entry key="winRW1Engineer_desc">
 		<original value="Complete Spearhead mission by Medic"/>
-		<translation value="Пройдите миссию 'Острие' за инженера"/>
+		<translation value="Пройти миссию 'Острие' за инженера"/>
 	</entry>
 	<entry key="winRW1Medic">
 		<original value="Do you wanna build a snowman?"/>
@@ -3230,7 +3234,7 @@
 	</entry>
 	<entry key="winRW1Medic_desc">
 		<original value="Complete Spearhead mission by Engineer"/>
-		<translation value="Пройдите миссию 'Острие' за медика"/>
+		<translation value="Пройти миссию 'Острие' за медика"/>
 	</entry>
 	<entry key="winRW1Rifleman">
 		<original value="Fire and Ice"/>
@@ -3238,7 +3242,7 @@
 	</entry>
 	<entry key="winRW1Rifleman_desc">
 		<original value="Complete Spearhead mission by Sniper"/>
-		<translation value="Пройдите миссию 'Острие' за штурмовика"/>
+		<translation value="Пройти миссию 'Острие' за штурмовика"/>
 	</entry>
 	<entry key="winRW2Sniper">
 		<original value="Frosty the Gunman"/>
@@ -3246,7 +3250,7 @@
 	</entry>
 	<entry key="winRW2Sniper_desc">
 		<original value="Complete Spearhead mission by Rifleman"/>
-		<translation value="Пройдите миссию 'Засада' за снайпера"/>
+		<translation value="Пройти миссию 'Засада' за снайпера"/>
 	</entry>
 	<entry key="winRW2Engineer">
 		<original value="Snow Angel"/>
@@ -3254,7 +3258,7 @@
 	</entry>
 	<entry key="winRW2Engineer_desc">
 		<original value="Complete Spearhead mission by Medic"/>
-		<translation value="Пройдите миссию 'Засада' за инженера"/>
+		<translation value="Пройти миссию 'Засада' за инженера"/>
 	</entry>
 	<entry key="winRW2Medic">
 		<original value="Do you wanna build a snowman?"/>
@@ -3262,7 +3266,7 @@
 	</entry>
 	<entry key="winRW2Medic_desc">
 		<original value="Complete Spearhead mission by Engineer"/>
-		<translation value="Пройдите миссию 'Засада' за медика"/>
+		<translation value="Пройти миссию 'Засада' за медика"/>
 	</entry>
 	<entry key="winRW2Rifleman">
 		<original value="Fire and Ice"/>
@@ -3270,7 +3274,7 @@
 	</entry>
 	<entry key="winRW2Rifleman_desc">
 		<original value="Complete Spearhead mission by Sniper"/>
-		<translation value="Пройдите миссию 'Засада' за штурмовика"/>
+		<translation value="Пройти миссию 'Засада' за штурмовика"/>
 	</entry>
 	<entry key="winRW3Sniper">
 		<original value="Zenith (Sniper)"/>
@@ -3278,7 +3282,7 @@
 	</entry>
 	<entry key="winRW3Sniper_desc">
 		<original value="Complete the Zenith mission as a Sniper."/>
-		<translation value="Пройдите миссию 'Зенит' за снайпера"/>
+		<translation value="Пройти миссию 'Зенит' за снайпера"/>
 	</entry>
 	<entry key="winRW3Engineer">
 		<original value="Zenith (Engineer)"/>
@@ -3286,7 +3290,7 @@
 	</entry>
 	<entry key="winRW3Engineer_desc">
 		<original value="Complete the Zenith mission as a Engineer."/>
-		<translation value="Пройдите миссию 'Зенит' за инженера"/>
+		<translation value="Пройти миссию 'Зенит' за инженера"/>
 	</entry>
 	<entry key="winRW3Medic">
 		<original value="Zenith (Medic)"/>
@@ -3294,7 +3298,7 @@
 	</entry>
 	<entry key="winRW3Medic_desc">
 		<original value="Complete the Zenith mission as a Medic."/>
-		<translation value="Пройдите миссию 'Зенит' за медика"/>
+		<translation value="Пройти миссию 'Зенит' за медика"/>
 	</entry>
 	<entry key="winRW3Rifleman">
 		<original value="Zenith (Rifleman)"/>
@@ -3302,7 +3306,7 @@
 	</entry>
 	<entry key="winRW3Rifleman_desc">
 		<original value="Complete the Zenith mission as a Rifleman."/>
-		<translation value="Пройдите миссию 'Зенит' за штурмовика"/>
+		<translation value="Пройти миссию 'Зенит' за штурмовика"/>
 	</entry>
 	<entry key="winRW4Sniper">
 		<original value="Fire and Ice"/>
@@ -3310,7 +3314,7 @@
 	</entry>
 	<entry key="winRW4Sniper_desc">
 		<original value="Complete Marathon mission by Sniper"/>
-		<translation value="Пройдите режим 'Марафон' за снайпера"/>
+		<translation value="Пройти режим 'Марафон' за снайпера"/>
 	</entry>
 	<entry key="snow3Kill">
 		<original value="Chilling Touch"/>
@@ -4102,7 +4106,7 @@
 	</entry>
 	<entry key="sr31_gold_kill_01_desc">
 		<original value="Make 999 kills with Golden AX308"/>
-		<translation value="Убить 999 врагов из золотой AX308"/>
+		<translation value="Убить 999 врагов из золотого AX308"/>
 	</entry>
 	<entry key="Cyborg Horde">
 		<original/>
@@ -4426,7 +4430,7 @@
 	</entry>
 	<entry key="sr33_gold_kill_01_desc">
 		<original value="Make 999 kills with gold Remington R11 RSASS"/>
-		<translation value="Убить 999 врагов из золотой Remington R11 RSASS"/>
+		<translation value="Убить 999 врагов из золотого Remington R11 RSASS"/>
 	</entry>
 	<entry key="algeria_flag_01">
 		<original value="Flag of Algeria"/>
@@ -4650,7 +4654,7 @@
 	</entry>
 	<entry key="pt30_pink01_kill_01_desc">
 		<original value="Make 100 headshots with Micro-desert eagle"/>
-		<translation value="Убить 100 врагов попаданиями в голову из розового Micro Desert Eagle"/>
+		<translation value="Убить 100 врагов попаданиями в голову из обычного Micro Desert Eagle"/>
 	</entry>
 	<entry key="pt30_pink01_kill_02">
 		<original value="Babe! this is glamor..."/>
@@ -4658,7 +4662,7 @@
 	</entry>
 	<entry key="pt30_pink01_kill_02_desc">
 		<original value="Done 10000 damage with Micro-desert eagle"/>
-		<translation value="Нанести 10000 единиц урона с помощью розового Micro Desert Eagle"/>
+		<translation value="Нанести 10000 единиц урона с помощью обычного Micro Desert Eagle"/>
 	</entry>
 	<entry key="pt30_pink01_kill">
 		<original value="Pretty but prickly"/>
@@ -4666,7 +4670,7 @@
 	</entry>
 	<entry key="pt30_pink01_kill_desc">
 		<original value="Make 1000 enemy kills with Micro-desert eagle"/>
-		<translation value="Убить 1000 врагов из розового Micro Desert Eagle"/>
+		<translation value="Убить 1000 врагов из обычного Micro Desert Eagle"/>
 	</entry>
 	<entry key="vol_survivor1">
 		<original value="Volcano Explorer"/>
@@ -4882,7 +4886,7 @@
 	</entry>
 	<entry key="sr34_gold_kill_01_desc">
 		<original value="Make 999 kills with Golden Steyr Scout"/>
-		<translation value="Убить 999 врагов из золотой Steyr Scout"/>
+		<translation value="Убить 999 врагов из золотого Steyr Scout"/>
 	</entry>
 	<entry key="pt31Kill">
 		<original value="Duty Pistol"/>
@@ -6442,7 +6446,7 @@
 	</entry>
 	<entry key="afro_survivor1_desc">
 		<original value="Complete 'Anubis' special mission on Hard difficulty 3 times as rifleman"/>
-		<translation value="Пройти операцию 'Анубис' ('Профи') за штурмовика 3 раза"/>
+		<translation value="Трижды пройти операцию 'Анубис' ('Профи') за штурмовика"/>
 	</entry>
 	<entry key="afro_survivor2">
 		<original value="Pyramid Stalker (Medic)"/>
@@ -6450,7 +6454,7 @@
 	</entry>
 	<entry key="afro_survivor2_desc">
 		<original value="Complete 'Anubis' special mission on Hard difficulty 3 times as medic"/>
-		<translation value="Пройти операцию 'Анубис' ('Профи') за медика 3 раза"/>
+		<translation value="Трижды пройти операцию 'Анубис' ('Профи') за медика"/>
 	</entry>
 	<entry key="afro_survivor3">
 		<original value="Pyramid Stalker (Engineer)"/>
@@ -6458,7 +6462,7 @@
 	</entry>
 	<entry key="afro_survivor3_desc">
 		<original value="Complete 'Anubis' special mission on Hard difficulty 3 times as engineer"/>
-		<translation value="Пройти операцию 'Анубис' ('Профи') за инженера 3 раза"/>
+		<translation value="Трижды пройти операцию 'Анубис' ('Профи') за инженера"/>
 	</entry>
 	<entry key="afro_survivor4">
 		<original value="Pyramid Stalker (Sniper)"/>
@@ -6466,7 +6470,7 @@
 	</entry>
 	<entry key="afro_survivor4_desc">
 		<original value="Complete 'Anubis' special mission on Hard difficulty 3 times as sniper"/>
-		<translation value="Пройти операцию 'Анубис' ('Профи') за снайпера 3 раза"/>
+		<translation value="Трижды пройти операцию 'Анубис' ('Профи') за снайпера"/>
 	</entry>
 	<entry key="afro_survivor5">
 		<original value="Tomb Scavenger (Rifleman)"/>
@@ -7010,7 +7014,7 @@
 	</entry>
 	<entry key="ar25_gold_kill_01_desc">
 		<original value="Make 999 kills with gold Enfield L85A2 Custom"/>
-		<translation value="Убить 999 врагов из золотой Enfield L85A2 Custom"/>
+		<translation value="Убить 999 врагов из золотого Enfield L85A2 Custom"/>
 	</entry>
 	<entry key="ar25Kill25">
 		<original value="Advanced British Army"/>
@@ -8842,7 +8846,7 @@
 	</entry>
 	<entry key="ice_survivor3_desc">
 		<original value="Complete Hardcore as a Rifleman"/>
-		<translation value="Пройти миссию 'Ледокол' ('Профи') за штурмовика"/>
+		<translation value="Пройти миссию 'Ледокол' ('Профи') за штурмовика "/>
 	</entry>
 	<entry key="ice_survivor4">
 		<original value="Ice-Breaker (Medic)"/>
@@ -9998,7 +10002,7 @@
 	</entry>
 	<entry key="sr42_gold_kill_01_desc">
 		<original value="Make 999 kills with Gold Bushmaster BA50"/>
-		<translation value="Убить 999 врагов из золотой Bushmaster BA50"/>
+		<translation value="Убить 999 врагов из золотого Bushmaster BA50"/>
 	</entry>
 	<entry key="smg39_kill">
 		<original value="Classic Configuration"/>
@@ -11982,7 +11986,7 @@
 	</entry>
 	<entry key="ru_rmleague_mark_01_desc">
 		<original value="Mark of the best players in Ranking Matches League"/>
-		<translation value="Значок для лучших бойцов в рейтинговых матчах."/>
+		<translation value="Собрать все 12 нашивок за достижение первой лиги"/>
 	</entry>
 	<entry key="ru_rmleague_stripe_01">
 		<original value="Forward to the victory!"/>
@@ -12998,7 +13002,7 @@
 	</entry>
 	<entry key="sr44_gold_kill_01_desc">
 		<original value="Make 999 kills with gold Remington MSR"/>
-		<translation value="Убить 999 врагов из золотой Remington MSR"/>
+		<translation value="Убить 999 врагов из золотого Remington MSR"/>
 	</entry>
 	<entry key="mg24Kill">
 		<original value="Old Guard"/>
@@ -13774,7 +13778,7 @@
 	</entry>
 	<entry key="lms_1th_place_05_desc">
 		<original value="1000 times Took 1st place in Last Man Standing mode"/>
-		<translation value="Занять первое место в 'Королевской битве' 1000 раз"/>
+		<translation value="Занять первое место в 'Королевской битве' 1000 раз&#xA;"/>
 	</entry>
 	<entry key="lmsp_slidekill_01">
 		<original value="Bumper car"/>
@@ -14305,28 +14309,28 @@
 		<translation value="Получить все трофеи в Warface"/>
 	</entry>
 	<entry key="ar33_Kill">
-		<original value="Great War Veteran"/>
+		<original value="Great War Veteran "/>
 		<translation value="Ветеран Первой мировой I"/>
 	</entry>
 	<entry key="ar33_Kill_desc">
-		<original value="Kill 10,000 enemies with HCAR or its gold version"/>
+		<original value="Kill 10,000 enemies with HCAR or its gold version "/>
 		<translation value="Убить 10 000 врагов из обычной или золотой HCAR"/>
 	</entry>
 	<entry key="ar33Kill25">
-		<original value="Advanced Great War Veteran"/>
+		<original value="Advanced Great War Veteran "/>
 		<translation value="Ветеран Первой мировой II"/>
 	</entry>
 	<entry key="ar33Kill25_desc">
-		<original value="Kill 25,000 enemies with HCAR or its gold version"/>
+		<original value="Kill 25,000 enemies with HCAR or its gold version "/>
 		<translation value="Убить 25 000 врагов из обычной или золотой HCAR"/>
 	</entry>
 	<entry key="ar33_gold_kill_01">
-		<original value="Gold Great War Veteran"/>
+		<original value="Gold Great War Veteran "/>
 		<translation value="Золотой орден"/>
 	</entry>
 	<entry key="ar33_gold_kill_01_desc">
-		<original value="Make 999 kills with gold HCAR"/>
-		<translation value="Убить 999 врагов из золотой HCAR"/>
+		<original value="Make 999 kills with gold HCAR "/>
+		<translation value="Убить 999 врагов из золотого HCAR"/>
 	</entry>
 	<entry key="shg47Kill">
 		<original value="Punching Force"/>
@@ -15374,7 +15378,7 @@
 	</entry>
 	<entry key="ar32_gold_kill_01_desc">
 		<original value="Make 999 kills with gold Hera Arms CQR"/>
-		<translation value="Убить 999 врагов из золотой HArms CQR"/>
+		<translation value="Убить 999 врагов из золотого HArms CQR"/>
 	</entry>
 	<entry key="ru_merit_stripe_01">
 		<original value="For Merits to Warface"/>
@@ -15806,7 +15810,7 @@
 	</entry>
 	<entry key="clan_years1_stripe_01_desc">
 		<original value="1st year clan in the game"/>
-		<translation value="Занять первое место по итогам специального события"/>
+		<translation value="Занять первое место по итогам специального события "/>
 	</entry>
 	<entry key="clan_years2_stripe_01">
 		<original value="Back to back"/>
@@ -15814,7 +15818,7 @@
 	</entry>
 	<entry key="clan_years2_stripe_01_desc">
 		<original value="2nd year clan in the game"/>
-		<translation value="Занять второе место по итогам специального события"/>
+		<translation value="Занять второе место по итогам специального события "/>
 	</entry>
 	<entry key="clan_years3_stripe_01">
 		<original value="Loyal in battle"/>
@@ -15822,7 +15826,7 @@
 	</entry>
 	<entry key="clan_years3_stripe_01_desc">
 		<original value="3rd year clan in the game"/>
-		<translation value="Занять третье место по итогам специального события"/>
+		<translation value="Занять третье место по итогам специального события "/>
 	</entry>
 	<entry key="clan_years4_stripe_01">
 		<original value="Brother in arms"/>
@@ -15830,15 +15834,15 @@
 	</entry>
 	<entry key="clan_years4_stripe_01_desc">
 		<original value="4th year clan in the game"/>
-		<translation value="Занять четвертое место по итогам специального события"/>
+		<translation value="Занять четвертое место по итогам специального события "/>
 	</entry>
 	<entry key="clan_years5_stripe_01">
 		<original value="Together and forever"/>
-		<translation value="Попытка — не пытка!"/>
+		<translation value="Попытка — не пытка! "/>
 	</entry>
 	<entry key="clan_years5_stripe_01_desc">
 		<original value="5th year clan in the game"/>
-		<translation value="Занять пятое место по итогам специального события"/>
+		<translation value="Занять пятое место по итогам специального события "/>
 	</entry>
 	<entry key="ru_bonus_mark_01">
 		<original value="Regular Player"/>
@@ -16984,6 +16988,30 @@
 		<original value="For mentoring other players"/>
 		<translation value="Награда за помощь другим игрокам."/>
 	</entry>
+	<entry key="sr48_Kill">
+		<original value="Hidden Death"/>
+		<translation value="Достойный преемник I"/>
+	</entry>
+	<entry key="sr48_Kill_desc">
+		<original value="Kill 10000 enemies with SV-98 or its gold version"/>
+		<translation value="Убить 10 000 врагов из обычной или золотой СВ-98"/>
+	</entry>
+	<entry key="sr48Kill25">
+		<original value="Advanced Hidden Death"/>
+		<translation value="Достойный преемник II"/>
+	</entry>
+	<entry key="sr48Kill25_desc">
+		<original value="Kill 25 000 enemies with SV-98 or its gold version"/>
+		<translation value="Убить 25 000 врагов из обычной или золотой СВ-98"/>
+	</entry>
+	<entry key="sr48_gold_kill_01">
+		<original value="Ring Of Rage"/>
+		<translation value="Энергия разрушения"/>
+	</entry>
+	<entry key="sr48_gold_kill_01_desc">
+		<original value="Kill 999 enemies with Gold SV-98"/>
+		<translation value="Убить 999 врагов из золотой СВ-98"/>
+	</entry>
 	<entry key="kn21Kill">
 		<original value="Running with the axe"/>
 		<translation value="На тропе войны I"/>
@@ -17210,7 +17238,7 @@
 	</entry>
 	<entry key="rune_bp07_mark_01">
 		<original value="Uprising Jack in the box"/>
-		<translation value="Черт из табакерки"/>
+		<translation value="Попрыгунчик"/>
 	</entry>
 	<entry key="rune_bp07_mark_01_desc">
 		<original value="Perform 1000 kills in jump with Uprising weapons"/>
@@ -17238,6 +17266,214 @@
 	</entry>
 	<entry key="ar36_gold_kill_01_desc">
 		<original value="Kill 999 enemies with Gold F90 MBR"/>
-		<translation value="Убить 999 врагов из золотой F90 MBR"/>
+		<translation value="Убить 999 врагов из золотого F90 MBR"/>
+	</entry>
+	<entry key="camo09_mark_01">
+		<original value="Lethal Desert snake"/>
+		<translation value="Бросок аспида"/>
+	</entry>
+	<entry key="camo09_mark_01_desc">
+		<original value="Perform 1000 kills in jump with Desert Snake weapons"/>
+		<translation value="Убить 1000 врагов попаданиями в прыжке из оружия 'Аспид'"/>
+	</entry>
+	<entry key="camo09_badge_01">
+		<original value="Deadly snake bite"/>
+		<translation value="Укус аспида"/>
+	</entry>
+	<entry key="camo09_badge_01_desc">
+		<original value="Perform 1000 headshots with Desert Snake weapons"/>
+		<translation value="Убить 1000 врагов попаданиями в голову из оружия 'Аспид'"/>
+	</entry>
+	<entry key="camo09_stripe_01">
+		<original value="Snake eater"/>
+		<translation value="Яд аспида"/>
+	</entry>
+	<entry key="camo09_stripe_01_desc">
+		<original value="Kill 10,000 enemies with Desert Snake weapons"/>
+		<translation value="Убить 10 000 врагов из оружия 'Аспид'"/>
+	</entry>
+	<entry key="ice_survivor8">
+		<original value="Ice-Breaker (SED)"/>
+		<translation value="Капитан ледокола (СЭД)"/>
+	</entry>
+	<entry key="ice_survivor8_desc">
+		<original value="Complete Ice-Breaker Hardcore as an SED"/>
+		<translation value="Пройти миссию 'Ледокол' ('Профи') за СЭД"/>
+	</entry>
+	<entry key="winSurvivalHeavy">
+		<original value="Brute Force"/>
+		<translation value="Грубая сила"/>
+	</entry>
+	<entry key="winSurvivalHeavy_desc">
+		<original value="Complete Assassination mission by SED"/>
+		<translation value="Пройти миссию 'Белая акула' за СЭД"/>
+	</entry>
+	<entry key="zombie_heavy">
+		<original value="Zombie SED"/>
+		<translation value="Улучшенная модель"/>
+	</entry>
+	<entry key="zombie_heavy_desc">
+		<original value="Complete hard zombie mission by SED 5 time"/>
+		<translation value="Пройти миссию 'Опасный эксперимент' ('Профи') за СЭД"/>
+	</entry>
+	<entry key="heavyCoreCaptured1">
+		<original value="Divide and Rule"/>
+		<translation value="Разделяй и властвуй"/>
+	</entry>
+	<entry key="heavyCoreCaptured1_desc">
+		<original value="Capture 5000 Core Points playing SED"/>
+		<translation value="Захватить 5000 точек в роли СЭД"/>
+	</entry>
+	<entry key="winRW1Heavy">
+		<original value="Fireshow in snow (Spearhead)"/>
+		<translation value="Миссия 'Острие' - СЭД"/>
+	</entry>
+	<entry key="winRW1Heavy_desc">
+		<original value="Complete Spearhead mission by SED"/>
+		<translation value="Пройти миссию 'Острие' за СЭД"/>
+	</entry>
+	<entry key="winRW2Heavy">
+		<original value="Fireshow in snow (Ambush)"/>
+		<translation value="Миссия 'Засада' - СЭД"/>
+	</entry>
+	<entry key="winRW2Heavy_desc">
+		<original value="Complete Ambush mission by SED"/>
+		<translation value="Пройти миссию 'Засада' за СЭД"/>
+	</entry>
+	<entry key="hnt_heavy_kills_01">
+		<original value="Best hunter (SED)"/>
+		<translation value="Ночной охотник (СЭД)"/>
+	</entry>
+	<entry key="hnt_heavy_kills_01_desc">
+		<original value="Kill 1000 enemies in HUNT mode by SED"/>
+		<translation value="Убить 1000 врагов в режиме 'Выживание', играя за СЭД"/>
+	</entry>
+	<entry key="vol_survivor12">
+		<original value="Volcano Hardcore (SED)"/>
+		<translation value="Вулканолог (СЭД)"/>
+	</entry>
+	<entry key="vol_survivor12_desc">
+		<original value="Complete the Volcano Hardcore as SED"/>
+		<translation value="Пройти миссию 'Вулкан' ('Профи') за СЭД"/>
+	</entry>
+	<entry key="afro_survivor13">
+		<original value="Pyramid Stalker (SED)"/>
+		<translation value="Исследователь пирамиды (СЭД)"/>
+	</entry>
+	<entry key="afro_survivor13_desc">
+		<original value="Complete &quot;Anubis&quot; special mission on Hard difficulty 3 times as SED"/>
+		<translation value="Трижды пройти миссию 'Анубис' ('Профи') за СЭД"/>
+	</entry>
+	<entry key="zt01_survivor05">
+		<original value="Black Demolition Specialist"/>
+		<translation value="Стереть с лица земли"/>
+	</entry>
+	<entry key="zt01_survivor05_desc">
+		<original value="Complete Black Shark on Hard difficulty by SED"/>
+		<translation value="Пройти миссию 'Черная акула' ('Профи') за СЭД"/>
+	</entry>
+	<entry key="chernobyl_stripe_heavy">
+		<original value="SED Stalker"/>
+		<translation value="Исследователь зоны (СЭД)"/>
+	</entry>
+	<entry key="chernobyl_stripe_heavy_desc">
+		<original value="Complete Chernobyl mission as an SED on Hardcore"/>
+		<translation value="Пройти миссию 'Припять' ('Профи') за СЭД"/>
+	</entry>
+	<entry key="japan_stripe_heavy">
+		<original value="Ronin SED"/>
+		<translation value="Ронин-СЭД"/>
+	</entry>
+	<entry key="japan_stripe_heavy_desc">
+		<original value="Kill 5000 enemies on Japan mission on Hardcore as SED"/>
+		<translation value="Убить 5000 врагов в миссии 'Восход' ('Профи'), играя за СЭД"/>
+	</entry>
+	<entry key="vol_survivor13">
+		<original value="Hell`s hand"/>
+		<translation value="Врата ада"/>
+	</entry>
+	<entry key="vol_survivor13_desc">
+		<original value="Complete Nightmare Volcano mission 3 times as SED"/>
+		<translation value="Трижды пройти миссию 'Вулкан' ('Хардкор') за СЭД"/>
+	</entry>
+	<entry key="rw_compmarathon5">
+		<original value="Fireshow in snow (Marathon)"/>
+		<translation value="Устойчивость к холоду"/>
+	</entry>
+	<entry key="rw_compmarathon5_desc">
+		<original value="Complete Marathon mission by SED"/>
+		<translation value="Пройти режим 'Марафон' за СЭД"/>
+	</entry>
+	<entry key="mars_stripe_heavy">
+		<original value="Red planet SED"/>
+		<translation value="Марсианский охотник"/>
+	</entry>
+	<entry key="mars_stripe_heavy_desc">
+		<original value="Kill 5000 enemies on Mars mission on Hardcore as SED"/>
+		<translation value="Убить 5000 врагов в миссии 'Марс' ('Профи'), играя классом 'СЭД'"/>
+	</entry>
+	<entry key="heavy_kills_01">
+		<original value="SED Dominator"/>
+		<translation value="Охотник на штурмовиков"/>
+	</entry>
+	<entry key="heavy_kills_01_desc">
+		<original value="Kill 100 Riflemans using SED class"/>
+		<translation value="Убить 100 штурмовиков в PvP, играя за СЭД"/>
+	</entry>
+	<entry key="heavy_kills_02">
+		<original value="SED Infiltrator"/>
+		<translation value="Гроза медиков"/>
+	</entry>
+	<entry key="heavy_kills_02_desc">
+		<original value="Kill 100 Medics using SED class"/>
+		<translation value="Убить 100 медиков в PvP, играя за СЭД"/>
+	</entry>
+	<entry key="heavy_kills_03">
+		<original value="SED Hunter"/>
+		<translation value="Ликвидатор снайперов"/>
+	</entry>
+	<entry key="heavy_kills_03_desc">
+		<original value="Kill 100 Snipers using SED class"/>
+		<translation value="Убить 100 снайперов в PvP, играя за СЭД"/>
+	</entry>
+	<entry key="heavy_kills_04">
+		<original value="SED Destroer"/>
+		<translation value="Убийца инженеров"/>
+	</entry>
+	<entry key="heavy_kills_04_desc">
+		<original value="Kill 100 Engineers using SED class"/>
+		<translation value="Убить 100 инженеров в PvP, играя за СЭД"/>
+	</entry>
+	<entry key="hmg01_Kill">
+		<original value="Chainsaw Massacre"/>
+		<translation value="Резня бензопилой I"/>
+	</entry>
+	<entry key="hmg01_Kill_desc">
+		<original value="Kill 5000 enemies with KAC Chainsaw"/>
+		<translation value="Убить 5000 врагов из KAC Chainsaw"/>
+	</entry>
+	<entry key="hmg01Kill25">
+		<original value="Advanced Chainsaw Massacre"/>
+		<translation value="Резня бензопилой II"/>
+	</entry>
+	<entry key="hmg01Kill25_desc">
+		<original value="Kill 10 000 enemies with KAC Chainsaw"/>
+		<translation value="Убить 10 000 врагов из KAC Chainsaw"/>
+	</entry>
+	<entry key="hmg02_Kill">
+		<original value="Revving It Up"/>
+		<translation value="Набирая обороты I"/>
+	</entry>
+	<entry key="hmg02_Kill_desc">
+		<original value="Kill 5000 enemies with XM556 Microgun"/>
+		<translation value="Убить 5000 врагов из XM556 Microgun"/>
+	</entry>
+	<entry key="hmg02Kill25">
+		<original value="Advanced Revving It Up"/>
+		<translation value="Набирая обороты II"/>
+	</entry>
+	<entry key="hmg02Kill25_desc">
+		<original value="Kill 10 000 enemies with XM556 Microgun"/>
+		<translation value="Убить 10 000 врагов из XM556 Microgun"/>
 	</entry>
 </localization>

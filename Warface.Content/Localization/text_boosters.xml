@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="ui_booster_ic">
 		<original value="Temporary curency Boost"/>
 		<translation value="Ускоритель ресурсов спецопераций"/>
@@ -1262,7 +1266,7 @@
 	</entry>
 	<entry key="random_box_25_shop_name">
 		<original value="Pinkie Micro-Desert Random Box"/>
-		<translation value="Коробка с розовым Micro Desert Eagle"/>
+		<translation value="Коробка с Micro Desert Eagle"/>
 	</entry>
 	<entry key="ui_random_box_25_description">
 		<original value="This box allows to win 3 random items for different classes"/>
@@ -3269,7 +3273,7 @@
 		<translation value="Специальный комплект с пистолетом-пулеметом Beretta MX4 Storm и другими предметами."/>
 	</entry>
 	<entry key="bundle_ps4_15">
-		<original value="PS4 SR-2 Veresk Bundle"/>
+		<original value="PS4 SR-2 Veresk Bundle "/>
 		<translation value="Комплект СР-2 'Вереск'"/>
 	</entry>
 	<entry key="bundle_ps4_15_description">
@@ -3293,15 +3297,15 @@
 		<translation value="Специальный комплект с винтовкой CheyTac M200 и другими предметами."/>
 	</entry>
 	<entry key="box_ar33_shop_name">
-		<original value="HCAR Random Box"/>
+		<original value="HCAR Random Box "/>
 		<translation value="Коробка с HCAR"/>
 	</entry>
 	<entry key="ui_box_ar33_description">
-		<original value="This box allows to win 3 random items for rifleman"/>
+		<original value="This box allows to win 3 random items for rifleman "/>
 		<translation value="Каждая коробка удачи содержит 3 случайных предмета для штурмовика."/>
 	</entry>
 	<entry key="ui_key_box_ar33">
-		<original value="Provides you with a HCAR for a limited time and an offer for its direct purchase"/>
+		<original value="Provides you with a HCAR for a limited time and an offer for its direct purchase "/>
 		<translation value="Дает возможность купить HCAR навсегда."/>
 	</entry>
 	<entry key="box_crown_ar33_shop_name">
@@ -4026,7 +4030,7 @@
 	</entry>
 	<entry key="random_box_11_crown_shop_name">
 		<original value="MK 14 EBR Crown Random Box"/>
-		<translation value="Коробка с Mk 14 EBR"/>
+		<translation value="Коробка с Mk 14 EBR "/>
 	</entry>
 	<entry key="ui_random_box_11_crown_desc">
 		<original value="This box allows to win 3 random items for sniper"/>
@@ -4034,7 +4038,7 @@
 	</entry>
 	<entry key="random_box_30_crown_shop_name">
 		<original value="M249 Para Crown Random Box"/>
-		<translation value="Коробка с M249 Para"/>
+		<translation value="Коробка с M249 Para "/>
 	</entry>
 	<entry key="ui_random_box_30_crown_desc">
 		<original value="This box allows to win 3 random items for soldier"/>
@@ -4042,7 +4046,7 @@
 	</entry>
 	<entry key="random_box_35_crown_shop_name">
 		<original value="SCAR-L PDW Crown Random Box"/>
-		<translation value="Коробка со SCAR-L PDW"/>
+		<translation value="Коробка со SCAR-L PDW "/>
 	</entry>
 	<entry key="ui_random_box_35_crown_desc">
 		<original value="This box allows to win 3 random items for engineer"/>
@@ -4050,7 +4054,7 @@
 	</entry>
 	<entry key="random_box_40_crown_shop_name">
 		<original value="Fabarm STF 12 Compact Random Box"/>
-		<translation value="Коробка с Fabarm STF 12 Compact"/>
+		<translation value="Коробка с Fabarm STF 12 Compact "/>
 	</entry>
 	<entry key="ui_random_box_40_crown_desc">
 		<original value="This box allows to win 3 random items for medic"/>
@@ -4058,7 +4062,7 @@
 	</entry>
 	<entry key="random_box_45_crown_shop_name">
 		<original value="Mossberg 500 Custom Crown Random Box"/>
-		<translation value="Коробка с Mossberg 500 'Магма'"/>
+		<translation value="Коробка с Mossberg 500 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_45_crown_desc">
 		<original value="Contains Mossberg 500 rare Magmatic weapon"/>
@@ -4066,7 +4070,7 @@
 	</entry>
 	<entry key="random_box_46_crown_shop_name">
 		<original value="SCAR-L PDW Crown Random Box"/>
-		<translation value="Коробка с SCAR-L PDW 'Магма'"/>
+		<translation value="Коробка с SCAR-L PDW 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_46_crown_desc">
 		<original value="Contains SCAR-L PDW rare Magmatic weapon"/>
@@ -4074,7 +4078,7 @@
 	</entry>
 	<entry key="random_box_47_crown_shop_name">
 		<original value="AX-308 Crown Random Box"/>
-		<translation value="Коробка с AX308 'Магма'"/>
+		<translation value="Коробка с AX308 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_47_crown_desc">
 		<original value="Contains AX-308 rare Magmatic weapon"/>
@@ -4082,7 +4086,7 @@
 	</entry>
 	<entry key="random_box_48_crown_shop_name">
 		<original value="Sig Sauer P226 Crown Random Box"/>
-		<translation value="Коробка с P226 'Магма'"/>
+		<translation value="Коробка с P226 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_48_crown_desc">
 		<original value="Contains Sig Sauer P226 rare Magmatic weapon"/>
@@ -4090,7 +4094,7 @@
 	</entry>
 	<entry key="random_box_50_crown_shop_name">
 		<original value="ACR Crown Random Box"/>
-		<translation value="Коробка с ACR 'Магма'"/>
+		<translation value="Коробка с ACR 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_50_crown_desc">
 		<original value="Contains ACR rare Magmatic weapon"/>
@@ -4098,7 +4102,7 @@
 	</entry>
 	<entry key="random_box_55_crown_shop_name">
 		<original value="Fabarm XLR 5 Prestige Crown Random Box"/>
-		<translation value="Коробка с Fabarm XLR 5 Prestige"/>
+		<translation value="Коробка с Fabarm XLR 5 Prestige "/>
 	</entry>
 	<entry key="ui_random_box_55_crown_desc">
 		<original value="This box allows to win 3 random items for medic"/>
@@ -4106,7 +4110,7 @@
 	</entry>
 	<entry key="random_box_56_crown_shop_name">
 		<original value="Enfield L85A2 Custom Crown Random Box"/>
-		<translation value="Коробка с L85A2 Custom"/>
+		<translation value="Коробка с L85A2 Custom "/>
 	</entry>
 	<entry key="ui_random_box_56_crown_desc">
 		<original value="This box allows to win 3 random items for soldier"/>
@@ -4114,7 +4118,7 @@
 	</entry>
 	<entry key="random_box_65_crown_shop_name">
 		<original value="FN SCAR-H Crown Random Box"/>
-		<translation value="Коробка с SCAR-H 'Убийца зомби'"/>
+		<translation value="Коробка с SCAR-H 'Убийца зомби' "/>
 	</entry>
 	<entry key="ui_random_box_65_crown_desc">
 		<original value="Contains FN SCAR-H rare Cyber Slayer skin"/>
@@ -4122,7 +4126,7 @@
 	</entry>
 	<entry key="random_box_66_crown_shop_name">
 		<original value="Saiga Bullpup Crown Random Box"/>
-		<translation value="Коробка с Сайгой 12С 'Убийца зомби'"/>
+		<translation value="Коробка с Сайгой 12С 'Убийца зомби' "/>
 	</entry>
 	<entry key="ui_random_box_66_crown_desc">
 		<original value="Contains Saiga Bullpup rare Cyber Slayer skin"/>
@@ -4130,7 +4134,7 @@
 	</entry>
 	<entry key="random_box_67_crown_shop_name">
 		<original value="XM8 Compact Crown Random Box"/>
-		<translation value="Коробка с XM8 Compact 'Убийца зомби'"/>
+		<translation value="Коробка с XM8 Compact 'Убийца зомби' "/>
 	</entry>
 	<entry key="ui_random_box_67_crown_desc">
 		<original value="Contains XM8 Compact rare Cyber Slayer skin"/>
@@ -4138,7 +4142,7 @@
 	</entry>
 	<entry key="random_box_68_crown_shop_name">
 		<original value="Glock 18C Crown Random Box"/>
-		<translation value="Коробка с Glock 18C 'Убийца зомби'"/>
+		<translation value="Коробка с Glock 18C 'Убийца зомби' "/>
 	</entry>
 	<entry key="ui_random_box_68_crown_desc">
 		<original value="Contains Glock 18C rare Cyber Slayer skin"/>
@@ -4146,7 +4150,7 @@
 	</entry>
 	<entry key="random_box_69_crown_shop_name">
 		<original value="Tactical Axe Crown Random Box"/>
-		<translation value="Коробка с топором 'Убийца зомби'"/>
+		<translation value="Коробка с топором 'Убийца зомби' "/>
 	</entry>
 	<entry key="ui_random_box_69_crown_desc">
 		<original value="Contains Tactical Axe rare Cyber Slayer skin"/>
@@ -4154,7 +4158,7 @@
 	</entry>
 	<entry key="random_box_70_crown_shop_name">
 		<original value="Stayer Scout Crown Random Box"/>
-		<translation value="Коробка с Steyr Scout 'Убийца зомби'"/>
+		<translation value="Коробка с Steyr Scout 'Убийца зомби' "/>
 	</entry>
 	<entry key="ui_random_box_70_crown_desc">
 		<original value="Contains Stayer Scout rare Cyber Slayer skin"/>
@@ -4162,7 +4166,7 @@
 	</entry>
 	<entry key="random_box_75_crown_shop_name">
 		<original value="Fabarm STF12 Compact Crown Random Box"/>
-		<translation value="Коробка с STF12 'Убийца зомби'"/>
+		<translation value="Коробка с STF12 'Убийца зомби' "/>
 	</entry>
 	<entry key="ui_random_box_75_crown_desc">
 		<original value="Contains Fabarm STF12 Compact rare Cyber Slayer skin"/>
@@ -4170,7 +4174,7 @@
 	</entry>
 	<entry key="random_box_84_crown_shop_name">
 		<original value="Crye Precision SIX12 Crown Random Box"/>
-		<translation value="Коробка с SIX12 'Магма'"/>
+		<translation value="Коробка с SIX12 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_84_crown_desc">
 		<original value="Contains SIX12 rare Magmatic weapon"/>
@@ -4178,7 +4182,7 @@
 	</entry>
 	<entry key="random_box_85_crown_shop_name">
 		<original value="ACR CQB Crown Random Box"/>
-		<translation value="Коробка с ACR CQB 'Магма'"/>
+		<translation value="Коробка с ACR CQB 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_85_crown_desc">
 		<original value="Contains ACR CQB rare Magmatic weapon"/>
@@ -4186,7 +4190,7 @@
 	</entry>
 	<entry key="random_box_86_crown_shop_name">
 		<original value="McMillan CS5 Crown Random Box"/>
-		<translation value="Коробка с McMillan CS5 'Магма'"/>
+		<translation value="Коробка с McMillan CS5 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_86_crown_desc">
 		<original value="Contains McMillan CS5 rare Magmatic weapon"/>
@@ -4194,7 +4198,7 @@
 	</entry>
 	<entry key="random_box_87_crown_shop_name">
 		<original value="Glock 18c Crown Random Box"/>
-		<translation value="Коробка с Glock 18C 'Магма'"/>
+		<translation value="Коробка с Glock 18C 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_87_crown_desc">
 		<original value="Contains Glock 18c rare Magmatic weapon"/>
@@ -4202,7 +4206,7 @@
 	</entry>
 	<entry key="random_box_89_crown_shop_name">
 		<original value="Type 97 Crown Random Box"/>
-		<translation value="Коробка с Type 97 'Магма'"/>
+		<translation value="Коробка с Type 97 'Магма' "/>
 	</entry>
 	<entry key="ui_random_box_89_crown_desc">
 		<original value="Contains Type 97 rare Magmatic weapon"/>
@@ -4210,7 +4214,7 @@
 	</entry>
 	<entry key="random_box_skin_19_crown_shop_name">
 		<original value="MSBS Radon &quot;Anubis&quot; Crown Random Box"/>
-		<translation value="Коробка с MSBS Radon 'Анубис'"/>
+		<translation value="Коробка с MSBS Radon 'Анубис' "/>
 	</entry>
 	<entry key="ui_random_box_skin_19_crown_desc">
 		<original value="Contains MSBS Radon rare Anubis weapon"/>
@@ -4218,7 +4222,7 @@
 	</entry>
 	<entry key="random_box_skin_20_crown_shop_name">
 		<original value="Sidewinder Venom &quot;Anubis&quot; Crown Random Box"/>
-		<translation value="Коробка с Sidewinder Venom 'Анубис'"/>
+		<translation value="Коробка с Sidewinder Venom 'Анубис' "/>
 	</entry>
 	<entry key="ui_random_box_skin_20_crown_desc">
 		<original value="Contains Sidewinder Venom rare Anubis weapon"/>
@@ -4226,7 +4230,7 @@
 	</entry>
 	<entry key="random_box_skin_21_crown_shop_name">
 		<original value="Orsis T-5000 &quot;Anubis&quot; Crown Random Box"/>
-		<translation value="Коробка с ОРСИС Т-5000 'Анубис'"/>
+		<translation value="Коробка с ОРСИС Т-5000 'Анубис' "/>
 	</entry>
 	<entry key="ui_random_box_skin_21_crown_desc">
 		<original value="Contains Orsis T-5000 rare Anubis weapon"/>
@@ -4234,7 +4238,7 @@
 	</entry>
 	<entry key="random_box_skin_22_crown_shop_name">
 		<original value="PP-2000 &quot;Anubis&quot; Crown Random Box"/>
-		<translation value="Коробка с ПП-2000 'Анубис'"/>
+		<translation value="Коробка с ПП-2000 'Анубис' "/>
 	</entry>
 	<entry key="ui_random_box_skin_22_crown_desc">
 		<original value="Contains PP-2000 rare Anubis weapon"/>
@@ -4242,7 +4246,7 @@
 	</entry>
 	<entry key="random_box_zsd03_01_crown_shop_name">
 		<original value="Halloween 2017 Crown Random Box"/>
-		<translation value="Коробка с оружием 'Каратель'"/>
+		<translation value="Коробка с оружием 'Каратель' "/>
 	</entry>
 	<entry key="ui_random_box_zsd03_01_crown_desc">
 		<original value="This box allows to win 2 random items"/>
@@ -4392,6 +4396,26 @@
 		<original value="Provides you with a Truvelo CMS 20x42mm for a limited time and an offer for its direct purchase"/>
 		<translation value="Дает возможность купить Truvelo CMS 20x42 mm навсегда."/>
 	</entry>
+	<entry key="box_sr48_shop_name">
+		<original value="SV-98 Random Box"/>
+		<translation value="Коробка с СВ-98"/>
+	</entry>
+	<entry key="ui_box_sr48_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="box_crown_sr48_shop_name">
+		<original value="SV-98 Crown Random Box"/>
+		<translation value="Коробка с СВ-98"/>
+	</entry>
+	<entry key="ui_box_crown_sr48_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="Каждая коробка удачи содержит 3 случайных предмета для снайпера."/>
+	</entry>
+	<entry key="ui_key_box_sr48">
+		<original value="Provides you with a SV-98 for a limited time and an offer for its direct purchase"/>
+		<translation value="Дает возможность купить СВ-98 навсегда."/>
+	</entry>
 	<entry key="box_kn21_shop_name">
 		<original value="Gerber Tomahawk Random Box"/>
 		<translation value="Коробка с томагавком Gerber"/>
@@ -4427,5 +4451,21 @@
 	<entry key="ui_key_box_ar36">
 		<original value="Provides you with a F90 MBR for a limited time and an offer for its direct purchase"/>
 		<translation value="Дает возможность купить F90 MBR навсегда."/>
+	</entry>
+	<entry key="random_box_afro_03_armor_shop_name">
+		<original value="Special &quot;Anubis&quot; Mission Reward"/>
+		<translation value="Особая награда за миссию 'Анубис'"/>
+	</entry>
+	<entry key="ui_random_box_afro_03_armor_description">
+		<original value="Reward for completing the &quot;Anubis&quot; hard mission."/>
+		<translation value="Награда за прохождение миссии 'Анубис' на сложности 'Профи'."/>
+	</entry>
+	<entry key="random_box_cb_armor_shop_name">
+		<original value="Special &quot;Pripyat&quot; Mission Reward"/>
+		<translation value="Особая награда за миссию 'Припять'"/>
+	</entry>
+	<entry key="ui_random_box_cb_armor_description">
+		<original value="Reward for completing the &quot;Pripyat&quot; hard mission."/>
+		<translation value="Награда за прохождение миссии 'Припять' на уровне 'Профи'."/>
 	</entry>
 </localization>

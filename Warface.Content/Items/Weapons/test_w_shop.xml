@@ -1,0 +1,21 @@
+﻿<shop_item name="test_w_shop" type="weapon">
+	<mmo_stats>
+		<param name="item_category" value="AssaultRifle"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="R"/>
+		<param name="durability" value="36000"/>
+		<param name="repair_cost" value="3510"/>
+		<param name="testcontent" value="1"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="category" value="au"/>
+		<param name="name" value="@test_w_shop_name"/>
+		<param name="description" value="@ui_weapons_ar01_bra01"/>
+		<param name="icon" value="ar01_bra01"/>
+		<param name="rarity" value="legendary"/>
+	</UI_stats>
+	<content>
+		<item name="ar01_bra01"/>
+		<item name='ar01_is_d'/>
+	</content>
+</shop_item>

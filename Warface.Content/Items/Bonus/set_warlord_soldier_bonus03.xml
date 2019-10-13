@@ -5,7 +5,7 @@
     </UI_stats>
     <GameParams>
 		<param name="splash_res" value="0.4"/> 
-        <param name="absorption" value="5"/> 
+        <param name="absorption" value="12"/> 
         <param name="crouch_speed_mul" value="1.35"/>
     </GameParams>
 </GameItem>

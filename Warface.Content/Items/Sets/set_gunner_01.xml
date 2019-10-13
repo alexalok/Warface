@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<set name="set_gunner_01">
+    <UI_stats>
+        <param name="name" value="@ui_set_gunner_01"/>
+        <param name="description" value="@ui_set_gunner_01_description"/>
+        <param name="color" value="33cc99"/>
+    </UI_stats>
+    <set_items>
+        <item name="gunner_helmet_01"/>
+		<item name="hmg01"/>
+    </set_items>
+    <set_bonuses>
+	    <bonus items_need="2" name="set_gunner_01_bonus01"/>
+    </set_bonuses>
+</set>

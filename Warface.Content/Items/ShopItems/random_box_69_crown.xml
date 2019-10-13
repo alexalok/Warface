@@ -15,20 +15,26 @@
 
 <random_box>
 	<group>
-		<item name="kn16_zsd02" weight="18"/>
-		<item name="exp_item_01"  amount="350" weight="36"/>
-		<item name="exp_item_01"  amount="250" weight="54"/>
-		<item name="exp_item_01"  amount="125" weight="270"/>				
-		<item name="exp_item_01"  amount="50" weight="1420"/>
+		<item name="kn16_zsd02" weight="1"/>
+		<item name="kn16_zsd02" expiration="1h" weight="20"/>
+		<item name="kn16_zsd02" expiration="3h" weight="10"/>
+		<item name="kn16_zsd02" expiration="1d" weight="5"/>
+		<item name="kn06" expiration="1d" weight="39"/>
+		<item name="kn06" expiration="3d" weight="25"/>
 	</group>
-
 	<group>
-		<item name="smokegrenade04_c" amount="1" weight="20"/>	
-		<item name="smokegrenade04_c" amount="3" weight="10"/>	
-		<item name="flashbang" expiration="1d" weight="20"/>
-		<item name="flashbang" expiration="3d" weight="10"/>					
-		<item name="claymoreexplosive04_c" amount="3" weight="10"/>			
-		<item name="coin_01" amount="1" weight="10"/>
+		<item name="pt26_shop" expiration="3d" weight="20"/>
+		<item name="pt26_shop" expiration="7d" weight="10"/>
+		<item name="smokegrenade04_c" amount="7" weight="10"/>
+		<item name="smokegrenade04_c" amount="3" weight="30"/>
+		<item name="claymoreexplosive04_c" amount="2" weight="10"/>
+		<item name="claymoreexplosive04_c" amount="1" weight="15"/>
+	</group>
+	<group>
+		<item name="exp_item_01"  amount="1500" weight="2"/>
+		<item name="exp_item_01"  amount="1000" weight="3"/>
+		<item name="exp_item_01"  amount="500" weight="15"/>
+		<item name="exp_item_01"  amount="200" weight="49"/>
 	</group>
 </random_box>
 

@@ -3,7 +3,7 @@
 		<mmo_stats>
 			<param name="item_category" value="Bundle"/>
 			<param name="shopcontent" value="1"/>
-			<param name="classes" value="RESM"/>
+			<param name="classes" value="RESMH"/>
 			<param name="testcontent" value="1"/>
 		</mmo_stats>
 		<UI_stats>

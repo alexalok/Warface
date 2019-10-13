@@ -28,7 +28,7 @@
 			</slot>
 		</slots>
 		<GameParams>
-			<param name="res_arms" value="0.2"/>
+			<param name="res_arms" value="0.22"/>
 			<param name="reload_duration_mul" value="0.9"/>
 		</GameParams>
 	</GameItem>

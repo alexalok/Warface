@@ -59,6 +59,7 @@
     <param name="message" value="@interaction_repair" />
   </interaction_params>
   <restore_params>
+	<param name="class_restrictions" value="SHREM" />
     <param name="start_restore_duration" value="0" />
     <param name="restore_duration" value="3000" />
     <param name="restore_amount" value="7" />

@@ -1,6 +1,6 @@
 <ammo name="smokegrenade30_c" type="grenade" class="Projectile" require="sg30_c">
     <mmo_stats>
-        <param name="item_category" value="Grenade" />
+        <param name="item_category" value="smoke_grenade" />
         <param name="shopcontent" value="1" />
         <param name="classes" value="MERS" />
         <param name="max_buy_amount" value="32000" />
@@ -63,7 +63,8 @@
         <param name="fadeintime" value="1" />
         <param name="fadeouttime" value="2" />
         <param name="AIObstructionRadius" value="3.0" />
-        <param name="color" value="0.42, 0.42, 0.42" />
+        <param name="color_edge" value="0.42, 0.42, 0.42" />
+        <param name="color_center" value="0.22, 0.22, 0.22" />
         <param name="SmokeMaskEyeDirectionOffset" value="0.4" />
         <param name="SmokeEffectCoefficient" value="7" />
         <param name="SmokeEffectOffset" value="0, 0, 1.5" />
