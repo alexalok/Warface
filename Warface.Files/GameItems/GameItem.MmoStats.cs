@@ -50,8 +50,8 @@ namespace Warface.Files.GameItems
                     {
                         case "item_category":
                         case "category":
-                            itemCategory = string.IsNullOrWhiteSpace(value) ?
-                                (ItemCategory?) null : (ItemCategory) Enum.Parse(typeof(ItemCategory), value, true);
+                            itemCategory = string.IsNullOrWhiteSpace(value) ? 
+                                (ItemCategory?)null : ItemCategoryExtensions.ParseGameString(value);
                             break;
                         case "shopcontent":
                             shopContent = value == "1";
@@ -75,6 +75,7 @@ namespace Warface.Files.GameItems
                                         classes.Add(Class.Engineer);
                                         break;
                                     case 'H':
+                                        classes.Add(Class.Heavy);
                                         break;
                                     default:
                                         throw new ArgumentOutOfRangeException(nameof(classChar), classChar, "Unknown class");

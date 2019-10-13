@@ -1,4 +1,7 @@
-﻿namespace Warface.Files.GameItems
+﻿using System;
+using aDevLib.Extensions;
+
+namespace Warface.Files.GameItems
 {
     public enum ItemCategory
     {
@@ -15,8 +18,11 @@
         AmmoPack,
         Medkit,
 
-        Explosive,
-        Grenade,
+        FragGrenade,
+        FlashGrenade,
+        SmokeGrenade,
+        Claymore,
+
         Defibrillator,
 
         Helmet,
@@ -42,6 +48,21 @@
         TopPrizeToken,
         ResurrectionCoins,
         MissionAccessToken,
-        ClanCreation
+        ClanCreation,
+        Explosive,
+        Grenade
+    }
+    public static class ItemCategoryExtensions
+    {
+        ///<exception cref="ArgumentOutOfRangeException"></exception>
+        public static ItemCategory ParseGameString(string gameString)
+        {
+            if(!Enum.TryParse(gameString, true, out ItemCategory category)
+            && !Enum.TryParse(gameString.Replace("_", ""), true, out category))
+            {
+                throw new ArgumentOutOfRangeException(nameof(gameString));
+            }
+            return category;
+        }
     }
 }

@@ -30,7 +30,8 @@
             RandomBox,
             TopPrizeToken,
             Weapon,
-            WeaponSkin
+            WeaponSkin,
+            Defibrillator,
         }
     }
 }

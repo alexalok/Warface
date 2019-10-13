@@ -19,7 +19,7 @@ namespace Warface.Entities.Gamerooms
         public bool JoinInTheProcess      { get; }
         public int  RoundLimit            { get; }
         public int  PreroundTime          { get; }
-        public int  InventorySlot         { get; }
+        public ulong  InventorySlot         { get; }
         public bool LockedSpectatorCamera { get; }
         public bool HighLatencyAutokick   { get; }
         public bool OvertimeMode          { get; }
@@ -28,7 +28,7 @@ namespace Warface.Entities.Gamerooms
 
         GameroomCustomParams(
             bool friendlyFire, bool enemyOutlines, bool autoTeamBalance, bool joinInTheProcess,
-            int  roundLimit,   int  preroundTime,  int  inventorySlot,   bool lockedSpectatorCamera, bool highLatencyAutokick,
+            int  roundLimit,   int  preroundTime,  ulong  inventorySlot,   bool lockedSpectatorCamera, bool highLatencyAutokick,
             bool overtimeMode, int  maxPlayers,    int  classRestriction)
         {
             FriendlyFire          = friendlyFire;
@@ -63,8 +63,8 @@ namespace Warface.Entities.Gamerooms
             bool joinInTheProcess      = customParamsNode.Attributes["join_in_the_process"].BoolValue();
             int  maxPlayers            = customParamsNode.Attributes["max_players"].IntValue();
             int  roundLimit            = customParamsNode.Attributes["round_limit"].IntValue();
-            int  preroundTime          = customParamsNode.Attributes["preround_time"].IntValue();
-            int  inventorySlot         = customParamsNode.Attributes["inventory_slot"].IntValue();
+            int  preroundTime          = customParamsNode.Attributes["preround_time"].IntValue(); 
+            ulong inventorySlot         = customParamsNode.Attributes["inventory_slot"].ULongValue();
             bool lockedSpectatorCamera = customParamsNode.Attributes["locked_spectator_camera"].BoolValue();
             bool highLatencyAutokick   = customParamsNode.Attributes["high_latency_autokick"].BoolValue();
             bool overtimeMode          = customParamsNode.Attributes["overtime_mode"].BoolValue();

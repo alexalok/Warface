@@ -19,6 +19,8 @@ namespace Warface.Entities.Items
           <item id='18212038' name='pt23_shop' attached_to='0' config='' slot='0' equipped='0' default='0' permanent='1' expired_confirmed='0' buy_time_utc='1431805451' 
           total_durability_points='36000' durability_points='36000'/>*/
 
+        public const int SlotBaseValue = 1 << 30; //1073741824
+
         public string ID         { get; private set; }
         public string Name       { get; private set; }
         public int    AttachedTo { get; private set; }
@@ -89,14 +91,15 @@ namespace Warface.Entities.Items
 
         public ItemType Type { get; private set; }
 
+        [Obsolete(null, true)]
         public bool HasPocketIndex => PocketIndex != null;
-        public bool IsWorn         => Equipped != 0 && Slot != 0;
+        public bool IsWorn         => Equipped != 0 && Slot != SlotBaseValue;
 
         int? Dm { get; set; }
 
         string Material { get; set; }
 
-        int? PocketIndex { get; set; }
+        int? PocketIndex { get; set; } 
 
         int            _secondsLeft;
         int            _totalDurabilityPoints;
@@ -286,10 +289,10 @@ namespace Warface.Entities.Items
         public BaseSlot GetBaseSlot()
         {
             if (Equipped == 0 ||
-                Slot     == 0)
+                Slot     == SlotBaseValue)
                 throw new NotSupportedException("Base slot can only be determined for worn items");
             int classMultipliersSum = GetClassesMultSum();
-            int baseSlotInt         = Slot / classMultipliersSum;
+            int baseSlotInt         = (Slot >> 30) / classMultipliersSum;
             var baseSlot            = (BaseSlot) baseSlotInt;
             return baseSlot;
         }
@@ -313,32 +316,12 @@ namespace Warface.Entities.Items
         /// 
         /// </summary>
         /// <param name="class"></param>
-        /// <param name="pocketIndexOffset">1, 2 or 3</param>
         /// <param name="baseSlot"></param>
-        public void AddClass(Class @class, int? pocketIndexOffset = null, BaseSlot? baseSlot = null)
+        public void AddClass(Class @class, BaseSlot? baseSlot = null)
         {
-            if (pocketIndexOffset < 1 || pocketIndexOffset > 3)
-                throw new ArgumentOutOfRangeException(nameof(pocketIndexOffset), pocketIndexOffset, "Must be between 1 and 3");
-            if (@class == Class.Rifleman && pocketIndexOffset == 3)
-                throw new InvalidOperationException($"{@class} class only has 2 pockets");
-            if (GetEquippedClasses().Contains(@class)) //item has this class...
-            {
-                if (HasPocketIndex && pocketIndexOffset != GetPocketOffsetForClass(@class)) //...but not the same pocket index offset, meaning it needs to be changed
-                {
-                    PocketIndex -= GetClassMult(@class) * GetPocketOffsetForClass(@class); //remove current pocket index for this class
-                    PocketIndex += GetClassMult(@class) * pocketIndexOffset;               //add a pocket index for this class with specified offset
-                }
-                else //...and the same pocket index (if any)
-                    ;
-                return;
-            }
-
             Slot += (int) (baseSlot ?? GetBaseSlot()) * GetClassMult(@class);
 
             Equipped = Equipped | (1 << (int) @class); //must be set AFTER setting slot - otherwise GetBaseSlot will return wrong value
-
-            if (HasPocketIndex)
-                PocketIndex += GetClassMult(@class) * pocketIndexOffset;
         }
 
         public void RemoveClass(Class @class)
@@ -346,55 +329,15 @@ namespace Warface.Entities.Items
             if (!GetEquippedClasses().Contains(@class))
                 return;
 
-            if (HasPocketIndex)
-                PocketIndex -= GetClassMult(@class) * GetPocketOffsetForClass(@class);
-
             Slot -= (int) GetBaseSlot() * GetClassMult(@class);
 
             Equipped = Equipped ^ (1 << (int) @class); //must be set AFTER setting slot - otherwise GetBaseSlot will return wrong value
 
             if (Equipped == 0) //we removed all classes => need to remove slot and pocketIndex values
             {
-                Slot = 0;
-                if (HasPocketIndex)
-                    PocketIndex = 0;
+                Slot = SlotBaseValue;
+                PocketIndex = 0;
             }
-        }
-
-        public int GetPocketOffsetForClass(Class @class)
-        {
-            if (!GetEquippedClasses().Contains(@class))
-                throw new InvalidOperationException("Item does not contain this class");
-            if (PocketIndex == null)
-                throw new InvalidOperationException("Item does not have pocket index");
-            if (PocketIndex == 0)
-            {
-                if (Equipped == 0)
-                    throw new InvalidOperationException("Item is not worn");
-                return 0;
-            }
-            var pocket1Indicator = false;
-            var pocket2Indicator = false;
-
-            if ((PocketIndex & GetClassMult(@class)) != 0) //check for 1st pocket
-                pocket1Indicator = true;
-            if ((PocketIndex & (GetClassMult(@class) * 2)) != 0) //check for 2nd pocket
-                pocket2Indicator = true;
-
-            if (pocket1Indicator && pocket2Indicator)
-                return 3;
-            if (pocket1Indicator)
-                return 1;
-            if (pocket2Indicator)
-                return 2;
-
-            throw new InvalidOperationException("Unknown slot"); //there are no more slots :0
-        }
-
-        public void ChangePocketOffsetForClass(Class @class, int? pocketIndexOffset)
-        {
-            RemoveClass(@class);
-            AddClass(@class, pocketIndexOffset);
         }
 
         static int GetClassMult(Class @class) => 1 << 5 * (int) @class;

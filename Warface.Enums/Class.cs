@@ -5,7 +5,8 @@ namespace Warface.Enums
     public enum Class
     {
         Rifleman, //cannot be flags bc rifleman is 0
-        Sniper = 2,
+        Heavy,
+        Sniper,
         Medic,
         Engineer,
     };
@@ -62,6 +63,16 @@ namespace Warface.Enums
                             return "Снайпер";
                         case RussianCase.Genitive:
                             return "Снайпера";
+                        default:
+                            throw new ArgumentOutOfRangeException(nameof(@case), @case, null);
+                    }
+                case Class.Heavy:
+                    switch (@case)
+                    {
+                        case RussianCase.Nominative:
+                            return "СЭД";
+                        case RussianCase.Genitive:
+                            return "СЭДа";
                         default:
                             throw new ArgumentOutOfRangeException(nameof(@case), @case, null);
                     }

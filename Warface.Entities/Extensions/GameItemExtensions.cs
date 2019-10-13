@@ -23,16 +23,21 @@ namespace Warface.Entities.Extensions
                 case ItemCategory.Pistol:
                     return Item.BaseSlot.Pistol;
                 case ItemCategory.Melee:
-                    return Item.BaseSlot.Melee;
+                    return Item.BaseSlot.Knife;
                 case ItemCategory.Medkit:
-                    return Item.BaseSlot.Pocket;
-                case ItemCategory.Explosive:
-                case ItemCategory.Grenade:
-                    return gameItem.ItemMmoStats.Value.Stackable == true ? Item.BaseSlot.Consumables : Item.BaseSlot.Pocket;
                 case ItemCategory.ArmorKit:
                 case ItemCategory.AmmoPack:
+                    return Item.BaseSlot.PocketKit;
+                case ItemCategory.FragGrenade:
+                    return Item.BaseSlot.PocketFragGrenade;
+                case ItemCategory.FlashGrenade:
+                    return Item.BaseSlot.PocketFlashGrenade;
+                case ItemCategory.SmokeGrenade:
+                    return Item.BaseSlot.PocketSmokeGrenade;
+                case ItemCategory.Claymore:
+                    return Item.BaseSlot.PocketClaymore;
                 case ItemCategory.Defibrillator:
-                    return Item.BaseSlot.Special;
+                    return Item.BaseSlot.PocketSpecial;
                 case ItemCategory.Helmet:
                     return Item.BaseSlot.Helmet;
                 case ItemCategory.Vest:
