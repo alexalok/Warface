@@ -6,7 +6,7 @@ namespace Warface.XMPP
 {
     public abstract class AsyncIqAnswerAwaiter
     {
-        readonly TimeSpan              _timeout;
+        TimeSpan              _timeout;
         string                         _id;
         TaskCompletionSource<object[]> _tcs;
 
@@ -14,6 +14,11 @@ namespace Warface.XMPP
         {
             if (timeout == default)
                 timeout = TimeSpan.FromSeconds(10);
+            _timeout = timeout;
+        }
+
+        public void SetTimeout(TimeSpan timeout)
+        {
             _timeout = timeout;
         }
 
