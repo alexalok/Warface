@@ -1913,8 +1913,8 @@
 		<translation value="Набор 'Абсолют'"/>
 	</entry>
 	<entry key="ui_set_comp_02_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_comp_02_bonus03_description">
 		<original value="Regenerates &lt;font size='15' color='#42ebf8'&gt;2 health&lt;/font&gt; points over time (after &lt;font size='15' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hit)"/>
@@ -1985,8 +1985,8 @@
 		<translation value="Набор K.I.W.I."/>
 	</entry>
 	<entry key="ui_set_newgeneration_01_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_newgeneration_01_bonus01_description">
 		<original value="Increases reload speed by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
@@ -2085,8 +2085,8 @@
 		<translation value="Набор 'Синдикат'"/>
 	</entry>
 	<entry key="ui_set_syndicat_01_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_syndicat_01_bonus01_description">
 		<original value="Increases reload speed by &lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;\n"/>
@@ -2109,16 +2109,16 @@
 		<translation value="Дополнительно увеличивает количество очков брони на &lt;font size='15' color='#42ebf8'&gt;15&lt;/font&gt; единиц&lt;/font&gt;"/>
 	</entry>
 	<entry key="ui_set_opc_01_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_01">
 		<original value="Modern Forceengineer set bonus"/>
 		<translation value="Набор 'Спектр' для инженера"/>
 	</entry>
 	<entry key="ui_set_modernforce_01_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_01_bonus01_description">
 		<original value="Increases reload speed by &lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncrease select and deselect speed by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;\n"/>
@@ -2129,8 +2129,8 @@
 		<translation value="Набор 'Спектр' для штурмовика"/>
 	</entry>
 	<entry key="ui_set_modernforce_02_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_02_bonus01_description">
 		<original value="Increases reload speed by &lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncrease select and deselect speed by &lt;font size='15' color='#42ebf8'&gt;15%&lt;/font&gt;\n"/>
@@ -2141,8 +2141,8 @@
 		<translation value="Набор 'Спектр' для медика"/>
 	</entry>
 	<entry key="ui_set_modernforce_03_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_03_bonus01_description">
 		<original value="Increases reload speed by &lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncrease select and deselect speed by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
@@ -2153,8 +2153,8 @@
 		<translation value="Набор 'Спектр' для снайпера"/>
 	</entry>
 	<entry key="ui_set_modernforce_04_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_04_bonus01_description">
 		<original value="Increases reload speed by &lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncrease select and deselect speed by &lt;font size='15' color='#42ebf8'&gt;5%&lt;/font&gt;"/>
@@ -2421,8 +2421,8 @@
 		<translation value="Набор 'Армагеддон'"/>
 	</entry>
 	<entry key="ui_set_armagedon_01_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_armagedon_01_bonus01_description">
 		<original value="Increases reload speed by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
@@ -2665,8 +2665,8 @@
 		<translation value="Набор 'Саламандра'"/>
 	</entry>
 	<entry key="ui_set_warlord_engineer_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_warlord_engineer_bonus01_description">
 		<original value="Improves accuracy by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
@@ -2685,8 +2685,8 @@
 		<translation value="Набор 'Саламандра'"/>
 	</entry>
 	<entry key="ui_set_warlord_soldier_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_warlord_soldier_bonus01_description">
 		<original value="Decrease recoil force by &lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;"/>
@@ -2705,8 +2705,8 @@
 		<translation value="Набор 'Саламандра'"/>
 	</entry>
 	<entry key="ui_set_warlord_medic_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_warlord_medic_bonus01_description">
 		<original value="Detects enemy's claymores"/>
@@ -2725,8 +2725,8 @@
 		<translation value="Набор 'Саламандра'"/>
 	</entry>
 	<entry key="ui_set_warlord_sniper_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_warlord_sniper_bonus01_description">
 		<original value="Delays claymore activation by &lt;font size='15' color='#42ebf8'&gt;2 sec&lt;/font&gt;"/>
@@ -2817,8 +2817,8 @@
 		<translation value="Набор &quot;Хром&quot; для СЭД"/>
 	</entry>
 	<entry key="ui_set_gunner_01_description">
-		<original value=" "/>
-		<translation value=" "/>
+		<original value="   "/>
+		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_gunner_01_bonus01_description">
 		<original value="Improves accuracy by &lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;\nProvides &lt;font size='15' color='#42ebf8'&gt;10&lt;/font&gt; additional damage points for weapon&lt;/font&gt;\nProvides &lt;font size='15' color='#42ebf8'&gt;6&lt;/font&gt; additional minimal damage points for weapon&lt;/font&gt;"/>

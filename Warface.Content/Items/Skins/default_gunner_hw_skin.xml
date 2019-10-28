@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+    <GameItem name="default_gunner_hw_skin" type="armor">
+        <mmo_stats>
+            <param name="item_category" value="skin"/>
+            <param name="shopcontent" value="0"/>
+            <param name="classes" value="H"/>
+        </mmo_stats>
+        <UI_stats>
+            <param name="name" value="@ui_armor_sed_fbs_gunner_name"/>
+            <param name="description" value="@ui_armor_sed_fbs_gunner"/>
+            <param name="icon" value="test_item_icon"/>
+        </UI_stats>
+        <optional_stats>
+            <param name="voice_alias" value="voice_9"/>
+            <param name="compound_base_override" value="objects/characters/human/characterxml/PlayerSedClassHW.chrxml"/>
+			<param name="footsteps_profile" value="PlayerSedMars"/>
+        </optional_stats>
+        <visually_hidden_slots>
+            <slot name="vest"/>
+            <slot name="shoes"/>
+            <slot name="helmet"/>
+            <slot name="chest"/>
+            <slot name="arms"/>
+            <slot name="gloves"/>
+            <slot name="pants"/>
+            <slot name="boots"/>
+            <slot name="legarmor"/>
+            <slot name="defaulthead"/>
+        </visually_hidden_slots>
+        <slots>
+            <slot main="1" name="skin">
+                <materials>
+                    <Material default="1" display_name="black" icon="mat_black" name="default" surface_type="mat_armor_body"/>
+                </materials>
+                <assets>
+                    <asset display="all" mode="hp" name="heavy_gunner_01_arms_hp" teamId="1"/>
+                    <asset display="all" mode="fp" name="heavy_gunner_01_arms_fp" teamId="1"/>
+                    <asset display="all" mode="hp" name="heavy_gunner_01_b_arms_hp" teamId="2"/>
+                    <asset display="all" mode="fp" name="heavy_gunner_01_b_arms_fp" teamId="2"/>
+                    <asset display="all" mode="tp" name="heavy_gunner_01_legs" teamId="1"/>
+					<asset display="all" mode="tp" name="heavy_gunner_01_legs_b" teamId="2"/>
+					<asset display="all" mode="tp" name="heavy_gunner_01_body" teamId="1"/>
+					<asset display="all" mode="tp" name="heavy_gunner_01_body_b" teamId="2"/>
+					<asset display="all" mode="fp" name="heavy_gunner_01_legs" teamId="1"/>
+					<asset display="all" mode="fp" name="heavy_gunner_01_legs_b" teamId="2"/>
+                </assets>
+            </slot>
+        </slots>
+        <GameParams>
+        </GameParams>
+    </GameItem>

@@ -12,15 +12,15 @@
 	</UI_stats>
 	<random_box>
 		<group>
-			<item name="smg08_shop" weight="1"/>
-			<item name="smg08_shop" expiration="1h" weight="8"/>
-			<item name="smg08_shop" expiration="3h" weight="5"/>
-			<item name="smg08_shop" expiration="1d" weight="3"/>
-			<item name="engineer_fbs_23fb_01" expiration="1d" weight="18"/>
-			<item name="engineer_fbs_cf_01" expiration="1d" weight="18"/>
-			<item name="engineer_fbs_usf_01" expiration="1d" weight="18"/>
-			<item name="smg30_shop" expiration="1d" weight="19"/>
-			<item name="smg30_shop" expiration="3d" weight="10"/>
+			<item name="smg08_shop" weight="10"/>
+			<item name="smg08_shop" expiration="1h" weight="200"/>
+			<item name="smg08_shop" expiration="3h" weight="100"/>
+			<item name="smg08_shop" expiration="1d" weight="80"/>
+			<item name="engineer_fbs_23fb_01" expiration="1d" weight="80"/>
+			<item name="engineer_fbs_cf_01" expiration="1d" weight="80"/>
+			<item name="engineer_fbs_usf_01" expiration="1d" weight="80"/>
+			<item name="smg30_shop" expiration="1d" weight="220"/>
+			<item name="smg30_shop" expiration="3d" weight="150"/>
 		</group>
 		<group>
 			<item name="pt26_shop" expiration="3d" weight="20"/>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
 	<entry key="lp_label1">
-		<original value="5th class (SED)"/>
-		<translation value="Новый класс - СЭД"/>
+		<original value="FFA MARS HW"/>
+		<translation value="Событие 'Марсорубка'"/>
 	</entry>
 	<entry key="lp_description1">
-		<original value="New experience for the players with new features and capabilities"/>
-		<translation value="В Warface появился пятый по счету класс, который отличается уникальной механикой и новыми возможностями."/>
+		<original value="Halloween map based on arena from SO Mars "/>
+		<translation value="Новая карта в марсианском сеттинге для режима 'Мясорубка'."/>
 	</entry>
 	<entry key="lp_label2">
-		<original value="5th class weapons"/>
-		<translation value="Оружие СЭД"/>
+		<original value="FFA MARS HW"/>
+		<translation value="Событие 'Марсорубка'"/>
 	</entry>
 	<entry key="lp_description2">
-		<original value="Unique machine-gun with spread reduction and heat mechanics, hip-fire only."/>
-		<translation value="СЭД использует пулемет, при непрерывной стрельбе из которого снижается разброс пуль, но оружие может перегреться."/>
+		<original value="Everyone will be playing as SEDs with Marsian weapons in low gravity environment."/>
+		<translation value="Возьмите под контроль СЭД и сразитесь с другими операторами в условиях пониженной гравитации."/>
 	</entry>
 	<entry key="lp_label3">
-		<original value="SV-98"/>
-		<translation value="СВ-98"/>
+		<original value="Halloween 2019 skins"/>
+		<translation value="Серия 'Полтергейст'"/>
 	</entry>
 	<entry key="lp_description3">
-		<original value="New sniper rifle, SV-98 and its gold version"/>
-		<translation value="Высокоточная снайперская винтовка производства концерна 'Ижмаш' и ее золотая модель."/>
+		<original value="HLW skinned weapons and weapon skins"/>
+		<translation value="Тематическое оружие и камуфляжи из серии 'Полтергейст', посвященной празднованию Хеллоуина."/>
 	</entry>
 </localization>

@@ -157,7 +157,9 @@
             <Filter kind="weapon" param="sr39_vk01_shop"/>			
 			<Filter kind="weapon" param="sr42_shop"/>
 			<Filter kind="weapon" param="sr42_gold01_shop"/>
+			<Filter kind="weapon" param="sr42_black01_shop"/>
 			<Filter kind="weapon" param="sr42_ice01_shop"/>
+			<Filter kind="weapon" param="sr42_hlw02_shop"/>
 			<Filter kind="weapon" param="sr43_shop"/>
 			<Filter kind="weapon" param="sr43_set12_shop"/>
 			<Filter kind="weapon" param="sr31_set12_shop"/>
@@ -173,6 +175,7 @@
 			<Filter kind="weapon" param="sr46_shop"/>
 			<Filter kind="weapon" param="sr46_desert01_shop"/>
 			<Filter kind="weapon" param="sr46_bp05_shop"/>
+			<Filter kind="weapon" param="sr46_black01_shop"/>
 			<Filter kind="weapon" param="sr43_xmas04_shop"/>		
 			<Filter kind="weapon" param="sr14_mars02_shop"/>		
 			<Filter kind="weapon" param="sr32_mars02_shop"/>		

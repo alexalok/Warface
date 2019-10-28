@@ -152,6 +152,7 @@
 			<Filter kind="weapon" param="shg44_gold01_shop"/>
 			<Filter kind="weapon" param="shg44_stream01_shop"/>
 			<Filter kind="weapon" param="shg44_bp06_shop"/>
+			<Filter kind="weapon" param="shg44_black01_shop"/>
 			<Filter kind="weapon" param="shg45_shop"/>
 			<Filter kind="weapon" param="shg45_gold01_shop"/>
 			<Filter kind="weapon" param="shg45_carbon01_shop"/>				
@@ -176,6 +177,8 @@
 			<Filter kind="weapon" param="shg41_xmas04_shop"/>
 			<Filter kind="weapon" param="shg50_shop"/>
 			<Filter kind="weapon" param="shg50_gold01_shop"/>
+			<Filter kind="weapon" param="shg50_black01_shop"/>
+			<Filter kind="weapon" param="shg50_hlw02_shop"/>
 			<Filter kind="weapon" param="shg51_shop"/>
 			<Filter kind="weapon" param="shg51_desert01_shop"/>
 			<Filter kind="weapon" param="shg51_bp06_shop"/>

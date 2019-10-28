@@ -11,7 +11,7 @@
     <item name="smg46_gold01" type="weapon" />
   </drop_params>
   <settings archetype="Items/Weapons/Archetypes/SMG_46.xml">
-    <param name="ammo_amount" value="36" />
+    <param name="ammo_amount" value="40" />
     <param name="rpm" value="780" />
     <param name="damage" value="87" />
     <param name="damage_min" value="35" />
@@ -185,7 +185,7 @@
   </sockets>
   <fireparams>
     <fire>
-      <param name="extra_ammo" value="180" />
+      <param name="extra_ammo" value="280" />
       <param name="ammo_type" value="bullet_smg" />
       <param name="bullet_chamber" value="1" />
       <param name="helper_tp" value="weapon_term" />

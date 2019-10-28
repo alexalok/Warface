@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry key="token">
+		<original value="Trunk"/>
+		<translation value="RU"/>
+	</entry>
 	<entry key="game_room_name">
 		<original value="%1's GAME ROOM"/>
 		<translation value="Комната игрока %1"/>
@@ -415,5 +419,9 @@
 	<entry key="pvp_mission_display_name_dst_mars">
 		<original value="MARS"/>
 		<translation value="СТУДИЯ"/>
+	</entry>
+	<entry key="pvp_mission_display_name_ffa_mars_hw">
+		<original value="MARS HW"/>
+		<translation value="МАРСОРУБКА"/>
 	</entry>
 </localization>

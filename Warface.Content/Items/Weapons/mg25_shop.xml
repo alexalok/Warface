@@ -12,9 +12,13 @@
 			<param name="name" value="@mg25_shop_name"/>
 			<param name="description" value="@ui_weapons_mg25"/>
 			<param name="icon" value="mg25"/>
-		</UI_stats>
+	</UI_stats>
 		<content>
 			<item name="mg25"/>
 			<item name="mg25_is_d"/>
 		</content>
+		<skin_content> 
+			<item name="mg25_black01skin_shop"/>	
+			<item name="mg25_hlw02skin_shop"/>	
+		</skin_content>
 	</shop_item>

@@ -174,7 +174,7 @@
 	</entry>
 	<entry key="waiting_for_resurrect_msg">
 		<original value="Waiting for resurrect... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n &lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
-		<translation value="Ожидание реанимации... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n &lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+		<translation value="Ожидание реанимации / реактивации... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n &lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
 	</entry>
 	<entry key="can_respawn_msg">
 		<original value="PRESS &quot;FIRE&quot; BUTTON TO RESPAWN.\nPRESS &quot;ZOOM&quot; BUTTON TO CHANGE SPECTATING PLAYER"/>
@@ -194,11 +194,11 @@
 	</entry>
 	<entry key="hud_resurect_medic">
 		<original value="Waiting for medic for resurrect &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:quickchat_key1]]&lt;/font&gt; - call medic &lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - use resurrection coin\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
-		<translation value="Ожидание реанимации медиком... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:quickchat_key1]]&lt;/font&gt; - позвать медика &lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - использовать знак возвращения\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+		<translation value="Ожидание реанимации / реактивации... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - использовать знак возвращения\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
 	</entry>
 	<entry key="hud_resurect_no_medic">
 		<original value="No medics alive &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - use resurrection coin\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate"/>
-		<translation value="Медиков нет &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - использовать знак возвращения\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
+		<translation value="Вас некому реанимировать / реактивировать &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[player:use_coin]]&lt;/font&gt; - использовать знак возвращения\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок"/>
 	</entry>
 	<entry key="coin_limit">
 		<original value="%1/%2 allowed coins used"/>
@@ -214,7 +214,7 @@
 	</entry>
 	<entry key="no_ingame_coin_offer_msg">
 		<original value="Waiting for resurrect… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
-		<translation value="Реанимация возможна еще… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
+		<translation value="Реанимация / реактивация возможна еще… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;"/>
 	</entry>
 	<entry key="coin_purchase_inprogress">
 		<original value="Please wait. Coins are being purchased…"/>
@@ -238,7 +238,7 @@
 	</entry>
 	<entry key="can_respawn_or_resurrect_msg">
 		<original value="Waiting for resurrect... &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - prev teammate &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - next teammate\nPRESS &lt;font color='#ffc800'&gt;%[default:respawn_themselves]&lt;/font&gt; button to respawn"/>
-		<translation value="Реанимация возможна еще… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок\nНажмите &lt;font color='#ffc800'&gt;%[default:respawn_themselves]&lt;/font&gt; для возрождения"/>
+		<translation value="Реанимация / реактивация возможна еще… &lt;font color='#ff0000'&gt;%1&lt;/font&gt;\n&lt;font color='#ffc800'&gt;[%[default:prev_spectator_target]]&lt;/font&gt; - предыдущий игрок &lt;font color='#ffc800'&gt;[%[default:next_spectator_target]]&lt;/font&gt; - следующий игрок\nНажмите &lt;font color='#ffc800'&gt;%[default:respawn_themselves]&lt;/font&gt; для возрождения"/>
 	</entry>
 	<entry key="resupply_ammo">
 		<original value="RESUPPLY AMMO"/>
@@ -350,7 +350,7 @@
 	</entry>
 	<entry key="interaction_resurrect">
 		<original value="RESURRECT"/>
-		<translation value="РЕАНИМАЦИЯ"/>
+		<translation value="РЕАНИМАЦИЯ / РЕАКТИВАЦИЯ"/>
 	</entry>
 	<entry key="interaction_give_ammo">
 		<original value="SUPPORT"/>

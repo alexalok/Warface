@@ -4,6 +4,8 @@
     <material name="default" />
     <material name="oc03" />
 	<material name="ice01" />
+	<material name="black01" />
+	<material name="hlw02" />
   </skins>
   <icons>
     <ui_icon name="sr42" />

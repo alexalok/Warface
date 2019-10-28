@@ -650,7 +650,7 @@
 	</entry>
 	<entry key="pvp_hnt_mission_desc">
 		<original value="Search the area to take advantage &amp; kill everyone. &#xA; To get more score take the dogtags are left by dead."/>
-		<translation value="Уничтожайте всех, кто попадется вам на пути, и не дайте убить себя. Чтобы получить больше очков, собирайте жетоны поверженных врагов."/>
+		<translation value="Уничтожайте всех на своем пути и не дайте убить себя. Чтобы получить больше очков, собирайте жетоны с тел врагов."/>
 	</entry>
 	<entry key="pvp_hnt_game_mode_desc">
 		<original value="HUNT"/>

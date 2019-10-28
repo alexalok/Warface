@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item category="heavy" class="K01_Item" name="mg25" net_policy="weapon" priority="64" view_settings="objects/weapons/mg25/mg25.xml">
+  <skins>
+        <material name="default" />	
+		<material name="black01"/>			
+        <material name="hlw02"/>			
+	</skins>
   <icons>
     <ui_icon name="mg25" />
     <combatlog icon="Mg25_combatLog" melee="Melee" />

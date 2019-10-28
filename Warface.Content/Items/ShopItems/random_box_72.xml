@@ -14,13 +14,13 @@
 		<group>
 			<item name="mg22_shop" weight="10"/>
 			<item name="mg22_gold01_shop" weight="1" top_prize_token="box_token_cry_money_72" win_limit="1000"/>
-			<item name="mg22_shop" expiration="1h" weight="80"/>
-			<item name="mg22_shop" expiration="3h" weight="50"/>
-			<item name="mg22_shop" expiration="1d" weight="29"/>
-			<item name="soldier_fbs_cf_01" expiration="1d" weight="270"/>
-			<item name="soldier_fbs_usf_01" expiration="1d" weight="270"/>
-			<item name="ar08_shop" expiration="1d" weight="190"/>
-			<item name="ar08_shop" expiration="3d" weight="100"/>
+			<item name="mg22_shop" expiration="1h" weight="200"/>
+			<item name="mg22_shop" expiration="3h" weight="100"/>
+			<item name="mg22_shop" expiration="1d" weight="79"/>
+			<item name="soldier_fbs_cf_01" expiration="1d" weight="120"/>
+			<item name="soldier_fbs_usf_01" expiration="1d" weight="120"/>
+			<item name="ar08_shop" expiration="1d" weight="220"/>
+			<item name="ar08_shop" expiration="3d" weight="150"/>
 		</group>
 		<group>
 			<item name="pt26_shop" expiration="3d" weight="20"/>

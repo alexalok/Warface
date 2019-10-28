@@ -8148,4 +8148,20 @@
 		<original value="SPECIAL 2"/>
 		<translation value="ОСОБОЕ 2"/>
 	</entry>
+	<entry key="restriction_heavy">
+		<original value="Class SED"/>
+		<translation value="Класс 'СЭД'"/>
+	</entry>
+	<entry key="options_highlights_header">
+		<original value="Highlights Auto Capture"/>
+		<translation value="Запись лучших моментов"/>
+	</entry>
+	<entry key="options_highlights">
+		<original value="NVIDIA Highlights"/>
+		<translation value="Nvidia Highlights"/>
+	</entry>
+	<entry key="ui_game_pause_by_vote">
+		<original value="&lt;font color=&quot;#00ff00&quot;&gt;Game will be paused at the end of this round&lt;/font&gt;"/>
+		<translation value="&lt;font color=&quot;#00ff00&quot;&gt;Игра будет поставлена на паузу в конце этого раунда.&lt;/font&gt;"/>
+	</entry>
 </localization>

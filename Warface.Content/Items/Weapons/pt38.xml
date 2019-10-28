@@ -6,7 +6,8 @@
         <material name="default" />	
 		<material name="an07"/>				
 		<material name="bp06"/>				
-		<material name="oc04"/>				
+		<material name="oc04"/>		
+		<material name="hlw02"/>	
 	</skins>
 	<icons>
 		<ui_icon name="pt38"/>
@@ -17,7 +18,7 @@
 	</drop_params>
 	<settings archetype="Items/Weapons/Archetypes/PT_38.xml">
 		<param name="ammo_amount" value="15"/>
-		<param name="rpm" value="270"/>
+		<param name="rpm" value="290"/>
 		<param name="damage" value="120"/>
 		<param name="damage_mul" value="1"/>
 		<param name="damage_min" value="40"/>

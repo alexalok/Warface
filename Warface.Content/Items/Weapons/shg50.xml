@@ -2,6 +2,8 @@
 <item category="heavy" class="K01_Item" name="shg50" net_policy="weapon" priority="49" view_settings="objects/weapons/shg50/shg50.xml">
   <skins>
     <material name="default" />
+	<material name="black01" />
+	<material name="hlw02" />
   </skins>
   <tags>
     <tag name="shg" />

@@ -8606,7 +8606,7 @@
 	</entry>
 	<entry key="ui_weapons_kn17_camo09">
 		<original value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Special &quot;Desert Snake&quot; version of Jagdkommando.&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#dddddd'&gt;Jagdkommando is a unique knife that has been milled from a solid piece of stainless steel.Named after the Austrian Armed Special Forces Operation group, the Jagdkommando lives up to its elite namesake.The blade's three sharpened edges twist as they come to a point while the grooved faces feature drilled holes that flow seamlessly together.&lt;/font&gt;"/>
-		<translation value="&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Модель ножа Jagdkommando из серии 'Аспид'.&lt;/b&gt;&lt;/font&gt; \n&lt;font size='14' color='#DDDDDD'&gt;Смертоносный трехклинковый нож, созданный из цельного куска стали. Оружие получило свое название в честь австрийского отряда специального назначения. &lt;/font&gt;Обладает &lt;font color='#42ebf8'&gt;повышенной скоростью и уроном.&lt;/font&gt;"/>
+		<translation value="&lt;font size='18' color='#FF4400'&gt;Модель ножа Jagdkommando из серии 'Аспид'.&lt;/font&gt; \n&lt;font size='14' color='#DDDDDD'&gt;Смертоносный трехклинковый нож, созданный из цельного куска стали. Оружие получило свое название в честь австрийского отряда специального назначения. &lt;/font&gt;Обладает &lt;font color='#42ebf8'&gt;повышенной скоростью и уроном.&lt;/font&gt;"/>
 	</entry>
 	<entry key="pt26_camo09_shop_name">
 		<original value="Desert Snake Mateba Autorevolver"/>
@@ -8622,7 +8622,7 @@
 	</entry>
 	<entry key="ui_weapons_pt32_camo09">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Attachment's Slots:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt; Muzzle&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Recoil:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; Low&lt;/font&gt;\n&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Special &quot;Desert Snake&quot; version of CZ 75-Auto&lt;/b&gt;&lt;/font&gt;\nThe CZ 75 is a pistol made by (CZUB) in the Czech Republic that has both semi-automatic and selective fire variants. First introduced in 1975, it is one of the original &quot;wonder nines&quot; featuring a staggered-column magazine, all-steel construction, and a hammer forged barrel. It is widely distributed throughout the world. &lt;/font&gt;"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42ebf8'&gt; ствол&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; слабая&lt;/font&gt;\n&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Модель CZ 75-Auto из серии 'Аспид'.&lt;/b&gt;&lt;/font&gt;\nЧешский пистолет, впервые представленный на выставке в Мадриде в 1975 году. Позволяет вести огонь очередями.&lt;/font&gt;"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42ebf8'&gt; ствол&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; слабая&lt;/font&gt;\n&lt;font size='18' color='#FF4400'&gt;Модель CZ 75-Auto из серии 'Аспид'.&lt;/font&gt;\nЧешский пистолет, впервые представленный на выставке в Мадриде в 1975 году. Позволяет вести огонь очередями.&lt;/font&gt;"/>
 	</entry>
 	<entry key="shg43_camo09_shop_name">
 		<original value="Desert Snake Fabarm P.S.S.10"/>
@@ -8638,7 +8638,7 @@
 	</entry>
 	<entry key="ui_weapons_shg40_camo09">
 		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Attachment's Slots:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt; Scope, Muzzle&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Recoil:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; Low&lt;/font&gt;\n&lt;font size='18' color='#42EBF8'&gt;&lt;b&gt;&quot;Desert Snake&quot; version of MAG-7&lt;/b&gt;&lt;/font&gt;\nThe MAG-7 was developed as a close quarters combat weapon, which would combine the aspects of a compact submachine gun and a pump-action shotgun. &lt;/font&gt;"/>
-		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42ebf8'&gt; ствол, прицел&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; слабая&lt;/font&gt;\n&lt;font size='18' color='#FF4400'&gt;&lt;b&gt;Модель MAG-7 из серии 'Аспид'.&lt;/b&gt;&lt;/font&gt;\nКомпактное помповое ружье, разработанное на базе пистолета-пулемета UZI и предназначенное для ведения боя в условиях короткой дистанции стрельбы.&lt;/font&gt;"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42ebf8'&gt; ствол, прицел&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; слабая&lt;/font&gt;\n&lt;font size='18' color='#FF4400'&gt;Модель MAG-7 из серии 'Аспид'.&lt;/font&gt;\nКомпактное помповое ружье, разработанное на базе пистолета-пулемета UZI и предназначенное для ведения боя в условиях короткой дистанции стрельбы.&lt;/font&gt;"/>
 	</entry>
 	<entry key="shg35_camo09_shop_name">
 		<original value="Desert Snake Fabarm S.A.T. 8 Pro"/>
@@ -12406,7 +12406,7 @@
 	</entry>
 	<entry key="smg40_bp07">
 		<original value="&lt;font size='22' color='#FF4400'&gt;&lt;b&gt;Special Rune version of Desert Tech MDR-C.&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;The Desert Tech Micro Dynamic Rifle Compact (MDR-C) is a bullpup SMG produced by US-based Desert Tech Inc. Features include: comfort recoil, fast reloading and great damage which provides great penetrability against helmets, even with a silencer. &lt;/font&gt;"/>
-		<translation value="&lt;font size='14' color='#42EBF8'&gt;&lt;b&gt;Камуфляж 'Берсерк' для Desert Tech MDR-C&lt;/b&gt;&lt;/font&gt;\nКамуфляж 'Берсерк' для оружия в компоновке булл-пап с укороченным стволом производства компании DesertTech Inc.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14' color='#ff4400'&gt;&lt;b&gt;Камуфляж 'Берсерк' для Desert Tech MDR-C&lt;/b&gt;&lt;/font&gt;\nКамуфляж 'Берсерк' для оружия в компоновке булл-пап с укороченным стволом производства компании DesertTech Inc.&lt;/font&gt;"/>
 	</entry>
 	<entry key="sg40_bp07_default_name">
 		<original value="Rune Smoke Grenade"/>
@@ -12463,5 +12463,109 @@
 	<entry key="ui_weapons_df05">
 		<original value="Special device that can revive a fallen &lt;font color='#42EBF8'&gt;SED&lt;/font&gt;. \nWorks similar to medic's defibrillator."/>
 		<translation value="Специальное устройство, позволяющее вернуть в бой &lt;font color='#42EBF8'&gt;СЭД&lt;/font&gt;.\nДействует аналогично дефибриллятору медика."/>
+	</entry>
+	<entry key="mg25_hlw02skin_shop_name">
+		<original value="Halloween Skin"/>
+		<translation value="Камуфляж 'Полтергейст'"/>
+	</entry>
+	<entry key="mg25_hlw02">
+		<original value="&lt;font size='22' color='#FF4400'&gt;&lt;b&gt;Special Halloween version of Stoner LMG A1.&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;This is only a cosmetic skin. You still need to obtain the original weapon.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14' color='#ff4400'&gt;&lt;b&gt;Камуфляж 'Полтергейст' для Stoner LMG A1&lt;/b&gt;&lt;/font&gt;\nКамуфляж 'Полтергейст' для ручного пулемета с футуристическим дизайном от компании Knight's Armament Company.&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg46_hlw02skin_shop_name">
+		<original value="Halloween Skin"/>
+		<translation value="Камуфляж 'Полтергейст'"/>
+	</entry>
+	<entry key="smg46_hlw02">
+		<original value="&lt;font size='22' color='#FF4400'&gt;&lt;b&gt;Special Halloween version of SIG MPX SBR Custom.&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;This is only a cosmetic skin. You still need to obtain the original weapon.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14' color='#ff4400'&gt;&lt;b&gt;Камуфляж 'Полтергейст' для SIG MPX SBR Custom&lt;/b&gt;&lt;/font&gt;\nКамуфляж 'Полтергейст' для модульного пистолета-пулемета производства компании SIG Sauer.&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr42_hlw02skin_shop_name">
+		<original value="Halloween Skin"/>
+		<translation value="Камуфляж 'Полтергейст'"/>
+	</entry>
+	<entry key="sr42_hlw02">
+		<original value="&lt;font size='22' color='#FF4400'&gt;&lt;b&gt;Special Halloween version of Bushmaster BA50.&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;This is only a cosmetic skin. You still need to obtain the original weapon.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14' color='#ff4400'&gt;&lt;b&gt;Камуфляж 'Полтергейст' для Bushmaster BA50&lt;/b&gt;&lt;/font&gt;\nКамуфляж 'Полтергейст' для снайперской винтовки с продольно-скользящим затвором под патрон .50 BMG.&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg50_hlw02skin_shop_name">
+		<original value="Halloween Skin"/>
+		<translation value="Камуфляж 'Полтергейст'"/>
+	</entry>
+	<entry key="shg50_hlw02">
+		<original value="&lt;font size='22' color='#FF4400'&gt;&lt;b&gt;Special Halloween version of Marlin 1894 Custom.&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;This is only a cosmetic skin. You still need to obtain the original weapon.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14' color='#ff4400'&gt;&lt;b&gt;Камуфляж 'Полтергейст' для Marlin 1894 Custom&lt;/b&gt;&lt;/font&gt;\nКамуфляж 'Полтергейст' для современной версии винтовки с пулевыми патронами, опрокидывающими противника при попадании.&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt38_hlw02skin_shop_name">
+		<original value="Halloween Skin"/>
+		<translation value="Камуфляж 'Полтергейст'"/>
+	</entry>
+	<entry key="pt38_hlw02">
+		<original value="&lt;font size='22' color='#FF4400'&gt;&lt;b&gt;Special Halloween version of Maxim 9.&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;This is only a cosmetic skin. You still need to obtain the original weapon.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14' color='#ff4400'&gt;&lt;b&gt;Камуфляж 'Полтергейст' для Maxim 9&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;Камуфляж 'Полтергейст' для бесшумного пистолета с интегрированным глушителем.&lt;/font&gt;"/>
+	</entry>
+	<entry key="kn19_hlw02skin_shop_name">
+		<original value="Halloween Skin"/>
+		<translation value="Камуфляж 'Полтергейст'"/>
+	</entry>
+	<entry key="kn19_hlw02">
+		<original value="&lt;font size='14' color='#ff4400'&gt;&lt;b&gt;Special Halloween version of balisong knife&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;This is only a cosmetic item. You still need to obtain the original weapon.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14' color='#ff4400'&gt;&lt;b&gt;Камуфляж 'Полтергейст' для ножа-бабочки&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;Камуфляж 'Полтергейст' для складного ножа с рукоятью из двух одинаковых частей. &lt;/font&gt;"/>
+	</entry>
+	<entry key="smg46_hlw02_shop_name">
+		<original value="Halloween SIG MPX SBR Custom"/>
+		<translation value="SIG MPX SBR Custom 'Полтергейст'"/>
+	</entry>
+	<entry key="ui_weapons_smg46_hlw02">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Attachment's Slots:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt;Scope, Muzzle&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Recoil:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; Low&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Special &quot;Halloween&quot; version of SIG MPX SBR Custom.&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;SIG MPX SBR Custom is a 4-burst round sub-machine gun. Unconventional design. Unmatched performance. The SIG MPX redefines the submachine gun category with a new level of operator safety, in-field adaptability and proven reliability in the harshest enviroments. There's nothing else like it. And it is only available from SIG.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt;ствол, прицел&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; слабая&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Модель SIG MPX SBR Custom из серии 'Полтергейст'.&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;Модульный пистолет-пулемет от компании SIG Sauer, позволяющий вести огонь очередями с отсечкой по четыре патрона. Оружие обладает отличной эргономикой и высокой надежностью при использовании в сложных условиях.&lt;/font&gt;"/>
+	</entry>
+	<entry key="mg25_hlw02_shop_name">
+		<original value="Halloween Stoner LMG A1"/>
+		<translation value="Stoner LMG A1 'Полтергейст'"/>
+	</entry>
+	<entry key="ui_weapons_mg25_hlw02">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Attachment's Slots:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt; Rail, Scope, Muzzle&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Recoil:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; Medium&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Special &quot;Halloween&quot; version of Stoner LMG A1.&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;The Stoner LMG, is a light machine gunmanufactured by the Knight's Armament Company.The Stoner LMG was designed by renowned American gun designer Eugene Stoner (famed as the designer of the AR-15) and was one of the last projects he worked.&lt;/font&gt;"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt; ствол, цевье, прицел&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; средняя&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Модель Stoner LMG A1 из серии 'Полтергейст'.&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;Ручной пулемет с футуристическим дизайном и вместительным магазином, разработанный Knight's Armament Company.&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr42_hlw02_shop_name">
+		<original value="Halloween Bushmaster BA50"/>
+		<translation value="Bushmaster BA50 'Полтергейст'"/>
+	</entry>
+	<entry key="ui_weapons_sr42_hlw02">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Attachment's Slots:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt; Scope&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Recoil:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; Low&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Special &quot;Halloween&quot; version of The Bushmaster BA50.&lt;/font&gt;\nThe Bushmaster BA50 is a bolt action, magazine fed rifle designed to shoot the .50 BMG cartridge!\nThe Sniper Rifle has extremely high chance to make one shot kill. Protective gloves and protective shoes won't save your enemies even at long range!&lt;/font&gt;"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42ebf8'&gt;прицел&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; слабая&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Модель Bushmaster BA50 из серии 'Полтергейст'.&lt;/font&gt;\nСнайперская винтовка с продольно-скользящим затвором под патрон .50 BMG.\nС большой вероятностью убивает цель с первого попадания - на ближней и средней дистанции врагам не помогут даже защитные перчатки и ботинки."/>
+	</entry>
+	<entry key="shg50_hlw02_shop_name">
+		<original value="Halloween Marlin 1894 Custom"/>
+		<translation value="Marlin 1894 Custom 'Полтергейст'"/>
+	</entry>
+	<entry key="ui_weapons_shg50_hlw02">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Attachment's Slots:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt;Scope, Muzzle&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Recoil:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; Medium&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;Have unique attachment &lt;font size='16' color='#42ebf8'&gt;Viper MOA, Osprey 9 Silencer&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Special &quot;Halloween&quot; version of Marlin 1894 Custom. &lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;The Marlin 1894 is a traditional lever-action rifle that's quick handling, and delivers rapid fire with a powerful cartridge. Originally patented on August 1, 1893 by L.L. Hepburn, the Model 1894 features a revolutionary lever-fire system with repeat-fire capability. The Model 1894 included a new locking bolt and two-piece firing pin, alongside an improved one-piece trigger and a short receiver that enabled cartridge compatibility with 1888 and 1889 models.&lt;/font&gt;"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt;ствол, прицел&lt;/font&gt;&lt;/b&gt;. &lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; средняя&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Модель Marlin 1894 Custom из серии 'Полтергейст'.&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;Уникальные модули: &lt;font size='16' color='#42ebf8'&gt;коллиматор Vortex Viper&lt;/font&gt; и &lt;font size='16' color='#42ebf8'&gt;глушитель Osprey 9&lt;/font&gt;.\nСовременная модификация охотничьей винтовки с рычажной перезарядкой, созданной в 1894 году компанией Marlin Firearms Co. Оружие использует пулевые патроны, позволяющие опрокинуть противника на спину при попадании.&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt38_hlw02_shop_name">
+		<original value="Halloween Maxim 9"/>
+		<translation value="Maxim 9 'Полтергейст'"/>
+	</entry>
+	<entry key="ui_weapons_pt38_hlw02">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Attachment's Slots:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt; Muzzle, Scope&lt;/font&gt;&lt;/b&gt;\n &lt;b&gt;Recoil:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; Medium&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Special &quot;Halloween&quot; version of Maxim 9.&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;The Maxim 9 is the world`s first integrally suppressed 9mm handgun that is holster-able and hearing safe with all types of 9mm ammunition.&lt;/font&gt;"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Совместимые модули:&lt;/b&gt;&lt;/font&gt; &lt;font size='14' color='#42EBF8'&gt;ствол, прицел&lt;/font&gt;&lt;/b&gt;\n&lt;b&gt;Отдача:&lt;/b&gt;&lt;font size='14' color='#42EBF8'&gt; средняя&lt;/font&gt;\n&lt;font size='14' color='#FF4400'&gt;Maxim 9 из серии 'Полтергейст'&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;Бесшумный пистолет с интегрированным глушителем, позволяющий использовать любые магазины Glock для боепитания.&lt;/font&gt;"/>
+	</entry>
+	<entry key="kn19_hlw02_shop_name">
+		<original value="Halloween Balisong Knife"/>
+		<translation value="Нож-бабочка 'Полтергейст'"/>
+	</entry>
+	<entry key="ui_weapons_kn19_hlw02">
+		<original value="&lt;font size='22' color='#FF4400'&gt;&lt;b&gt;Special Halloween version of Balisong Knife.&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;A balisong knife is a folding pocket knife. Its distinction is two handles counter-rotating around the tang such that, when closed, the blade is concealed within grooves in the handles.&lt;/font&gt;"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;Модель ножа-бабочки из серии 'Полтергейст'&lt;/b&gt;&lt;/font&gt; \n&lt;font size='14' color='#DDDDDD'&gt;Складной нож с клинком, который скрыт в рукояти, состоящей из двух одинаковых частей.&lt;/font&gt; Дополнительная атака настолько сильна, что позволяет убить даже противника в бронежилете &lt;font color='#42ebf8'&gt;'Корунд'!&lt;/font&gt;"/>
+	</entry>
+	<entry key="cm_hlw02_shop_name">
+		<original value="Pumpkin Claymore"/>
+		<translation value="Мина-тыква"/>
+	</entry>
+	<entry key="ui_weapons_cm_hlw02">
+		<original value="&lt;font size='14' color='#FFFF00'&gt;&lt;b&gt;Pumkin Claymore &lt;/b&gt;&lt;/font&gt;\n &lt;font size='18' color='#DDDDDD'&gt;Mystic pumpkin is a mine that can be thrown under your opponent's feet.  It has unique mechanics:&lt;/b&gt;&lt;/font&gt;\n It has an unique&lt;font color='#42ebf8'&gt; mechanics&lt;font size='18' color='#dddddd'&gt;&lt;/font&gt;\nIt will disappear without explosion after 15 sec&lt;font size='18' color='#dddddd'&gt;&lt;/font&gt;\nIt cannot be destroyed with firearms&lt;font size='18' color='#dddddd'&gt;&lt;/font&gt;\nIt can rebound from walls and roll on level's terrain&#xA;"/>
+		<translation value="&lt;font size='14' color='#FFFF00'&gt;&lt;b&gt;Мина-тыква&lt;/b&gt;&lt;/font&gt;\n&lt;font size='14' color='#DDDDDD'&gt;Зловещая тыква, с помощью которой можно устроить смертоносный сюрприз ничего не подозревающему противнику.\nМина исчезает, не взрываясь, через 15 секунд после установки.\nМину нельзя уничтожить из огнестрельного оружия.\nТыква может отскакивать от стен и катиться по земле.&lt;/font&gt;"/>
 	</entry>
 </localization>

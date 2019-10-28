@@ -11,8 +11,8 @@
 			<param name="category" value="sr"/>
 			<param name="name" value="@sr42_shop_name"/>
 			<param name="description" value="@ui_weapons_sr42"/>
-			<param name="icon" value="sr42"/>
-		</UI_stats>
+			<param name="icon" value="sr42"/>			
+	</UI_stats>
 		<content>
 			<item name="sr42">
 				<item name="ss06"/>
@@ -23,5 +23,7 @@
 		<skin_content>
 			<item name="sr42_oc03skin_shop"/>
 			<item name="sr42_ice01skin_shop"/>	
+			<item name="sr42_black01skin_shop"/>	
+			<item name="sr42_hlw02skin_shop"/>
 		</skin_content>
 	</shop_item>

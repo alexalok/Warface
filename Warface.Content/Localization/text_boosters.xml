@@ -4452,20 +4452,100 @@
 		<original value="Provides you with a F90 MBR for a limited time and an offer for its direct purchase"/>
 		<translation value="Дает возможность купить F90 MBR навсегда."/>
 	</entry>
-	<entry key="random_box_afro_03_armor_shop_name">
+	<entry key="box_afro_03_armor_shop_name">
 		<original value="Special &quot;Anubis&quot; Mission Reward"/>
 		<translation value="Особая награда за миссию 'Анубис'"/>
 	</entry>
-	<entry key="ui_random_box_afro_03_armor_description">
+	<entry key="box_afro_03_armor_description">
 		<original value="Reward for completing the &quot;Anubis&quot; hard mission."/>
 		<translation value="Награда за прохождение миссии 'Анубис' на сложности 'Профи'."/>
 	</entry>
-	<entry key="random_box_cb_armor_shop_name">
+	<entry key="box_cb_armor_shop_name">
 		<original value="Special &quot;Pripyat&quot; Mission Reward"/>
 		<translation value="Особая награда за миссию 'Припять'"/>
 	</entry>
-	<entry key="ui_random_box_cb_armor_description">
+	<entry key="box_cb_armor_description">
 		<original value="Reward for completing the &quot;Pripyat&quot; hard mission."/>
 		<translation value="Награда за прохождение миссии 'Припять' на уровне 'Профи'."/>
+	</entry>
+	<entry key="sell_shop_badge_01_desc">
+		<original value="This item allows you to purchase pin-up badge.\nThe badge can be used for your personal banner."/>
+		<translation value="Позволяет купить жетон, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="sell_shop_badge_02_desc">
+		<original value="This item allows you to purchase pin-up badge.\nThe badge can be used for your personal banner."/>
+		<translation value="Позволяет купить жетон, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="sell_shop_mark_01_desc">
+		<original value="This item allows you to purchase pin-up mark.\nThe mark can be used for your personal banner."/>
+		<translation value="Позволяет купить значок, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="sell_shop_mark_02_desc">
+		<original value="This item allows you to purchase pin-up mark.\nThe mark can be used for your personal banner."/>
+		<translation value="Позволяет купить значок, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="sell_shop_stripe_01_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="sell_shop_stripe_02_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_badge_01_shop_desc">
+		<original value="This item allows you to purchase pin-up badge.\nThe badge can be used for your personal banner."/>
+		<translation value="Позволяет купить жетон, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_badge_02_shop_desc">
+		<original value="This item allows you to purchase pin-up badge.\nThe badge can be used for your personal banner."/>
+		<translation value="Позволяет купить жетон, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_mark_01_shop_desc">
+		<original value="This item allows you to purchase pin-up mark.\nThe mark can be used for your personal banner."/>
+		<translation value="Позволяет купить значок, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_mark_02_shop_desc">
+		<original value="This item allows you to purchase pin-up mark.\nThe mark can be used for your personal banner."/>
+		<translation value="Позволяет купить значок, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_mark_03_shop_desc">
+		<original value="This item allows you to purchase pin-up mark.\nThe mark can be used for your personal banner."/>
+		<translation value="Позволяет купить значок, который можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_stripe_01_shop_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_stripe_02_shop_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_stripe_03_shop_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_stripe_04_shop_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_stripe_05_shop_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_stripe_06_shop_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="wlan_stripe_07_shop_desc">
+		<original value="This item allows you to purchase pin-up stripe.\nThe stripe can be used for your personal banner."/>
+		<translation value="Позволяет купить нашивку, которую можно разместить на вашем личном гербе."/>
+	</entry>
+	<entry key="random_box_mars_armor_shop_name">
+		<original value="Special Mars Mission Reward"/>
+		<translation value="Особая награда за миссию 'Марс'"/>
+	</entry>
+	<entry key="ui_random_box_mars_armor_description">
+		<original value="Reward for completing the Mars hard mission."/>
+		<translation value="Награда за прохождение миссии 'Марс' на уровне 'Профи'."/>
 	</entry>
 </localization>
