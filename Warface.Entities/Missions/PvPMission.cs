@@ -90,6 +90,7 @@ namespace Warface.Entities.Missions
             new PvPMission("30afabfd-032f-4ff3-a22e-8b889349aaa5", "tdm_farm"),
             new PvPMission("3347d361-ef36-4c57-8bca-4f8051fc97e6", "tdm_grand_bazaar"),
             new PvPMission("b4ac3d2f-1e97-4132-800e-7e1dbcd3512f", "tdm_ghost_town"),
+            new PvPMission("ad7e9b12-7c47-428a-860b-21c5260ce6bd", "tdm_ghost_town_xmas"),
             new PvPMission("e5981b6a-325d-42eb-a3fe-e6eed0bc4bf2", "tdm_hangar_up"),
             new PvPMission("953740a3-022e-4243-9044-eb1c07a2f680", "tdm_hangar_xmas"),
             new PvPMission("d42df33c-bbaa-49d9-bed2-8db61ef5b233", "tdm_hangar"),
