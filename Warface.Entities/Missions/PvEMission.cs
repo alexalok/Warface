@@ -151,6 +151,9 @@ namespace Warface.Entities.Missions
                 case PvEMissionType.MarsHard:
                     return PvEMissionGlobalType.Mars;
 
+                case PvEMissionType.Pve_Arena:
+                    return PvEMissionGlobalType.Hydra;
+
                 default:
                     throw new ArgumentOutOfRangeException();
             }
@@ -238,6 +241,9 @@ namespace Warface.Entities.Missions
         [Description("Марс (легко)")] MarsEasy,
         [Description("Марс (сложно)")] MarsNormal,
         [Description("Марс (профи)")] MarsHard,
+
+        //pve_arena
+        [Description("Гидра")] Pve_Arena,
     }
 
     public enum PvEMissionGlobalType
@@ -253,6 +259,7 @@ namespace Warface.Entities.Missions
         [Description("Ледокол")] IceBreaker,
         [Description("Чернобыль")] Chernobyl,
         [Description("Восход")] Japan,
-        [Description("Марс")] Mars
+        [Description("Марс")] Mars,
+        [Description("Гидра")] Hydra
     }
 }
