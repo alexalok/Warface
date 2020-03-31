@@ -96,6 +96,7 @@ namespace Warface.Entities.Missions
             new PvPMission("d42df33c-bbaa-49d9-bed2-8db61ef5b233", "tdm_hangar"),
             new PvPMission("bf506d56-21cd-49e3-b57a-4b1e6f66ba8d", "tdm_hangar_og16"),
             new PvPMission("71e863e1-e28c-489d-b145-866987fbe031", "tdm_motel"),
+            new PvPMission("836c6850-5976-4912-8e3e-81c4fe187ae1", "tdm_oildepot_circus"),
             new PvPMission("0575ee9b-db2a-4a8d-a376-c2ec4b021587", "tdm_oildepot_e16"),
             new PvPMission("1d71c946-7ffc-4045-8035-14eea4072e02", "tdm_oildepotv3"),
             new PvPMission("24578605-b482-4dcf-af0a-7a6968732602", "tdm_oildepot_xmas"),
