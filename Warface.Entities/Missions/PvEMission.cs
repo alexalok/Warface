@@ -154,6 +154,9 @@ namespace Warface.Entities.Missions
                 case PvEMissionType.Pve_Arena:
                     return PvEMissionGlobalType.Hydra;
 
+                case PvEMissionType.Blackwood:
+                    return PvEMissionGlobalType.Blackwood;
+
                 default:
                     throw new ArgumentOutOfRangeException();
             }
@@ -244,6 +247,9 @@ namespace Warface.Entities.Missions
 
         //pve_arena
         [Description("Гидра")] Pve_Arena,
+
+        //blackwood
+        [Description("Blackwood")] Blackwood,
     }
 
     public enum PvEMissionGlobalType
@@ -260,6 +266,7 @@ namespace Warface.Entities.Missions
         [Description("Чернобыль")] Chernobyl,
         [Description("Восход")] Japan,
         [Description("Марс")] Mars,
-        [Description("Гидра")] Hydra
+        [Description("Гидра")] Hydra,
+        [Description("Blackwood")] Blackwood,
     }
 }
