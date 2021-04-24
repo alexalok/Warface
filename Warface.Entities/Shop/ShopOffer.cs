@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Dynamic;
 using System.Linq;
 using System.Reflection;
-using HtmlAgilityExtended;
+using aDevLib;
 using HtmlAgilityPack;
 using JetBrains.Annotations;
 using Warface.Entities.RandomBoxes;

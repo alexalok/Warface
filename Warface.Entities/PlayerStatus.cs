@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using aDevLib.Extensions;
+using aDevLib;
 
 namespace Warface.Entities
 {

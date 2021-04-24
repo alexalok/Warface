@@ -1,5 +1,5 @@
 ﻿using System;
-using aDevLib.Extensions;
+using aDevLib;
 using JetBrains.Annotations;
 using Warface.Entities.PeerStatusUpdates;
 

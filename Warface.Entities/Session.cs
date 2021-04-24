@@ -1,5 +1,5 @@
 ﻿using System.Net;
-using HtmlAgilityExtended;
+using aDevLib;
 using HtmlAgilityPack;
 
 namespace Warface.Entities

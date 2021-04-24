@@ -21,8 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\aDevLib\aDevLib\aDevLib.csproj" />
-    <ProjectReference Include="..\..\aDevLib\HtmlAgilityExtended\HtmlAgilityExtended.csproj" />
     <ProjectReference Include="..\Warface.Enums\Warface.Enums.csproj" />
     <ProjectReference Include="..\Warface.Files\Warface.Files.csproj" />
   </ItemGroup>

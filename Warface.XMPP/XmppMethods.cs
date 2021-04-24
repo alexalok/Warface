@@ -1,6 +1,6 @@
 ﻿using System.Security;
 using System.Text;
-using aDevLib.Classes;
+using aDevLib;
 
 namespace Warface.XMPP
 {

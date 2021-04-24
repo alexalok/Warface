@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\aDevLib\HtmlAgilityExtended\HtmlAgilityExtended.csproj" />
     <ProjectReference Include="..\Warface.Enums\Warface.Enums.csproj" />
   </ItemGroup>
 

@@ -17,7 +17,6 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\..\aDevLib\aDevLib\aDevLib.csproj" />
     <ProjectReference Include="..\Warface.Entities\Warface.Entities.csproj" />
   </ItemGroup>
 
